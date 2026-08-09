@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-08-09T04:49:09.658Z",
+  "generatedAt": "2026-08-09T07:59:47.986Z",
   "articles": [
+    {
+      "id": "78a2a583db441ba1",
+      "title": "‘Donkey Princess’ Review: A Princess Escapes the Kingdom, but Not the Patriarchy, in an Inventive, Shape-Shifting Fairytale",
+      "url": "https://variety.com/2026/film/news/donkey-princess-review-1236830559/",
+      "datePublished": "2026-08-09T07:42:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Chilean duo Cristobal León and Joaquín Cociña made a dream nightmare debut with “The Wolf House,” a stop-motion fantasy that turned heads both with its wholly original design — incorporating claymation, puppetry and papier-mâché to palpably handmade but immersively surreal effect — and its trajectory from a seemingly juvenile storybook premise to very grownup recesses […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "35b8c39bdab09715",
+      "title": "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’",
+      "url": "https://variety.com/2026/film/festivals/naseeruddin-shah-gurvinder-singh-rehmat-locarno-1236830761/",
+      "datePublished": "2026-08-09T07:22:59.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The family living in the house that “Rehmat” uses as Rashid Ali’s ancestral home lost a son to a drug overdose shortly after Indian filmmaker Gurvinder Singh and his crew first met them. Singh tells Variety, “The actual family that lives there lost their 19-year-old son after we met them for the first time. When […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "eaa2acee8c10916b",
+      "title": "‘Objet a’ Explores Desire and Control in an Age When We “Touch Flat Screens More Than Our Lover’s Skin”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/objet-a-film-interview-desire-control-touch-locarno-2026-1236669493/",
+      "datePublished": "2026-08-09T06:03:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time of \"war, climate catastrophe and tech fascism.\"",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "74209850ed49e773",
+      "title": "Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled",
+      "url": "https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/",
+      "datePublished": "2026-08-09T05:47:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Two new character stills of Mahesh Babu from S.S. Rajamouli’s “Varanasi” were released Sunday to mark the actor’s birthday, showing his character Rudhra on location in Africa. The film’s story spans thousands of years and traverses multiple continents, with locations ranging from Antarctica to Africa to the titular Indian city. Babu plays the dual roles […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a410b7c400df4c92",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "url": "https://github.com/jmarshall23/msword",
+      "datePublished": "2026-08-09T05:23:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/jmarshall23/msword Comments URL: https://news.ycombinator.com/item?id=49228663 Points: 40 # Comments: 15",
+      "author": "BruceEel",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "09928270f45c6d57",
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
+      "datePublished": "2026-08-09T04:30:26.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: http://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 115 # Comments: 37",
+      "author": "doubletwoyou",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "7060f47147368729",
+      "title": "Illinois just told every operating system to start reporting your kid's age",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "datePublished": "2026-08-09T04:03:59.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 77 # Comments: 43",
+      "author": "WaitWaitWha",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "97e7b158c169e6e4",
       "title": "Whitney Houston’s Sister-in-Law Pat Houston Personally Approved Singer’s New Barbie Doll",
@@ -81,6 +175,20 @@
       ],
       "description": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 34 # Comments: 2",
       "author": "minimaxir",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "bf4b7fba6699652a",
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "datePublished": "2026-08-09T03:13:01.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://marketnow.site/ Comments URL: https://news.ycombinator.com/item?id=49228086 Points: 9 # Comments: 2",
+      "author": "eddyflores",
       "imageUrl": "",
       "source": "Hacker News"
     },
@@ -6566,112 +6674,6 @@
       "author": "staff@engadget.com (Max Miller)",
       "imageUrl": "https://www.engadget.com/img/gallery/what-type-of-phone-case-is-best-for-wireless-charging/l-intro-1785761657.jpg",
       "source": "Engadget"
-    },
-    {
-      "id": "22d127cdd5907e22",
-      "title": "‘Southern Charm’ Star Craig Conover Set for Indie Dramedy ‘Caroline Fletcher’ (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/",
-      "datePublished": "2026-08-07T13:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "‘Schitt's Creek’ star Chris Elliott and ‘The Marvelous Mrs. Maisel’ actress Caroline Aaron will also appear in the feature from Ellyn Vander Wyden.",
-      "author": "Mia Galuppo",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "abc40acbc83353ec",
-      "title": "Barbarians at the Gate: How Reality Stars Crashed Hollywood’s A-List",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/reality-stars-takeover-hollywood-a-list-1236663974/",
-      "datePublished": "2026-08-07T13:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Reality TV scandals aren’t just ratings gold anymore — they’re a new pipeline, feeding Bravolebrities and Bachelorette castoffs straight into A24 films, Netflix deals and Broadway leads.",
-      "author": "Lexy Perez",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "6a73dd61b93f5fd7",
-      "title": "William Orbit, Madonna and Blur Producer, Dies at 69",
-      "url": "https://pitchfork.com/story/william-orbit-madonna-and-blur-producer-dies-at-69/",
-      "datePublished": "2026-08-07T13:29:33.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The electronic musician had a hand in several ’90s classics, including Ray of Light and 13",
-      "author": "Walden Green",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "0455c139f1799397",
-      "title": "Take a rain check on checking out the goofy Netflix horror The Last House",
-      "url": "https://www.avclub.com/the-last-house-review",
-      "datePublished": "2026-08-07T13:28:44.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Last House, the thriller starring Wagner Moura and Greta Lee, makes do with dwindling supplies and ideas.",
-      "author": "Monica Castillo",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/07030726/LastHouse_small.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "ff8286a629697e96",
-      "title": "AI psychosis is the new leadership blind spot",
-      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "datePublished": "2026-08-07T13:27:30.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots Comments URL: https://news.ycombinator.com/item?id=49210077 Points: 81 # Comments: 34",
-      "author": "rwmj",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "6884ce20791518f4",
-      "title": "Lindsey Buckingham and Stevie Nicks Are “Talking All the Time Now”",
-      "url": "https://consequence.net/2026/08/lindsey-buckingham-stevie-nicks-fleetwood-mac-reconciliation/",
-      "datePublished": "2026-08-07T13:18:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Next year should be a pretty interesting year,\" added Buckingham. Lindsey Buckingham and Stevie Nicks Are “Talking All the Time Now” Alex Young",
-      "author": "Alex Young",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "46a60b3a3019ec85",
-      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
-      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
-      "datePublished": "2026-08-07T13:16:09.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Arc System Works says it’s ‘actively investigating’ reports of performance issues on PC",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/05/marvel-tokon-fighting-souls-screenshot-04-ps5-en-05jun25-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "11cbb99c09e83f3f",
-      "title": "The web server deployment model breaks at hobby scale",
-      "url": "https://w.on-t.work/web-deployment-model",
-      "datePublished": "2026-08-07T13:15:36.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://w.on-t.work/web-deployment-model Comments URL: https://news.ycombinator.com/item?id=49209921 Points: 37 # Comments: 21",
-      "author": "meetpateltech",
-      "imageUrl": "",
-      "source": "Hacker News"
     }
   ]
 }
