@@ -1,6 +1,565 @@
 {
-  "generatedAt": "2026-08-14T05:19:49.688Z",
+  "generatedAt": "2026-08-14T09:43:44.104Z",
   "articles": [
+    {
+      "id": "e1b0b3b0cf31015a",
+      "title": "A Pokémon Game Becomes the Second Best-Selling Nintendo Switch 2 Game",
+      "url": "https://www.polygon.com/pokemon-pokopia-5-million-sales-switch-2/",
+      "datePublished": "2026-08-14T09:33:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Pokémon Pokopia is the second-best-selling Nintendo Switch 2 game, owned by almost a quarter of people who have the console.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokopia-sales-figures-5-million.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d49e202e98638e49",
+      "title": "Jon Stewart reveals his worst ever Daily Show interview guest",
+      "url": "https://mashable.com/entertainment/jon-stewart-worst-daily-show-interview-guest",
+      "datePublished": "2026-08-14T09:31:06.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Jon Stewart answered an audience question on \"The Daily Show\" about his least favourite interview guest.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/07EiRUi41qKJGdu2CLhZ0Yd/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "371255dd5a019c32",
+      "title": "Nigel Farage Documentary ‘Where Does the Money Come From?’ Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe",
+      "url": "https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/",
+      "datePublished": "2026-08-14T09:21:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "ITN Productions has set “Nigel Farage: Where Does the Money Come From?,” a one-hour documentary examining the Reform U.K. leader’s finances, to air on 5, part of the Paramount Skydance Corporation, on Aug. 22. The documentary comes amid continuing scrutiny of Farage’s finances, following the Parliamentary Standards Commissioner’s investigation into gifts made to him and […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "51729222db1d0240",
+      "title": "Magic's Reality Fracture Revives a 16-Year-Old Commander Card From an Erased Timeline",
+      "url": "https://www.polygon.com/magic-mtg-reality-fracture-darksteel-angel-mirrodin-pure/",
+      "datePublished": "2026-08-14T09:21:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mirrodin Pure was the original \"What If?\" set for Magic: The Gathering, and it's coming back in Reality Fracture.",
+      "author": "Francesco Cacciatore",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/darksteel-angel-platinum-angel-graphic-mtg.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "9faaf4aa24184ffe",
+      "title": "Hellstar Takes a Three-Stripes Runner Back to 2001",
+      "url": "https://www.highsnobiety.com/p/hellstar-adidas-megaride-s2/",
+      "datePublished": "2026-08-14T09:10:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The Hellstar x adidas Megaride S2 Cloud White/Core Black pushes Y2K performance design into an aggressive realm.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "b351e8e57ed7f33e",
+      "title": "Record Pokémon price drop: The Pokémon TCG Mega Greninja ex Premium Collection drops $40 at Amazon",
+      "url": "https://mashable.com/life/aug-12-pokemon-tcg-mega-greninja-ex-premium-collection-deal",
+      "datePublished": "2026-08-14T09:05:42.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Pokémon TCG Mega Greninja ex Premium Collection is down to $60.95 at Amazon, taking $39.04 off its list price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07a0zUPRtoiCzg1lZ2YLH8H/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "68dccf907a07eaa1",
+      "title": "The Pokémon TCG Chaos Rising Booster Display Box hits record-low price at Amazon — save $90",
+      "url": "https://mashable.com/life/aug-14-pokemon-tcg-chaos-rising-booster-display-box-deal",
+      "datePublished": "2026-08-14T09:04:51.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The Pokémon TCG Chaos Rising Booster Display Box has dropped to a record-low $189.94 at Amazon, saving you $90.05.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06PzwxCnB8A3Eux6R7TiLCM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "944e1599ff92a0ca",
+      "title": "One $130 payment unlocks 4,000+ documentaries for life",
+      "url": "https://mashable.com/entertainment/aug-14-magellantv-documentary-streaming-service",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get lifetime access to 4,000+ ad-free MagellanTV documentaries for $129.97 and stream across TVs, laptops, and mobile devices.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Yksmx8bwTPaSwqycpJBTC/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4b6a17a2ca24f33d",
+      "title": "Get 2TB of lifetime cloud storage for a one-time $200 payment",
+      "url": "https://mashable.com/tech/aug-14-filelu-2tb-cloud-storage-premium-plan-lifetime-subscription",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get 2TB of FileLu cloud storage for life for $199.97, with encrypted folders, backup tools, and no recurring subscription fees.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03PAqPdByT02Rn8z92oknJl/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "d56da85eab01657c",
+      "title": "The End of Oak Street ending explainer: Wait, what? How? When?",
+      "url": "https://mashable.com/entertainment/the-end-of-oak-street-ending-explainer",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "In \"The End of Oak Street,\" it's Anne Hathaway and Ewan McGregor versus dinosaurs. Ending explainer.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05IMMVTMCHGk5ZZMVU7ltRq/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ea08c1b89843c4a6",
+      "title": "The Wrong Girls director Dylan Meyer on giant squids, casting cats, and Kristen Stewarts secret side",
+      "url": "https://mashable.com/entertainment/dylan-meyer-the-wrong-girls-kristen-stewart",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"The Wrong Girls\" director Dylan Meyer offers a dirtbag stoner comedy for all the freaks, including those of the deep ocean.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02lMacko8S8wG8hTJvb48Vj/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "fa443d04fb20ff1e",
+      "title": "AdultFriendFinder review: Is the famous hookup site legit or not?",
+      "url": "https://mashable.com/review/adult-friend-finder-review-dating-site",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Considering AdultFriendFinder? Check out our brutally honest review to learn about its features, user base, and whether it's worth trying.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/0584LOJucOI7y32ZFmDy9gV/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5f36601b062cdbd8",
+      "title": "Sarajevo Film Festival Boss Jovan Marjanović on Owning Its Powerful Origin Story: “We Connect This Legacy of War… and Build Bridges”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Marjanović, in his fifth year as the sole director of the Bosnian film festival, teases what's to come from the 32nd installment and why particular screenings \"will be very emotional.\"",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "172d7c6b9f9c4da1",
+      "title": "Fox Hits Trump with Brutal Polling as Aides Privately Soothe His Anger",
+      "url": "https://newrepublic.com/article/214347/fox-hits-trump-brutal-polling-aides-privately-soothe-anger",
+      "datePublished": "2026-08-14T09:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Intriguingly, Fox News has lately been hitting Donald Trump with terrible polling news. In recent days, Fox has found Democrats slightly ahead in Senate races in Maine, Texas, and Iowa, and up by a lot in North Carolina. Critically, Trump’s own favorability numbers are very bad in all those states, even though he won three of them, two by double digits. In all four, his numbers among independents ",
+      "author": "The Daily Blast With Greg Sargent",
+      "imageUrl": "https://images.newrepublic.com/4b5df6d9108b231eccdb3d85b94c703e8acb133c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "7075dee2c28833c5",
+      "title": "Eufy’s high-end Omni S2 robot vacuum hits $1,399 on Amazon — save $200",
+      "url": "https://mashable.com/life/aug-14-eufy-omni-s2-robot-vacuum-mop-deal",
+      "datePublished": "2026-08-14T08:58:56.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 14, the Eufy Omni S2 robot vacuum and mop is on sale for $1,399.99 at Amazon, 13% off its list price of $1,599.99.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/075a1dByNX0Rsp1h0Z2RlQB/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c531126fef597cc0",
+      "title": "Craftsman tool deal: Grab the 121-piece Gunmetal Chrome kit for $139 at Amazon",
+      "url": "https://mashable.com/tech/aug-14-craftsman-overdrive-tools-deal",
+      "datePublished": "2026-08-14T08:52:35.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best tools deal. Save 18% on the Gunmetal Chrome Mechanics Tool Set at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03K9PdJacoS5hqGvi3jnoEy/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "ccbd5bc78225d623",
+      "title": "The best budget phone just got cheaper: Save $75 on the Google Pixel 10a at Amazon",
+      "url": "https://mashable.com/tech/aug-14-google-pixel-10a-deal",
+      "datePublished": "2026-08-14T08:47:22.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best Google Pixel deal. Save 13% on the Google Pixel 10a at Amazon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00CQfp7wuECjOLUnjNK21fj/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "5d7719979a627e12",
+      "title": "Best Buy is turning 60: Celebrate with massive weeklong deals on iPads, laptops, and TVs",
+      "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale",
+      "datePublished": "2026-08-14T08:38:20.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Best Buy is celebrating 60 years with an anniversary sale running Aug. 17-23, plus a special in-store-only Anniversary Day on Aug. 22.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Gmkm8Ap2mJqwuNADSi3Aq/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b92244ccf1b67310",
+      "title": "Apple TV just quietly stacked its library with 19 classic movies (for free)",
+      "url": "https://mashable.com/entertainment/apple-tv-plus-free-classic-movies-added",
+      "datePublished": "2026-08-14T08:25:24.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple TV Plus added a batch of classic movies — including Titanic, Arrival, and The Sixth Sense — to stream for free with a subscription, no extra rental fee required.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00FKP2URiyXAKMOXNe0tR7G/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "498c2e500e8198c1",
+      "title": "Apple proposes taking a 5-to-15 percent cut from external App Store payments",
+      "url": "https://www.engadget.com/2236861/apple-proposal-5-to-15-percent-cut-external-app-store-payments/",
+      "datePublished": "2026-08-14T08:24:21.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple and Google still aren't done facing Epic Games in court.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-proposes-taking-a-5-to-15-percent-cut-from-external-app-store-payments/l-intro-1786695766.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "1cd8e5cc59fc9cf7",
+      "title": "TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the ‘South Park’ Creators With a ‘Fish Dick’ Story and More",
+      "url": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/",
+      "datePublished": "2026-08-14T08:16:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Documentary icon Sheila Nevins — who holds the all-time record for most Emmy wins by an individual (31), thanks to her long run as president of HBO Documentary Films — had to skip Thursday night’s Television Academy Hall of Fame event, after being diagnosed with COVID and pneumonia. Instead, Nevins sent her acceptance speech via […]",
+      "author": "Varietyschneider",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a1e8a8f6c9332c3e",
+      "title": "‘You Don’t Belong Here’ Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale",
+      "url": "https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/",
+      "datePublished": "2026-08-14T08:12:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Florin Şerban’s “You Don’t Belong Here” opens with great promise and finishes with a stupefyingly misguided coda: The lengthy minutes in between are rigorously filmed and sharply observed, but would have benefited enormously if the director wasn’t also the producer, writer and editor. Airless pauses between nearly every line of dialogue and a mostly fixed […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "d3c35d766ffa15ea",
+      "title": "Katseye Bring the Party in Vibrant ‘Hootie Frutti’ Music Video",
+      "url": "https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/",
+      "datePublished": "2026-08-14T08:10:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The girl group's new five-song EP, Wild, is out now",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "3a57a041ea6b48f1",
+      "title": "Hurdle hints and answers for August 14, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-14-2026",
+      "datePublished": "2026-08-14T08:02:57.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03sgnxnQZAHjE1VMlEWL8qg/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "aadcf00179229d3d",
+      "title": "adidas' Best Vintage Basketball Sneaker Heads Back to the Office",
+      "url": "https://www.highsnobiety.com/p/adidas-forum-sq-silver/",
+      "datePublished": "2026-08-14T08:02:37.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "adidas' chromed adidas Forum SQ sneaker is a metallic stunner built specifically for the boardroom.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "024a09af328f8956",
+      "title": "Arte Antwerp’s adidas F50 Has Major Motion",
+      "url": "https://www.highsnobiety.com/p/arte-antwerps-adidas-f50-sneaker/",
+      "datePublished": "2026-08-14T07:56:59.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Arte Antwerp turned adidas pitch-ready F50 sneaker into an anti-football stunner with some real deal motion.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "1ff61880db9d12d0",
+      "title": "Watch Keanu Reeves’ Dogstar Perform ‘Joy’ on ‘Fallon’",
+      "url": "https://www.rollingstone.com/music/music-news/keanu-reeves-dogstar-joy-performance-fallon-1235608355/",
+      "datePublished": "2026-08-14T07:43:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The reunited rock band released their fourth album, All in Now, earlier this year",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "054a17a46cbfcc6d",
+      "title": "Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund",
+      "url": "https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/",
+      "datePublished": "2026-08-14T07:38:46.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Busan International Film Festival’s Asian Cinema Fund (ACF) has selected three international co-productions for its 2026 Co-Production Support Fund, backing films from directors Fukada Koji, Jakrawal Nilthamrong and Boo Junfeng with a combined KRW140 million ($100,000) in production funding. The three projects – “Grateful,” “Rhizome” and “Trinity” – were chosen from 15 submissions following […",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "3e436a49ec2150a5",
+      "title": "Orville Peck Resists Rebab on Rowdy Single ‘Already Gone’",
+      "url": "https://www.rollingstone.com/music/music-news/orville-peck-already-gone-single-music-video-1235608348/",
+      "datePublished": "2026-08-14T07:16:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The track is the third listen off the country singer's forthcoming album, Mule",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "0cac791fb801a04e",
+      "title": "Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation",
+      "url": "https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/",
+      "datePublished": "2026-08-14T07:16:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia’s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan’s honor in 2019. “Receiving this honorary […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "7c323c853c2e2075",
+      "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+      "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+      "datePublished": "2026-08-14T07:03:56.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil Comments URL: https://news.ycombinator.com/item?id=49295515 Points: 39 # Comments: 27",
+      "author": "n_plus_1_acc",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "0ba3700fbb5073c1",
+      "title": "Silo Season 3, episode 7 finally reveals who built the silos",
+      "url": "https://mashable.com/entertainment/silo-season-3-episode-7-who-built-silos",
+      "datePublished": "2026-08-14T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"Silo\" Season 3, episode 7 finally reveals who built the silos. Here's what we learned.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03lgQT9ZXH1TuxhUnciHvaw/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "669b2c2aa3e30506",
+      "title": "COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/",
+      "datePublished": "2026-08-14T07:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds on a distribution network that now counts over 5,000 live-action titles, up from a base of just over 1,000 when the network first launched, with […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "dbfa8611ce0638f3",
+      "title": "‘The Ones With the Tempered Flowers’ Will Document a Woman Studying “Her Body’s Relationship to Self and Society” in Tanzania",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-ones-with-the-tempered-flowers-film-locarno-open-doors-1236672849/",
+      "datePublished": "2026-08-14T06:59:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Neema Ngelime's inspiration to make an essayistic and participatory doc, showcased during Locarno Open Doors, was driven by anger \"at how little interest there is in understanding women's bodies.\"",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ca2a0a053b91c320",
+      "title": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
+      "url": "https://www.engadget.com/2236830/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/",
+      "datePublished": "2026-08-14T06:12:39.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "President Trump has imposed tariffs up to 100 percent on drones that are \"particularly sensitive\" for national security.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/l-intro-1786694278.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f997ac1ac5a9a227",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "datePublished": "2026-08-14T06:09:04.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain Comments URL: https://news.ycombinator.com/item?id=49295238 Points: 24 # Comments: 4",
+      "author": "pentestercrab",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "b011bf5b931768cd",
+      "title": "Project Runway Recap: Miranda Priestly Would Never",
+      "url": "http://www.vulture.com/article/project-runway-recap-season-22-episode-6-hulu.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-14T06:00:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A Project Runway challenge inspired by The Devil Wears Prada 2 highlights how some of these designers simply cannot sew.",
+      "author": "Roxana Hadadi",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/a31/3ad/7ae0114ac012b2d6131ac86208ddf4dc74-projectrunway-newep.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "5b96ea4bbe90f25f",
+      "title": "Busan Film Festival to Honor Its Founder Kim Dong-ho with Korean Cinema Award",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-founder-kim-dong-ho-korean-cinema-award-1236673433/",
+      "datePublished": "2026-08-14T05:30:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 88-year-old Korean industry luminary, who founded the festival in 1996 and made his own feature directorial debut last year, will accept the prize at the Oct. 6 opening ceremony.",
+      "author": "Patrick Brzeski",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "b887909ef3bc0c2a",
+      "title": "Apple sends out warnings to targets of mercenary spyware attacks",
+      "url": "https://www.engadget.com/2236825/apple-warnings-mercenary-spyware-attacks/",
+      "datePublished": "2026-08-14T05:27:46.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple has recently sent out notifications, warning users that they'd been targeted by mercenary spyware attack.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-warnings-mercenary-spyware-attacks/l-intro-1786686155.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e6c53596b4a80e81",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "datePublished": "2026-08-14T05:19:59.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49294997 Points: 448 # Comments: 186",
+      "author": "pella",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "035bf88d6284cbd2",
       "title": "Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video",
@@ -369,6 +928,20 @@
       "author": "Clayton Davis",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "6990f6ce15d758bf",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
+      "datePublished": "2026-08-14T00:47:04.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/JustVugg/lumabri Comments URL: https://news.ycombinator.com/item?id=49293523 Points: 15 # Comments: 3",
+      "author": "vforno",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "d1ccac45f514b805",
@@ -6184,554 +6757,6 @@
       "author": "wwilson",
       "imageUrl": "",
       "source": "Hacker News"
-    },
-    {
-      "id": "f9e46cb72b8a668a",
-      "title": "Cinematographer Michael Bauman Looked to His Own Roots for ‘Monster: The Ed Gein Story’",
-      "url": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/",
-      "datePublished": "2026-08-12T20:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Oscar-nominated cinematographer tells IndieWire about crafting the perfect visual language to express mystery, madness, and claustrophobia in the Netflix series.",
-      "author": "Jim Hemphill",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "2b8f80659519a6c5",
-      "title": "New Sci-Fi Thriller From Immortality Studio Originated As An Idea For An FMV Metroid Game",
-      "url": "https://kotaku.com/sam-barlow-half-mermaid-immortality-precognition-fmv-metroid-2000723521",
-      "datePublished": "2026-08-12T19:55:33.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "It's called Precognition, it's out in 2028, but there's no Samus Aran anywhere",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/project-c-precognition-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "eda95214a19b4901",
-      "title": "Artist Uniform: Tremaine Emory’s Style Has Always Been Museum-Worthy",
-      "url": "https://www.highsnobiety.com/p/tremaine-emory-personal-style/",
-      "datePublished": "2026-08-12T19:54:37.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Denim Tears founder Tremaine Emory has brought his sharp eye & signature style to Stüssy, Off-White, Yeezy, & Supreme. His own museum show is next",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "ccd8215fad1ee3a8",
-      "title": "Hayley Williams’ Duo Power Snatch Unveil EP2: Stream",
-      "url": "https://consequence.net/2026/08/hayley-williams-power-snatch-ep2/",
-      "datePublished": "2026-08-12T19:51:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Paramore vocalist and her frequent collaborator Daniel James are back with a four-track project. Hayley Williams’ Duo Power Snatch Unveil EP2: Stream Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "275e3f88abe6fe26",
-      "title": "Nick Reiner Indicted for Alleged Murders of Parents, Prosecutors Cite ‘Lying in Wait’",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/nick-reiner-indicted-murder-rob-michele-reiner-1235607630/",
-      "datePublished": "2026-08-12T19:49:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The indictment means there will be no public preliminary hearing with witness testimony ahead of a possible full-blown trial",
-      "author": "Nancy Dillon",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "ae1d0711ffe994cb",
-      "title": "Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out",
-      "url": "https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891",
-      "datePublished": "2026-08-12T19:46:00.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "\"If it was opt in, nobody would opt in,\" admitted the streaming site's chief product officer during a livestream",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/twitch-top-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "dc7c48e28d81b089",
-      "title": "TikTok shoppers spent $50 billion in six months on the platform",
-      "url": "https://mashable.com/tech/tiktok-shop-50-billion-six-months",
-      "datePublished": "2026-08-12T19:45:30.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A new report states that people have spent $50 billion on TikTok Shop worldwide.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07EVt1vDxrCg3uDK7d8WBwk/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "eb4e5a0248e4925c",
-      "title": "Pokémon TCG's 30th Anniversary Fat Pikachu Revealed",
-      "url": "https://www.polygon.com/pokemon-30th-anniversary-tcg-fat-pikachu-ken-sugimori-new-design/",
-      "datePublished": "2026-08-12T19:44:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "TPC reveals a wide variety of new illustrations for the 30th anniversary set, from tragic takes on Pikachu to deeply silly renditions of the mascot",
-      "author": "Patricia Hernandez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/chu.JPG",
-      "source": "Polygon"
-    },
-    {
-      "id": "af69d37a25e4b586",
-      "title": "Whatever Happened to the Chrome Hearts of Cashmere?",
-      "url": "https://www.highsnobiety.com/p/lucien-pellat-finet-history/",
-      "datePublished": "2026-08-12T19:43:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Lucien Pellat-Finet was basically the Chrome Hearts of sweaters for three decades. Now, it's being bought up by Zadig & Voltaire. What happened?",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "32bff698834dba7a",
-      "title": "The Socialist Electoral Project Still Hasn’t Hit Its Ceiling",
-      "url": "",
-      "datePublished": "2026-08-12T19:41:28.368Z",
-      "category": [
-        "society"
-      ],
-      "description": "Last night was a sobering one for the Left. After months of exhilarating victories, including Abdul El-Sayed’s stunning Michigan Senate primary win just last week, the Left’s hopes for another high-profile Midwest triumph crashed in Wisconsin, where socialist gubernatorial candidate Francesca Hong saw her double-digit polling lead evaporate into a 0.5 point defeat to the Democratic establishment’s",
-      "author": "Branko Marcetic",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "e885feea69bfb94e",
-      "title": "Nick Reiner Pleads Not Guilty to New Allegation in Murder of Parents Rob and Michele Reiner",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-indicted-killings-parents-rob-michele-reiner-1236672360/",
-      "datePublished": "2026-08-12T19:39:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "If convicted, Reiner faces a sentence of life without parole. Prosecutors haven’t said whether they’ll seek capital punishment.",
-      "author": "Winston Cho",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "003fb7ab29877b1e",
-      "title": "FlightAware dropped its lawsuit against Kalshi after just one day",
-      "url": "https://www.engadget.com/2235769/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/",
-      "datePublished": "2026-08-12T19:33:29.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "FlightAware's case against Kalshi has been voluntarily dismissed \"without prejudice against all defendants.\"",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/l-intro-1786563079.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "59f4c0c549f221d9",
-      "title": "The America ‘Gilded Age’ Creator Julian Fellowes Fell For Is the America He Puts on TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/julian-fellowes-the-gilded-age-ammerica-allure-1236670571/",
-      "datePublished": "2026-08-12T19:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From the Russells’ rise to Peggy’s fairy-tale ending, the Emmy-nominated HBO drama channels Fellowes’ belief in American reinvention — even as he mourns the country’s decline.",
-      "author": "Lexy Perez",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "56750eae76dfba8a",
-      "title": "Liam Neeson's 106-Minute Crime-Thriller Is Officially One of the Biggest Movies on Netflix",
-      "url": "https://www.polygon.com/liam-neesons-106-minute-crime-thriller-officially-one-of-the-biggest-movies-on-streaming/",
-      "datePublished": "2026-08-12T19:29:33.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Liam Neeson’s 2024 thriller ‘In the Land of Saints and Sinners’ is a Netflix hit, reaching No. 3 in the U.S. and No. 7 worldwide.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/liam-neeson-in-the-land-of-saints-and-sinners.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "ee7a29083b22819a",
-      "title": "Hayley Williams’ Band Power Snatch Drop Second EP of 2026",
-      "url": "https://pitchfork.com/story/hayley-williams-project-power-snatch-dropped-a-new-ep/",
-      "datePublished": "2026-08-12T19:23:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Listen to EP2 now",
-      "author": "",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "e1e6ba9f8b176220",
-      "title": "Neil Perry Claims He Was ‘Terminated’ From the Band Perry",
-      "url": "https://www.rollingstone.com/music/music-news/neil-perry-kimberly-band-fired-1235607600/",
-      "datePublished": "2026-08-12T19:17:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“I believe it’s fair to correct a false narrative, especially after asking to not be misrepresented,” Neil Perry tells Rolling Stone, after a series of Instagram posts addressing comments his sister made on the Nashville Now podcast",
-      "author": "Marissa Moss",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "3ecad3c2a535ae3e",
-      "title": "The Best Concert Video You’ll See Today",
-      "url": "https://consequence.net/2026/08/10-year-old-boy-fragile-x-foo-fighters-concert/",
-      "datePublished": "2026-08-12T19:17:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tre, a 10-year-old boy with Fragile X Syndrome, had the time of his life at a recent Foo Fighters concert. The Best Concert Video You’ll See Today Alex Young",
-      "author": "Alex Young",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "c00231c38716eff8",
-      "title": "AOC Reportedly Single, Inspiring Widespread Freakouts And Reactions On Social Media",
-      "url": "https://knowyourmeme.com/memes/events/aocs-breakup",
-      "datePublished": "2026-08-12T19:16:15.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "AOC's Breakup refers to reactions and memes based on August 2026 reports that U.S. Representative Alexandria Ocasio-Cortez is no longer engaged to her ex-fiancé Riley Roberts and is now single. The report came after online speculation about the status of her relationship, brought on largely by a video of her preparing to freeze her eggs, and images of her without her engagement ring. The claim ins",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/282/aoccover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "8fd2eaa1acf745d5",
-      "title": "Phantom Blade Zero Pre-Orders Are Entirely Digital, Prompting Concern That It’s Not Getting A Physical Release",
-      "url": "https://kotaku.com/phantom-blade-zero-physical-disc-release-playstation-ps5-sony-2000723821",
-      "datePublished": "2026-08-12T19:15:47.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Pre-orders for S-Games Phantom Blade Zero went live last night, but a physical version of the pre-order is nowhere to be found",
-      "author": "Lewis Parker",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/Phantom-Blade-Zero-official-promo-image-S-Games-1280x720.jpeg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "b3f2c253942ee94c",
-      "title": "Breadbear's 'Woo Nobody Gives A S---' Meme Sees Resurgence On TikTok",
-      "url": "https://knowyourmeme.com/memes/breadbear-woo-nobody-gives-a-shit",
-      "datePublished": "2026-08-12T19:07:26.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Breadbear Woo Nobody Gives A Shit or Freddy Fazbear Woo Nobody Gives A Shit, also known as Woo Nobody Gives A Pootis, is an exploitable green-screen and reaction meme depicting the character Breadbear (commonly confused with Freddy Fazbear) from the Five Nights At Freddy's (FNAF) franchise clapping while the audio \"wooooo nobody gives a shit\" plays in a distorted voice. The meme first appeared on ",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/257/Woo_Nobody_Gives_A_Shit_meme_banner_image.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "42146dc77a7cf6e9",
-      "title": "How to watch Made By Google 2026",
-      "url": "https://mashable.com/tech/how-to-watch-made-by-google-2026-pixel-11-livestream-event",
-      "datePublished": "2026-08-12T19:06:38.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Pixel 11 lineup is almost here. Watch Made By Google 2026 to find out more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06OgnKJs4veLWPgYJnq8Ydl/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5f660ce943b86a75",
-      "title": "Grand Theft Auto: Vice City: The Kotaku Review",
-      "url": "https://kotaku.com/grand-theft-auto-vice-city-the-kotaku-review-2000720825",
-      "datePublished": "2026-08-12T19:00:33.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The boys over at Rockstar Games have made another massive masterpiece",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/WarpWeek-KOTAKU-GTAVC-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "d1de238e5ad68e57",
-      "title": "Is 'The End of Oak Street' a Cloverfield Spin-Off? A Spoiler Free Guide",
-      "url": "https://www.polygon.com/the-end-of-oak-street-ending-cloverfield-spin-off/",
-      "datePublished": "2026-08-12T19:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With JJ Abrams and Bad Robot Productions in the picture, fans are certain that 'The End of Oak Street' has a connection to the 'Cloverfield' franchise",
-      "author": "Aimee Hart",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13625058/Screen_Shot_2018_12_13_at_4.53.27_PM__2_.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "dd1e9228d327b270",
-      "title": "Meet the Guys in Charge of the 4DX Movie Splash Zone",
-      "url": "http://www.vulture.com/article/meet-the-guys-in-charge-of-the-4dx-movie-splash-zone.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-12T19:00:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Are the filmmakers involved? What happens during a sex scene? Is the water clean?!",
-      "author": "Hershal Pandya",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/a61/3b6/f26e182582dd04dce377017e1f0ce63ff3-MCDODYS-UV007.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "93d4db3e72e87212",
-      "title": "When Billie Joe Armstrong Asks You to Make a Green Day Movie, You Don’t Say No",
-      "url": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/",
-      "datePublished": "2026-08-12T19:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Armstrong and writer/director Lee Kirk tell IndieWire about turning the band's history and catalogue into the coming-of-age comedy \"Nimrods.\"",
-      "author": "Christian Zilko",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "8ef91c03600a3a40",
-      "title": "Marco Rubio Says He Doesn’t Like Country Music",
-      "url": "https://consequence.net/2026/08/marco-rubio-says-he-doesnt-like-country-music-professes-love-for-ring-of-fire-remix/",
-      "datePublished": "2026-08-12T18:56:06.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Instead, he professed his love for an EDM remix of Johnny Cash's \"Ring of Fire.\" Marco Rubio Says He Doesn’t Like Country Music Jonah Krueger",
-      "author": "Jonah Krueger",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "71cdaa6d3999a4ef",
-      "title": "The Lakers Owner Sure Picked a Convenient Time to Meet With Trump",
-      "url": "https://newrepublic.com/post/214250/donald-trump-help-jared-kushner-brother-buy-lakers-basketball",
-      "datePublished": "2026-08-12T18:55:48.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Los Angeles Lakers may soon be sold for $12 billion—and the Trump administration might have something to do with it. ESPN reported Wednesday that Josh Kushner, the brother of President Donald Trump’s son-in-law Jared Kushner, and ex-Disney CEO Bob Iger have reportedly reached a deal with business executive Mark Walter to buy the NBA team just a year after Walter purchased it for $10 billion. T",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/67da924c61bc849f8990fb9f7f55048c2d79ecd0.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "163ce761906cd07e",
-      "title": "Pixel Buds Pro 2 and 2a are getting some upgrades, including deeper Gemini integration",
-      "url": "https://www.engadget.com/2235726/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/",
-      "datePublished": "2026-08-12T18:52:33.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Google didn't have any new headphones this year, but some new features are coming to the Pixel Buds.",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/l-intro-1786560660.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "43148ae0aea88dff",
-      "title": "Travis Kelce Describes Taylor Swift Wedding as ‘Best Night of My Life’",
-      "url": "https://www.rollingstone.com/music/music-news/travis-kelce-taylor-swift-wedding-first-comments-1235607573/",
-      "datePublished": "2026-08-12T18:48:30.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The NFL star spoke about his big day for the first time during the Kansas City Chiefs' training camp",
-      "author": "Maya Georgi",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "3bd80022bbbe5595",
-      "title": "Someone Just Maxed Out Their Fishing In Old School RuneScape Using Only The Starter Net: ‘Nothing Matters’",
-      "url": "https://kotaku.com/old-school-runescape-fishing-starter-net-shrimp-nothing-matters-2000723831",
-      "datePublished": "2026-08-12T18:45:40.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "'I will miss catching those lil water bugs'",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/odrs-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "97281be0cc17cd34",
-      "title": "Rich Boys Buy Big Toys",
-      "url": "http://www.vulture.com/article/lakers-atg-sales-ari-emmanuel-bob-iger.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-12T18:39:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Karlie Kloss has yet to comment on her husband’s midlife-crisis splurge.",
-      "author": "Rebecca Alter",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/1fe/d7f/4a44fdc1691b5951d5e7d5296bfc55680d-lebron-paddington.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "4f6ab46a2651adde",
-      "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
-      "datePublished": "2026-08-12T18:37:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports",
-      "author": "Nikkimccannramirez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "1009581e44aa1993",
-      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-      "datePublished": "2026-08-12T18:34:21.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
-      "author": "Lauren Forristal",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "80c313944b019a7c",
-      "title": "Photos, memes, and conspiracies out of the 2026 solar eclipse",
-      "url": "https://mashable.com/science/solar-eclipse-2026-photos-internet-reacts",
-      "datePublished": "2026-08-12T18:32:32.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A total solar eclipse passed over Europe for the first time in decades. Did you catch it?",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/030nzC3bitVScXL09pExvxZ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4888b7518bc6ba95",
-      "title": "Ryan Hurst Posts A Much Better Picture Of Himself As Kratos And Damn, Amazon Should Have Let Him Cook",
-      "url": "https://kotaku.com/ryan-hurst-kratos-pictures-god-of-war-tv-show-amazon-2000723832",
-      "datePublished": "2026-08-12T18:30:50.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The photo posted to his Instagram story is a far better version of the actor as Kratos than what Amazon posted earlier this year",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/ryan-hurst-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "e2be7cdf062a3666",
-      "title": "ChatGPT: What's free in 2026 and what isn't?",
-      "url": "https://www.engadget.com/2234173/chatgpt-free-features-2026/",
-      "datePublished": "2026-08-12T18:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of August 2026, you can send unlimited texts to ChatGPT.",
-      "author": "staff@engadget.com (Igor Bonifacic)",
-      "imageUrl": "https://www.engadget.com/img/gallery/chatgpt-whats-free-in-2026-and-what-isnt/l-intro-1786404218.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "d268298411d82f19",
-      "title": "Amazon is severing ties with two other MMOs",
-      "url": "https://www.engadget.com/2235700/amazon-is-severing-ties-with-two-other-mmos/",
-      "datePublished": "2026-08-12T18:29:18.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Amazon is handing off MMOs Lost Ark and Throne and Liberty to other publishers.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/amazon-is-severing-ties-with-two-other-mmos/l-intro-1786559251.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "337bf2068b12a671",
-      "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-      "url": "https://timer.jotaen.net",
-      "datePublished": "2026-08-12T18:27:52.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud. Two things (I suppose) are special about it: - T",
-      "author": "jotaen",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2dc5f3a3d26a2c04",
-      "title": "Yes, we saw the video. Heres how to clean your Ninja Creami.",
-      "url": "https://mashable.com/life/how-to-clean-ninja-creami",
-      "datePublished": "2026-08-12T18:25:46.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A viral video on TikTok shows maggots in a Ninja Creami. Scared of that happening to you? Here's how to properly clean your Ninja Creami.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06VQLTL8WCXIOIqddMRUrB5/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "ef0f988e1de8d3d4",
-      "title": "What Francesca Hong’s Defeat Means for Democrats",
-      "url": "https://www.newyorker.com/news/the-lede/what-francesca-hongs-defeat-means-for-democrats",
-      "datePublished": "2026-08-12T18:23:56.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The democratic socialist’s rise in Wisconsin was supposed to portend a major breakthrough for the left. Her narrow loss should still be a wake-up call for the Party’s establishment.",
-      "author": "Benjamin Wallace-Wells",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "35848b60e80fc491",
-      "title": "Marilyn Manson’s Ex-Assistant Gets Trial Date for Sexual Assault and Battery Claims",
-      "url": "https://www.rollingstone.com/music/music-news/marilyn-manson-sex-assault-trial-assistant-evan-rachel-wood-1235607558/",
-      "datePublished": "2026-08-12T18:23:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ashley Walters alleges Manson sexually assaulted her in 2010, then later whipped her and threw her against a wall",
-      "author": "Nancy Dillon",
-      "imageUrl": "",
-      "source": "Rolling Stone"
     }
   ]
 }
