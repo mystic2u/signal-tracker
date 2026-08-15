@@ -1,6 +1,115 @@
 {
-  "generatedAt": "2026-08-15T16:56:18.984Z",
+  "generatedAt": "2026-08-15T17:46:09.983Z",
   "articles": [
+    {
+      "id": "763f184e1658d41d",
+      "title": "Nike’s Super-Advanced Running Sneaker Goes Prickly & Pink",
+      "url": "https://www.highsnobiety.com/p/nike-vomero-premium-arctic-pink/",
+      "datePublished": "2026-08-15T17:42:02.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike's Vomero Premium Spikes sneaker lands in an \"Arctic Pink\" colorway, resulting in an even bolder take on the freaky design.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "fb2b6a91e0543818",
+      "title": "Adam Scott Says His Daughter’s Acting Class Was Forced to Watch His Failed ‘Office’ Audition as an Example of What Not to Do",
+      "url": "https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/",
+      "datePublished": "2026-08-15T17:40:41.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Once upon a time, “Severance” star Adam Scott auditioned for the beloved sitcom “The Office.” Years later, he’s reliving the memories of that failed audition after his daughter’s acting teacher had the class compare Scott’s audition tape to John Krasinski’s successful tape. “He put it to the class like, ‘Okay. Let’s discuss why he got the job, […]",
+      "author": "Matthew Minton",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "949475d0c09570b7",
+      "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
+      "url": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+      "datePublished": "2026-08-15T17:30:02.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 3 # Comments: 0",
+      "author": "Mindless2112",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "4dfee892c6ea2f76",
+      "title": "Here's how to reset your ASUS router",
+      "url": "https://www.engadget.com/2234242/how-to-reset-asus-router/",
+      "datePublished": "2026-08-15T17:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If your internet has been slower than usual lately, your router might need a reset. Here are some things you can try.",
+      "author": "staff@engadget.com (Alec Hively)",
+      "imageUrl": "https://www.engadget.com/img/gallery/heres-how-to-reset-your-asus-router/l-intro-1786034339.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "ca7021c978ea8f95",
+      "title": "Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down",
+      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
+      "datePublished": "2026-08-15T17:00:20.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Jacob Navok says that a world without physical media will put major publishers in constant competition with each other, though how that would drive costs down is just a theory",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "8617d66f159e9e46",
+      "title": "Henry Cavill's Forgotten 127-Minute Epic Dark Fantasy Officially Arrives on Free Streaming",
+      "url": "https://www.polygon.com/stardust-2007-henry-cavill/",
+      "datePublished": "2026-08-15T17:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Though we all now know him from his role as Geralt in 'The Witcher', Henry Cavill once starred in this underrated fantasy film.",
+      "author": "Aimee Hart",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/stardust-henry-cavill.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "11ca0bd4342fcbf7",
+      "title": "Nike’s Triple Navy Skate Shoe Is Session-Ready Stunner",
+      "url": "https://www.highsnobiety.com/p/nike-sb-react-leo-navy/",
+      "datePublished": "2026-08-15T17:00:05.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike SB's React Leo signature skate shoe pairs its usual luxe design with a clean triple navy colorway. The results? The best-looking pairs yet.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "038655bf47b21bf0",
+      "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
+      "url": "https://www.core77.com/posts/144869",
+      "datePublished": "2026-08-15T16:53:47.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 10 # Comments: 0",
+      "author": "Bowes-Lyon",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "ca2ea788266186e8",
       "title": "Olivia Dean Delivers Lessons in Love and One Hell of a Show at Madison Square Garden",
@@ -13,6 +122,20 @@
       "author": "Larisha Paul",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "69a98c1765b1b416",
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "datePublished": "2026-08-15T16:38:34.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 47 # Comments: 4",
+      "author": "jeffreyrogers",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "c2a2d25fa30b61f8",
@@ -53,6 +176,19 @@
       "author": "Nvivarelli",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "69ecd93a0bc98905",
+      "title": "The Simpsons May Be Heading to Halloween Horror Nights",
+      "url": "http://www.vulture.com/article/simpsons-treehouse-of-horror-halloween-horror-nights-d23.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-15T16:22:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A surprise announcement at D23.",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/3e2/b39/ef6fe4b7ce87a4ae7ae0e05daa249cbf8a-the-simpsons-treehouse-of-horror-xxxiv.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "bee82e4f9b80c780",
@@ -186,6 +322,20 @@
       "author": "Jack Dunn",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "c09e460cdf9e9701",
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "datePublished": "2026-08-15T15:58:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 60 # Comments: 19",
+      "author": "randycupertino",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "ac137df7958ae8de",
@@ -6581,163 +6731,6 @@
       "description": "\"The Wrong Girls\" director Dylan Meyer offers a dirtbag stoner comedy for all the freaks, including those of the deep ocean.",
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/02lMacko8S8wG8hTJvb48Vj/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "fa443d04fb20ff1e",
-      "title": "AdultFriendFinder review: Is the famous hookup site legit or not?",
-      "url": "https://mashable.com/review/adult-friend-finder-review-dating-site",
-      "datePublished": "2026-08-14T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Considering AdultFriendFinder? Check out our brutally honest review to learn about its features, user base, and whether it's worth trying.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/reviews/0584LOJucOI7y32ZFmDy9gV/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5f36601b062cdbd8",
-      "title": "Sarajevo Film Festival Boss Jovan Marjanović on Owning Its Powerful Origin Story: “We Connect This Legacy of War… and Build Bridges”",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/",
-      "datePublished": "2026-08-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Marjanović, in his fifth year as the sole director of the Bosnian film festival, teases what's to come from the 32nd installment and why particular screenings \"will be very emotional.\"",
-      "author": "Lily Ford",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "172d7c6b9f9c4da1",
-      "title": "Fox Hits Trump with Brutal Polling as Aides Privately Soothe His Anger",
-      "url": "https://newrepublic.com/article/214347/fox-hits-trump-brutal-polling-aides-privately-soothe-anger",
-      "datePublished": "2026-08-14T09:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Intriguingly, Fox News has lately been hitting Donald Trump with terrible polling news. In recent days, Fox has found Democrats slightly ahead in Senate races in Maine, Texas, and Iowa, and up by a lot in North Carolina. Critically, Trump’s own favorability numbers are very bad in all those states, even though he won three of them, two by double digits. In all four, his numbers among independents ",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/4b5df6d9108b231eccdb3d85b94c703e8acb133c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "5995b7cc9a3eee2a",
-      "title": "Shudder Cinematrix No. 5: Frightening Tales",
-      "url": "http://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Can you name a Peter Jackson or Danny Elfman horror movie?",
-      "author": "Britina Cheng",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/fb4/e0a/b063146dbf2ba09bc696272cd78dc9c2b2-cinematrix-shudder-07-22-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ea70f43829c29597",
-      "title": "The Neighborhood Puzzle",
-      "url": "http://www.vulture.com/article/daily-crossword-puzzle.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "4-Down, Four Letters: Show whose 2015 final episode was titled “Dreams Come True”",
-      "author": "Stella Zawistowski",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/232/357/9cd9616b83db085e6259833f4d2d9f399e-Crossword-08-11-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7075dee2c28833c5",
-      "title": "Eufy’s high-end Omni S2 robot vacuum hits $1,399 on Amazon — save $200",
-      "url": "https://mashable.com/life/aug-14-eufy-omni-s2-robot-vacuum-mop-deal",
-      "datePublished": "2026-08-14T08:58:56.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of Aug. 14, the Eufy Omni S2 robot vacuum and mop is on sale for $1,399.99 at Amazon, 13% off its list price of $1,599.99.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/075a1dByNX0Rsp1h0Z2RlQB/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "c531126fef597cc0",
-      "title": "Craftsman tool deal: Grab the 121-piece Gunmetal Chrome kit for $139 at Amazon",
-      "url": "https://mashable.com/tech/aug-14-craftsman-overdrive-tools-deal",
-      "datePublished": "2026-08-14T08:52:35.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best tools deal. Save 18% on the Gunmetal Chrome Mechanics Tool Set at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03K9PdJacoS5hqGvi3jnoEy/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "ccbd5bc78225d623",
-      "title": "The best budget phone just got cheaper: Save $75 on the Google Pixel 10a at Amazon",
-      "url": "https://mashable.com/tech/aug-14-google-pixel-10a-deal",
-      "datePublished": "2026-08-14T08:47:22.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best Google Pixel deal. Save 13% on the Google Pixel 10a at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00CQfp7wuECjOLUnjNK21fj/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "5d7719979a627e12",
-      "title": "Best Buy is turning 60: Celebrate with massive weeklong deals on iPads, laptops, and TVs",
-      "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale",
-      "datePublished": "2026-08-14T08:38:20.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Best Buy is celebrating 60 years with an anniversary sale running Aug. 17-23, plus a special in-store-only Anniversary Day on Aug. 22.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Gmkm8Ap2mJqwuNADSi3Aq/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "7010ff3c38972d8b",
-      "title": "NYT Connections hints today: Clues, answers for August 14, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-14-2026",
-      "datePublished": "2026-08-14T08:29:39.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03Z38MbDhH74Xj1rzE81izs/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "b92244ccf1b67310",
-      "title": "Apple TV just quietly stacked its library with 19 classic movies (for free)",
-      "url": "https://mashable.com/entertainment/apple-tv-plus-free-classic-movies-added",
-      "datePublished": "2026-08-14T08:25:24.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Apple TV Plus added a batch of classic movies — including Titanic, Arrival, and The Sixth Sense — to stream for free with a subscription, no extra rental fee required.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00FKP2URiyXAKMOXNe0tR7G/hero-image.jpg",
       "source": "Mashable"
     }
   ]
