@@ -1,6 +1,680 @@
 {
-  "generatedAt": "2026-08-15T11:44:18.637Z",
+  "generatedAt": "2026-08-15T14:55:06.137Z",
   "articles": [
+    {
+      "id": "203b7956dfd3b2d9",
+      "title": "'Rideshare Stimulator' Developers Disclose AI Use Steam After Days Of Controversy",
+      "url": "https://www.polygon.com/rideshare-stimulator-ai-saga/",
+      "datePublished": "2026-08-15T14:49:26.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Saber Interactive added an AI disclosure statement to Rideshare Stimulator's Steam page following several days of controversy about its use in-game.",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-1.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "f9730128b08083a0",
+      "title": "Courtney Love Offers Health Update After She “Almost Died,” Says New Album Is “Done”",
+      "url": "https://consequence.net/2026/08/courtney-love-health-update-new-album-done/",
+      "datePublished": "2026-08-15T14:48:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The singer says she is feeling \"healthy\" after almost dying in 2020. Courtney Love Offers Health Update After She “Almost Died,” Says New Album Is “Done” Spencer Kaufman",
+      "author": "Spencer Kaufman",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "931c927234f89c56",
+      "title": "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe",
+      "url": "https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708",
+      "datePublished": "2026-08-15T14:37:54.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Matt Groening was asked during a D23 fan event",
+      "author": "Ethan Gach",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/simposn-.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "7b39504a6ad7f254",
+      "title": "How to perform air skills in Forza Horizon 6",
+      "url": "https://www.polygon.com/forza-horizon-6-fh6-air-skill-how-to/",
+      "datePublished": "2026-08-15T14:31:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Here's how to perform air skills in Forza Horizon 6 to help you clear the Horizon Mascot Party's \"Earn Three Air Skills\" challenge",
+      "author": "Josh Broadwell",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/forza-horizon-6-air-skills.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "911333a2ccc8d594",
+      "title": "What's the USB trident symbol for? How to know what kind of port you have",
+      "url": "https://www.engadget.com/2234239/what-usb-trident-symbol-for-how-to-know-port-type/",
+      "datePublished": "2026-08-15T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "USB ports and cables have tons of potential capabilities, but making sense of them can be tricky if you don't know where to look.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/whats-the-usb-trident-symbol-for-how-to-know-what-kind-of-port-you-have/l-intro-1786134100.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "01dbbffa2e2cf9ca",
+      "title": "Matthew McConaughey’s Life in Songs Has Taken Him Everywhere",
+      "url": "https://www.rollingstone.com/music/music-news/matthew-mcconaughey-life-in-songs-1235609364/",
+      "datePublished": "2026-08-15T14:14:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "While sitting down to discuss the songs that have defined his life, the actor recalls a life-changing trip to Africa, the time he considered becoming a monk, picking up songs from his brother, and more",
+      "author": "Larisha Paul",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "0b73ad404776219f",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "datePublished": "2026-08-15T14:08:55.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 17 # Comments: 5",
+      "author": "m-i-l",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "82217f5240b76d19",
+      "title": "Cloudflare's AI Psychosis",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "datePublished": "2026-08-15T14:08:40.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 19 # Comments: 1",
+      "author": "gregzeng95",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "2c7512db8b76f99b",
+      "title": "Phil Collins Reveals He’s Been Sober for Three Years",
+      "url": "https://consequence.net/2026/08/phil-collins-talks-alcoholism-sobriety-health-issues/",
+      "datePublished": "2026-08-15T14:06:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Genesis drummer and singer said he's feeling the best he has felt in years. Phil Collins Reveals He’s Been Sober for Three Years Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "9b635ef73f8ddff1",
+      "title": "10 Classic Sci-fi Cyberpunk Books You Must Read in 2026",
+      "url": "https://www.polygon.com/best-cyberpunk-books-like-neuromancer/",
+      "datePublished": "2026-08-15T14:00:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Dive into these futuristic stories before AppleTV's Neuromancer premieres in 2027",
+      "author": "Sam Nelson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/do-androids-dream-of-electric-sheep-omnibus-the-quantum-thief-ready-player-one-3-books-1mueeea.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "3c12af9991bd8746",
+      "title": "Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of ‘Joy, Reflection, Delight and Awe’",
+      "url": "https://variety.com/2026/tv/news/darren-walker-anonymous-content-emmy-paul-revenue-williams-1236835193/",
+      "datePublished": "2026-08-15T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Darren Walker may be new to Los Angeles as he takes the helm of Anonymous Content as president and CEO, but he’s had long relationships with key players in town for years, given his distinguished career in philanthropy and nonprofits. Sally Field is one of those people. So Walker was excited to learn when he […]",
+      "author": "Cynthia Littleton",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "58b70f403f29bf76",
+      "title": "‘We Forget — But the Camera Remembers’: How a Hippie River Trip Gave Birth to a Hit Doc Series",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/bend-in-the-river-interview-robb-moss-1235597920/",
+      "datePublished": "2026-08-15T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Bend of the River completes Robb Moss's trilogy about a group of friends who went from 1970s idealists to gracefully aging seventysomethings",
+      "author": "David Fear",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "d69056f57df13253",
+      "title": "Writergate: Zig I/O Interface Overhaul",
+      "url": "https://alexrios.me/blog/writergate/",
+      "datePublished": "2026-08-15T13:59:47.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://alexrios.me/blog/writergate/ Comments URL: https://news.ycombinator.com/item?id=49310623 Points: 9 # Comments: 0",
+      "author": "signa11",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "0915261cd08504dc",
+      "title": "LeBron James Launches YouTube Golf Channel — Watch the First Episode’s Trailer (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/",
+      "datePublished": "2026-08-15T13:59:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).",
+      "author": "Anthony Maglio",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a21908a2f7734601",
+      "title": "NYT Pips hints, answers for August 15, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-15-2026",
+      "datePublished": "2026-08-15T13:53:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07aX7JSRSHMhVrv2kO48JK7/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4ecbd314080d81ae",
+      "title": "The Odyssey Is a Thrilling, Reactionary Lament",
+      "url": "",
+      "datePublished": "2026-08-15T13:53:17.925Z",
+      "category": [
+        "society"
+      ],
+      "description": ", Christopher Nolan’s cinematic retelling of Homer’s epic poem, has taken the country by storm. While on vacation back home in southern Illinois, I visited a Dolby theater with my family to experience it myself — and was not disappointed. The film delivered spectacular visuals, clever effects, and breathtaking sound design.The Odyssey Dozens of scenes had my heart racing as massive jumps in decibe",
+      "author": "Grant Morgan",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "ebbd3bb982d2c79e",
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "url": "https://hypnagogic-quasicrystals.github.io/",
+      "datePublished": "2026-08-15T13:48:43.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution. Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for low values of \"Tempo\" and \"Pattern Density\". If you have VR googles, I recommend trying the WebXR version - it's really nice. Comments URL: https://news.",
+      "author": "r34",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e804abae52b2a128",
+      "title": "Florin Şerban’s ‘You Don’t Belong Here’ Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards",
+      "url": "https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/",
+      "datePublished": "2026-08-15T13:45:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Romanian director Florin Şerban’s “You Don’t Belong Here,” a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "675920528be69325",
+      "title": "Locarno Film Festival Awards Go to ‘You Don’t Belong Here,’ Hong Sangsoo, Monica Bellucci",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-awards-winners-monica-bellucci-hong-sang-soo-1236673771/",
+      "datePublished": "2026-08-15T13:45:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In the Filmmakers of the Present Competition, 'The Illusion of an Everlasting Summer' by Alessandra Sanguinetti won the Golden Leopard, with the film also receiving the first feature award.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "8f2e1d43f5d0af12",
+      "title": "NYT Connections Sports Edition today: Hints and answers for August 15, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-15-2026",
+      "datePublished": "2026-08-15T13:44:12.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/034OWtGaxdDEAflH6svHZ5x/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3e34ba37fa70bf9e",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "datePublished": "2026-08-15T13:43:46.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 10 # Comments: 3",
+      "author": "scresswell",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "702fd5344dd61b2e",
+      "title": "The Simpsons: Hit & Run' Fans Finally Have Hope For A Remaster After 23 Years, Thanks To Matt Groening",
+      "url": "https://www.polygon.com/the-simpsons-hit-and-run-coming-back-matt-groening/",
+      "datePublished": "2026-08-15T13:42:29.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Matt Groening has commented on the possible return of The Simpsons Hit & Run, and the future seems positive for fans.",
+      "author": "Ashely Claudino",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/homer-simpsons-zero-point-remote-controller.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "ffa05cc5de3ca7bb",
+      "title": "Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico’s Morelia Film Festival",
+      "url": "https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/",
+      "datePublished": "2026-08-15T13:37:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A-list festival acclaimed pics from some of Mexico’s most celebrated talent, many of them female and first-timers, make up this year’s line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (“Andor”) in his fifth outing as a director in “Ashes,” which world premiered […]",
+      "author": "Anna Marie de la Fuente",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6b78d0a366cf3e47",
+      "title": "What happens when a hybrid battery dies and what to do about it",
+      "url": "https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/",
+      "datePublished": "2026-08-15T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Don't wait to have your car checked out if its traction battery is having problems.",
+      "author": "staff@engadget.com (Novak Božović)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-happens-when-a-hybrid-battery-dies-and-what-to-do-about-it/l-intro-1786037757.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e9972707a3054800",
+      "title": "“I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/",
+      "datePublished": "2026-08-15T13:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5c20c939a9b5997e",
+      "title": "Elizabeth Cook, Rocked by the Death of Todd Snider, Finds Strength on a New Album",
+      "url": "https://www.rollingstone.com/music/music-features/elizabeth-cook-great-television-album-remembers-todd-snider-1235609376/",
+      "datePublished": "2026-08-15T13:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "With Great Television, the Nashville singer-songwriter processes grief recent and past",
+      "author": "Joseph Hudak",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "1cc75bbe1c7aa8b6",
+      "title": "Trump Gets Real About US Dominance of Latin America",
+      "url": "",
+      "datePublished": "2026-08-15T13:20:16.019Z",
+      "category": [
+        "society"
+      ],
+      "description": "In 1914, addressing the University of Buenos Aires, President Theodore Roosevelt called the Monroe Doctrine a policy “which the United States promulgated, partly as a matter of policy in its own interest, partly as a matter of policy in the interest of all the republics of the New World.” Earlier this week, the State Department posted a five-minute to its official account on Twitter tracing a stra",
+      "author": "Andre Pagliarini",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "9850316be183f657",
+      "title": "Brazilian election filter in X For You timeline",
+      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+      "datePublished": "2026-08-15T13:18:27.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 30 # Comments: 22",
+      "author": "LorenDB",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "0bd2cadeb19d1156",
+      "title": "388 years ago, Galileo worked out why human giants can't exist",
+      "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+      "datePublished": "2026-08-15T13:15:48.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 16 # Comments: 10",
+      "author": "beardyw",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "5817172d2bd440fe",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "datePublished": "2026-08-15T13:15:20.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "author": "Tim De Chant",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "7fa457e236e70522",
+      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+      "datePublished": "2026-08-15T13:09:28.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 20 # Comments: 3",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "827ffbac2c85aa14",
+      "title": "27 Years Later, 'Cowboy Bebop's Greatest Quote Still Haunts Me",
+      "url": "https://www.polygon.com/cowboy-bebop-best-quote-finale-explained/",
+      "datePublished": "2026-08-15T13:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As one of anime's most iconic characters, Spike Spiegel sells himself as an indifferent cool guy, but the show's best line reveals his true nature.",
+      "author": "Ryan Epps",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25429266/ja8l56ci.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "f1627e8a0f2516ef",
+      "title": "USB4 Vs USB-C: What's the difference between them?",
+      "url": "https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/",
+      "datePublished": "2026-08-15T13:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There's a pretty major difference between USB-C and USB4. We'll dive into the details and how to tell them apart.",
+      "author": "staff@engadget.com (Dave Meikleham)",
+      "imageUrl": "https://www.engadget.com/img/gallery/usb4-vs-usb-c-whats-the-difference-between-them/l-intro-1786126518.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "38139d187aa0e33d",
+      "title": "‘Heated Rivalry,’ ‘Hacks’ Top GALECA Dorian TV Awards Winners List",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-galeca-dorian-tv-awards-winners-1236673379/",
+      "datePublished": "2026-08-15T13:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Additional special career honors were bestowed to Hannah Einbinder, with GALECA’s Wilde Wit Award, and Lisa Kudrow, who was named a GALECA TV Icon for her performance in 'The Comeback.'",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "b6401947795487f7",
+      "title": "Rolling Stone Editors’ Picks, August 2026: Our Favorite Products, Sips, and Services of the Month",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/shop-best-products-to-buy-online-august-2026-1235609391/",
+      "datePublished": "2026-08-15T13:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From a new shapewear launch to a smart device designed to help curb your social-media scrolling habit, these are the products our editors are loving",
+      "author": "Alisa Rendor",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6d5bbc6a7c111379",
+      "title": "HBO’s Great New Sunday Night Show Is the Spiritual Successor to Both <em>True Detective</em> and <em>Watchmen</em>",
+      "url": "https://slate.com/culture/2026/08/lanterns-hbo-green-lantern-show-aaron-pierre-review.html?via=rss",
+      "datePublished": "2026-08-15T13:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The subversive, funny, thoughtful Lanterns is another superhero show for people who think they don’t like superhero shows.",
+      "author": "Sam Adams",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "c6390e512ab633ae",
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "datePublished": "2026-08-15T12:56:56.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 23 # Comments: 27",
+      "author": "Anon84",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "4bc24c32017f2728",
+      "title": "SpaceX has officially acquired AI coding startup Cursor",
+      "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+      "datePublished": "2026-08-15T12:51:33.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The $60 billion acquisition has been finalized.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/spacex-has-officially-acquired-ai-coding-startup-cursor/l-intro-1786798141.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "37030e87fce4fea6",
+      "title": "Karl Marx’s Vision of the Good Society",
+      "url": "",
+      "datePublished": "2026-08-15T12:48:51.092Z",
+      "category": [
+        "society"
+      ],
+      "description": "This argument has two aims. One is to develop an interpretation of Karl Marx’s vision of the good society that is more social than the prevailing interpretation. The second is to show that this interpretation represents an appealing account of the good society, one that offers a compelling alternative to prevailing views of the just society in contemporary political philosophy. These two aims are ",
+      "author": "Jan Kandiyali",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "de716c233805f669",
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "datePublished": "2026-08-15T12:47:52.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.alanzucconi.com/2026/08/15/xorshift-generators/ Comments URL: https://news.ycombinator.com/item?id=49310128 Points: 5 # Comments: 0",
+      "author": "tobr",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "fe3427c1659060f3",
+      "title": "Expensive earbuds: When and why it's worth paying more",
+      "url": "https://www.engadget.com/2234234/expensive-earbuds-when-why-pay-more/",
+      "datePublished": "2026-08-15T12:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Earbuds range in price from under $10 to hundreds. What do you get for the money?",
+      "author": "staff@engadget.com (Max Miller)",
+      "imageUrl": "https://www.engadget.com/img/gallery/expensive-earbuds-when-and-why-its-worth-paying-more/l-intro-1786374268.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "8979fe0d13909cdc",
+      "title": "Riffs on GoldenEye 007, Star Fox and Kingdom Hearts, and other new indie games worth checking out",
+      "url": "https://www.engadget.com/2237397/riffs-on-goldeneye-007-star-fox-and-kingdom-hearts-and-other-new-indie-games/",
+      "datePublished": "2026-08-15T12:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Our indie game roundup this week features a handful of '90s-inspired entries along with a dog game, a cat game and a sheep game.",
+      "author": "staff@engadget.com (Kris Holt)",
+      "imageUrl": "https://www.engadget.com/img/gallery/riffs-on-goldeneye-007-star-fox-and-kingdom-hearts-and-other-new-indie-games-worth-checking-out/l-intro-1786736940.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "939a2023f625166b",
+      "title": "The Problem",
+      "url": "https://intelligence.org/the-problem/",
+      "datePublished": "2026-08-15T12:14:17.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://intelligence.org/the-problem/ Comments URL: https://news.ycombinator.com/item?id=49309963 Points: 8 # Comments: 1",
+      "author": "Bluestein",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "cc50b568e3e7725f",
+      "title": "T3X/0 a Minimal Procedural Language",
+      "url": "https://t3x.org/t3x/0/index.html",
+      "datePublished": "2026-08-15T12:06:24.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://t3x.org/t3x/0/index.html Comments URL: https://news.ycombinator.com/item?id=49309923 Points: 7 # Comments: 0",
+      "author": "AlexeyBrin",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "360f2bc4db87d83f",
+      "title": "Super Mario Sunshine and Wind Waker Doomed the GameCube but Saved Nintendo",
+      "url": "https://www.polygon.com/switchboard-mario-sunshine-gamecube-nintendo/",
+      "datePublished": "2026-08-15T12:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In the 2000s, Nintendo kicked and screamed against PlayStation and its own fans",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24759109/51601827.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "97d30ad1a951e32a",
+      "title": "Engadget review recap: Samsung Galaxy Z Fold 8 Ultra, Dell XPS 13 and more",
+      "url": "https://www.engadget.com/2237224/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-more/",
+      "datePublished": "2026-08-15T12:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A roundup of recent reviews from Engadget.",
+      "author": "staff@engadget.com (Billy Steele)",
+      "imageUrl": "https://www.engadget.com/img/gallery/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-more/l-intro-1786726370.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "d7dc47bc0afb420a",
+      "title": "Every Anne Hathaway Movie, Ranked",
+      "url": "http://www.vulture.com/article/best-anne-hathaway-movies-ranked.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-15T12:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actor has played it all: weird misfits, alcoholic kaiju, Genovian royalty, and, yes, a magazine editor.",
+      "author": "Chris Feil",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/fde/094/eb5509aef7e354a8364491c9c8c33be08b-anne-hathaway.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "70dd26e3920ce8a0",
+      "title": "A Kingdom Hearts anime is coming to Disney+",
+      "url": "https://www.engadget.com/2237649/kingdom-hearts-anime-disney-plus/",
+      "datePublished": "2026-08-15T11:52:46.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Disney has announced an anime based on Kingdom Hearts, featuring a brand new story.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/a-kingdom-hearts-anime-is-coming-to-disney/l-intro-1786794622.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "51c7a074fe7eeb43",
+      "title": "Where to Stream UFC 330: Makhachev vs. Machado Garry Online",
+      "url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-stream-ufc-330-makhachev-machado-garry-online-1235607533/",
+      "datePublished": "2026-08-15T11:50:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Islam Makhachev looks to make UFC history tonight against Ian Machado Garry. Here’s where to livestream the event online",
+      "author": "Oscar Hartzog",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "12af3489ca080f8b",
+      "title": "‘Nowhere to Lay My Eyes’ Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature",
+      "url": "https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/",
+      "datePublished": "2026-08-15T11:49:32.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The death-and-taxes certainty of Hong Sangsoo’s filmography — comparable to Woody Allen’s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum — has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere “The Day She Returns” continued an occasional experimental jag […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
     {
       "id": "71bfb90b3a087265",
       "title": "BFI Boss Ben Roberts, Picturehouse’s Clare Binns on Gen Z’s Cinema Renaissance, AI Slop and British Indie Film: “We’re Not Great at Comedy”",
@@ -13,6 +687,19 @@
       "author": "Lily Ford",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "b88e085f7ddad6b1",
+      "title": "The 6 Movies You Shouldn’t Miss on HBO Max This August",
+      "url": "http://www.vulture.com/article/best-movies-on-hbo-max-in-august-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-15T11:30:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Including two Stephen King adaptions, two Robert Pattison dramas, and Anne Hathaway as a pop diva.",
+      "author": "Brian Tallerico",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/5d2/486/54116d2b9c17eb707bab5a8545508f8ad4-the-long-walk.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "95780c69277fe587",
@@ -41,6 +728,20 @@
       "source": "Polygon"
     },
     {
+      "id": "14707a5e6441e8ce",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "datePublished": "2026-08-15T11:00:02.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 156 # Comments: 46",
+      "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "78c91f808faa826d",
       "title": "‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December",
       "url": "https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/",
@@ -52,6 +753,20 @@
       "author": "John Hopewell",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "4c6e0adc4170d96a",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "datePublished": "2026-08-15T10:39:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 55 # Comments: 35",
+      "author": "allenb",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "4a7f29e8642e0cac",
@@ -6019,726 +6734,6 @@
       "author": "Julyssa Lopez",
       "imageUrl": "",
       "source": "Rolling Stone"
-    },
-    {
-      "id": "f0e994196a5d9b15",
-      "title": "She’s Gone From Indie Rocker to Unlikely Pop Star. Now She’s Back With Her First Album Since the Big Change.",
-      "url": "https://slate.com/culture/2026/08/phoebe-bridgers-lost-weekend-album-review-bobby-lyrics.html?via=rss",
-      "datePublished": "2026-08-14T04:01:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "On her first solo record in six years, Phoebe Bridgers confronts grief, new love, and sudden fame.",
-      "author": "Carl Wilson",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "bb8d586e37bf59f6",
-      "title": "‘It was lonely being a young queer artist’: Sam Smith on finding health, happiness – and their hazel-eyed fiance",
-      "url": "https://www.theguardian.com/music/2026/aug/14/sam-smith-hazel-eyes-unholy-my-guy",
-      "datePublished": "2026-08-14T04:00:18.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "On their new album, Smith is subverting their singer-songwriter roots to tell a queer love story. They talk about their shifting fanbase, the nasty undercurrents of fame – and finding sanctuary in New York City Sam Smith logs on to our video call with the username “Lily of the Valley”, the May-born singer’s birth flower. It sets a serene tone. They’re in Guadalajara, Mexico, for the latest stop of",
-      "author": "Juan A Ramírez",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "cb63247db8460943",
-      "title": "Moon phase today: What the Moon will look like on August 14",
-      "url": "https://mashable.com/science/moon-phase-today-aug-14-2026",
-      "datePublished": "2026-08-14T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "See the Moon phase expected for August 14, 2026 as well as when the next Full Moon is expected.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/015ZqgO9vqL8E6HCo1IF0s6/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5e6ca3a31e2b0fb9",
-      "title": "Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’",
-      "url": "https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/",
-      "datePublished": "2026-08-14T03:34:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "8085f305fb281f26",
-      "title": "These Pearl-Hued Nike Dunks Are the Unassuming Jewels of Footwear",
-      "url": "https://www.highsnobiety.com/p/nike-dunk-low-retro-soft-pearl-cream/",
-      "datePublished": "2026-08-14T03:34:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The Nike Dunk Low Retro \"Soft Pearl Cream\" dazzles with a clean, minimalist look built for everyday, in an all-white premium leather with subtle grey details.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "74a1dda0d2c9e3b9",
-      "title": "Shane Gillis Intentionally Avoided Taking a Picture with Trump",
-      "url": "https://consequence.net/2026/08/shane-gillis-trump-photo/",
-      "datePublished": "2026-08-14T02:45:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The comedian says he's off the Trump bandwagon after the president failed to live up to his campaign promises. Shane Gillis Intentionally Avoided Taking a Picture with Trump Alex Young",
-      "author": "Alex Young",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "7e5f064bf31207a8",
-      "title": "Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims",
-      "url": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/",
-      "datePublished": "2026-08-14T02:43:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Justin Baldoni's lawyer and crisis publicist Melissa Nathan are implicated in the creation of smear websites, a court finds.",
-      "author": "Winston Cho",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "6987c6071bba1c53",
-      "title": "Jenna Ortega’s Sister Reacts to Public Discourse Over ‘Wednesday’ Star’s Appearance",
-      "url": "https://www.hollywoodreporter.com/news/general-news/jenna-ortega-sister-reacts-discourse-actress-appearance-1236673428/",
-      "datePublished": "2026-08-14T02:23:08.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A recent video interview with 'Esquire' has led to a wave of online commentary about Ortega's health and body.",
-      "author": "Carly Thomas",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "88b0b95cde70caef",
-      "title": "Anne Hathaway Calls for Movies With Dog Deaths to Be Rated R",
-      "url": "https://consequence.net/2026/08/anne-hathaway-on-dog-deaths-in-film/",
-      "datePublished": "2026-08-14T02:14:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The star of The End of Oak Street said she believes John Wick, with it's dog death, has traumatized people. Anne Hathaway Calls for Movies With Dog Deaths to Be Rated R Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "daa0004bfee3184f",
-      "title": "NYT Connections Sports Edition today: Hints and answers for August 14, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-14-2026",
-      "datePublished": "2026-08-14T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01jV4ekr03B4KL7YmZgrNC6/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "90d97d6118995cbf",
-      "title": "NYT Pips hints, answers for August 14, 2026",
-      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-14-2026",
-      "datePublished": "2026-08-14T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02WuT5m4TikESbCndPLciz1/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "7010ff3c38972d8b",
-      "title": "NYT Connections hints today: Clues, answers for August 14, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-14-2026",
-      "datePublished": "2026-08-14T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03Z38MbDhH74Xj1rzE81izs/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "f7f101848cc3c518",
-      "title": "Wordle today: Answer, hints for August 14, 2026",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-august-14-2026",
-      "datePublished": "2026-08-14T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Here's the answer for \"Wordle\" #1882 on August 14 as well as a few hints, tips, and clues to help you solve it yourself.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02KyZBHptmEDQv62kifuUOu/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "06d40ac2c4a366b4",
-      "title": "NYT Strands hints, answers for August 14, 2026",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-14-2026",
-      "datePublished": "2026-08-14T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06jbf6NJ67FFqZwwduRvW0u/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "c5e536af2ed8f36d",
-      "title": "‘American Horror Story’ Season 13: Everything We Know",
-      "url": "https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/",
-      "datePublished": "2026-08-14T01:49:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 13th installment of Ryan Murphy and Brad Falchuk's horror anthology series is returning — and in a big way.",
-      "author": "Lexi Carson",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "8a6f061b4e4a11fc",
-      "title": "Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement",
-      "url": "https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/",
-      "datePublished": "2026-08-14T01:13:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account",
-      "author": "Nancy Dillon",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "cc79b4e99b8390dd",
-      "title": "Brandi Carlile Announces Returning To Myself (Sad Gay Version)",
-      "url": "https://consequence.net/2026/08/brandi-carlile-announces-returning-to-myself-sad-gay-version/",
-      "datePublished": "2026-08-14T01:07:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The new edition reimagines all the tracks from the singer-songwriter's 2025 album. Brandi Carlile Announces Returning To Myself (Sad Gay Version) Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "4ad09ed28283a584",
-      "title": "Did AI play a role in a grisly double murder?",
-      "url": "https://mashable.com/tech/ai-play-role-double-murder",
-      "datePublished": "2026-08-14T01:06:30.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Massachusetts prosecutors allege that a 17-year-old used ChatGPT to create scenarios about family violence that he acted on.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01z6HIvgAx3mMNt85oEe8Gy/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "71d925758771b0f2",
-      "title": "These Trippy, Brainy Hiking Crocs Are Expedition-Ready",
-      "url": "https://www.highsnobiety.com/p/crocs-brain-dead-trailbreak-2/",
-      "datePublished": "2026-08-14T01:03:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The Brain Dead x Crocs Trailbreak 2 radically distances itself from standard foam slides and slip-ons.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "a85778b092ea48d6",
-      "title": "The Real Housewives of Orange County Recap: Life of a Showgirl",
-      "url": "http://www.vulture.com/article/real-housewives-of-orange-county-recap-rhoc-season-20-episode-6-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T01:00:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The room-selection ritual in Las Vegas reveals the group’s alliances — and leaves Heather out in the cold.",
-      "author": "Brian Moylan",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/126/7ba/6e96c542334d3d9ebca1832c0dda074ff3-rhoc-s20-ep6.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "292110c5aaffaaea",
-      "title": "Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?",
-      "url": "https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/",
-      "datePublished": "2026-08-14T01:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […",
-      "author": "Clayton Davis",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "6990f6ce15d758bf",
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "url": "https://github.com/JustVugg/lumabri",
-      "datePublished": "2026-08-14T00:47:04.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/JustVugg/lumabri Comments URL: https://news.ycombinator.com/item?id=49293523 Points: 15 # Comments: 3",
-      "author": "vforno",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "d1ccac45f514b805",
-      "title": "The War Over Warner Bros. Is Splintering Hollywood’s Labor World",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/",
-      "datePublished": "2026-08-14T00:40:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Rob Bonta and David Ellison are dividing the unions, whose members have diverging interests on the way the antitrust battle against a merged Paramount and Warner Bros. is waged.",
-      "author": "Katie Kilkenny",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "061fc5c419195d46",
-      "title": "Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From ‘The Odyssey’?",
-      "url": "https://variety.com/feature/2027-oscars-best-supporting-actor-predictions-1236834271/",
-      "datePublished": "2026-08-14T00:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […",
-      "author": "Clayton Davis",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "6bc83baaa2b8a818",
-      "title": "NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him",
-      "url": "https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/",
-      "datePublished": "2026-08-14T00:18:38.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The rap star also said that he has “one or two” albums left in his career",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "1475fd126ea6c6ab",
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "datePublished": "2026-08-14T00:14:28.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services Comments URL: https://news.ycombinator.com/item?id=49293324 Points: 120 # Comments: 22",
-      "author": "danabramov",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "58a10919b58b1742",
-      "title": "Oscar Predictions: Best Actress — How Obsessed Will the Academy Become With Inde Navarrette?",
-      "url": "https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/",
-      "datePublished": "2026-08-14T00:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […",
-      "author": "Clayton Davis",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "1e490b85352889f5",
-      "title": "Live Nation Settles Lawsuit Over Luke Bryan Concert Fight That Left Fan wit Brain Damage",
-      "url": "https://consequence.net/2026/08/live-nation-ends-lawsuit-over-luke-bryan-concert-fight/",
-      "datePublished": "2026-08-13T23:56:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A concertgoer had alleged that poor security measures by Live Nation permitted an assault near the end of the country music star's concert. Live Nation Settles Lawsuit Over Luke Bryan Concert Fight That Left Fan wit Brain Damage Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "391626c125fc0f1e",
-      "title": "Tyler Duckworth, ‘The Challenge’ Winner, Dies at 44",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tyler-duckworth-dead-the-challenge-winner-44-1236673350/",
-      "datePublished": "2026-08-13T23:46:11.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Duckworth joined the MTV family as a castmember on 'The Real World: Key West' in 2006.",
-      "author": "McKinley Franklin",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a3d37f77d25f0aa0",
-      "title": "NY Film Festival Sets Currents Lineup Led by ‘Bardi’ World Premiere",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ny-film-festival-2026-currents-lineup-1236673366/",
-      "datePublished": "2026-08-13T23:39:37.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The section, which features films that expand the possibilities of the medium, includes 15 features and 28 shorts.",
-      "author": "Hilary Lewis",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "1f5580a7420f1bcd",
-      "title": "Blog about things you don't understand yet",
-      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "datePublished": "2026-08-13T23:39:33.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/ Comments URL: https://news.ycombinator.com/item?id=49293087 Points: 57 # Comments: 22",
-      "author": "gfysfm",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "241160ce57c543cc",
-      "title": "Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More",
-      "url": "https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/",
-      "datePublished": "2026-08-13T23:31:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […",
-      "author": "Clayton Davis",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "09ab645faca75797",
-      "title": "California Bill to Cap Concert Resale Ticket Prices Dies After Lobbying Frenzy",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/california-bill-to-cap-concert-resale-ticket-prices-dies-1236673216/",
-      "datePublished": "2026-08-13T23:18:38.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "StubHub, the industry's largest ticket resale platform, spent $3.4 million this year lobbying against California's AB 1720.",
-      "author": "Ethan Millman",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "82253cb0b0e99370",
-      "title": "Lil Durk Murder-for-Hire Trial: Judge Rules ‘Pissed Me Off’ Video Can Be Used as Evidence",
-      "url": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-video-lyrics-used-evidence-1235608235/",
-      "datePublished": "2026-08-13T23:10:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Durk's defense fought the admission, saying it would create “so much risk of prejudice and confusion\"",
-      "author": "Nancy Dillon",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "31400c67279de391",
-      "title": "Rami Malek’s $60 Million Spy-Thriller Flop Is Officially a Streaming Hit on Prime Video ",
-      "url": "https://www.polygon.com/prime-video-streaming-august-2026-the-amateur/",
-      "datePublished": "2026-08-13T23:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Rami Malek’s ‘The Amateur’ is a hit on Prime Video more than a year after the $60 million spy thriller struggled at the box office.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-amateur-rami-malek.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "c0a153e2b296b0d5",
-      "title": "Christy Knowings, ‘All That’ Star, Dies at 46",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/",
-      "datePublished": "2026-08-13T22:55:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Her former co-star, Kenan Thompson, wrote in a tribute, \"She was a real one and one of the funniest people out here.\"",
-      "author": "Carly Thomas",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d94db20af5780608",
-      "title": "Mico, Microsoft's weird lil' AI guy, has been demoted",
-      "url": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
-      "datePublished": "2026-08-13T22:51:31.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The amorphous corporate mascot will no longer haunt Copilot Voice.",
-      "author": "staff@engadget.com (Anna Washenko)",
-      "imageUrl": "https://www.engadget.com/img/gallery/mico-microsofts-weird-lil-ai-guy-has-been-demoted/l-intro-1786661192.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "e5e5f23fc6a407c6",
-      "title": "Why Green Day Wanted to Be Background Characters in Their Own Movie",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/green-day-background-characters-movie-nimrods-1236673233/",
-      "datePublished": "2026-08-13T22:49:06.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "'Nimrods' is a road trip comedy based on the band's music and personal stories, but sees Billie Joe Armstrong, Tré Cool and Mike Dirn taking a backseat.",
-      "author": "Kirsten Chuba",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "5a29ec243a4dce77",
-      "title": "Perez Hilton’s Sister Details Moment She Found Him Amid Self-Harm Livestream: “I Didn’t Recognize My Brother”",
-      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-sister-details-self-harm-livestream-1236673308/",
-      "datePublished": "2026-08-13T22:48:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Barbara Lavandeira opens up to Page Six about the hospitalization, what she saw that day, and comes to his defense against those calling the incident a comeuppance.",
-      "author": "Kevin Dolak",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "e9ab340d9fb6d286",
-      "title": "All That Actress Christy Knowings Dead at 46",
-      "url": "http://www.vulture.com/article/all-that-christy-knowings-dead.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T22:33:56.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Her co-star Kenan Thompson says her death “hit hard.”",
-      "author": "Alejandra Gularte",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/01a/320/40b9ee1e3395611c69b0bf4238161f5d60-christy-knowings.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "d5ab907c565a4fd2",
-      "title": "Tyler Duckworth, ‘The Challenge’ Reality Show Winner, Dies at 44",
-      "url": "https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/",
-      "datePublished": "2026-08-13T22:23:34.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tyler Duckworth, who competed on six seasons of reality show “The Challenge” and also appeared on MTV’s “The Real World: Key West,” has died in North Dakota. He was 44. His mother Joni announced his death on Facebook Thursday and said that a cause of death was not yet known. Duckworth won two seasons of […]",
-      "author": "Pat Saperstein",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "e7f30f58587e38d5",
-      "title": "Why is OpenAI losing so many executives?",
-      "url": "https://mashable.com/tech/why-is-openai-losing-so-many-executives",
-      "datePublished": "2026-08-13T22:22:48.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Numerous OpenAI executives have departed the company over the past few months.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0533olXnfMxi8A3O3mtrKJB/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "ccd12cba11adaaae",
-      "title": "The Playlist: NCT’s Taeyong on Musical Inspirations, Songs That Defined His Youth and His Love for NCT",
-      "url": "https://www.hollywoodreporter.com/music/music-news/the-playlist-nct-taeyong-1236652535/",
-      "datePublished": "2026-08-13T22:18:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 31-year-old rapper, singer and leader of K-pop boy group NCT 127 digs into some of his favorite nostalgia anthems in this episode of The Playlist.",
-      "author": "Nicole Fell",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a63c5c3a4521efa9",
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "datePublished": "2026-08-13T22:12:40.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "author": "Aisha Malik",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "19e74d4428c489f8",
-      "title": "Selena Gomez and Her Mother Sued by Wondermind Investors",
-      "url": "http://www.vulture.com/article/selena-gomez-mandy-teefey-wondermind-lawsuit.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T22:10:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The investors claim that they falsely represented their ability to run a mental-health and wellness start-up.",
-      "author": "Alejandra Gularte",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ae/8af/5997721e74f9e8ca077e8ecb34fd280f6b-selena-mom-split.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7cec8a4460220b2e",
-      "title": "Anthropologie’s Beauty Advent Calendar Sells Out Every Year — Its 2026 Iteration Just Dropped",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/anthropologie-advent-calendar-2026-buy-24-days-of-beauty-1236673178/",
-      "datePublished": "2026-08-13T22:06:44.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The retailer's cult-favorite calendar contains over $300 worth of product for under $100.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "2c95dc932467a126",
-      "title": "Cloud storage is great until your vendor goes out of business",
-      "url": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
-      "datePublished": "2026-08-13T22:04:16.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A St. Louis PBS station is suing a data center provider to rescue a 70-year archive.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/cloud-storage-is-great-until-your-vendor-goes-out-of-business/l-intro-1786658416.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "6a4bb2b9b2722c1e",
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "datePublished": "2026-08-13T22:02:04.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "84c18db7735e82ee",
-      "title": "Streaming Ratings: ‘Little House on the Prairie’ Takes Over Top Spot",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-13-19-2026-1236673212/",
-      "datePublished": "2026-08-13T22:01:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "'The Hawk' and 'Ride or Die' also have solid premiere weeks in mid-July.",
-      "author": "Rick Porter",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "191189b8ba90aebc",
-      "title": "The only travel charger you need: Get the 140W DJI Power GaN Charger for under $60",
-      "url": "https://mashable.com/tech/aug-13-dji-power-charger-deal",
-      "datePublished": "2026-08-13T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The DJI Power 140W GaN Charger is on sale at Amazon for $59.49, down from the list price of $69.99. That's a 15% discount.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00aLJhyjtTKgkyOX5EArlXB/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "8d7c740b8099cd55",
-      "title": "Preorder the Google Pixel 11 and Pixel Watch 5 for $100+ off with this limited-time Amazon bundle",
-      "url": "https://mashable.com/tech/aug-13-google-pixel-11-watch-bundle-deal",
-      "datePublished": "2026-08-13T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best Google Pixel deal. Save 10% on the Google Pixel 11 and Pixel Watch 5 at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07Bh9SuQ4B5dnQshCCqdru0/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "4f90f97add7d7970",
-      "title": "Word, Excel, PowerPoint, and more — yours for a one-time $32.97 payment",
-      "url": "https://mashable.com/tech/aug-13-microsoft-office-professional-2021-for-windows",
-      "datePublished": "2026-08-13T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get Microsoft Office Professional 2021 for Windows with a lifetime license for $32.97 instead of $219.99.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06JnzayskoqlhWOmdsXjBmI/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "439e793cd341e7f0",
-      "title": "Bring Bitcoin mining to your desktop for just $49.99",
-      "url": "https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black",
-      "datePublished": "2026-08-13T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the BlockChance Bitcoin Ticket Super Miner for $49.99 and experience real solo Bitcoin mining from your desktop.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06QklajXQAqJM6kZL04bH5Q/hero-image.jpg",
-      "source": "Mashable"
     }
   ]
 }
