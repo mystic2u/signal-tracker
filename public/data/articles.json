@@ -1,6 +1,660 @@
 {
-  "generatedAt": "2026-08-14T23:55:43.223Z",
+  "generatedAt": "2026-08-15T05:02:33.805Z",
   "articles": [
+    {
+      "id": "a9a7e72fc8938ce5",
+      "title": "‘Frozen 3’ “Royal Wedding” Between Anna and Kristoff Is Crashed by New Villain in First-Look",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/",
+      "datePublished": "2026-08-15T04:58:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "65124fdebb8d6349",
+      "title": "Marvel Finally Reveals The Cast Of MCU’s X-Men Reboot",
+      "url": "https://kotaku.com/x-men-mcu-reboot-cast-2028-adam-driver-inde-navarrette-2000724577",
+      "datePublished": "2026-08-15T04:56:01.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Adam Driver, Inde Navarrette, and Christopher Abbott join the ensemble cast for the 2028 film",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2025/04/d60de05dc6db777168a012abec36924d.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "61f6f01f86019ccf",
+      "title": "Marvel’s ‘X-Men’ Reboot Sets May 2028 Release Date",
+      "url": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/",
+      "datePublished": "2026-08-15T04:50:40.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "91ca77a1c7a81f64",
+      "title": "‘Avengers: Doomsday’ Footage Shows Off a “Broken” Doctor Doom",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/",
+      "datePublished": "2026-08-15T04:48:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.",
+      "author": "Aaron Couch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "20b64d76816f705b",
+      "title": "‘Ahsoka’ Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ahsoka-season-2-brings-the-force-first-trailer-1236672980/",
+      "datePublished": "2026-08-15T04:44:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Rosario Dawson and Hayden Christensen return for the new season of the Star Wars show.",
+      "author": "Aaron Couch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "69f8c82c00daa5b1",
+      "title": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
+      "url": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/",
+      "datePublished": "2026-08-15T04:43:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ryan Gosling already survived going to space in “Project Hail Mary,” but now he’s ready to blast off to a galaxy far, far away in “Star Wars: Starfighter.” The upcoming “Star Wars” movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "9f1a10f80c5a782d",
+      "title": "Marvel Officially Reveals New X-Men Movie Cast at D23",
+      "url": "https://www.polygon.com/x-men-movie-news-cast-announced-d23-marvel/",
+      "datePublished": "2026-08-15T04:42:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "At D23 2026, Marvel Studios confirmed the cast of Jake Schreier's X-Men movie, revealing who's playing Cyclops, Storm, and Professor X.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25173492/alex_ross_x_men_cov.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "ea1908d18d87a388",
+      "title": "Kieran Culkin to Star in Animated Movie ‘Clay’ for Disney",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/",
+      "datePublished": "2026-08-15T04:41:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The news was revealed at D23 on Friday, with a release date set for November 2028.",
+      "author": "Aaron Couch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "cdcc7d746f20ad29",
+      "title": "Disney’s ‘Hexed’ Adds Walton Goggins and Jodie Foster to Cast",
+      "url": "https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/",
+      "datePublished": "2026-08-15T04:40:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jodie Foster and Walton Goggins are joining the cast of Disney’s next animated movie, “Hexed.” The casting news was announced during the Disney Entertainment Showcase presentation at Disney’s D23 fan event in Anaheim, California on Friday. Oscar-winner Foster will play a devious witch queen, while Goggins will play a three-eyed cat named Beef Roger Crummchuk. […]",
+      "author": "Jennifer Maas",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "0d26246c389f8340",
+      "title": "Dr. Doom Takes Back “Stolen Lives” in Avengers: Doomsday Trailer: Watch",
+      "url": "https://consequence.net/2026/08/avengers-doomsday-trailer-d23-doctor-doom/",
+      "datePublished": "2026-08-15T04:39:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As Sue Storm explains, \"Everything he loved was taken from him.\" Dr. Doom Takes Back “Stolen Lives” in Avengers: Doomsday Trailer: Watch Eddie Fu",
+      "author": "Eddie Fu",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "789869bd68508246",
+      "title": "‘Zootopia 3’ In the Works at Disney",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/zootopia-3-in-the-works-disney-1236671631/",
+      "datePublished": "2026-08-15T04:34:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ginnifer Goodwin's Judy Hopps and Jason Bateman's Nick Wilde are coming back for another adventure.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "3702b32fd5fbfb6d",
+      "title": "Ryan Gosling Shows Off First Footage From ‘Star Wars: Starfighter,’ About “A Guy From the Wrong Side of the Galaxy”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-first-footage-star-wars-starfighter-d23-1236671420/",
+      "datePublished": "2026-08-15T04:32:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Shawn Levy-directed project is set to fly into theaters May 28, 2027.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "e1c2d12bb0a2eec2",
+      "title": "‘Zootopia 3’ in the Works at Disney",
+      "url": "https://variety.com/2026/film/news/zootopia-3-disney-1236835053/",
+      "datePublished": "2026-08-15T04:31:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Get ready to head back to Zootopia. Disney has announced that “Zootopia 3” is in the works following the massive success of last year’s “Zootopia 2,” which became the company’s highest grossing animated movie of all time with $1.8 billion at the global box office. The franchise started with the original 2016 movie, which introduced […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "4ba99134d11907da",
+      "title": "Disney Reveals First Look at Star Wars: Ahsoka Season 2 at D23 Fan Event",
+      "url": "https://www.polygon.com/ahsoka-season-2-trailer-release-date-d23/",
+      "datePublished": "2026-08-15T04:30:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ahsoka will have to save the galaxy, and maybe the whole Star Wars franchise when the series returns next year",
+      "author": "Sam Nelson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24940964/STC_FF_002160.0.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "c4352f483950606b",
+      "title": "New Avengers: Doomsday Trailer Revealed at D23",
+      "url": "https://www.polygon.com/avengers-doomsday-trailer-2-marvel-d23/",
+      "datePublished": "2026-08-15T04:27:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Avengers Doomsday trailer #2 is now live, after Marvel Studios released a new look at this year's Avengers film.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "1bbf017f5b67d49e",
+      "title": "‘Ahsoka’ Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
+      "url": "https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/",
+      "datePublished": "2026-08-15T04:25:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for “Ahsoka” will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-action […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "2a5ff2340e626175",
+      "title": "‘X-Men’ Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm",
+      "url": "https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/",
+      "datePublished": "2026-08-15T04:16:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The MCU’s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced the inaugural members of the mutant team at D23 on Friday. The cast includes Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbott as Prof. X and Maya Boyd as Storm. […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "5b302f47bd119387",
+      "title": "The New X-Men Revealed: Adam Driver, Christopher Abbott, Inde Navarette Join Sadie Sink and More",
+      "url": "https://consequence.net/2026/08/x-men-mcu-cast-revealed/",
+      "datePublished": "2026-08-15T04:14:30.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jake Schreier (Thunderbolts) is directing the newest take on Marvel's iconic mutants. The New X-Men Revealed: Adam Driver, Christopher Abbott, Inde Navarette Join Sadie Sink and More Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "48f3356854bbe657",
+      "title": "‘X-Men’ Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/x-men-cast-marvel-reboot-1236671602/",
+      "datePublished": "2026-08-15T04:14:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Broadway star Maya Boyd will play Storm in the feature, which has a May 2028 release date.",
+      "author": "Aaron Couch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "e30fb0e6d4880190",
+      "title": "Marvel's Releases First Official VisionQuest Trailer at D23",
+      "url": "https://www.polygon.com/visionquest-trailer-d23-marvel/",
+      "datePublished": "2026-08-15T04:14:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "VisionQuest is coming to Disney Plus in October, and a first trailer for the Marvel show reveals the strangeness to come.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22331050/Screen_Shot_2021_02_26_at_6.39.49_AM__2_.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "bc3e4979c34674c6",
+      "title": "‘Avengers: Doomsday’ Trailer: Robert Downey Jr. Faces Off Against Mister Fantastic, X-Men and Avengers With Army of Sentinels",
+      "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-d23-1236817670/",
+      "datePublished": "2026-08-15T04:12:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Marvel Studios unveiled the second “Avengers: Doomsday” trailer on Friday during Disney’s D23 fan convention, further teasing the massive MCU team-up movie arriving in theaters Dec. 18. The two-minute clip — introduced by “Doomsday” leads Robert Downey Jr. (Doctor Doom), Chris Evans (Steve Rogers/Captain America) and Hayley Atwell (Peggy Carter) — sees Vanessa Kirby’s Sue Storm/Invisible Woman […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "484e30fce8e75862",
+      "title": "‘VisionQuest’ Trailer: Paul Bettany and James Spader Return as Vision and Ultron in ‘WandaVision’ Trilogy Finale",
+      "url": "https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/",
+      "datePublished": "2026-08-15T04:10:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Paul Bettany is back as Marvel’s most popular android Vision in the upcoming Disney+ series, “VisionQuest.” The eight-episode series’ release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. “Before you started working here, I remember when you […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "ffce2c177b34fbd5",
+      "title": "Jon Favreau’s ‘Oswald the Lucky Rabbit’ Miniseries Sets February Release Date on Disney+",
+      "url": "https://variety.com/2026/tv/news/jon-favreau-oswald-the-lucky-rabbit-release-date-1236834697/",
+      "datePublished": "2026-08-15T04:07:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Oswald the Lucky Rabbit, one of Disney’s earliest characters who predated Mickey Mouse, is back for the 21st century. At the D23 fan event in Anaheim on Friday, Disney revealed the first look at its live action combined with hand-drawn 2D animation series “Oswald the Lucky Rabbit” that’s being written, directed and executive produced by […]",
+      "author": "Jordan Moreau",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e256b0b1d388736e",
+      "title": "Paul Bettany’s Vision Is a Family Man in First VisionQuest Trailer: Watch",
+      "url": "https://consequence.net/2026/08/visionquest-trailer-paul-bettany-disney/",
+      "datePublished": "2026-08-15T04:06:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The next TV adventure from Marvel premieres October 14th on Disney+. Paul Bettany’s Vision Is a Family Man in First VisionQuest Trailer: Watch Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "784b58e851234cac",
+      "title": "Marvel Unveils Trippy First ‘VisionQuest’ Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/visionquest-first-trailer-paul-bettany-1236671624/",
+      "datePublished": "2026-08-15T04:05:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Paul Bettany and James Spader star in the Disney+ series for Marvel Studios.",
+      "author": "Aaron Couch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c427ab52bf9f06b7",
+      "title": "CBS News Chief Correspondent Matt Gutman Accused of Sexual Harassment by Former ABC Field Producer",
+      "url": "https://variety.com/2026/tv/news/cbs-news-matt-gutman-lawsit-sexual-harassment-1236835096/",
+      "datePublished": "2026-08-15T04:03:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Matt Gutman, CBS News’ chief correspondent, has been accused of sexual harassment in a wrongful-termination lawsuit filed by a former co-worker at ABC News. Gutman was named in a lawsuit filed by Samira Said, who worked as a field producer for ABC News in its Los Angeles bureau from May 2021 until March 2025. She […]",
+      "author": "Todd Spangler",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1b2c3b3d33b9e14f",
+      "title": "'My Adventures with Superman’s Showrunners Tease a Final Villain Who's Scarier That Darkseid",
+      "url": "https://www.polygon.com/my-adventures-with-superman-showrunners-interview-season-3-finale/",
+      "datePublished": "2026-08-15T04:01:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The My Adventures with Superman showrunners tease an All-Star Superman-inspired season 4 and reveal the villain behind their ultimate endgame.",
+      "author": "Sam Nelson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tcdkima_h7010.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "0494b582e214a73d",
+      "title": "How to watch Manchester United vs. Milan online for free",
+      "url": "https://mashable.com/entertainment/manchester-united-milan-pre-season-friendly-2026-live-stream-for-free",
+      "datePublished": "2026-08-15T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Watch live football for free. How to watch Manchester United vs. Milan in a 2026 pre-season friendly for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06XFKoaCzTUghlIjHWOT3ou/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b92e84cd13fc4e8a",
+      "title": "Moon phase today: What the Moon will look like on August 15",
+      "url": "https://mashable.com/science/moon-phase-today-aug-15-2026",
+      "datePublished": "2026-08-15T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for August 15, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04BwbM0766Eqc2zX62JJi9V/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "df6931d0db7dc9ab",
+      "title": "The best sex and dating apps for hooking up",
+      "url": "https://mashable.com/uk/roundup/best-hookup-apps-uk",
+      "datePublished": "2026-08-15T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Looking for no strings attached sex? We've lined up a selection of sex apps for finding something casual.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/032PDBUNHFvBoerJxJZRCEd/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8580dfe874315b43",
+      "title": "Ralph Bakshi’s ‘The Lord of the Rings’ Remains the Best Spiritual Sequel Ever Made",
+      "url": "https://www.indiewire.com/features/best-of/ralph-bakshi-the-lord-of-the-rings-spiritual-sequel-1235209591/",
+      "datePublished": "2026-08-15T03:59:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Round out IndieWire's Sequels Week, and After Dark's animated Tolkien marathon, with the unfinished epic from 1978.",
+      "author": "Alison Foreman",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "9ee3fbda811259a6",
+      "title": "Gina Raimondo on Reclaiming the American Dream in the Age of A.I.",
+      "url": "https://www.newyorker.com/podcast/political-scene/gina-raimondo-on-reclaiming-the-american-dream-in-the-age-of-ai",
+      "datePublished": "2026-08-15T03:59:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Democrats talk a lot about affordability. Could a message of prosperity be more powerful?",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "7f04b36aca20e411",
+      "title": "‘Tangled’ Live-Action Movie Unveils First-Look, March 2028 Release Date",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tangled-live-action-movie-first-look-1236672365/",
+      "datePublished": "2026-08-15T03:51:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Teagan Croft, Milo Manheim and Kathryn Hahn star in the new film, which is currently filming.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "94f4b89f281ae8ba",
+      "title": "First Trailer for Bluey Movie Premieres at D23: Watch",
+      "url": "https://consequence.net/2026/08/bluey-first-trailer/",
+      "datePublished": "2026-08-15T03:44:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The first Blue movie hits theaters on August 6th, 2027. First Trailer for Bluey Movie Premieres at D23: Watch Alex Young",
+      "author": "Alex Young",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "a3386baa825948ed",
+      "title": "Disney's Bluey movie trailer at D23 2026 is an Avengers-level event",
+      "url": "https://www.polygon.com/bluey-movie-trailer-d23-2026/",
+      "datePublished": "2026-08-15T03:33:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Bingo and Bluey return in 3D CG in this 2028 release",
+      "author": "Matt Patches",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/bluey_movie_2027.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "8f043e693d1d84df",
+      "title": "Lisa Kudrow and Mira Sorvino Bring ‘Romy and Michele 2’ to D23: “We’re Officially Disney Princesses”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lisa-kudrow-mira-sorvino-romy-and-michele-2-d23-1236673702/",
+      "datePublished": "2026-08-15T03:19:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The duo appeared in character to tease the follow-up to their 1997 cult classic.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5267efafd9edaef2",
+      "title": "Kingdom Hearts 4 Release Date and Anime Announced at D23",
+      "url": "https://www.polygon.com/kingdom-hearts-4-pixar-coco-anime-disney-plus-d23/",
+      "datePublished": "2026-08-15T03:18:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Square Enix and Disney revealed Kingdom Hearts 4's release window, new Coco world, and an anime spinoff at D23 2026.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/kingdom-hearts-iv-_-d23-2026-showcase-trailer-0-46-screenshot.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "85eee9621122e528",
+      "title": "Kingdom Hearts IV Gets 2027 Release Window And That’s Not All",
+      "url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
+      "datePublished": "2026-08-15T03:03:11.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The announcement comes from this year's D23 showcase",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/kh4-coco-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "c0d7e3a270206042",
+      "title": "AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "datePublished": "2026-08-15T02:42:14.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 13 # Comments: 5",
+      "author": "oneounceman",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "4aade754c5ff15d1",
+      "title": "Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness",
+      "url": "https://www.rollingstone.com/music/music-news/courtney-love-almost-died-new-albmum-1235609604/",
+      "datePublished": "2026-08-15T02:24:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The musician also revealed her upcoming album, her first since 2010, is done",
+      "author": "Angie Martoccio",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6ea83b426facc74f",
+      "title": "NYT Connections hints today: Clues, answers for August 15, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-15-2026",
+      "datePublished": "2026-08-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04KELprAmf422PNsWfxAbKg/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5a9927e958672645",
+      "title": "Wordle today: Answer, hints for August 15, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-august-15-2026",
+      "datePublished": "2026-08-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1883 on August 15 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00pr58Tn6Uiey8aHoWJif04/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "470a0df6a2c18d52",
+      "title": "NYT Strands hints, answers for August 15, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-15-2026",
+      "datePublished": "2026-08-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02KUjlAnMWXpId4bi2OGU4m/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5603b612fe4fd6c0",
+      "title": "Disney's D23 2026: All the trailers, news, and reveals in one place",
+      "url": "https://www.polygon.com/d23-2026-marvel-trailers-star-wars-frozen-pixar-kingdom-hearts/",
+      "datePublished": "2026-08-15T01:55:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "New footage from Marvel's Avengers: Doomsday, Star Wars: Starfighter, Frozen 3 and more.",
+      "author": "Polygon Staff",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/d23_poly2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "be73bc3cd41eaba1",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "datePublished": "2026-08-15T01:14:05.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 142 # Comments: 29",
+      "author": "Bender",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "7dfb737bd2fd93c0",
+      "title": "How Did New Balance's Alien Moccasin Sneaker Hybrid Get Even Weirder?",
+      "url": "https://www.highsnobiety.com/p/new-balance-u1890a-cow-print/",
+      "datePublished": "2026-08-15T01:03:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The New Balance U1890A Cow Print takes a silhouette that was already inherently experimental and goes all out.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "ee04363f17a2b154",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "datePublished": "2026-08-15T00:55:31.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 61 # Comments: 31",
+      "author": "big_toast",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "172ecfcf22a92e4a",
+      "title": "Simplifying and Refactoring Introductory Calculus",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "datePublished": "2026-08-15T00:15:23.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 61 # Comments: 15",
+      "author": "E-Reverance",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "c7f0a14d929dfc29",
+      "title": "The Vampire Lestat Is Undead in Concert",
+      "url": "http://www.vulture.com/article/the-vampire-lestat-live-concert-film-trailer-release-date.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-14T23:51:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The concert film is coming to AMC+ August 23.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/99d/2ae/5619a217f3a53ded3d86909f70563d9580-vampire-lestat.1x.rsocial.w1200.png",
+      "source": "Vulture"
+    },
     {
       "id": "5fcac2b8964c8f11",
       "title": "‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs",
@@ -227,6 +881,20 @@
       "source": "Consequence"
     },
     {
+      "id": "b88a479110156a2e",
+      "title": "eigendrum",
+      "url": "https://eigendrum.com/#p=circle",
+      "datePublished": "2026-08-14T22:15:12.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 80 # Comments: 15",
+      "author": "bookofjoe",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "da6f4b8c7a4e0f4f",
       "title": "Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge",
       "url": "https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/",
@@ -331,6 +999,19 @@
       "author": "Larisha Paul",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "651759eb2db16ecc",
+      "title": "Hockey Is For Everyone",
+      "url": "https://www.nplusonemag.com/online-only/online-only/hockey-is-for-everyone/",
+      "datePublished": "2026-08-14T21:56:57.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Entering an era of super-teams and diva stars who insist on winning now and getting maximally paid, the NHL is more and more reminiscent of the NBA at its worst: A hypermediated, personality-driven PR event masquerading as a mostly noncompetitive sports league. NHL Commissioner Gary Bettman is getting what he wanted—the game grown, at least in dollar value—and the result looks pretty damn ugly.",
+      "author": "Alan Dean",
+      "imageUrl": "https://www.nplusonemag.com/wp-content/uploads/2026/08/G-LvTovWAAAs-Rl-144x180.jpeg",
+      "source": "n+1"
     },
     {
       "id": "de286d39273eabb3",
@@ -3499,6 +4180,20 @@
       "source": "Mashable"
     },
     {
+      "id": "d3f2d27f8e806904",
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "datePublished": "2026-08-14T12:00:51.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/ Comments URL: https://news.ycombinator.com/item?id=49297637 Points: 152 # Comments: 103",
+      "author": "surprisetalk",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "4474c82bed26837d",
       "title": "Silo Recap: No Static at All",
       "url": "http://www.vulture.com/article/silo-recap-season-3-episode-7-apple-tv.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
@@ -6007,705 +6702,6 @@
       "author": "Elisabeth Garber-Paul",
       "imageUrl": "",
       "source": "Rolling Stone"
-    },
-    {
-      "id": "a7f8ca8ecf4f95e7",
-      "title": "White House signing deals with private hackers to combat cybercrime",
-      "url": "https://mashable.com/tech/white-house-announces-offensive-hacking-against-cyberattacks",
-      "datePublished": "2026-08-13T19:18:46.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A new presidential memoranda allows federal agencies to contract private firms to conduct targeted hacking against cybercrime networks.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07hOt38mmDo5u6t3O5S8EqK/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "c1080e8fdcea3ee0",
-      "title": "All summer 'Horizon Mascot Party' challenges and rewards in Forza Horizon 6",
-      "url": "https://www.polygon.com/forza-horizon-6-fh6-all-horizon-mascot-party-series-4-playlist-challenges-rewards/",
-      "datePublished": "2026-08-13T19:17:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here you find all the \"Horizon Mascot Party\" Series 4 challenges and rewards in Forza Horizon 6, as well as the prizes for each season.",
-      "author": "Paulo Kawanishi",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_allchallenges_header.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "27ef4b4a6b6626e0",
-      "title": "Matt Damon's Near-Perfect 109-Minute Dystopian Sci-Fi Epic Is Officially Streaming on Netflix",
-      "url": "https://www.polygon.com/matt-damon-elysium-netflix-august-2026/",
-      "datePublished": "2026-08-13T19:16:06.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The grounded everyman steps up to save the day in Matt Damon's Elysium.",
-      "author": "Debopriyaa Dutta",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/elysium.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "9688c9ff8be88c18",
-      "title": "'Genshin Impact's Latest Update Takes a Jab at Donald Trump Reflecting Pool Drama",
-      "url": "https://www.polygon.com/genshin-impact-new-update-bashes-donald-trump/",
-      "datePublished": "2026-08-13T19:13:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "'Genshin Impact's 7.0 update includes an in-game bulletin that makes fun of Donald Trump's Reflecting Pool controversy.",
-      "author": "Elijah Gonzalez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/genshin-impact-fountain.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "39faabf31c7b1081",
-      "title": "Instagram got a cleaner new logo. The internet has questions.",
-      "url": "https://mashable.com/life/instagram-new-logo-wordmark-update-2026",
-      "datePublished": "2026-08-13T19:12:23.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Instagram wanted a cleaner, more modern wordmark in 2026. It may have accidentally renamed itself “Instagzam.”",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07kp4iZRe21i0zYCj8g7V7e/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "8ee1da795d708053",
-      "title": "Original Pearl Jam Drummer Dave Krusen Plays Through the Full Album Ten for Drumeo: Watch",
-      "url": "https://consequence.net/2026/08/pearl-jam-drummer-dave-krusen-ten-drumeo/",
-      "datePublished": "2026-08-13T19:09:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The full-album performance also includes lots of behind-the-scenes stories, technical information, and discussion of the band's formation. Original Pearl Jam Drummer Dave Krusen Plays Through the Full Album Ten for Drumeo: Watch Langdon Hickman",
-      "author": "Langdon Hickman",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "3807dbbf3cb40ef7",
-      "title": "Two of the Greatest Assassin's Creed Games Are Coming to Amazon Prime",
-      "url": "https://www.polygon.com/amazon-gaming-luna-august-2026-assassins-creed-9-free-games/",
-      "datePublished": "2026-08-13T19:09:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Assassin's Creed Mirage and Valhalla join Luna later this month. Amazon Prime members will also be able to download nine free games.",
-      "author": "Austin Manchester",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25089217/assasin_s_creed_mirage.jpeg",
-      "source": "Polygon"
-    },
-    {
-      "id": "4f5acc5d633345f0",
-      "title": "‘Ted Lasso’ Season 4 Sets Premiere Day Viewing Record for Apple TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-premiere-ratings-apple-tv-1236673077/",
-      "datePublished": "2026-08-13T19:02:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The show's return drew nearly 300 million minutes of viewing time on Aug. 4 and 5.",
-      "author": "Rick Porter",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "dedf0df30c072e73",
-      "title": "6 Divisive 'Buffy the Vampire Slayer' Episodes That Fans Hated But Have Aged Like Fine Wine",
-      "url": "https://www.polygon.com/buffy-the-vampire-slayer-controversial-episodes/",
-      "datePublished": "2026-08-13T19:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Buffy the Vampire Slayer marked a before and after for television, taking many creative swings. Here are 5 of its most divisive and impactful episodes",
-      "author": "Maria Loreto",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-gentlemen.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "da924d07ea05c4fc",
-      "title": "Joe Dante’s ‘Explorers’ Got Lost in the Shadow of ‘Back to the Future,’ but Deserved Better",
-      "url": "https://www.indiewire.com/features/commentary/joe-dante-explorers-4k-uhd-vinegar-syndrome-1235203631/",
-      "datePublished": "2026-08-13T19:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The director's \"Gremlins\" follow-up isn't as well known or regarded as that 1984 hit, but a new 4K release reveals it to possess its own considerable charms.",
-      "author": "Jim Hemphill",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "a09d5f1cf4433535",
-      "title": "Three New Things We Learned From Fire Emblem: Fortune’s Weave Previews",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-previews-roundup-nintendo-switch-2-2000724173",
-      "datePublished": "2026-08-13T18:55:30.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Previews are in and it sounds like the game is a beefy one...and possibly a weird one, too",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/07/Fire-Emblem-Fortunes-Weave-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "91789d188c8585ff",
-      "title": "Struggling GOP Rep Won’t Commit to Returning Money From Alleged Abuser",
-      "url": "https://newrepublic.com/post/214334/struggling-gop-rep-wont-commit-returning-money-alleged-abuser",
-      "datePublished": "2026-08-13T18:55:04.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "New York GOP Representative Mike Lawler chose to go back and forth with Dana Bash rather than make any commitment to return the $10,000 he accepted from his embattled colleague, Ohio Representative Mike Miller—who was sued by his ex-wife today for accidentally sharing images of their two-year-old daughter’s genitalia while attempting to discredit other disturbing accusations against him. “You rece",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/a0ab9f563b9238cd506314e0d15ddbfa299c1e4c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "351ab22a68dd5282",
-      "title": "CBS News Pushes Into Live Events as ‘Sunday Morning’ Teams With 92nd Street Y (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-sunday-morning-teams-92y-live-interview-series-1236672349/",
-      "datePublished": "2026-08-13T18:55:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The long-running morning show will collaborate with the Upper East Side cultural institution on live interviews and programming that will stream on both their platforms.",
-      "author": "Alex Weprin",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "557fa4d0dcf39077",
-      "title": "US government to allow private companies to carry out cyberattacks on its behalf",
-      "url": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/",
-      "datePublished": "2026-08-13T18:52:06.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "US government to allow private companies to carry out cyberattacks on its behalf.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "0d0766dadb5b7aaf",
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "datePublished": "2026-08-13T18:47:19.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 96 # Comments: 57",
-      "author": "sebg",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "92264db8f8d46b2e",
-      "title": "Pete Hegseth Claims Sailors Deployed to Middle East Are Doing Fine",
-      "url": "https://newrepublic.com/post/214339/pete-hegseth-sailors-iran-uss-abraham-lincoln",
-      "datePublished": "2026-08-13T18:47:02.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Secretary of Defense Pete Hegseth denied that military servicemembers aboard the USS Abraham Lincoln are dealing with poor conditions, saying Thursday that reports describing such conditions were “completely misrepresented.” “We make sure every ship, every crew, every captain has everything we can provide them at every single moment,” Hegseth said to reporters while on a visit to Panama. “Some dep",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/f338b032dbdb20fadb5c279e5d0ca90412b99be1.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "356cae93179e4167",
-      "title": "Start the Party: Where to Watch ‘Camp Rock 3’ Online Without Cable for Free",
-      "url": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-camp-rock-3-online-for-free-livestream-disney-channel-1235607949/",
-      "datePublished": "2026-08-13T18:42:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Jonas Brothers and Demi Lovato are reprising their roles in the newest installment of the hit Disney Channel movie franchise. Here’s how to stream it",
-      "author": "Alexis Mikulski Ruiz",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "e157d8723cb8720f",
-      "title": "Charlie Worsham, Welcome to the Grand Ole Opry. It’s About Damn Time",
-      "url": "https://www.rollingstone.com/music/music-features/charlie-worsham-inducted-grand-ole-opry-good-choice-1235608039/",
-      "datePublished": "2026-08-13T18:42:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The country music institution has made some curious picks for membership in the past, but in choosing one of Nashville's most beloved and talented players, the Opry gets it right",
-      "author": "Marissa Moss",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "7a470e4fd867bc3e",
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "datePublished": "2026-08-13T18:41:01.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 108 # Comments: 56",
-      "author": "ValdikSS",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "71e7045c3e08690e",
-      "title": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "datePublished": "2026-08-13T18:37:18.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://themech.net/2026/08/hello-me-its-been-a-while/ Comments URL: https://news.ycombinator.com/item?id=49290166 Points: 91 # Comments: 46",
-      "author": "somesoftdev",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "c1a5241dbebb5d52",
-      "title": "Where to Buy Last-Minute My Chemical Romance ‘Black Parade’ Tour Tickets",
-      "url": "https://www.rollingstone.com/product-recommendations/tickets/my-chemical-romance-black-parade-tour-tickets-1235607594/",
-      "datePublished": "2026-08-13T18:37:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The band is back in North America touring their classic 2006 album in full, with an impressive roster of opening acts",
-      "author": "Jonathan Zavaleta",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "fd217d9207a6d48b",
-      "title": "The Makers of P90X Are Now BODi — And They Offer Some Great Stuff",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/bodi-review-rebrand-best-products-supplements-1235608014/",
-      "datePublished": "2026-08-13T18:35:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Formerly Beachbody On-Demand, BODi has rebranded to become a holistic wellness brand that’s worth checking out",
-      "author": "Oscar Hartzog",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "72ce2287f157efb1",
-      "title": "Even at Retirement Age, the Birkenstock Clog Is Somehow Still Cooking",
-      "url": "https://www.highsnobiety.com/p/birkenstock-boston-collabs/",
-      "datePublished": "2026-08-13T18:33:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The South Korean avant-garde label Ader Error's fresh take on Boston, plus Birkenstock's own creative updates, prove the old shoe is still cooking.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "f46766e5e91d52b4",
-      "title": "Trump Has Lost Nearly a Quarter of Key Drone Stockpile in Iran",
-      "url": "https://newrepublic.com/post/214338/donald-trump-lost-quarter-reaper-drone-iran",
-      "datePublished": "2026-08-13T18:31:20.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Trump administration has lost roughly one quarter of the country’s MQ-9 Reaper drones as part of the president’s ongoing war against Iran. Three U.S. officials told The Washington Post Thursday that the U.S. military had lost at least 45 Reaper drones. Each low-flying surveillance and attack drone costs between $30 million and $50 million to produce, depending on what type of sensor each machi",
-      "author": "Edith Olmsted",
-      "imageUrl": "https://images.newrepublic.com/f22d41b52de9d8e65157a65b66afd1e0186d70a4.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "35a063a0734af950",
-      "title": "The best Spotify alternatives to ease your conscience",
-      "url": "https://www.engadget.com/2234678/best-spotify-alternatives-2026/",
-      "datePublished": "2026-08-13T18:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "There are loads of options for getting new music into your ears if you're fed up with Spotify.",
-      "author": "staff@engadget.com (Nathan Ingraham)",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-best-spotify-alternatives-to-ease-your-conscience/l-intro-1786405619.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "80838f891204a6ff",
-      "title": "“We Don’t See This as Entertainment”: ‘THR Presents’ Q&A With Octavia Spencer on True Crime Docu-Series ‘Lost Women of Alaska’",
-      "url": "https://www.hollywoodreporter.com/tv/tv-videos/octavia-spencer-lost-women-of-alaska-emmy-nominee-narrator-1236668252/",
-      "datePublished": "2026-08-13T18:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The narrator and executive producer of the ID series talks about the \"duty\" she feels to amplify the stories of missing and murdered native women and the current efforts toward seeking justice.",
-      "author": "Brande Victorian",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "094e0163a30221d3",
-      "title": "Sally Field Recalls the Roles She Fought for the Hardest",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-career-remarkably-bright-creatures-1236672565/",
-      "datePublished": "2026-08-13T18:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Emmy-nominated star of Netflix’s 'Remarkably Bright Creatures' adaptation discusses the \"The whole time?\" moment from 'Mrs. Doubtfire' and whether you can expect to see her reprising Mary Todd Lincoln on Broadway: \"No, no, no.\"",
-      "author": "Lexy Perez",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d83d050a98090538",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "datePublished": "2026-08-13T18:28:14.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "author": "Rebecca Bellan",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "a379b9e18ce57c69",
-      "title": "Morat to Donate Concert Proceeds to Help Rebuild Schools After Colombia Earthquake",
-      "url": "https://consequence.net/2026/08/morat-donate-concert-proceeds-rebuild-schools-colombia-earthquake/",
-      "datePublished": "2026-08-13T18:27:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The band will also collect fan donations throughout its six-show residency at Bogotá’s Movistar Arena Morat to Donate Concert Proceeds to Help Rebuild Schools After Colombia Earthquake Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "006d491b6c0fda3b",
-      "title": "The 'Miles Morales Trend' Is Taking Over TikTok And Reels As Users Wonder How It's Done",
-      "url": "https://knowyourmeme.com/memes/miles-morales-trend",
-      "datePublished": "2026-08-13T18:21:43.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The Miles Morales Trend is a TikTok and Instagram Reels lip dub trend based on a scene from Spider-Man: Into the Spider-Verse where Miles Morales, aka Spider-Man, describes his origin story. While lip dubbing to the lines, the participant pretends to be Miles Morales and appears to stick to the ceiling with one hand. The trend was started in early August 2026 and went viral that month on both TikT",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/290/smancover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "50f9ffd70672de72",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "datePublished": "2026-08-13T18:10:02.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 326 # Comments: 126",
-      "author": "pr337h4m",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "8baab162bf136209",
-      "title": "Siblings’ Child Sex Trafficking Lawsuit Against Michael Jackson Dismissed",
-      "url": "https://pitchfork.com/story/siblings-child-sex-trafficking-lawsuit-against-michael-jackson-dismissed/",
-      "datePublished": "2026-08-13T18:07:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A California state judge has sent the Cascio siblings’ suit to arbitration, citing a clause in their 2019 settlement with the Jackson estate",
-      "author": "Walden Green",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "8de6e34c4f173a20",
-      "title": "Next Gen NYC Recap: What Happens in Vegas",
-      "url": "http://www.vulture.com/article/next-gen-nyc-recap-season-2-episode-8-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T18:07:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Charlie takes advantage of the good vibes at BravoCon to ingratiate himself back into the group — and then wastes no time sowing more chaos.",
-      "author": "Tom Smyth",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/18f/af4/34a967d657209dce2dd454efa5abf2e6dc-nextgen-s2-ep8.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "cdd222d5bae3cc84",
-      "title": "‘House of the Dragon’ Star on Narrowly Cheating Death: “They Can’t Get Rid of Me That Easily”",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-finale-sea-snake-steve-toussaint-1236673062/",
-      "datePublished": "2026-08-13T18:03:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Sea Snake, played with royal gravitas by Steve Toussaint, survives the end of season three. \"Who knows what tomorrow may bring. But for now, I'm still employed,\" says Toussaint.",
-      "author": "Jackie Strause",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "65a0f85fd7636e55",
-      "title": "David Ellison’s Desperate Measures",
-      "url": "http://www.vulture.com/article/david-ellison-desperate-measures-paramount-wbd-merger.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T18:00:34.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Paramount CEO is throwing spaghetti at the wall to make the Warner Discovery merger stick. So far, no good.",
-      "author": "Josef Adalian",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/5cd/4bb/b2eb142020122a89dbcb246536a2724748-david-ellison.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "fcc6870af546e8d6",
-      "title": "Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?",
-      "url": "https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128",
-      "datePublished": "2026-08-13T18:00:19.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "It's the battle of the year as we pit EA's two excellent PC-only shooters against each other to figure out which is the best",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "64015dd11c9573d6",
-      "title": "How Compaction Works in Pi",
-      "url": "https://earendil.com/posts/compaction-in-pi/",
-      "datePublished": "2026-08-13T17:57:50.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 59 # Comments: 17",
-      "author": "tosh",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "0b414d1e83353571",
-      "title": "Canadian Theater Recreates 'Spoderman' Meme After Not Receiving Its 'Spider-Man: Brand New Day' Poster, Garnering Virality Online",
-      "url": "https://knowyourmeme.com/memes/spoderman-spooderman",
-      "datePublished": "2026-08-13T17:56:52.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Spoderman, also known as Spodermen or Spooderman, is an MS Paint character resembling a poorly drawn version of Spider-Man. The character usually appears as a recurring character in Dolan comics or videos. Any content involving Spoderman typically contains poor grammar and spelling and has many signature phrases such as \"an fagit\" and \"sweg.\" In August 2026, the meme experienced a resurgence onlin",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/news_feeds/icons/mobile/000/095/578/180.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "6795023c29412c91",
-      "title": "Trump’s Hand-Picked Board Makes Another Attempt to Add Name to Kennedy Center, Shutter Building for “Renovations”",
-      "url": "https://consequence.net/2026/08/trump-kennedy-center-shutdown-second-attempt/",
-      "datePublished": "2026-08-13T17:50:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A judge blocked the previous effort to shut down the Kennedy Center back in May. Trump’s Hand-Picked Board Makes Another Attempt to Add Name to Kennedy Center, Shutter Building for “Renovations” Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "0d0ca0eaaa5af7fe",
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "datePublished": "2026-08-13T17:49:18.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 98 # Comments: 66",
-      "author": "tdx",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "213d3a6202416dd5",
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "datePublished": "2026-08-13T17:48:13.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 190 # Comments: 99",
-      "author": "tosh",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "1ce9df3aa971a2e5",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "datePublished": "2026-08-13T17:45:50.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 153 # Comments: 62",
-      "author": "jkrauska",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2fa0563149473655",
-      "title": "Gen Z has a new dating app profile rule, apparently",
-      "url": "https://mashable.com/life/gen-z-dating-app-profile-rule-no-swimwear",
-      "datePublished": "2026-08-13T17:43:01.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Hily dating app asked Gen Z about certain types of profile photos — and whether they even belong on dating apps.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04eGgm3RM5VsDUnjKeQGEPD/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "04b89b1fd8675264",
-      "title": "X-Men ’97 Just Isn’t the Same Without Him",
-      "url": "http://www.vulture.com/article/x-men-97-season-2-magneto-death-gambit-ending-explained.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T17:37:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Absences are often impermanent on this show, something the third season would do well to take advantage of.",
-      "author": "Roxana Hadadi",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b79/1bc/c29eca943117dd464d6fdb86a6a2cab3e9-XMEN97S2-204-R.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7ecaa28f10205aa7",
-      "title": "Israel’s Leaders Find Allies Among the Global Far Right",
-      "url": "https://www.newyorker.com/news/global-notes/israels-leaders-find-allies-among-the-global-far-right",
-      "datePublished": "2026-08-13T17:36:48.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Support for the nation is becoming an increasingly polarizing issue in politics around the world.",
-      "author": "Ishaan Tharoor",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "7743d0750c480198",
-      "title": "How to Spot Nicole Kidman at a Rave",
-      "url": "http://www.vulture.com/article/nicole-kidman-raves-ibiza-wig.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-13T17:26:09.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Dinner at 10:30 p.m., club at 1a.m. I’ll put on glasses.”",
-      "author": "Bethy Squires",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/389/558/4771789f56853db7b829315eb1acfe840a-nicole-kindman-lede.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "62936b3f21cd763b",
-      "title": "Flock tries to make its cameras harder for cops to misuse",
-      "url": "https://www.engadget.com/2236415/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/",
-      "datePublished": "2026-08-13T17:25:34.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Flock tries to make its cameras harder for cops to misuse.",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/l-intro-1786641877.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "ccebb06f6c320fb0",
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "datePublished": "2026-08-13T17:23:22.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 496 # Comments: 304",
-      "author": "thisisauserid",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "3a8fb50aa83e9758",
-      "title": "JDK 27 G1/Parallel/Serial GC Changes",
-      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-      "datePublished": "2026-08-13T17:22:39.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html Comments URL: https://news.ycombinator.com/item?id=49289101 Points: 37 # Comments: 13",
-      "author": "0x54MUR41",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "acf3017c5f3ca986",
-      "title": "Microsoft ditches Copilots mascot Mico (and cuts a few AI features)",
-      "url": "https://mashable.com/tech/microsoft-ditches-copilot-mascot-mico-ai-features-merges-apps",
-      "datePublished": "2026-08-13T17:18:19.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Microsoft is merging its consumer and business Copilot apps. With the changes, come the loss of some AI tools and Copilot's own animated mascot.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04nW1olIsDK6lcdR9hl7pfu/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d46e02ba6596a0c0",
-      "title": "Tocharian Online",
-      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "datePublished": "2026-08-13T17:15:46.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://lrc.la.utexas.edu/eieol/tokol/0 Comments URL: https://news.ycombinator.com/item?id=49289026 Points: 49 # Comments: 7",
-      "author": "Bluestein",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "fbb6d6707b7a3336",
-      "title": "7 Things We Learned About Insomniac’s Wolverine From The Latest Previews",
-      "url": "https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190",
-      "datePublished": "2026-08-13T17:15:14.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Logan’s solo game is taking pieces of X-Men history and remixing them for a new story",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/wolverinepreviews.jpg",
-      "source": "Kotaku"
     }
   ]
 }
