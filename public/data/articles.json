@@ -1,6 +1,433 @@
 {
-  "generatedAt": "2026-08-16T03:17:54.664Z",
+  "generatedAt": "2026-08-16T10:54:18.145Z",
   "articles": [
+    {
+      "id": "1fdd207efab5a99b",
+      "title": "One Punch Man’s Original Director Will Unleash His Dazzling New Sci-Fi Movie in 6 Months",
+      "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
+      "datePublished": "2026-08-16T10:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ghost: End of Night seems every bit able to capture the same emotional sensibilities at the heart of Sonny Boy as Natsume's first feature film.",
+      "author": "Ryan Epps",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ghost-2027-2-11-0-7-screenshot.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "472c03b639cf613e",
+      "title": "Vans’ Signature Skate Shoe Doesn’t Need To Reinvent The Wheel",
+      "url": "https://www.highsnobiety.com/p/vans-skate-rowan-z3/",
+      "datePublished": "2026-08-16T10:00:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Vans’ Skate Rowan Z3 proves skate shoes still have plenty of room to evolve, combining skate-ready details with the effortless style of an everyday sneaker.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "af9d22a3ece3e397",
+      "title": "Madhuri Vijay on Cross-Generational Dynamics",
+      "url": "https://www.newyorker.com/books/this-week-in-fiction/madhuri-vijay-08-24-26",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The author discusses her story “Hidden Life.”",
+      "author": "Deborah Treisman",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "1a1501cc8c2e21c6",
+      "title": "“Life of M,” Reviewed",
+      "url": "https://www.newyorker.com/magazine/2026/08/24/life-of-m-rachel-cusk-book-review",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "“The Yahoo Boys,” “Unsayable,” “Sunrise,” and “Skin Contact.”",
+      "author": "Becca Rothfeld",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "98143feea0a41df9",
+      "title": "The Unlikely Reign of “Choosin’ Texas”",
+      "url": "https://www.newyorker.com/culture/songs-of-summer/the-unlikely-reign-of-choosin-texas",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Ella Langley’s chart-topping lament is about what everyone wants to do in mid-August: give in and let go.",
+      "author": "Amanda Petrusich",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "33d66b3e17f3f23c",
+      "title": "“Hidden Life,” by Madhuri Vijay",
+      "url": "https://www.newyorker.com/magazine/2026/08/24/hidden-life-fiction-madhuri-vijay",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "A tiny motor of pleasure had started to hum away inside her, but she was aware, too, of a flash of scorn. How easy it had been to arouse his admiration!",
+      "author": "Madhuri Vijay",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "3e3c7427b5cd9156",
+      "title": "How Sam Smith Found Their Voice",
+      "url": "https://www.newyorker.com/culture/the-new-yorker-interview/how-sam-smith-found-their-voice",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Grammy-winning artist on coming out as nonbinary, writing requited love songs for the first time, and why their new album, “Hazel Eyes,” is their most personal yet.",
+      "author": "Jeffrey Masters",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "2b27a07224ad687d",
+      "title": "Restaurant Review: A Tasting Menu That Uses Every Last Scrap",
+      "url": "https://www.newyorker.com/culture/the-food-scene/a-tasting-menu-that-uses-every-last-scrap",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "At Cynthia, an emphasis on low-waste cooking yields a menu of thrilling abundance.",
+      "author": "Helen Rosner",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "d35c367c90578ca3",
+      "title": "Donald Trump Is Still Trying to Make It Harder to Vote",
+      "url": "https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The SAVE America Act is just one part of a package that includes an executive order and threats of prosecution, all in an effort to make Trump’s math work.",
+      "author": "Amy Davidson Sorkin",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "b2b4e3de04acc3f5",
+      "title": "Madhuri Vijay Reads “Hidden Life”",
+      "url": "https://www.newyorker.com/podcast/the-writers-voice/madhuri-vijay-reads-hidden-life",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The author reads her story from the August 24 & 31, 2026, issue of the magazine.",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "68ce8cc332612127",
+      "title": "The Key to Understanding the Disturbing Relationship Between Silicon Valley and the Trump Administration",
+      "url": "https://slate.com/culture/2026/08/tech-silicon-valley-elon-musk-peter-thiel-trump-politics-fascism-gil-duran.html?via=rss",
+      "datePublished": "2026-08-16T09:40:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "A new book thoroughly catalogs the insane things that tech moguls like Peter Thiel have advocated for.",
+      "author": "Laura Miller",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "80c9c4cd36714483",
+      "title": "How to watch Liverpool vs. Como online for free",
+      "url": "https://mashable.com/entertainment/liverpool-como-pre-season-friendly-2026-live-stream-for-free",
+      "datePublished": "2026-08-16T09:20:53.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Watch live football for free. How to watch Liverpool vs. Como in a 2026 pre-season friendly for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/030lY5wkIPIY0TiZc3FtLCj/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d72c5499134d6995",
+      "title": "How to watch Schalke 04 vs. Real Madrid online for free",
+      "url": "https://mashable.com/entertainment/schalke-04-real-madrid-pre-season-friendly-2026-live-stream-for-free",
+      "datePublished": "2026-08-16T09:20:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Watch live football for free. How to watch Schalke 04 vs. Real Madrid in a 2026 pre-season friendly for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/074re4QOGexCvVmKFjZK9h6/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b12b540e35826e65",
+      "title": "How to watch RC Lens vs. PSG online for free",
+      "url": "https://mashable.com/entertainment/rc-lens-psg-trophee-des-champions-2026-live-stream-for-free",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Trophee des Champions for free. Live steam RC Lens vs. PSG in the 2026 Trophee des Champions for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03rXD3157rujjyzpQe5kBUV/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7fc7323e91b4e8d9",
+      "title": "The best HBO Max deals and bundles in August 2026",
+      "url": "https://mashable.com/entertainment/best-hbo-max-deals-august-2026",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "In August 2026, HBO Max is offering bundle deals with its service so you can stream excellent shows and movies at a discounted price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02A43q0zfMdQiE5ZpjH9Ott/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "522b0069dd4f59c7",
+      "title": "This platform gives you ChatGPT, Gemini, Claude, and 17+ other AI models for life for $54.97",
+      "url": "https://mashable.com/tech/aug-16-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "ChatPlayground gives you lifetime access to 20+ AI models you can all use at the same time, and it's only $55",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02zowdXLFeFhb22K2rslRLm/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "1d181955ed59e70e",
+      "title": "AdultFriendFinder alternatives still active in 2026",
+      "url": "https://mashable.com/life/adultfriendfinder-alternatives-still-active-in-2026",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "These four sites are upholding the kink-forward legacy of AFF.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UVJURqrsYgYXgankmwlpm/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "9bc0fbf2c086af1b",
+      "title": "The best hookup apps for 2026: I swiped until my thumb hurt",
+      "url": "https://mashable.com/roundup/best-hookup-apps-2026",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Are you single? We tested the best hookup apps to help you find a summer fling, situationship, or whatever else you wanna call it.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/03sRx1yuBDqh99mwiCwW8zu/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "79a656250238013c",
+      "title": "The best budget robot vacuums to buy in 2026, expert tested at home",
+      "url": "https://mashable.com/roundup/best-cheap-robot-vacuums-2026",
+      "datePublished": "2026-08-16T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "After putting 15+ budget vacuums through realistic at-home cleaning tests, we found three affordable robot vacuums that actually work hard.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/038eEjcAcfejwLWGCRLA4xH/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "1d18e8d844db0bec",
+      "title": "‘Shame and Money’ Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: ‘It’s a Look Into the Past and a Warning to the Future’",
+      "url": "https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/",
+      "datePublished": "2026-08-16T08:33:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival — the scene of a previous triumph — with the biting social drama “Shame and Money,” which won the top prize in Park City earlier this year and is playing in the festival’s main competition. The director’s third feature wowed audiences at Sundance, […]",
+      "author": "Postcardjunky",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "156dd870cb56af23",
+      "title": "Crocs' Peanut Butter Clog Gets Laced Up",
+      "url": "https://www.highsnobiety.com/p/crocs-axle-suede-mule-brown/",
+      "datePublished": "2026-08-16T07:57:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Crocs' Axle Suede Mule is a creamy suede slip-on that doesn't need a heel to really hold it down.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "81ad09ea2459e094",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "datePublished": "2026-08-16T07:37:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 122 # Comments: 82",
+      "author": "porridgeraisin",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "d02b95b00acf6caf",
+      "title": "‘Too Much Music’ Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists’ Narratives",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/",
+      "datePublished": "2026-08-16T06:59:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Director Aseye Fiagbe grew up with his music, thanks to the band Osibis, but about his story, she basically only knew how he died. \"That bothered me,\" she recalls about the inspiration for the doc.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c2d20de29a4ee51a",
+      "title": "Ranveer Singh, Kalyani Priyadarshan’s ‘Pralay,’ Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
+      "url": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/",
+      "datePublished": "2026-08-16T05:41:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ranveer Singh’s “Pralay,” an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla’s Birla Studios, Hansal Mehta and Sahil Saigal’s True Story Films and Singh’s Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by Jai Mehta. One of […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "444355d6526b15f1",
+      "title": "‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners",
+      "url": "https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/",
+      "datePublished": "2026-08-16T05:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Hacks,” “The Pitt” and “Beef” were the big winners of the 2026 Astra TV Awards. “The Pitt” took home the most trophies of the night with six. Those include for best drama series, streaming drama ensemble, actor in a drama series for Noah Wyle, supporting actor in a drama series for Patrick Ball, supporting actress […]",
+      "author": "Matthew Minton",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a0cb52feaea3d4c0",
+      "title": "Disney’s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News",
+      "url": "https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/",
+      "datePublished": "2026-08-16T04:57:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend.",
+      "author": "Alex Weprin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9d86472b747e0cbf",
+      "title": "Falstad Math and Physics Simulations",
+      "url": "https://www.falstad.com/mathphysics.html",
+      "datePublished": "2026-08-16T04:19:32.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 21 # Comments: 4",
+      "author": "pykello",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ba9d231a550ab143",
+      "title": "‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027",
+      "url": "https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/",
+      "datePublished": "2026-08-16T04:11:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "THe’Monsters, Inc.’ themed land, Monstropolis is set to open at Disney’s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis will […]",
+      "author": "Jazztangcay",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "df51c9ba003dcc34",
+      "title": "Hurdle hints and answers for August 16, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-16-2026",
+      "datePublished": "2026-08-16T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03rPbrpEX9ZCGLQSBX7q7Ww/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "be95587fe0a7cdae",
+      "title": "Moon phase today: What the Moon will look like on August 16",
+      "url": "https://mashable.com/science/moon-phase-today-aug-16-2026",
+      "datePublished": "2026-08-16T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for August 16, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06tdWVhwo1Airdc0YxGGNPe/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ccc4df8b2a137435",
+      "title": "Robert Downey Jr. Is Still Iron Man at California Adventure",
+      "url": "http://www.vulture.com/article/robert-downey-jr-avengers-campus-d23.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-16T03:50:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Alongside other Avengers for a new ride at Avengers campus.",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/d09/2ff/b384d1932f368e9cc7d9e0b3d80989c7a8-robert-downey-jr.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
     {
       "id": "b97ce47a0e4b6f8f",
       "title": "Netflix Fires Back Against Tyra Banks’ ‘America’s Next Top Model’ Docuseries Defamation Lawsuit",
@@ -13,6 +440,34 @@
       "author": "McKinley Franklin",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a3f1b10540e9be82",
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "datePublished": "2026-08-16T02:36:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 19 # Comments: 5",
+      "author": "adm4",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "af863cb3b215d959",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "datePublished": "2026-08-16T02:12:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 94 # Comments: 41",
+      "author": "maxutility",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "2a8396503e526ce0",
@@ -370,6 +825,20 @@
       "author": "ingve",
       "imageUrl": "",
       "source": "Hacker News"
+    },
+    {
+      "id": "0b3d870a428525eb",
+      "title": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
+      "url": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
+      "datePublished": "2026-08-15T22:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Samsung's newest party trick could actually help you improve your diet, and therefore your overall health.",
+      "author": "staff@engadget.com (Husain Parvez)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-samsungs-galaxy-watch-8-measures-your-antioxidant-levels/l-intro-1786630068.jpg",
+      "source": "Engadget"
     },
     {
       "id": "c1a23dc48e05541d",
@@ -6260,457 +6729,6 @@
       "author": "Pedro Camacho",
       "imageUrl": "",
       "source": "Consequence"
-    },
-    {
-      "id": "c3d5cf2d87be5586",
-      "title": "Watch Julia Jacklin Cover Sugar Ray’s “Every Morning”",
-      "url": "https://pitchfork.com/story/watch-julia-jacklin-cover-sugar-rays-every-morning/",
-      "datePublished": "2026-08-14T16:31:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“The song just makes me feel grateful to be alive”",
-      "author": "Alex Suskind",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "617338034c5daa98",
-      "title": "Majora's Mask Gets a Sci-Fi Twist in This Cozy 2023 RPG",
-      "url": "https://www.polygon.com/i-was-a-teenage-exocolonist-review-endings-replay/",
-      "datePublished": "2026-08-14T16:30:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "I Was a Teenage Exocolonist is a time-loop deckbuilder where your memories are literal playing cards — and one of its 29 endings involves a dog-boy.",
-      "author": "Rebecca Corgan",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24265953/exo.jpeg",
-      "source": "Polygon"
-    },
-    {
-      "id": "dd2041dcf8039a40",
-      "title": "Your car's dash cam might be illegal in some states — Here's how to check",
-      "url": "https://www.engadget.com/2234237/how-to-check-car-dash-cam-legal-usa/",
-      "datePublished": "2026-08-14T16:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Dash cam laws vary from one state to the next. Check the laws of states you'll be driving through.",
-      "author": "staff@engadget.com (Christine Persaud)",
-      "imageUrl": "https://www.engadget.com/img/gallery/your-cars-dash-cam-might-be-illegal-in-some-states-heres-how-to-check/l-intro-1785169823.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "55fc92a12c182e3e",
-      "title": "‘The Bend in the River’ Review: A Group of Onetime Nudists Get (Mostly) Better with Age",
-      "url": "https://www.indiewire.com/criticism/movies/the-bend-in-the-river-review-robb-moss-1235210446/",
-      "datePublished": "2026-08-14T16:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Robb Moss' third entry in his decades-spanning documentary series about his college friends illustrates how age can mellow us without altering what counts.",
-      "author": "Christian Zilko",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "922eb7e84822e988",
-      "title": "Troye Sivan Takes Brave Stance of Gagging for Nicole Kidman in New Music Video",
-      "url": "http://www.vulture.com/article/nicole-kidman-troye-sivan-shes-the-best-music-video.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T16:29:36.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "It’s called ‘She’s the Best’ because she’s the best. Are you starting to get it now?",
-      "author": "Rebecca Alter",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/410/a30/f3f58997c56d4b6174ec5d3886f3dd08db-troyenicolemovie.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "2a9a28be982d3b49",
-      "title": "Andrew Tate’s Defense Is Pure A.I. Slop ",
-      "url": "https://newrepublic.com/post/214370/andrew-tate-brothers-ai-slop-defense",
-      "datePublished": "2026-08-14T16:28:55.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Andrew Tate’s lawyer is spamming X with absurd AI-generated images in a last ditch effort to convince the public of the alleged pimp, sex trafficker, and rapist’s innocence. Joe McBride, a defense attorney who has represented multiple January 6 insurrectionists, has posted multiple fake pictures of Andrew and Tristan Tate—who are currently in Miami awaiting extradition to the United Kingdom—in pri",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/5aca1377531a7ee8f6fc2bc361a4a79b94a49318.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "b125dc302fc84a40",
-      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "datePublished": "2026-08-14T16:21:04.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "author": "Sarah Perez",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "9831c63fe175b3fc",
-      "title": "‘Absolutely F*cking Not!’ Black Mirror Director’s Perfect Response To An Invite To Direct HBO’s Harry Potter",
-      "url": "https://kotaku.com/harry-potter-hbo-jk-rowling-ally-pankiw-kate-herron-transphobia-2000724485",
-      "datePublished": "2026-08-14T16:20:25.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "After Ally Pankiw shared her response to the inquiry, fellow director Kate Herron also revealed she'd turned down the gig based on J.K. Rowling's books",
-      "author": "John Walker",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/ally-pankiw-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "2e1e010b5c188d6a",
-      "title": "Rise Against Unveil Two New Singles Ahead of Fall Tour with Alkaline Trio",
-      "url": "https://consequence.net/2026/08/rise-against-two-new-singles/",
-      "datePublished": "2026-08-14T16:17:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The songs skew from the political in \"Katy Bar the Door\" to the emotional in \"Living Undercover.\" Rise Against Unveil Two New Singles Ahead of Fall Tour with Alkaline Trio Langdon Hickman",
-      "author": "Langdon Hickman",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "36c665751e5fcdf5",
-      "title": "Dillom Gives Into Sex, Drugs, and Rock & Roll on ‘La Nueva Violencia’",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/dillom-la-nueva-violencia-review-1235608396/",
-      "datePublished": "2026-08-14T16:17:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Argentina’s beloved provocateur enlists St. Vincent, Amyl and the Sniffers, Viagra Boys, Miranda! and more to indulge in the corrosive side of fame",
-      "author": "Julyssa Lopez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "9f1cc05b1c69965a",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "datePublished": "2026-08-14T16:15:21.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 37 # Comments: 21",
-      "author": "twapi",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "f51202f8724d2bac",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "datePublished": "2026-08-14T16:13:40.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "author": "Ivan Mehta",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "ac01be975ce90f48",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "datePublished": "2026-08-14T16:12:52.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 88 # Comments: 30",
-      "author": "rustdesk",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "619ced4f5bfbfa04",
-      "title": "How Trump is Making the U.S. the Money Laundering Capital of the World",
-      "url": "https://newrepublic.com/post/214373/donald-trump-treasury-anti-corruption-database",
-      "datePublished": "2026-08-14T16:07:45.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump’s Treasury Department doesn’t want law enforcement to be able to “follow the money.” The Treasury Department announced Friday that it would destroy the government’s registry on shell company ownership, a database law enforcement uses to investigate money laundering and corruption, The Bulwark reported. In addition to scaling back requirements for shell companies to submit basic inform",
-      "author": "Edith Olmsted",
-      "imageUrl": "https://images.newrepublic.com/fb3d51a8fc1f0bcf47b197fcf43a3641440b4df9.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "ca3f698bc87c167b",
-      "title": "France's top court blocks social media ban for under-15s",
-      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "datePublished": "2026-08-14T16:06:49.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 120 # Comments: 55",
-      "author": "BlueBerry2001",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "c1aa96f100a3a5a0",
-      "title": "With The Shutdown Of Pokémon Bank, Some Cool Elements From Old Games Are Being Lost",
-      "url": "https://kotaku.com/pokemon-bank-transporter-shutdown-trading-features-2000724503",
-      "datePublished": "2026-08-14T16:04:37.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The shut down of Pokémon Bank is affecting a lot of little things across the old games",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2025/08/pikachu-yellin-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "cd603eb7a3ba24bb",
-      "title": "Image Of Trump Hiding In A Catering Cart Fake, But The Story Apparently Is Not",
-      "url": "https://knowyourmeme.com/memes/trump-hiding-in-catering-truck-cart",
-      "datePublished": "2026-08-14T16:02:58.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Trump Hiding In Catering Truck is a series of memes based on reports that U.S. President Donald Trump hid in a food delivery truck catering cart to switch military aircraft during the NATO summit in July 2026 due to an Iranian assassination threat. The report claims that Trump took a secret flight from Turkey on a military aircraft other than Air Force One, despite it being reported that he was on",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/293/trumpcover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "f31049e4a3089906",
-      "title": "Image Of Trump Hiding In A Catering Cart Fake, But The Story Apparently Is Not",
-      "url": "https://knowyourmeme.com/memes/donald-trump-hiding-in-catering-truck-cart",
-      "datePublished": "2026-08-14T16:02:58.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Trump Hiding In Catering Truck is a series of memes based on reports that U.S. President Donald Trump hid in a food delivery truck catering cart to switch military aircraft during the NATO summit in July 2026 due to an Iranian assassination threat. The report claims that Trump took a secret flight from Turkey on a military aircraft other than Air Force One, despite it being reported that he was on",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/293/trumpcover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "9482825b24b87baf",
-      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-      "url": "https://rayforcedb.com/",
-      "datePublished": "2026-08-14T16:02:20.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://rayforcedb.com/ Comments URL: https://news.ycombinator.com/item?id=49300615 Points: 21 # Comments: 14",
-      "author": "sourdecor",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "cbc94ee724979bb6",
-      "title": "Lanterns grounds the new DCU in compelling earthbound drama",
-      "url": "https://www.avclub.com/lanterns-review-hbo-kyle-chandler-aaron-pierre",
-      "datePublished": "2026-08-14T16:00:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The simmering conflict between Kyle Chandler and Aaron Pierre powers Damon Lindelof’s heavy take on superhero ethics.",
-      "author": "Dennis Perkins",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/14104704/aaron-pierre.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "03f216459449188f",
-      "title": "What Eli Roth Watches (and Reads) With His Daughter",
-      "url": "http://www.vulture.com/article/eli-roth-daughter-family-entertainment.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T16:00:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The “Ice Cream Man” director may be known for his love of horror, but he’s raising his toddler on much sweeter fare, like ‘Goodnight Moon’ in Italian.",
-      "author": "Eli Roth",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/8a3/3d0/f897449ae10f748a059006f58a7c060123-eliroth-parenting.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "5732cea492b87796",
-      "title": "Lanterns Is a Mess",
-      "url": "http://www.vulture.com/article/lanterns-hbo-green-lantern-series-review.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T16:00:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "But at least it’s not dull.",
-      "author": "Kathryn VanArendonk",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/2af/d0a/1eec302d88a8b28c9e3eb73a2986540fb1-lanternsreview.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "c0a96f385e0a905e",
-      "title": "Lanterns Review: A Fantastic Cast Grapples with a Very HBO Take on DC Comics",
-      "url": "https://consequence.net/2026/08/lanterns-review-dc-studios-kyle-chandler/",
-      "datePublished": "2026-08-14T16:00:38.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Green Lantern drama, premiering August 16th, stars Kyle Chandler and Aaron Pierre as warring space cops. Lanterns Review: A Fantastic Cast Grapples with a Very HBO Take on DC Comics Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "a88d828ad597943b",
-      "title": "'Lanterns' Review: 'Watchmen' Meets 'Yellowstone' in HBO's Brilliant New Sci-Fi Show",
-      "url": "https://www.polygon.com/lanterns-review-hbo/",
-      "datePublished": "2026-08-14T16:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "HBO’s Lanterns earns its True Detective comparisons with an exceptional murder mystery about Hal Jordan, John Stewart, and the price of overcomi",
-      "author": "Corey Plante",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lanterns-hero-image.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "beca938ce68a754d",
-      "title": "Lanterns review: Kyle Chandler and Aaron Pierre shine bright in DCs sci-fi mystery",
-      "url": "https://mashable.com/entertainment/lanterns-review-hbo",
-      "datePublished": "2026-08-14T16:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "HBO's \"Lanterns\" introduces Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre) to the DCU, and the result is a blast.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05eaBwVqbN9v8oxsGPYXbMZ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "7328b805d0ed4c16",
-      "title": "‘Lanterns’ Really Is ‘True Detective’ With Superheroes — For Better or Worse",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/lanterns-review-dc-superheroes-green-lantern-hbo-1235599394/",
-      "datePublished": "2026-08-14T16:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Two legacy DC comics characters get to play green and gritty in HBO’s buddy-cop TV procedural that’s still heavy on the IP",
-      "author": "David Fear",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "43954b2d1e1be372",
-      "title": "‘Lanterns’ Review: HBO’s Scintillating ‘Green Lantern’ Series Brings DC’s Space Cops Down to Earth",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-review-hbo-green-lantern-series-kyle-chandler-1235209937/",
-      "datePublished": "2026-08-14T16:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Co-created by Chris Mundy, Damon Lindelof, and Tom King, the new superhero series stars Aaron Pierre and Kyle Chandler as intergalactic peacekeepers investigating a shooting in America's heartland.",
-      "author": "Ben Travers",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "36eb2bae6fbcbbd7",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "datePublished": "2026-08-14T15:58:59.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 54 # Comments: 4",
-      "author": "sans_souse",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "e9736c03d633b87c",
-      "title": "Miracle 'Skyrim' Mod Adds Essential Feature That Was Impossible For Nearly 15 Years",
-      "url": "https://www.polygon.com/skyrim-realistic-snow-deformation-mod-best-weather-why-impossible/",
-      "datePublished": "2026-08-14T15:58:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A new Community Shaders mod adds a gameplay mechanic to Bethesda's lauded RPG that you typically only see in modern big budget video games",
-      "author": "Patricia Hernandez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/skyrim-card-art-unrelenting-force-1.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "7b0aed3bfc479ecd",
-      "title": "Brad Pitt Can’t Watch Porn Because the Acting Sucks",
-      "url": "https://consequence.net/2026/08/brad-pitt-cant-watch-porn-the-acting-sucks/",
-      "datePublished": "2026-08-14T15:58:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Bad acting drives me crazy,\" he said. Brad Pitt Can’t Watch Porn Because the Acting Sucks Paolo Ragusa",
-      "author": "Paolo Ragusa",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "f37d5f005526f17f",
-      "title": "An Oscar-nominated documentarian asks why a woman would steal a baby",
-      "url": "https://www.avclub.com/a-child-of-my-own-documentary-baby-stealing-why-netflix",
-      "datePublished": "2026-08-14T15:52:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A Child Of My Own uncovers the lies and social expectations behind the headlines when a woman steals a baby.",
-      "author": "Monica Castillo",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/14115149/child-of-my-own-squared.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "0cf7b1e86d138bcc",
-      "title": "Colombia and Israel’s Cynical Disaster Diplomacy",
-      "url": "",
-      "datePublished": "2026-08-14T15:49:31.515Z",
-      "category": [
-        "society"
-      ],
-      "description": "On the morning of August 10, a powerful 7.4 magnitude earthquake struck western Colombia, nearly three hundred people dead, four thousand injured, and potentially thousands more by the latest count. The crisis created an early test for new far-right President Abelardo de la Espriella, who was inaugurated days before. A few hours after the quake, as Colombians still lay under the rubble of destroye",
-      "author": "Gabe Levine-Drizin",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "d6f5df48da9c2f3e",
-      "title": "At least some people have turned down HBO's Harry Potter series",
-      "url": "https://www.avclub.com/tv-directors-turn-down-hbo-harry-potter",
-      "datePublished": "2026-08-14T15:49:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "TV directors Ally Pankiw and Kate Herron both say they've turned down offers to work on the series over J.K. Rowling's transphobia.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/14114618/MixCollage-14-Aug-2026-11-44-AM-9408.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "826f1c58fc4f933e",
-      "title": "France's top court strikes down social media ban for children under 15",
-      "url": "https://www.engadget.com/2237141/frances-top-court-strikes-down-social-media-ban-for-children-under-15/",
-      "datePublished": "2026-08-14T15:48:38.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "President Macron has asked the government to rewrite France's proposed social media ban for children.",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/frances-top-court-strikes-down-social-media-ban-for-children-under-15/l-intro-1786722364.jpg",
-      "source": "Engadget"
     }
   ]
 }
