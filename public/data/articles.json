@@ -1,6 +1,355 @@
 {
-  "generatedAt": "2026-08-16T11:45:12.333Z",
+  "generatedAt": "2026-08-16T14:56:17.979Z",
   "articles": [
+    {
+      "id": "4895c969bbac5cf4",
+      "title": "People Can’t Stop Buying Diamonds on TikTok: ‘I Feel Like Thanos’",
+      "url": "https://www.rollingstone.com/culture/culture-features/tiktok-shop-diamonds-gems-trend-1235607866/",
+      "datePublished": "2026-08-16T14:41:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TikTok Shop started as a place where users snagged makeup products, phone cases, and fast-fashion. Now, people are dropping cash on gems",
+      "author": "Cheyenne Roundtree",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "03ebed35109a524b",
+      "title": "Is the MacBook Pro M5 still worth buying after the price hike?",
+      "url": "https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/",
+      "datePublished": "2026-08-16T14:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It could be wise to wait, or settle for a cheaper model.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike/l-intro-1786134854.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f9e6a4af81aa1f80",
+      "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
+      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
+      "datePublished": "2026-08-16T14:14:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from strength to strength, while Wright […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1bb7536d19bd7822",
+      "title": "Courtney Love Recounts 2019 Health Scare: “They Told Me I Was Going To Die”",
+      "url": "https://pitchfork.com/story/courtney-love-recounts-2019-health-scare-they-told-me-i-was-going-to-die/",
+      "datePublished": "2026-08-16T14:09:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In an Instagram video, the singer also confirmed her next solo album is “done,” and thanked contributors including Michael Stipe and Billie Joe Armstrong",
+      "author": "Hattie Lindert",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "ebac20e03018f062",
+      "title": "Noah Kahan Brings Chappell Roan on Stage for “California” Performance: Watch",
+      "url": "https://consequence.net/2026/08/noah-kahan-brings-chappell-roan-on-stage/",
+      "datePublished": "2026-08-16T14:02:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Noah always stands up for me,” Roan told the Pasadena crowd on Kahan's \"The Great Divide Tour.\" Noah Kahan Brings Chappell Roan on Stage for “California” Performance: Watch Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "77c45fcdeda754ae",
+      "title": "One of Marvel's Strongest Heroes Is Officially Making a Near-Perfect Comeback",
+      "url": "https://www.polygon.com/marvel-tokon-gladiator-worst-life-ever/",
+      "datePublished": "2026-08-16T14:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "One of Marvel’s strongest heroes makes a near-perfect comeback in Marvel Tōkon after nearly 50 years of humiliating defeats.",
+      "author": "Thomas Hindmarch",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-12-at-3-49-38-pm.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "d68b01d7e1c50287",
+      "title": "Think You’re a Deadhead? Play This Game Show Podcast to Find Out",
+      "url": "https://www.rollingstone.com/music/music-features/grateful-dead-guess-the-year-podcast-1235524908/",
+      "datePublished": "2026-08-16T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Host Mike McClure tells us about creating the brilliant Guess the Year",
+      "author": "Angie Martoccio",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "94c0e257eb7e06f5",
+      "title": "Role Model: ‘I’m Not Trying to Be a Pop Star!’",
+      "url": "https://www.rollingstone.com/music/music-features/role-model-interview-pop-star-dakota-johnson-1235609503/",
+      "datePublished": "2026-08-16T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Tucker Pillsbury, a.k.a. Role Model, goes deep about his new album, his secret Madonna influence, loving Heartland rock, and much more in our new interview",
+      "author": "Brian Hiattt",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "332bc90701f1f487",
+      "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "datePublished": "2026-08-16T13:58:17.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html Comments URL: https://news.ycombinator.com/item?id=49320144 Points: 7 # Comments: 4",
+      "author": "AnodicElegy",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "367855f0d74c9515",
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "datePublished": "2026-08-16T13:30:27.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
+      "author": "mayop100",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e05ee70cb4ea166e",
+      "title": "5 Most Terrifying Devils In All of Chainsaw Man",
+      "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
+      "datePublished": "2026-08-16T13:30:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From the Control Devil to the Gun Devil, these are the five scariest Devils in Chainsaw Man — and what makes each one so deeply terrifying.",
+      "author": "Debopriyaa Dutta",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/f1jzy1kwcaeqqbj-2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "20b86883b37077a2",
+      "title": "Nintendo GameCube discs were small for a reason",
+      "url": "https://www.engadget.com/2234243/nintendo-gamecube-small-discs-reason/",
+      "datePublished": "2026-08-16T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The format remains unique in console history.",
+      "author": "staff@engadget.com (Dave Meikleham)",
+      "imageUrl": "https://www.engadget.com/img/gallery/nintendo-gamecube-discs-were-small-for-a-reason/l-intro-1786126099.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "ba08cd6462eff5ca",
+      "title": "Gamescom, Not SGF, is Now the Biggest Video Games Event",
+      "url": "https://www.polygon.com/patch-notes-gamescom-preview/",
+      "datePublished": "2026-08-16T13:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The German show is still supported by Sony, Microsoft, and Nintendo, long after E3's collapse",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/11024575/26457917611_87cf847cba_o.0.0.0.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "5edf6475c6c6040a",
+      "title": "How to set up your emergency contacts and medical ID on your iPhone",
+      "url": "https://www.engadget.com/2236803/how-to-set-up-emergency-contact-medical-id-on-iphone/",
+      "datePublished": "2026-08-16T13:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Take time to enable these features today before you need them; they could help save your life in an emergency.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-set-up-your-emergency-contacts-and-medical-id-on-your-iphone/l-intro-1786553132.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "0d2d0ebb3d59ac81",
+      "title": "Do We Really Need Another Charles Manson Documentary?",
+      "url": "https://www.rollingstone.com/culture/culture-features/charles-manson-tapes-documentary-netflix-director-interview-1235609378/",
+      "datePublished": "2026-08-16T13:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As Conversations With a Killer: The Charles Manson Tapes hits Netflix, director Joe Berlinger explains why we keep talking about the most-covered case in true-crime history",
+      "author": "Maria Fontoura",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "283298017039660d",
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "datePublished": "2026-08-16T12:58:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios Comments URL: https://news.ycombinator.com/item?id=49319633 Points: 84 # Comments: 26",
+      "author": "pentagrama",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9ffac573dcb57e87",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "datePublished": "2026-08-16T12:48:21.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 117 # Comments: 56",
+      "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "c7641d713b62eae6",
+      "title": "Tom Cruise's 113-Minute Sci-Fi Action Masterpiece Is Officially Dominating Netflix",
+      "url": "https://www.polygon.com/edge-of-tomorrow-popular-on-netflix-tom-cruise/",
+      "datePublished": "2026-08-16T12:30:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Edge of Tomorrow is blowing up on Netflix after",
+      "author": "Austin Manchester",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdedof_ec161.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "de8d56c3716b656a",
+      "title": "The Legal Paths to Hoarding Political and Economic Power",
+      "url": "",
+      "datePublished": "2026-08-16T12:30:00.174Z",
+      "category": [
+        "society"
+      ],
+      "description": "It’s a moment for both hope and hesitation: recent victories in Michigan, Colorado, Minnesota, and New York suggest gathering political momentum on the left. Yet a defeat in Wisconsin and a judge’s temporary of New York City’s pied-à-terre tax offer reminders that every movement for social progress breeds its own countervailing reaction. But how does that reaction itself build power? The scaffoldi",
+      "author": "Aziz Huq",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "03b2b76dbda1112b",
+      "title": "Dolby Vision is on Netflix but you'll need these things first",
+      "url": "https://www.engadget.com/2236802/dolby-vision-on-netflix-things-needed-first/",
+      "datePublished": "2026-08-16T12:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It's only available with the top-tier Premium subscription plan, for one.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/dolby-vision-is-on-netflix-but-youll-need-these-things-first/l-intro-1786128367.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "09287bc9f79b9822",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "datePublished": "2026-08-16T12:22:20.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://scholar.google.com/scholar?q=%22kidney+disappointment%22 Comments URL: https://news.ycombinator.com/item?id=49319389 Points: 95 # Comments: 42",
+      "author": "Alifatisk",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "66ff94b733a641ca",
+      "title": "A True Telnet BBS on a Casio Calculator",
+      "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+      "datePublished": "2026-08-16T12:16:21.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/ Comments URL: https://news.ycombinator.com/item?id=49319349 Points: 8 # Comments: 0",
+      "author": "austinallegro",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "1ba37ae655885446",
+      "title": "Marvel Needs More Than Buzzy Casting Announcements to Save Itself",
+      "url": "http://www.vulture.com/article/marvel-needs-more-than-buzzy-casting-announcements.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-16T12:00:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It wasn’t long ago that the reveal of a ‘Fantastic Four’ cast ignited fan hysteria, while the movie itself undershot financial expectations.",
+      "author": "Chris Lee",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/375/831/f1487328312c65d3a1d7ffa000ebcf6f98-lee-d23-xmen.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "5e9f8502cff1a356",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+      "datePublished": "2026-08-16T12:00:23.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer Comments URL: https://news.ycombinator.com/item?id=49319215 Points: 0 # Comments: 0",
+      "author": "shivsak",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "6ff74caef7f7f5ee",
+      "title": "Fablehaven author Brandon Mull teases books, movies, and the future",
+      "url": "https://www.polygon.com/new-fablehaven-brandon-mull/",
+      "datePublished": "2026-08-16T12:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A prequel series? A 2027 film? Mull says to expect that and more.",
+      "author": "Matt Patches",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/chap-13_5.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "eaea476a2741e5a0",
+      "title": "The Dangerous Rise of Victimhood Nationalism",
+      "url": "",
+      "datePublished": "2026-08-16T12:00:00.049Z",
+      "category": [
+        "society"
+      ],
+      "description": "South Korea has strong traditions of class struggle and left-wing political organization. Unfortunately, this has generally not been reflected in the development of Korean radical theory, which has tended to be heavily derivative of work published in other countries and languages. Lim Jie-hyun’s book is a welcome exception to this rule. Lim is a historian at Sogang University in Seoul, and his boo",
+      "author": "Kap Seol",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
     {
       "id": "9653239a99005a8a",
       "title": "Locarno Winner ‘Forgotten Spaceman’ Adds Khan & Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)",
@@ -157,6 +506,19 @@
       "author": "",
       "imageUrl": "",
       "source": "The New Yorker"
+    },
+    {
+      "id": "3d1f5f1d98ac10c7",
+      "title": "The Republicans Are Going to Kill People—but Not Until After They Vote",
+      "url": "https://newrepublic.com/article/214258/republicans-medicaid-cuts-kill-people-2027",
+      "datePublished": "2026-08-16T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "One of Ronald Reagan’s most famous lines, referring to disarray in his White House, was, “Sometimes the right hand doesn’t know what the far-right hand is doing.” More appropriately for the Trump White House: “Sometimes the far-right hand doesn’t know what the radical lunatic right-wing hand is doing.” In fall 2017, less than a year into President Trump’s first term, I wrote a piece in The Atlanti",
+      "author": "Norman J. Ornstein",
+      "imageUrl": "https://images.newrepublic.com/f306dc7ac3080cd7cf0b0baf212b279ecfd4be30.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
     },
     {
       "id": "68ce8cc332612127",
@@ -6372,364 +6734,6 @@
       "author": "",
       "imageUrl": "",
       "source": "Highsnobiety"
-    },
-    {
-      "id": "65f0016c19061e0d",
-      "title": "Jeff Bezos Buying Ownership Stake in English Premiere League’s Liverpool Soccer Team",
-      "url": "https://variety.com/2026/biz/news/jeff-bezos-acquires-ownership-stake-liverpool-football-club-1236834688/",
-      "datePublished": "2026-08-14T17:26:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "It’s apparently a week for wealthy business moguls to buy sports clubs: Jeff Bezos, the Amazon founder who is among the richest people in the world, is acquiring a minority equity stake in Liverpool Football Club, a team in the English Premiere League. Fenway Sports Group, the majority owner of Liverpool FC, announced Friday that […]",
-      "author": "Todd Spangler",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "9d18e2ed91dbc16a",
-      "title": "Silverada, a Honky-Tonk Band, Did the Unthinkable: Trading Pedal Steel for Keys. It’s Working",
-      "url": "https://www.rollingstone.com/music/music-features/silverada-living-proof-album-honky-tonk-1235609311/",
-      "datePublished": "2026-08-14T17:24:56.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "On their new album Living Proof, the group F.K.A. Mike and the Moonpies prove they're far more than just twang",
-      "author": "Joseph Hudak",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "200e5131adcf3f9e",
-      "title": "World Of Warcraft Players Claim Their Characters Keep Fighting Bosses On Their Own After Disconnecting",
-      "url": "https://kotaku.com/world-of-warcraft-players-claim-their-characters-keep-fighting-bosses-on-their-own-after-disconnecting-2000724514",
-      "datePublished": "2026-08-14T17:23:40.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "'Suuuper weird'",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/curse-of-ulatek-dungeon.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "e72ee15c003c5484",
-      "title": "Sydney Sweeney’s 116-Minute R-Rated Thriller Is Officially One of the Biggest Movies on HBO Max ",
-      "url": "https://www.polygon.com/the-voyeurs-sydney-sweeney-hbo-max/",
-      "datePublished": "2026-08-14T17:22:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Sydney Sweeney’s The Voyeurs is surging on HBO Max, with the R-rated 2021 thriller climbing the worldwide streaming charts.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sydney-sweeney.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "d706cefe0368c0a2",
-      "title": "How Kyle Chandler’s Hal Jordan in ‘Lanterns’ Series Will Compare to Ryan Reynolds’ Take on Green Lantern",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-kyle-chandler-hal-jordan-ryan-reynolds-green-lantern-1236673492/",
-      "datePublished": "2026-08-14T17:22:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Chandler and Aaron Pierre star in a 'True Detective'-esque version of the superhero story.",
-      "author": "Kirsten Chuba",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d8250134f04afda1",
-      "title": "Fox Hits Trump with Crushing Polls—and Wrecks Fox’s Own Pro-Trump Spin",
-      "url": "https://newrepublic.com/article/214379/fox-news-trump-polls-wrecks-maga-spin",
-      "datePublished": "2026-08-14T17:16:20.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Fox News has some very bad news for Fox News. You’ve probably noticed that Fox pumps out enormous amounts of propaganda designed to smear the Democratic Party as wildly extreme and irredeemably crazy. Leading Fox personalities routinely depict the party as hostage to globalists, transgender rights activists, and violent socialists. Fox figures regularly savage leading Democratic Party figures as t",
-      "author": "Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/dfe19a5ec37444a6e9a838c6b70d370e85826637.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "13a55fb75ba38648",
-      "title": "Venice: M-Appeal Picks Up Chinese Director Jie Dong’s ‘Zoom In, Zoom Out’ Ahead of Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/m-appeal-jie-dongs-zoom-in-zoom-out-venice-1236834666/",
-      "datePublished": "2026-08-14T17:12:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Berlin-based world sales company M-Appeal has boarded “Zoom In, Zoom Out,” the debut feature from Chinese director Jie Dong, set to premiere in Venice Critics’ Week. The film follows Shi as he searches the city for his missing roommate Gao, a search that leads him to Gao’s girlfriend YY. Together, they begin piecing the fragments […]",
-      "author": "Leo Barraclough",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "6285ba20011cfd77",
-      "title": "Robbie Williams Reveals He Has “A Bit” of Autism: “Get-Out-of-Jail-Free Card”",
-      "url": "https://consequence.net/2026/08/robbie-williams-autism/",
-      "datePublished": "2026-08-14T17:10:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The former Take That member also spoke about dealing with ADHD and \"intrusive thoughts\" during a Q&A for the the fall/winter launch of his clothing brand. Robbie Williams Reveals He Has “A Bit” of Autism: “Get-Out-of-Jail-Free Card” Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "0744e904eb7144cf",
-      "title": "The Mandalorian and Grogu will hit Disney+ on September 2",
-      "url": "https://www.engadget.com/2237227/the-mandalorian-and-grogu-streaming-release-date/",
-      "datePublished": "2026-08-14T17:05:23.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "If you didn't catch it in theaters, here's when you can watch it on Disney+.",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/the-mandalorian-and-grogu-will-hit-disney-on-september-2/l-intro-1786726821.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "aaebc99a5636e2cd",
-      "title": "Brandi Carlile’s Raging Cover of Alanis Morissette’s ‘Uninvited’ Is for All of Us",
-      "url": "https://www.rollingstone.com/music/music-country/brandi-carlile-covers-alanis-morissette-uninvited-newport-1235609182/",
-      "datePublished": "2026-08-14T17:04:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The singer-songwriter transformed Morissette’s 1998 single into a cathartic rock cleanse during her recent Newport Folk Festival performance",
-      "author": "Marissa Moss",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "0a81db4835a7c5f0",
-      "title": "It's Doomsday for the AMC Theaters app as Avengers tickets go on sale",
-      "url": "https://www.avclub.com/avengers-doomsday-tickets-go-on-sale-amc-app-crashes",
-      "datePublished": "2026-08-14T17:04:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The AMC app keeps on crashing, making it nearly impossible to secure Doomsday tickets in advance.",
-      "author": "Saloni Gajjar",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/25143434/amc-theaters-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "2f185eed2c2f4b3b",
-      "title": "Dolly Parton Gives Health Update at New Roller Coaster Unveiling",
-      "url": "https://www.rollingstone.com/music/music-country/dolly-parton-health-issues-dehydrated-roller-coaster-1235609256/",
-      "datePublished": "2026-08-14T17:00:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The country legend spoke to fans in a video message Friday morning, sharing that dehydration kept her from the opening of a Dollywood theme park ride in person",
-      "author": "Marissa Moss",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "7e897cd050fa8e2d",
-      "title": "The 12 Best Dinosaur Movies That Aren’t Jurassic Park",
-      "url": "http://www.vulture.com/article/best-dinosaur-movies-that-arent-jurassic-park.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-14T17:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The prehistoric genre is as ancient as cinema itself, and The End of Oak Street has it roaring back to life.",
-      "author": "James Grebey",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/d7c/4a1/7d260862ccd200f950b7e17914f8153fbf-non-jurassic-park-dinosaur-movies.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "1bc161f7d5f0daf4",
-      "title": "The 5 Greatest New Games to Play on Steam This Weekend",
-      "url": "https://www.polygon.com/new-steam-games-august-14-2026/",
-      "datePublished": "2026-08-14T17:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "PC players have a handful of games to try on Steam this weekend, including some modern-retro throwbacks.",
-      "author": "Giovanni Colantonio",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/duskfade-screenshot-zirian-and-cuckoo-overlooking-village.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "9ea1f1689daae66e",
-      "title": "Stream On This Week: John Oliver Does Days, Ralph Fiennes Sings, and One of the Best X-Files Episodes Ever",
-      "url": "https://consequence.net/2026/08/stream-on-days-of-our-lives-x-files/",
-      "datePublished": "2026-08-14T17:00:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here's what to stream the weekend of August 14th. Stream On This Week: John Oliver Does Days, Ralph Fiennes Sings, and One of the Best X-Files Episodes Ever Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "7da1829e95e60221",
-      "title": "Bring Me ‘The Pitt’ Stats — Stat!",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/vital-stats-from-the-stars-of-the-pitt-2-1236671488/",
-      "datePublished": "2026-08-14T17:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Five of the show’s Emmy nominees talk candidly about playing an addict while sober, who throws the best parties and their favorite line: “Sex is great.\"",
-      "author": "Lexy Perez",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "59adf1a68641413c",
-      "title": "Return of the Kings: Inside Rush’s Fifty Something Tour",
-      "url": "https://www.rollingstone.com/music/music-features/rush-cover-story-tour-interview-geddy-alex-1235607576/",
-      "datePublished": "2026-08-14T17:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Geddy Lee, Alex Lifeson, and new drummer Anika Nilles tell all about rock’s biggest and most unlikely tour: “I’m this age now. Can I still do it?”",
-      "author": "Brian Hiattt",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "556a3756a98cc91b",
-      "title": "Of Course ‘Airplane II: The Sequel’ Isn’t Better Than ‘Airplane,’ but It’s Much Funnier Than It Gets Credit for",
-      "url": "https://www.indiewire.com/features/commentary/airplane-ii-isnt-better-than-airplane-but-funny-1235209919/",
-      "datePublished": "2026-08-14T17:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In which we try to convince you (a) to watch it if you have not, (b) it’s at least in the ballpark of almost being as good as “Airplane!,” and (c) it might even have a couple of bigger laughs than the original.",
-      "author": "Kate Erbland",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "e2589713503cd74e",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "datePublished": "2026-08-14T16:57:14.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 4 # Comments: 0",
-      "author": "Jimmc414",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "5aa1b3289ac0abb1",
-      "title": "Discrete Fourier Transform by Hand",
-      "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-      "datePublished": "2026-08-14T16:52:46.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.byhand.ai/p/28-discrete-fourier-transform Comments URL: https://news.ycombinator.com/item?id=49301342 Points: 13 # Comments: 1",
-      "author": "Bluestein",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ae59fbbffef942a8",
-      "title": "Congress Is Opening an Investigation Into ‘Roblox’ Over Child Exploitation",
-      "url": "https://www.polygon.com/roblox-senate-investigation-2026/",
-      "datePublished": "2026-08-14T16:50:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "US Senators Josh Crawley and Dick Durbin are launching a congressional investigation into Roblox over NSFW content and alleged grooming.",
-      "author": "Elijah Gonzalez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/roblox-classic-dynamic-heads-faces.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "3331a45ff4861588",
-      "title": "KPop Demon Hunters’ Criterion Blu-Ray Set Looks Incredible",
-      "url": "https://kotaku.com/kpop-demon-hunters-bluray-dvd-criterion-collection-date-2000724512",
-      "datePublished": "2026-08-14T16:50:14.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "‘Huntr/x don’t miss’",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/kpdhbr-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "8ddb3905ac2d9993",
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "datePublished": "2026-08-14T16:45:49.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 143 # Comments: 75",
-      "author": "tcp_handshaker",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "54e74d61ac47df29",
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
-      "datePublished": "2026-08-14T16:43:22.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a preview area and a text editor. I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming language. LuaCAD takes all the good part",
-      "author": "adius",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "25716e3cca0a0cb1",
-      "title": "Apple sent alerts warning iPhone users of spyware: What it looks like, what you should do",
-      "url": "https://mashable.com/tech/iphone-spyware-alert-what-to-do",
-      "datePublished": "2026-08-14T16:43:14.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Apple has notified users in more than 100 countries that they may be targets of mercenary spyware attacks. Here's what you need to know.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04NrzOwoHIUzgty00eZBSmW/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "6827e384f8457283",
-      "title": "New Target-Exclusive Katseye ‘Wild’ Collectibles Are Selling Fast — Here’s What’s Left",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/target-katseye-wild-merch-shop-online-in-stock-1235608180/",
-      "datePublished": "2026-08-14T16:42:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From vinyl and graphic tees to drinks and candy, Target's exclusive Katseye merch is flying off the shelves (before it even hits them)",
-      "author": "Sophie Dunne",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "5ec7045af4bdb24d",
-      "title": "The Charts and the Clubs Have Different Definitions of the Song of the Summer",
-      "url": "https://www.rollingstone.com/music/music-features/song-of-the-summer-on-the-charts-in-the-clubs-1235597440/",
-      "datePublished": "2026-08-14T16:40:39.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With songs like “Choosin’ Texas” and “Spend Dat” blasting everywhere, DJs have their own ideas about what rules the season",
-      "author": "Larisha Paul",
-      "imageUrl": "",
-      "source": "Rolling Stone"
     }
   ]
 }
