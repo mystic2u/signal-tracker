@@ -1,6 +1,455 @@
 {
-  "generatedAt": "2026-08-17T19:55:57.172Z",
+  "generatedAt": "2026-08-17T21:01:53.523Z",
   "articles": [
+    {
+      "id": "766670daef65f40a",
+      "title": "Why ‘The Wrong Girls’ Had to Exist Inside the Shaggy L.A. Mainstream Hollywood Could Never See",
+      "url": "https://www.indiewire.com/features/interviews/the-wrong-girls-dylan-meyer-maggie-mclean-interview-1235210708/",
+      "datePublished": "2026-08-17T21:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"We didn't come here for anything,\" producer Maggie McLean told IndieWire, unpacking her and filmmaker Dylan Meyer's proudly imperfect stoner comedy 14 years in the making.",
+      "author": "Alison Foreman",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "615a403caa3b081d",
+      "title": "Luna Abyss is quietly one of the best shooters of 2026",
+      "url": "https://www.polygon.com/luna-abyss-impressions-game-pass/",
+      "datePublished": "2026-08-17T20:59:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Luna Abyss combines Doom, Returnal, and Metroid Prime to create one of 2026's best (and most stylish) shooters.",
+      "author": "Giovanni Colantonio",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/luna-abyss-steam-screen.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "8c1fbd886233a471",
+      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’",
+      "url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
+      "datePublished": "2026-08-17T20:57:33.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The Star Citizen Live stream featuring the Siege of Orison mission doesn't go well at all",
+      "author": "Ash Parrish",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/starcizitzen-1280x719.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "1dcf1e32f250085e",
+      "title": "In “Mosswood,” Nike’s Skate-Ready Forces Are Extra Earthy ",
+      "url": "https://www.highsnobiety.com/p/nike-sb-force-58-mosswood/",
+      "datePublished": "2026-08-17T20:57:19.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike SB's Force 58 lands in \"Mosswood,\" resulting in an earthy take on the AF1-coded skate model.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "08775edae7a7a648",
+      "title": "Ariel Levy, a New Yorker Staff Writer, Joins ’60 Minutes’ as Contributor",
+      "url": "https://variety.com/2026/tv/news/ariel-levy-60-minutes-contributor-cbs-new-yorker-1236836716/",
+      "datePublished": "2026-08-17T20:55:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ariel Levy, a staff writer at The New Yorker magazine who has analyzed sexuality in culture and profiled a number of political and cultural newsmakers, will join “60 Minutes” as a contributor, the latest journalist to join the show’s ranks as it is being remade by Bari Weiss, the editor in chief of CBS News. […]",
+      "author": "Brian Steinberg",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1922dee83c7b5b71",
+      "title": "Peggy Webber, Prolific Radio Actress Who Worked for Orson Welles and Alfred Hitchcock on Film, Dies at 100",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/peggy-webber-dead-radio-actress-orson-welles-hitchcock-1236675526/",
+      "datePublished": "2026-08-17T20:54:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "She shared mics with Basil Rathbone, Lionel Barrymore, Harold Lloyd and Herbert Marshall, created a TV show that turned out to be ‘Our Miss Brooks’ and starred in ‘The Screaming Skull.’",
+      "author": "Mike Barnes",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ecbf4528c7d6d866",
+      "title": "Nick Reiner Frustrated By Lack of Access to $1.5 Million Trust as Star Lawyer Sits on Sidelines",
+      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-attorneys-trust-defense-attorney-1236675528/",
+      "datePublished": "2026-08-17T20:43:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 32-year-old has yet to receive the funds, aside from token allotments for prison commissary purchases, after being blocked by a trustee citing a \"slayer statute.\"",
+      "author": "Erik Hayden",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "6734ac27d06f30df",
+      "title": "Chris Hansen Questions “Hollywood’s Motive” With ‘Primetime,’ Says He’d Have Cast Denis Leary",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-primetime-movie-reaction-1236675459/",
+      "datePublished": "2026-08-17T20:40:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The former 'To Catch a Predator' host says he had a different actor in mind to play himself.",
+      "author": "James Hibberd",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "d12cc58b01fc5e55",
+      "title": "Your YouTube video views are about to skyrocket. Heres why.",
+      "url": "https://mashable.com/tech/youtube-changes-how-video-view-metrics-are-counted",
+      "datePublished": "2026-08-17T20:36:33.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "YouTube is changing how video view metrics are counted on the platform.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03to64kKRFL1VhR4NU7wy8w/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "48a3da802918fba1",
+      "title": "Theo Von Takes Break From Field of Dreams Game to Talk Road Trips, Staying Healthy And Loving Iowa",
+      "url": "https://www.hollywoodreporter.com/news/general-news/theo-von-interview-netflix-stand-up-last-weekend-podcast-1236674658/",
+      "datePublished": "2026-08-17T20:32:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The wildly popular comedian rarely does interviews outside of his own podcast but he did a quick one with THR from his seat in the stadium while rooting for the Minnesota Twins for a surprising reason.",
+      "author": "Chris Gardner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5ed858f91974fe83",
+      "title": "Bad Bunny Wrapping Up “Debí Tirar Más Fotos World Tour” with Puerto Rico Shows",
+      "url": "https://consequence.net/2026/08/bad-bunny-puerto-rico-shows-debi-tirar-mas-fotos-tour/",
+      "datePublished": "2026-08-17T20:30:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The homecoming shows will take place at San Juan's Hiram Bithorn Stadium on August 22nd and 23rd. Bad Bunny Wrapping Up “Debí Tirar Más Fotos World Tour” with Puerto Rico Shows Eddie Fu",
+      "author": "Eddie Fu",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "14a672963785bc8c",
+      "title": "What are your retro game consoles worth?",
+      "url": "https://www.engadget.com/2237553/what-are-retro-game-consoles-worth/",
+      "datePublished": "2026-08-17T20:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Many variables affect the value of retro game consoles today. Which ones are worth keeping, and which ones are destined for the trash?",
+      "author": "staff@engadget.com (Husain Parvez)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-are-your-retro-game-consoles-worth/l-intro-1786367341.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "34d4376fbf7aaad9",
+      "title": "‘Beef’ Isn’t ‘Veep.’ Its Emmy-Nominated Editor Explains Why That Matters",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/beef-editor-veep-differences-1236670580/",
+      "datePublished": "2026-08-17T20:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Laura Zempel breaks down the Netflix anthology’s delicate balance of comedy and drama, from a clumsy Korean spa fight to a country-club showdown.",
+      "author": "Lexy Perez",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a6d945ddfd2b604c",
+      "title": "Connie Britton Praises Hayden Panettiere’s ‘Brilliance’ After ‘Nashville’ Co-Star’s Death: ‘I Love You Girl. Sleep Easy Now’",
+      "url": "https://variety.com/2026/film/news/connie-britton-hayden-panettiere-death-nashville-1236836675/",
+      "datePublished": "2026-08-17T20:23:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Connie Britton has “no words” following the death of her “Nashville” co-star Hayden Panettiere at 36 years old. The duo starred together on five seasons of the ABC country music drama from 2012 to 2016, with Panettiere headlining the series solo during its sixth and final season in 2018. Britton returned as a guest star […]",
+      "author": "Zack Sharf",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "733c896602fe9a1b",
+      "title": "Ellie Goulding Sues Former Managers Over Ties to Live Nation",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/ellie-goulding-sues-former-managers-over-live-nation-link-1236675156/",
+      "datePublished": "2026-08-17T20:23:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Goulding claimed TaP Management failed to disclose it was a subsidiary of Live Nation, which she said created a conflict of interest.",
+      "author": "Ethan Millman",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "14cf89703e17383f",
+      "title": "Maluma Announces Plans to Take “Loco X Volver” Around the World in 2027-2028",
+      "url": "https://consequence.net/2026/08/maluma-world-tour-2027-2028/",
+      "datePublished": "2026-08-17T20:20:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Colombian star is preparing his first global trek since the “Don Juan World Tour,” with dates and venues still to come. Maluma Announces Plans to Take “Loco X Volver” Around the World in 2027-2028 Pedro Camacho",
+      "author": "Pedro Camacho",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "d71cd1c557e33cf8",
+      "title": "New Balance’s Slimmest Sneaker Gets Busy",
+      "url": "https://www.highsnobiety.com/p/size-new-balance-204l-sneakers/",
+      "datePublished": "2026-08-17T20:20:34.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "size? reveals its exclusive New Balance 204L sneaker featuring fuzzy textures & gingham patterns. The minimalist model has gone maximalist in the best way.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "16bf726bc46fb5e3",
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "datePublished": "2026-08-17T20:18:35.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "89623d0ebb14a7ac",
+      "title": "‘Ketticè’ Review: Luca Guadagnino-Produced Sicilian Teen Stoner Dramedy Suffers From a Lack of Spark",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/kettice-review-monica-bellucci-luca-guadagnino-1236673582/",
+      "datePublished": "2026-08-17T20:17:39.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Monica Bellucci plays the protagonist's mother in this Locarno-bowing film from rising Italian director Giovanni Tortorici.",
+      "author": "Leslie Felperin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "185db9553a421de1",
+      "title": "Coronor Overseeing Hayden Panettiere’s Autopsy Finds No Signs of Trauma",
+      "url": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-autopsy-no-trauma-1236675193/",
+      "datePublished": "2026-08-17T20:16:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 'Heroes' and 'Nashville' star died suddenly on Sunday at the age of 36.",
+      "author": "Kevin Dolak",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9d31fdf0f18eceef",
+      "title": "“The End of Oak Street” Is a Weirdly Alienated Jurassic Lark",
+      "url": "https://www.newyorker.com/culture/the-current-cinema/the-end-of-oak-street-is-a-weirdly-alienated-jurassic-lark",
+      "datePublished": "2026-08-17T20:13:39.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "In David Robert Mitchell’s film, starring Anne Hathaway and Ewan McGregor, a family is endangered not only by dinosaurs but also by the director’s penchant for Spielbergian nostalgia.",
+      "author": "Justin Chang",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "35b728ffe4a05794",
+      "title": "Peacock Launches Test of Membership Rewards Program With Perks Including NBCU and Bravo Merch Discounts, Free Pizzas",
+      "url": "https://variety.com/2026/tv/news/peacock-test-membership-rewards-program-discounts-free-pizzas-1236836638/",
+      "datePublished": "2026-08-17T20:12:08.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "NBCUniversal’s Peacock launched a limited new membership program in a beta test with a variety of perks — aimed at keeping them from flying the coop as streaming subscribers, as well as driving incremental revenue from marketing pacts. The test of Peacock’s membership program is available initially to a limited, “randomly selected” group of Peacock […]",
+      "author": "Todd Spangler",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "5c35dcf8458e932f",
+      "title": "‘The End of Oak Street’ Just Exposed Everything Stale About the ‘Jurassic’ Franchise",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/end-of-oak-street-vs-jurassic-franchise-1236675123/",
+      "datePublished": "2026-08-17T20:08:19.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Here are four lessons the weary 'Jurassic' franchise could learn from 'The End of Oak Street.'",
+      "author": "James Hibberd",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "79c11d5922ac0f63",
+      "title": "CNN Has Prime-Time Anchors Locked In Ahead of Paramount Deal",
+      "url": "https://variety.com/2026/tv/news/cnn-prime-time-anchors-locked-paramount-1236836589/",
+      "datePublished": "2026-08-17T20:03:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Executives at Paramount Skydance have agreed to pay billions to acquire Warner Bros. Discovery, but they may have to do a little more work if they want to put their own stamp on the programming at CNN. CNN recently struck a new deal with Abby Phillip, anchor of the raucous 10 p.m. roundtable “NewsNight” that […]",
+      "author": "Brian Steinberg",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1e0220f8998d12e3",
+      "title": "‘KPop Demon Hunters’ Is Getting a Cinephile-Approved Criterion Release — Preorder Here",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/k-pop-demon-hunters-criterion-blu-ray-dvd-buy-online-1235568675/",
+      "datePublished": "2026-08-17T20:02:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Fans can preorder the 4K, Blu-ray, and DVD versions of the hit Netflix film, which will release in November",
+      "author": "Jonathan Zavaleta",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "f1a246e0fb021bcd",
+      "title": "YouTube public view counts will likely get higher starting next week",
+      "url": "https://www.engadget.com/2238611/youtube-public-view-counts-will-likely-get-higher-starting-next-week/",
+      "datePublished": "2026-08-17T20:02:11.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The platform will start tracking views the same way across video formats.",
+      "author": "staff@engadget.com (Anna Washenko)",
+      "imageUrl": "https://www.engadget.com/img/gallery/youtube-public-view-counts-will-likely-get-higher-starting-next-week/l-intro-1786996895.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "849a8a4876c0db09",
+      "title": "Mortal Shell 2: The Kotaku Review",
+      "url": "https://kotaku.com/mortal-shell-2-the-kotaku-review-2000725071",
+      "datePublished": "2026-08-17T20:00:49.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "It doesn't get more metal than this",
+      "author": "John Learned ",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/Mortal-Shell-II-In-Game-Screenshot-9-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "d8bac9acc61dfe0f",
+      "title": "BG3 Fans Just Found a Secret Voice Line That Shouldn't Exist",
+      "url": "https://www.polygon.com/baldurs-gate-3-cut-content-mods-voice-lines/",
+      "datePublished": "2026-08-17T20:00:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Baldur's Gate 3 is three years old and still hiding things — from an accidentally-triggered impossible voice line to cut characters and more!",
+      "author": "Rebecca Corgan",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24826244/baldurs_gate_3_astarion_vampire.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "488a55b064fdaad6",
+      "title": "‘My Brother’s Wedding’ Restoration Trailer: Charles Burnett’s Nearly Lost Masterpiece Gets the Version It Deserves",
+      "url": "https://www.indiewire.com/news/trailers/my-brothers-wedding-4k-restoration-trailer-charles-burnett-1235210852/",
+      "datePublished": "2026-08-17T20:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Exclusive: The lauded filmmaker's second film gets new life, thanks to a 4K restoration and a fresh edit from Burnett himself.",
+      "author": "Kate Erbland",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "5bfb20acfe16e211",
+      "title": "Music Industry Moves: iHeartMedia’s Alissa Pollack Named President of Mediabase",
+      "url": "https://variety.com/2026/music/news/iheartmedias-alissa-pollack-president-mediabase-1236836639/",
+      "datePublished": "2026-08-17T19:59:30.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "RCS Worldwide has announced the promotion of Alissa Pollack to president of Mediabase, a top music industry source for airplay analytics, chart intelligence, and music data. In this elevated role, Pollack will also continue her full responsibilities as president of global music marketing at iHeartMedia. As president, Pollack will lead Mediabase’s strategic direction, global expansion, […]",
+      "author": "Jem Aswad",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "cfdd160a3fcc0ae6",
+      "title": "Rock and Throw All Nite: KISS’ Gene Simmons Tosses Four First Pitches at LA Angels Game",
+      "url": "https://consequence.net/2026/08/kiss-gene-simmons-four-first-pitches-la-angels-game/",
+      "datePublished": "2026-08-17T19:58:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The singer-bassist threw four first pitches until he was satisfied with the result. Rock and Throw All Nite: KISS’ Gene Simmons Tosses Four First Pitches at LA Angels Game Spencer Kaufman",
+      "author": "Spencer Kaufman",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "c12b26cb93fe77c9",
+      "title": "A Cursed, Glitched Screenshot From 'The Office' Has Become A Distressing Reaction Image On X, Threads",
+      "url": "https://knowyourmeme.com/memes/cursed-pam-beesly-and-stanley-hudson-screenshot",
+      "datePublished": "2026-08-17T19:57:04.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The Cursed Pam Beesly and Stanley Hudson Screenshot is a cursed reaction image meme based on a glitched screenshot from an episode of The Office where Pam Beesly's face has been combined with Stanley Hudson's face. The image was first posted online as early as August 2025 on a Facebook meme page for The Office. It saw a surge in virality in mid-August 2026 as a reaction image and image macro forma",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/302/pambeescover.jpg",
+      "source": "Know Your Meme"
+    },
+    {
+      "id": "2f081e91d232feca",
+      "title": "Will you have spent more of your life with computers than your family?",
+      "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+      "datePublished": "2026-08-17T19:56:30.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/ Comments URL: https://news.ycombinator.com/item?id=49336672 Points: 44 # Comments: 32",
+      "author": "Gecko4072",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "932bdba65a1068d1",
+      "title": "Celebrities Pay Tribute to Hayden Panettiere",
+      "url": "http://www.vulture.com/article/hayden-panettiere-tributes-celebrity-costars-friends.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-17T19:55:23.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Viola Davis, Nico Tortorella, and Rosie O’Donnell all mourned her death.",
+      "author": "Jason P. Frank",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/1cb/d7a/6a5a413d18a56fb0a90f2a4700c871171a-hayden-tributes.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
     {
       "id": "22d9d62375eb4374",
       "title": "Ryan Gosling’s ‘Ghost Rider’ Sets Release Date; Third Marvel Movie on 2028 Calendar",
@@ -10,6 +459,19 @@
         "entertainment"
       ],
       "description": "Disney has dated Ryan Gosling’s “Ghost Rider” movie for July 28, 2028, making it the third Marvel movie set for 2028. “Black Panther 3” is for Dec. 15, 2028, while the untitled “X-Men” movie comes out on May 5, 2028. The two titles were part of a large number of release updates made by the […]",
+      "author": "Pat Saperstein",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "b3108afe15dbd99f",
+      "title": "Ryan Gosling’s ‘Ghost Rider’ Sets Release Date; Third Marvel Movie on 2028 Calendar",
+      "url": "https://variety.com/2026/film/news/ghost-rider-release-date-marvel-ryan-gosling-1236836635/",
+      "datePublished": "2026-08-17T19:52:26.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Disney has dated Ryan Gosling’s “Ghost Rider” movie for July 28, 2028, making it the third Marvel movie set for 2028. “Black Panther 3” is set for Dec. 15, 2028, while the as-yet untitled “X-Men” movie comes out on May 5, 2028. The titles were part of a large number of release updates made by […]",
       "author": "Pat Saperstein",
       "imageUrl": "",
       "source": "Variety"
@@ -41,6 +503,20 @@
       "source": "The Guardian (Culture)"
     },
     {
+      "id": "c76018e68d72fbf6",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "datePublished": "2026-08-17T19:47:15.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 228 # Comments: 118",
+      "author": "mooreds",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "a382b9197343e8e7",
       "title": "Columbia House Is Shutting Down",
       "url": "https://pitchfork.com/story/columbia-house-is-shutting-down/",
@@ -52,6 +528,19 @@
       "author": "Alex Suskind",
       "imageUrl": "",
       "source": "Pitchfork"
+    },
+    {
+      "id": "ac8f15c3c810743c",
+      "title": "Tupac Shakur murder: trial of ex-gang leader accused of ordering killing begins",
+      "url": "https://www.theguardian.com/music/2026/aug/17/tupac-shakur-murder-trial-duane-davis",
+      "datePublished": "2026-08-17T19:40:40.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Prosecutors allege Duane Davis was ‘on-site commander’ in murder of Shakur who died after drive-by shooting in 1996 What we know about Tupac Shakur’s death The trial of a former gang leader accused of orchestrating the 1996 killing of rap star Tupac Shakur began in a Las Vegas courtroom on Monday, featuring testimony from a witness to the shooting and a former police officer. Duane “Keffe D” Davis",
+      "author": "Dani Anguiano",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
     },
     {
       "id": "f831a6d6fcb91f8f",
@@ -172,6 +661,20 @@
       "author": "",
       "imageUrl": "",
       "source": "Highsnobiety"
+    },
+    {
+      "id": "ae9b970e0cde3461",
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "datePublished": "2026-08-17T19:25:11.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 29 # Comments: 13",
+      "author": "monkey_monkey",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "40403a7db5b20a67",
@@ -1149,6 +1652,20 @@
       "author": "Rebekah Valentine",
       "imageUrl": "https://kotaku.com/app/uploads/2026/08/niu-lai.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "314381f66eecc93c",
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "datePublished": "2026-08-17T17:15:20.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/ Comments URL: https://news.ycombinator.com/item?id=49334409 Points: 14 # Comments: 3",
+      "author": "neogodless",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "dca3ff913748181a",
@@ -6193,526 +6710,6 @@
       "author": "Hattie Lindert",
       "imageUrl": "",
       "source": "Pitchfork"
-    },
-    {
-      "id": "c10e3084a3938306",
-      "title": "Android Auto vs Apple CarPlay: What features set them apart",
-      "url": "https://www.engadget.com/2234248/android-auto-vs-apple-carplay-features-comparison/",
-      "datePublished": "2026-08-16T17:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The differences between the iPhone and Android show up when you connect them to your car, as well.",
-      "author": "staff@engadget.com (Jack Whitcombe)",
-      "imageUrl": "https://www.engadget.com/img/gallery/android-auto-vs-apple-carplay-what-features-set-them-apart/l-intro-1786023120.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "8e158ef4e469fe5d",
-      "title": "Nick Reiner Blocked From $1.5 Million Trust Fund as He Faces Murder Charges for Parents’ Killings",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/nick-reiner-blocked-trust-fund-murder-defense-rob-michele-1235609744/",
-      "datePublished": "2026-08-16T17:19:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A trustee says due to California’s ‘slayer statute,’ Reiner is prevented from receiving the money to defend himself in case",
-      "author": "Althea Legaspi",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "848f2e26e0fa7302",
-      "title": "Dolly Parton Skips Dollywood Ride Opening Amid Ongoing Health Problems: ‘My Nashville Doctor Has Kinda Clipped My Wings’",
-      "url": "https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/",
-      "datePublished": "2026-08-16T17:18:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dolly Parton was unable to attend the opening of NightFlight Expedition at Dollywood on Friday due to ongoing “health issues.” Dollywood President Eugene Naughton shared a pre-recorded video of the singer during the dedication ceremony for the new ride. “Well, hey Eugene. I’m right here… Well, kind of. Sorta,” Parton said in the video. “I’m […]",
-      "author": "Mya Copeland",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "3e9e04424fc84f20",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "datePublished": "2026-08-16T17:01:07.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 76 # Comments: 23",
-      "author": "Narishma",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2bfcbc46b54e9768",
-      "title": "Resonance: A Plague Tale Legacy’s Developer Walked an Unexpected Path to Success",
-      "url": "https://www.polygon.com/asobo-studio-plague-tale-ratatouille/",
-      "datePublished": "2026-08-16T17:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Before it established itself as an awards-darling with A Plague Tale, Asobo Studio cut its teeth in the wild west of licensed games.",
-      "author": "Giovanni Colantonio",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ratatouille-holding-cheese.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "1968340f8ecead84",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "datePublished": "2026-08-16T16:53:51.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "author": "Anthony Ha",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "db02190d7ef7ddee",
-      "title": "Nike’s Techy-Luxe Slippers Are Basically Off-Duty Air Maxes",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-cirro-slides/",
-      "datePublished": "2026-08-16T16:47:35.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's Air Max Cirro Slide brings the famous cushioning to a slip-on style. It's basically an Air Max sneaker you can lounge in.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "f8189773d07eb73c",
-      "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk",
-      "url": "https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/",
-      "datePublished": "2026-08-16T16:37:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "It wouldn’t be a Beatles movie without Abbey Road. In a video shared on social media, Harris Dickinson, Paul Mescal, Joseph Quinn and Barry Keoghan were shown recreating the iconic album cover for Sam Mendes’ multi-part Beatles biopic, titled “The Beatles – A Four-Film Cinematic Event.” Each film in the series will be from the […]",
-      "author": "Jack Dunn",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d0dc066813dbaa60",
-      "title": "'Persona 5' And More Iconic Games Will Dominate The Next Season Of Fortnite",
-      "url": "https://www.polygon.com/fortnite-override-season-trailer/",
-      "datePublished": "2026-08-16T16:35:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Fortnite Chapter 7 Season 4: Override begins on August 20 and is full of gaming crossovers with Sonic, Persona 5, Crash Bandicoot, Spyro, and more",
-      "author": "Tomas Franzese",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-persona-5-sonic.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "258ed239d26880a1",
-      "title": "How to lease an iPhone instead of buying one",
-      "url": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-      "datePublished": "2026-08-16T16:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
-      "author": "staff@engadget.com (Deven McClure)",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-lease-an-iphone-instead-of-buying-one/l-intro-1785270362.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "8399414f526d63e8",
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "datePublished": "2026-08-16T16:14:55.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 61 # Comments: 18",
-      "author": "brandonb",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "9d29f46d24122ef8",
-      "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 With $70 Million, ‘End of Oak Street’ Debuts to $21 Million",
-      "url": "https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/",
-      "datePublished": "2026-08-16T16:08:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dog days of summer? This year’s August at the box office didn’t get the memo. This popcorn season is ending with a bang rather than the usual whimper as “Spider-Man: Brand New Day” and “The Odyssey” continue to pack in crowds. Meanwhile, two new movies, Warner Bros.’ prehistoric sci-fi mystery “The End of Oak Street” […]",
-      "author": "Rebecca Rubin",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "bb9abb44424e1bca",
-      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-      "datePublished": "2026-08-16T16:04:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "author": "Kirsten Korosec",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "fa7fd7e14a6d8428",
-      "title": "Netflix Games’ Latest Pivot Is a Reminder of Its Messy Past",
-      "url": "https://www.polygon.com/netflix-night-school-studio-closure-analysis/",
-      "datePublished": "2026-08-16T16:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Netflix’s decision to shut down two video game studios continues its messy five-year attempt to find its niche in a crowded industry.",
-      "author": "Giovanni Colantonio",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/netflix-games-minigolf.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "ba5d6697ec6667c3",
-      "title": "Indiana Jones' next Disney attraction will feature a robot Harrison Ford",
-      "url": "https://www.polygon.com/indiana-jones-animatronic-harrison-ford/",
-      "datePublished": "2026-08-16T15:44:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Animal Kingdom Tropical Americas' Indiana Jones and the Myth of the Jade Serpent ride will feature an animatronic Harrison Ford",
-      "author": "Tomas Franzese",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24761656/IJ_DOD_dtlr2_uhd_r709f_stills_230405.088296.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "5254d845fc86283d",
-      "title": "Nick Reiner Blocked From Trust Fund Due to “Slayer Statute” Amid Charges For Parents’ Murder",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/",
-      "datePublished": "2026-08-16T15:42:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Trustees opposed Reiner's petition to access the $1.5 million trust fund because he is accused of killing his parents.",
-      "author": "Carly Thomas",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "139ab800a3dd205a",
-      "title": "The weekend is 100 years old",
-      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-      "datePublished": "2026-08-16T15:30:15.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 100 # Comments: 59",
-      "author": "lentil_soup",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "e2973dd05e622ed6",
-      "title": "Ewan McGregor's $205 Million Superhero Flop Deserves Another Shot",
-      "url": "https://www.polygon.com/birds-of-prey-ewan-mcgregor-streaming-rec/",
-      "datePublished": "2026-08-16T15:30:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Looking for more Ewan McGregor after 'The End of Oak Street'? Then you should check out the time he played one of the nastiest DC villains.",
-      "author": "Aimee Hart",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/black-mask-bop-ewan-mcgregor.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "d0c5d5842e78e1c2",
-      "title": "What is the Retro app for and how do you use it?",
-      "url": "https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/",
-      "datePublished": "2026-08-16T15:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-      "author": "staff@engadget.com (Adnan Ahmed)",
-      "imageUrl": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "be8a8f32c64e0e89",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "datePublished": "2026-08-16T15:16:06.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 94 # Comments: 55",
-      "author": "toomuchtodo",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "0b2fd56b181d050b",
-      "title": "‘Spider-Man: Brand New Day’ Hits $2 Billion Worldwide in Three Weeks",
-      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/",
-      "datePublished": "2026-08-16T15:15:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "New day, new box office milestone for Sony’s latest Spidey adventure. “Spider-Man: Brand New Day” has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel’s neighborhood web-slinger, has grossed $785 million in North America and $1.23 billion overseas […]",
-      "author": "Rebecca Rubin",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "55863cdc51c03416",
-      "title": "“It Was a Bumpy Ride!”: Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set ‘Skintown’",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/",
-      "datePublished": "2026-08-16T15:15:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: \"It's not really been recorded — what it was like for young people to grow up there.\"",
-      "author": "Lily Ford",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "3216d61b57ff8b15",
-      "title": "Watch Noah Kahan and Surprise Guest Chappell Roan Perform ‘California’ at Rose Bowl Stadium",
-      "url": "https://www.rollingstone.com/music/music-news/noah-kahan-chappell-roan-perform-california-live-1235609738/",
-      "datePublished": "2026-08-16T15:10:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The musician played 27 songs at his sold-out The Great Divide tour stop in Pasadena, California on Saturday",
-      "author": "Althea Legaspi",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "22fc43c52d665c09",
-      "title": "‘The kids were right’: 30 years of Pokémon, from school-wide bans to multimillion-dollar trading cards",
-      "url": "https://www.theguardian.com/games/2026/aug/17/pokemon-30th-anniversary-japan-australia",
-      "datePublished": "2026-08-16T15:00:29.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Pokémon outlived the moral panic of its early days in Australia and its staying power has proved that simple joy can cross borders There’s a generation of Australians for whom Cheez TV was a religion. Every morning before school, I’d sit in my little white plastic chair about three feet from our big wooden television and watch 90 minutes of cartoons “curated” by the show’s teenage hosts, Jade and ",
-      "author": "Patrick Marlborough",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "3d65f2428935fd02",
-      "title": "Toast, boners, and margarine haters all come together on Wikipedia",
-      "url": "https://www.avclub.com/dr-seuss-gordon-roseleip-olympic-mascots",
-      "datePublished": "2026-08-16T15:00:01.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Wiki Wormhole: We've rounded up some great ice breakers for your next party, including toast girls, joke mascots, and Dr. Seuss' boners.",
-      "author": "Mike Vago",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/16093116/MixCollage-16-Aug-2026-08-30-AM-242.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "0a0f82eee801dd6f",
-      "title": "Ron Gilbert Says Making Another 'Monkey Island' Game Would Be \"Really Complicated\"",
-      "url": "https://www.polygon.com/no-new-monkey-island-ron-gilbert/",
-      "datePublished": "2026-08-16T14:55:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ron Gilbert would have to deal with a lot of big companies to make a new Monkey Island, but he doesn't have to for Thimbleweed Park 2",
-      "author": "Tomas Franzese",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24028287/money_island_head.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "7575bdfbfcdb3fbf",
-      "title": "GPS and the Lost Art of Getting Lost",
-      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-      "datePublished": "2026-08-16T14:53:14.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 44 # Comments: 29",
-      "author": "karakoram",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "394dfc3977b6d23a",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "datePublished": "2026-08-16T14:44:55.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 150 # Comments: 58",
-      "author": "mlenhard",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "4895c969bbac5cf4",
-      "title": "People Can’t Stop Buying Diamonds on TikTok: ‘I Feel Like Thanos’",
-      "url": "https://www.rollingstone.com/culture/culture-features/tiktok-shop-diamonds-gems-trend-1235607866/",
-      "datePublished": "2026-08-16T14:41:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "TikTok Shop started as a place where users snagged makeup products, phone cases, and fast-fashion. Now, people are dropping cash on gems",
-      "author": "Cheyenne Roundtree",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "03ebed35109a524b",
-      "title": "Is the MacBook Pro M5 still worth buying after the price hike?",
-      "url": "https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/",
-      "datePublished": "2026-08-16T14:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "It could be wise to wait, or settle for a cheaper model.",
-      "author": "staff@engadget.com (Christine Persaud)",
-      "imageUrl": "https://www.engadget.com/img/gallery/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike/l-intro-1786134854.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "f9e6a4af81aa1f80",
-      "title": "‘Mission’ Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
-      "datePublished": "2026-08-16T14:14:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Back in 2013, actor George MacKay and director Paul Wright paired up for “For Those in Peril,” an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men’s place on the U.K. industry “ones to watch” list. Since then, MacKay’s career has gone from strength to strength, while Wright […]",
-      "author": "Guy Lodge",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "1bb7536d19bd7822",
-      "title": "Courtney Love Recounts 2019 Health Scare: “They Told Me I Was Going To Die”",
-      "url": "https://pitchfork.com/story/courtney-love-recounts-2019-health-scare-they-told-me-i-was-going-to-die/",
-      "datePublished": "2026-08-16T14:09:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In an Instagram video, the singer also confirmed her next solo album is “done,” and thanked contributors including Michael Stipe and Billie Joe Armstrong",
-      "author": "Hattie Lindert",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "ebac20e03018f062",
-      "title": "Noah Kahan Brings Chappell Roan on Stage for “California” Performance: Watch",
-      "url": "https://consequence.net/2026/08/noah-kahan-brings-chappell-roan-on-stage/",
-      "datePublished": "2026-08-16T14:02:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Noah always stands up for me,” Roan told the Pasadena crowd on Kahan's \"The Great Divide Tour.\" Noah Kahan Brings Chappell Roan on Stage for “California” Performance: Watch Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "77c45fcdeda754ae",
-      "title": "One of Marvel's Strongest Heroes Is Officially Making a Near-Perfect Comeback",
-      "url": "https://www.polygon.com/marvel-tokon-gladiator-worst-life-ever/",
-      "datePublished": "2026-08-16T14:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "One of Marvel’s strongest heroes makes a near-perfect comeback in Marvel Tōkon after nearly 50 years of humiliating defeats.",
-      "author": "Thomas Hindmarch",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-12-at-3-49-38-pm.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "d68b01d7e1c50287",
-      "title": "Think You’re a Deadhead? Play This Game Show Podcast to Find Out",
-      "url": "https://www.rollingstone.com/music/music-features/grateful-dead-guess-the-year-podcast-1235524908/",
-      "datePublished": "2026-08-16T14:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Host Mike McClure tells us about creating the brilliant Guess the Year",
-      "author": "Angie Martoccio",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "94c0e257eb7e06f5",
-      "title": "Role Model: ‘I’m Not Trying to Be a Pop Star!’",
-      "url": "https://www.rollingstone.com/music/music-features/role-model-interview-pop-star-dakota-johnson-1235609503/",
-      "datePublished": "2026-08-16T14:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tucker Pillsbury, a.k.a. Role Model, goes deep about his new album, his secret Madonna influence, loving Heartland rock, and much more in our new interview",
-      "author": "Brian Hiattt",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "332bc90701f1f487",
-      "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "datePublished": "2026-08-16T13:58:17.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html Comments URL: https://news.ycombinator.com/item?id=49320144 Points: 7 # Comments: 4",
-      "author": "AnodicElegy",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "367855f0d74c9515",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "datePublished": "2026-08-16T13:30:27.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
-      "author": "mayop100",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "e05ee70cb4ea166e",
-      "title": "5 Most Terrifying Devils In All of Chainsaw Man",
-      "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
-      "datePublished": "2026-08-16T13:30:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From the Control Devil to the Gun Devil, these are the five scariest Devils in Chainsaw Man — and what makes each one so deeply terrifying.",
-      "author": "Debopriyaa Dutta",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/f1jzy1kwcaeqqbj-2.jpg",
-      "source": "Polygon"
     }
   ]
 }
