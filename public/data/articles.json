@@ -1,6 +1,284 @@
 {
-  "generatedAt": "2026-08-18T09:54:27.684Z",
+  "generatedAt": "2026-08-18T11:01:28.786Z",
   "articles": [
+    {
+      "id": "ae56dcf1daf1a295",
+      "title": "The 2026 Rolling Stone Spirit Awards",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-alcohol-liquors-beverages-2026-1235607234/",
+      "datePublished": "2026-08-18T11:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From smoky whiskies aged across the pond to beers brewed with rock ‘n’ roll DNA, these are the coolest spirits we sampled this year.",
+      "author": "Rolling Stone",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "e4ae4daabb1d4620",
+      "title": "Oscars: Taiwan Selects ‘A Foggy Tale’ for International Feature Race",
+      "url": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
+      "datePublished": "2026-08-18T10:54:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“A Foggy Tale,” directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan’s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its “vivid characters, smooth narrative and […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "fa7ae1ce0e304532",
+      "title": "Diego Luna on Challenging How Migrants Are Viewed With ‘Ashes’: ‘We’re Not Thinking About What They Left Behind’",
+      "url": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
+      "datePublished": "2026-08-18T10:45:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and […]",
+      "author": "Leo Barraclough",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c92cc0dba9e28e50",
+      "title": "The true story behind BioShock Infinite's Bread Boy",
+      "url": "https://www.polygon.com/video/the-true-story-behind-bioshock-infinite-s-bread-boy/",
+      "datePublished": "2026-08-18T10:37:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "BioShock Infinite's Bread Boy went viral on Twitter in February, so we asked developer Gwen Frey to weigh in on how exactly she made this king of crumb. The reasons the Bread Boy exists in the Burial at Sea DLC point to the strange, specific problems that developers have to overcome every day. Gwen is now hard at work on a satirical puzzle game called Lab Rat, with her own studio.",
+      "author": "Simone de Rochefort",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-true-story-behind-bioshock-infinite-s-bread-boy.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "5e7ed0fc2c4a5be1",
+      "title": "TCLs 85-inch QM8L SQD-Mini-LED QLED TV has never been cheaper — act fast to save over $1,000",
+      "url": "https://mashable.com/tech/aug-18-tcl-tv-deal",
+      "datePublished": "2026-08-18T10:35:24.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As of Aug. 18, the TCL 85-inch QM8L SQD-Mini-LED QLED TV has returned to its lowest-ever price at Amazon of $2,797.99, 30% off its list price.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06ozbtxhbKnNWQscwELV7E0/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e2a79475612ee8fe",
+      "title": "Dad game review round-up",
+      "url": "https://www.polygon.com/video/dad-game-review-round-up/",
+      "datePublished": "2026-08-18T10:30:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Games are for dads. Thanks to video games, dads can play golf, build birdhouses, mow the lawn, and go fishing... all without leaving the home office. But what do games like Powerwash Simulator, Train Sim World 2, and The Golf Club have to offer the childless urban-dwelling millennial? Pat Gill reviews a selection of powerful dad games to glean life lessons and fatherly insight into the world of da",
+      "author": "Patrick Gill",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dad-game-review-round-up.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "836cce4aae0fe22e",
+      "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "datePublished": "2026-08-18T10:30:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+      "author": "Kirsten Korosec",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "03b5cfa0fe8e067b",
+      "title": "Time loops are a weird genre for an anxious time",
+      "url": "https://www.polygon.com/video/time-loops-are-a-weird-genre-for-an-anxious-time/",
+      "datePublished": "2026-08-18T10:25:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Time loop games have become a trend over the past few years: from Twelve Minutes, to Outer Wilds, to Deathloop. But the genre is by no means new! It predates Groundhog Day and goes all the way back to World War II. Still, there's a reason time loop stories keep coming back... looping, if you will. Jenna Stoeber walks us through the intricacies of time loops and alternate realities, and what it all",
+      "author": "Jenna Stoeber",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/time-loops-are-a-weird-genre-for-an-anxious-time.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "7d1d995afc75a536",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "datePublished": "2026-08-18T10:13:28.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 21 # Comments: 3",
+      "author": "pseudolus",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a68ceb3fde4a2c1a",
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+      "author": "Sean O'Kane",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "def00d4d8772c2e6",
+      "title": "BBC, A24’s ‘The Ministry of Time’ Series Casts Aoife Hinds, Billy Howle as Leads",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bbc-a24-the-ministry-of-time-series-aoife-hinds-billy-howle-1236675923/",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 'Dune: Prophecy' and 'The Perfect Couple' actors will star in the six-part show based on Kaliane Bradley’s bestselling novel, which has been adapted by Alice Birch ('Normal People').",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "0117aedaeb7963bf",
+      "title": "Disney’s ‘Toy Story 5’ Is Now Out on Digital, With a Physical Release Set for September",
+      "url": "https://www.rollingstone.com/product-recommendations/streaming/toy-story-5-streaming-blu-ray-release-date-1235610343/",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "You can now rent or buy the hit film from digital platforms, but no Disney+ streaming date has been announced",
+      "author": "Jonathan Zavaleta",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "a6d886f6d416cc41",
+      "title": "In praise of zealotry",
+      "url": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why? - by Geertje Bol Read on Aeon",
+      "author": "Geertje Bol",
+      "imageUrl": "https://images.aeonmedia.co/images/7658e7b8-9c34-41ec-b558-2302dd610d06/essay-bm-265686001.jpg?width=1200&quality=75&format=auto",
+      "source": "Aeon"
+    },
+    {
+      "id": "68c18aa5a3c3264c",
+      "title": "Glass eggs",
+      "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
+      "author": "Matilda Hay",
+      "imageUrl": "https://images.aeonmedia.co/images/5e5bec38-4172-4aff-b300-2c364034d71d/diptych.jpg?top=263&left=2&cropWidth=2656&cropHeight=1494&width=1200&quality=75&format=auto",
+      "source": "Psyche"
+    },
+    {
+      "id": "26647db7b9c79f73",
+      "title": "Don’t let nature slip out of reach",
+      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
+      "author": "Hannah Seo",
+      "imageUrl": "https://images.aeonmedia.co/images/568fce94-f106-4f39-97c9-478da4fba163/sz-liam-hans-ad2qiuro94u-unsplash.jpg?top=191&left=0&cropWidth=3664&cropHeight=2061&width=1200&quality=75&format=auto",
+      "source": "Psyche"
+    },
+    {
+      "id": "c2b46568e0d08757",
+      "title": "Everything That Will Happen After I Silence My Phone at the Movie Theatre",
+      "url": "https://www.newyorker.com/humor/shouts-murmurs/everything-that-will-happen-after-i-silence-my-phone-at-the-movie-theatre",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The customer-service representative from whom I’ve been waiting for a callback for fifty-three hours will call me back one minute before I turn my phone back on.",
+      "author": "Meg Reid",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "4c67bdcb1ec78681",
+      "title": "Nayib Bukele’s Content Machine Is Reshaping Latin America",
+      "url": "https://www.newyorker.com/news/the-lede/nayib-bukeles-content-machine-is-reshaping-latin-america",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "How El Salvador’s authoritarian leader loomed over Colombia’s Presidential race.",
+      "author": "Daniel Castro",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "ae6ffda16358a634",
+      "title": "Usher and Chris Brown’s Audacious Joint Tour",
+      "url": "https://www.newyorker.com/culture/pop-music/usher-and-chris-browns-audacious-joint-tour",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The R. & B. megastars seem to think their genre needs saving. But from what?",
+      "author": "Doreen St. Félix",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "667da74c77966aa7",
+      "title": "How I Became a Subaru Socialist",
+      "url": "https://www.newyorker.com/news/fault-lines/how-i-became-a-subaru-socialist",
+      "datePublished": "2026-08-18T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "By the time Bernie Sanders ran for President, in 2015, I was financially secure. But the previous decade had left a mark.",
+      "author": "Jay Caspian Kang",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "b1faa231e6754315",
+      "title": "Disappointing 'Fortnite' Chapter 7 Season 4 Battle Pass Will at Least Give Players a Sonic Skin",
+      "url": "https://www.polygon.com/fortnite-chapter-7-season-4-battle-pass-reveal-trailer/",
+      "datePublished": "2026-08-18T09:58:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Fortnite Chapter 7 Season 4's Battle Pass features eight skins to unlock, and Sonic is among them.",
+      "author": "Ashely Claudino",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jonesy-fortnite.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "ba1892bb6dc998fd",
+      "title": "Rosie ODonnell calls out Mango Mussolini Trump on Kimmel",
+      "url": "https://mashable.com/entertainment/rosie-odonnell-jimmy-kimmel-live-monologue",
+      "datePublished": "2026-08-18T09:52:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Rosie O'Donnell is guest-hosting 'Jimmy Kimmel Live!' and has words for Donald Trump.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/04ePYWpRIFNqzTOy21wGLgi/hero-image.png",
+      "source": "Mashable"
+    },
     {
       "id": "60d674a4356f3507",
       "title": "Legendary Creator Behind Deus Ex And System Shock, Warren Spector, Announces His Retirement",
@@ -196,6 +474,19 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UV5KvoC9EkmtnsCpDBJs7/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "d2fd52c793b8919f",
+      "title": "Trump Rage Erupts Over Iran as Aides Leak Embarrassing Truth: He Lost",
+      "url": "https://newrepublic.com/article/214443/trump-rage-erupts-iran-aides-leak-embarrassing-truth-lost",
+      "datePublished": "2026-08-18T09:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The 60-day deadline for a deal between Donald Trump and Iran has passed, and he’s in a lather over it. First Trump raged to Fox News of his displeasure with Oman’s negotiations with Iran over the Strait of Hormuz. “If Oman gets in the way, we’ll bomb the s--t out of them,” he fumed nonsensically. Then, under questioning over foreign policy, he erupted at a female journalist, repeatedly instructing",
+      "author": "The Daily Blast With Greg Sargent",
+      "imageUrl": "https://images.newrepublic.com/4b5df6d9108b231eccdb3d85b94c703e8acb133c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
     },
     {
       "id": "1ec52532cf4947e0",
@@ -6416,298 +6707,6 @@
       "author": "Adam Gopnik",
       "imageUrl": "",
       "source": "The New Yorker"
-    },
-    {
-      "id": "869f2538bd1efabc",
-      "title": "Briefly Noted Book Reviews",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/the-yahoo-boys-unsayable-sunrise-skin-contact",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "“The Yahoo Boys,” “Unsayable,” “Sunrise,” and “Skin Contact.”",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "5c490ddc93a1ed05",
-      "title": "How Far Will the Trump Administration Go to Deport Mahmoud Khalil?",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/how-far-will-the-trump-administration-go-to-deport-mahmoud-khalil",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Khalil protested Israel as a student at Columbia. Now he’s on the verge of being kicked out of the country.",
-      "author": "Andrew Marantz",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "e1f91d1ec3fd3944",
-      "title": "Rachel Bell, Curator of High Art",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/rachel-bell-curator-of-high-art",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Gotham weed dispensary’s content director gets stoned at N.Y.C. landmarks for her video series, “Hi, I’m High.” On a trip to the Guggenheim, she critiques kooky sculptures and reflects on her trippy career path.",
-      "author": "Sheila Yasmin Marikar",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "936afc7b8c69ceac",
-      "title": "Where There’s Smoke, There’s Fire Towers",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/where-theres-smoke-theres-fire-towers",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "After seventy-eight years, New Jersey finally has a new lookout spot for blazes. With more frequent wildfires and record temperatures, it’s not a moment too soon.",
-      "author": "Robert Sullivan",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "a5c15cc4dc15d729",
-      "title": "“Lament,” by Adrienne Su",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/lament-adrienne-su-poem",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "“We were never a family of food snobs.”",
-      "author": "Adrienne Su",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "01891e7c81ee54b0",
-      "title": "A Trump Grift Too Far?",
-      "url": "https://www.newyorker.com/news/the-financial-page/selling-fast-access-to-truth-social-posts-a-trump-grift-too-far",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A scheme to charge Wall Street traders for an early look at the President’s comments on Truth Social has generated outrage and a lawsuit.",
-      "author": "John Cassidy",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "43ef577e43da1c68",
-      "title": "Admissions Tour: Being a Person",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/admissions-tour-being-a-person",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In the real world, you can choose your meal plan: vegan, kosher, Sustainable, Totally Unsustainable, What Zendaya Eats in a Day, American Girl Doll food. Just swipe your card.",
-      "author": "Jessica Bacal",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "8d03dbb4539d1d9f",
-      "title": "A Crossword Odyssey",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/a-crossword-odyssey",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Alas, I’d left my épée on a wee mesa in SoHo.",
-      "author": "Roz Chast",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "9095782b9b0ef819",
-      "title": "The End of the European Summer",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summer",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "As extreme heat overwhelms the Continent’s great cities, they are racing to transform themselves for a climate that they were never built to withstand.",
-      "author": "Eric Klinenberg",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "52291c4314cccc47",
-      "title": "The Scientist Who Lived with Dozens of Children from the Pacific Islands",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Carleton Gajdusek won the Nobel for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.",
-      "author": "Rachel Aviv",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "0085064039d3c990",
-      "title": "The Improbable Longevity of “It’s Always Sunny in Philadelphia”",
-      "url": "https://www.newyorker.com/culture/on-television/the-secret-to-the-longevity-of-its-always-sunny-in-philadelphia",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The irreverent comedy is the longest-running sitcom in history, yet has won no major awards. What gives?",
-      "author": "Paula Mejía",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "c11939749baf38bd",
-      "title": "New York’s Hottest Club Is . . . the Jacob Riis Bathhouse?",
-      "url": "https://www.newyorker.com/magazine/2026/08/24/new-yorks-hottest-club-is-the-jacob-riis-bathhouse",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Rockaway institution is now home to a flashy new members-only club, with a private pool and a co-working space. But how do the locals feel about it?",
-      "author": "Jake Offenhartz",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "a635b6c75faadfcf",
-      "title": "How MAGA Stole Animal Rights from the Left",
-      "url": "https://newrepublic.com/article/213747/maga-stole-animal-rights-left",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In March, a group of around 50 activists broke into Ridglan Farms, a dog breeding and animal research facility, and liberated 22 beagles, a breed said to be favored by the industry because of their docile and eager-to-please temperaments. The company, which had been the focus of a largely successful multiyear animal rights campaign, was scheduled to surrender its breeding license on July 1 to avoi",
-      "author": "Aaron Regunberg, Astra Taylor",
-      "imageUrl": "https://images.newrepublic.com/546b5a4e2c5ddfb5ede12db9e18acc5d84e88d9a.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "80cf1e5e41143cb3",
-      "title": "At Long Last, Americans Are Starting to See the Truth About\nthe GOP   ",
-      "url": "https://newrepublic.com/article/214396/americans-starting-see-truth-gop",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "It was heartening to see a couple of polls come out recently showing that, for the first time in a long time, Americans trust the Democrats more than the Republicans on the economy. It’s insane that this can come as a surprise, and that these two parties are even running as close to one another as they are is absurd. Trusting the Republicans more on the economy at this point is like trusting Sean ",
-      "author": "Michael Tomasky",
-      "imageUrl": "https://images.newrepublic.com/73af4d3600cfbd93f3f4fce9e28e7722d4f68795.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "4410bc8c8da6f674",
-      "title": "The Very Trumpy State That Leads the Country in Renewable Energy",
-      "url": "https://newrepublic.com/article/214288/texas-solar-wind-energy-renewables-trump",
-      "datePublished": "2026-08-17T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Turning coal mines into solar farms sounds so smart, it’s almost hard to believe that it’s happening in the United States under President Trump. But late last month, construction began in Texas on a 1.2 gigawatt solar farm that will be one of the largest clean energy projects in the country and the biggest solar project built on a brownfield site in North America. It will start producing power a y",
-      "author": "Liza Featherstone",
-      "imageUrl": "https://images.newrepublic.com/6f8a9423301a63c6fc5fbd6ab55200134495d424.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "932482a0c3ba1708",
-      "title": "Marvel Reveals Official Watchlist for Avengers: Doomsday — With One Surprising Absence",
-      "url": "https://www.polygon.com/avengers-doomsday-watchlist/",
-      "datePublished": "2026-08-17T09:52:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Marvel and Disney have unveiled a list of key films fans need to watch to prepare for Doomsday, with one surprising omission.",
-      "author": "Aimee Hart",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/mcdcaam_ec205.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "bb44598a45bee679",
-      "title": "Hayden Panettiere Remembered by Viola Davis, Bethany Joy Lenz, Melissa Barrera and More: ‘I Wish the World Had More Time With You’",
-      "url": "https://variety.com/2026/film/news/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-1236836020/",
-      "datePublished": "2026-08-17T09:49:28.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Celebrities are paying tribute to “Nashville” and “Heroes” actress Hayden Panettiere, who died Sunday at 36. Though a cause of death has not been released, her father told ABC News on Sunday: “It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force […]",
-      "author": "Pat Saperstein",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "a42b934b831757a1",
-      "title": "Will King of the Hill Pit Hank And Buck Against Each Other?",
-      "url": "https://www.polygon.com/video/will-king-of-the-hill-pit-hank-and-buck-against-each-other/",
-      "datePublished": "2026-08-17T09:37:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "King of the Hill is setting up potential conflict between Buck Strickland and Hank Hill, as Hank takes the reins of Strickland Propane.",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-17-at-11-31-24-am.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "929184ceaf261a6f",
-      "title": "Pokémon Pokopia Player Discovers Trick to Get Missing Event Pokémon",
-      "url": "https://www.polygon.com/pokemon-pokopia-trick-past-events-mysterious-goggles/",
-      "datePublished": "2026-08-17T09:35:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In Pokémon Pokopia, you can now obtain Pokémon from past events to your Pokédex without having to time travel.",
-      "author": "Ford James",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-pokopia-past-event-pokemon-header.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "6755549c818135a1",
-      "title": "Mammotions Luba 3 robot lawn mower is down to its best-ever price at Amazon — save over $800",
-      "url": "https://mashable.com/tech/aug-17-mammotion-luba-3-robot-lawn-mower-deal",
-      "datePublished": "2026-08-17T09:29:20.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of Aug. 17, the Mammotion Luba 3 robot lawn mower with garage has hit its lowest price yet at Amazon of $2,448, a 26% discount off its list price.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06fakqG7biDpQNlk8RQ4Mxi/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "f9b02f0b7777b82a",
-      "title": "NYT Mini crossword answers, hints for Aug. 17, 2026",
-      "url": "https://mashable.com/entertainment/nyt-mini-crossword-answers-hints-august-17-2026",
-      "datePublished": "2026-08-17T09:28:02.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Answers to each clue for the Aug. 17, 2026 edition of NYT's The Mini crossword puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03GmfjGt4MDCFJkeLxuE9lo/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4d8ce6711d94e50b",
-      "title": "Fitbit Inspire 3 deal: Grab this budget-friendly fitness tracker for $79.95 at Amazon",
-      "url": "https://mashable.com/tech/aug-17-fitbit-inspire-3-deal",
-      "datePublished": "2026-08-17T09:25:18.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best fitness tracker deal. Save 20% on the Fitbit Inspire 3 at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06ifFAad5GteLb0XNpsHhcT/hero-image.png",
-      "source": "Mashable"
     }
   ]
 }
