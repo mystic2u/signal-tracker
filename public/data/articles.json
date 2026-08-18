@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-08-18T22:57:41.751Z",
+  "generatedAt": "2026-08-18T23:51:59.012Z",
   "articles": [
+    {
+      "id": "d3efac6c15143678",
+      "title": "For Jacob Whiteduck-Lavoie, Everyday on ‘Sterling Point‘ Was the “Best Day Ever”",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/",
+      "datePublished": "2026-08-18T23:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.",
+      "author": "Nicole Fell",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5e42a88682dcdc73",
+      "title": "Inside the Fake Celebrity Podcast Scam Fooling Hollywood",
+      "url": "https://www.hollywoodreporter.com/news/general-news/celebrity-podcast-scam-bruce-vilanch-seth-rudetsky-1236676601/",
+      "datePublished": "2026-08-18T23:18:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Seth Rudetsky thought Nikki Glaser wanted him on her podcast. Bruce Vilanch thought Terry Gross wanted him on hers. Both were targets of a hoax.",
+      "author": "Seth Abramovitch",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "46a723da7301758e",
+      "title": "‘Down the Arm of God’ Review: Caleb Landry Jones in a Sincere, if Heavy-Handed, Drama About a Texas Pastor Tackling Homelessness, and His Own Congregation",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/",
+      "datePublished": "2026-08-18T23:10:20.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.",
+      "author": "Leslie Felperin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "38631140335b761b",
+      "title": "Marilyn Monroe’s 100th Birthday Brings Official Coffee Table Book, Barbie, Brut and More",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/",
+      "datePublished": "2026-08-18T23:09:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Estate of Marilyn Monroe continues to unveil authorized merchandise and brand collaborations for her centennial celebration.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "b8cedf8fa01e1c75",
+      "title": "Neve Campbell and ‘Scream’ Stars Pay Tribute to Hayden Panettiere After Her Death: She “Brought a Magnetic Energy to Set”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/neve-campbell-scream-stars-hayden-panettiere-tributes-1236676443/",
+      "datePublished": "2026-08-18T23:06:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actress, who died at age 36, originated the role of Kirby Reed in 2011's 'Scream 4' and reprised the fan-favorite character in 2023’s 'Scream VI.'",
+      "author": "Lexi Carson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "e4e88cb853df214b",
+      "title": "Is Steam Down? Is It Tuesday? Great News, It’s Probably Just Maintenance Day",
+      "url": "https://kotaku.com/steam-down-tuesday-maintenance-2000725528",
+      "datePublished": "2026-08-18T23:00:49.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The more you know",
+      "author": "Rebekah Valentine",
+      "imageUrl": "https://kotaku.com/app/uploads/2025/09/Steam-Library-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "e1b166ae8a1854e4",
+      "title": "Sega's 84-Hour Open-World Masterpiece Has Aged Like Fine Wine",
+      "url": "https://www.polygon.com/like-a-dragon-infinite-wealth-hawaii-rec/",
+      "datePublished": "2026-08-18T23:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Like a Dragon: Infinite Wealth had plenty of opposition from other big-ticket RPGs when it launched in 2024. If you missed it, now's the time to play.",
+      "author": "Jen Glennon",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/hawaii-infinite-wealth.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "4cca2d7b88bce4c7",
+      "title": "ICE agents can't wear Meta glasses while they work, official memo warns",
+      "url": "https://www.engadget.com/2239642/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/",
+      "datePublished": "2026-08-18T22:57:32.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Smart glasses have become a recurring accessory amid the immigration crackdown.",
+      "author": "staff@engadget.com (Karissa Bell)",
+      "imageUrl": "https://www.engadget.com/img/gallery/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/l-intro-1787094483.jpg",
+      "source": "Engadget"
+    },
     {
       "id": "293b2829c6ebffd0",
       "title": "C+C Music Factory Founder Sues Freedom Williams in $30 Million Trademark Lawsuit",
@@ -81,6 +186,20 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "33d7f2bc6574f07e",
+      "title": "Programmable Property-Based Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "datePublished": "2026-08-18T22:22:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://dl.acm.org/doi/10.1145/3828685 Comments URL: https://news.ycombinator.com/item?id=49353618 Points: 7 # Comments: 0",
+      "author": "matt_d",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "5ae44dec09ad8b6d",
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -131,6 +250,34 @@
       "author": "Tanya Fedak",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "d3c89fb31dea3c6d",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "datePublished": "2026-08-18T22:08:07.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 12 # Comments: 1",
+      "author": "giuliomagnifico",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "2156e302859a8392",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "datePublished": "2026-08-18T22:06:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 56 # Comments: 18",
+      "author": "apitman",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "71e23f60b4adac02",
@@ -2064,6 +2211,20 @@
       "author": "Ben Kaye",
       "imageUrl": "",
       "source": "Consequence"
+    },
+    {
+      "id": "1e907c1ba3f51440",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "datePublished": "2026-08-18T17:02:15.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 250 # Comments: 218",
+      "author": "tyre",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "0ff107a4afec4fe0",
@@ -6546,166 +6707,6 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/02J8wUsMPT7nvaqbx1uBW4j/hero-image.png",
       "source": "Mashable"
-    },
-    {
-      "id": "d1f2cd9aa7ca92c5",
-      "title": "Cancel those weekend plans — Borderlands 2 GOTY Edition is just $14.99",
-      "url": "https://mashable.com/entertainment/aug-17-borderlands-2-goty-steam-key-global",
-      "datePublished": "2026-08-17T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get Borderlands 2 Game of the Year Edition for Steam with six Vault Hunters, nine add-ons, co-op, and 100+ hours of gameplay for $14.99.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02VVr8hPcJ9llzSpkPmPv5T/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "999daecd782e3c07",
-      "title": "Emmy Predictions via Feinberg Forecast: Scott’s Updated Standings as Final Voting Gets Underway",
-      "url": "https://www.hollywoodreporter.com/lists/emmys-2026-winners-predictions-feinberg-forecast/",
-      "datePublished": "2026-08-17T22:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Hollywood Reporter's executive editor of awards coverage provides his latest read of 63 categories.",
-      "author": "Scott Feinberg",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a722f1d6223f33e9",
-      "title": "‘The Rivals of Amziah King’ Wasn’t the Sleeper Indie Box Office Darling We Hoped",
-      "url": "https://www.indiewire.com/news/box-office/rivals-amziah-king-box-office-black-bear-1235210853/",
-      "datePublished": "2026-08-17T22:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With just over $1 million from a limited release, Matthew McConaughey's return to the big screen wasn't as heralded as a strong SXSW premiere suggested.",
-      "author": "Brian Welk",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "81e7bd9bf49fcba6",
-      "title": "‘Lanterns’ Stars Kyle Chandler and Aaron Pierre Talk the Pilot Shocker, Early Fears and Season 2 Chances",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-kyle-chandler-and-aaron-pierre-death-1236675601/",
-      "datePublished": "2026-08-17T21:57:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The two Green Lantern actors had the challenge of block-shooting a season without completed scripts at first: \"It required a lot of faith and trust in the storyline.\"",
-      "author": "Brian Davids",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "4f7b45f243f4606e",
-      "title": "Hayden Panettiere Should Be Remembered for Her Performances, Not the Tabloid Press Trying to Solve Her Tragic Death",
-      "url": "https://www.indiewire.com/features/commentary/hayden-panettiere-remembered-for-work-not-tabloid-press-1235211018/",
-      "datePublished": "2026-08-17T21:53:09.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The late actress built her career around revealing complexity beneath familiar surfaces. Her tragic passing shouldn’t become the mystery that defines her.",
-      "author": "Ryan Lattanzio",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "65b097e7ad738ea9",
-      "title": "Thanks to Awake NY, the Sweetest Air Jordan 6s Exist",
-      "url": "https://www.highsnobiety.com/p/awake-ny-jordan-6-sneakers/",
-      "datePublished": "2026-08-17T21:52:38.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Awake NY officially reveals its Air Jordan 6 sneaker collaboration, which arrives in two flavors, \"Blueberry\" & \"Bubblegum.\"",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "ec1f1d4fe6efb3a6",
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-      "datePublished": "2026-08-17T21:47:30.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 13 # Comments: 10",
-      "author": "eamag",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ff89142518c848dc",
-      "title": "The New ‘Gilmore Girls’ Little People Collectible Set Is Bringing Stars Hollow to Your Shelf",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/shop-little-people-gilmore-girls-set-online-best-sites-1235610255/",
-      "datePublished": "2026-08-17T21:42:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The recent launch includes Lorelai, Rory, Emily, and Luke — plus a keepsake box featuring the town’s famous gazebo",
-      "author": "Alexis Mikulski Ruiz",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "8b5335672c91b35c",
-      "title": "Law Roach Releases Pettiness for Prettiness",
-      "url": "http://www.vulture.com/article/law-roach-zendaya-designers-dior-saint-laurent-gucci.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-17T21:42:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Holding grudges makes you ugly.”",
-      "author": "Jason P. Frank",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/52d/523/6c3d4d2c3da0050603f4ad788e859811b1-lawroach-ziwe.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "c17c98fcf60f38fb",
-      "title": "Ariana Madix to Join ‘Just in Time’ Broadway Musical",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/ariana-madix-cast-just-in-time-broadway-musical-1236675544/",
-      "datePublished": "2026-08-17T21:42:08.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"It’s a pinch-me moment to be able to come home to the Broadway stage and all I could have ever hoped for,\" the 'Love Island USA' host wrote in a statement.",
-      "author": "Carly Thomas",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "c725dc67de3c1566",
-      "title": "Where to Watch ‘It’s Always Sunny in Philadelphia’ Season 18 Online",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-its-always-sunny-in-philadelphia-season-18-streaming-1236675469/",
-      "datePublished": "2026-08-17T21:32:39.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The gang returns on Aug. 17 for a record-extending 18th season.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d1db66d13bc162d2",
-      "title": "The Week In Games: A Co-Op RPG Inspired By Morrowind",
-      "url": "https://kotaku.com/the-week-in-games-a-co-op-rpg-inspired-by-morrowind-2000725112",
-      "datePublished": "2026-08-17T21:30:28.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "And Steins;Gate Re:Boot is here to commit more heinous punctuation crimes",
-      "author": "Ethan Gach",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/lamplighter-1280x800.jpg",
-      "source": "Kotaku"
     }
   ]
 }
