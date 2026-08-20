@@ -1,6 +1,535 @@
 {
-  "generatedAt": "2026-08-20T20:01:40.487Z",
+  "generatedAt": "2026-08-20T21:59:42.148Z",
   "articles": [
+    {
+      "id": "4e7d972f1bf7bb8a",
+      "title": "The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years",
+      "url": "https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/",
+      "datePublished": "2026-08-20T21:53:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Hollies have officially called it a day. And perhaps, like many, you didn’t even realize a version of that classic rock band was still performing. Yet the Rock and Roll Hall of Fame-inducted group had endured in some form and continued to tour since 1962 — including two members who go back virtually to […]",
+      "author": "Chris Willman",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "830b97b015a20aef",
+      "title": "Apple Music will reportedly label any AI-made tracks later this year",
+      "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
+      "datePublished": "2026-08-20T21:50:50.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The upcoming feature expands its Transparency Tags for marking slop songs.",
+      "author": "staff@engadget.com (Anna Washenko)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/l-intro-1787262611.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "b7f75c9859c7d042",
+      "title": "Scientists Release Biggest 2D Map of the Universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "datePublished": "2026-08-20T21:42:51.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/ Comments URL: https://news.ycombinator.com/item?id=49380671 Points: 3 # Comments: 0",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "0db8fb991f2ae26b",
+      "title": "Madonna Is Still Queen of the VMAs",
+      "url": "https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/",
+      "datePublished": "2026-08-20T21:42:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "She's defined (and redefined) the MTV awards show's standards for more than 40 years. With 11 nominations at this year's show, she still reigns supreme",
+      "author": "Larisha Paul",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "be013bae7682b30d",
+      "title": "Lawmakers Offer Film Industry a Fix on California Tax Credit Cap",
+      "url": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
+      "datePublished": "2026-08-20T21:41:23.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since […]",
+      "author": "Gmaddaus",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "727e6acd4e5d9d5f",
+      "title": "Streaming Ratings: ‘Masters of the Universe’ Powers to No. 1 Debut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/",
+      "datePublished": "2026-08-20T21:35:42.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.",
+      "author": "Rick Porter",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "3f551fe8decb99c3",
+      "title": "Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy",
+      "url": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
+      "datePublished": "2026-08-20T21:33:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix’s biggest laffers, including “Master of […]",
+      "author": "Varietyschneider",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "fef5347d241da057",
+      "title": "Geoff Keighley Explains The Key To Getting In The Gamescom Showcase For Free Is Having Something Exciting To Reveal",
+      "url": "https://kotaku.com/geoff-keighley-explains-the-key-to-getting-in-the-gamescom-showcase-for-free-is-having-something-exciting-to-reveal-2000726290",
+      "datePublished": "2026-08-20T21:30:52.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Publishers with exciting reveals to share can get in for free",
+      "author": "Ethan Gach",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/GettyImages-2222468006-e1787256246940-1280x719.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "9d814d6d7afc0cfc",
+      "title": "Citizen Devs: Everyone is an engineer now",
+      "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+      "datePublished": "2026-08-20T21:25:48.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer Comments URL: https://news.ycombinator.com/item?id=49380491 Points: 7 # Comments: 2",
+      "author": "metal13",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "70e3fc373020a2ae",
+      "title": "Code as an Artifact",
+      "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+      "datePublished": "2026-08-20T21:24:57.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/ Comments URL: https://news.ycombinator.com/item?id=49380482 Points: 8 # Comments: 1",
+      "author": "pradeeproark",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "83f7f6eccf0f88c6",
+      "title": "Diane Warren Adopts West Hollywood’s Runaway Pig: ‘Welcome Wilbur!’",
+      "url": "https://variety.com/2026/music/news/diane-warren-adopts-runaway-pig-wilbur-1236839382/",
+      "datePublished": "2026-08-20T21:18:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The viral story of a runaway pig in West Hollywood turned out to have a Hollywood ending. This past weekend, a video showed a piglet running through the streets of West Hollywood. Jamaal Harrison, who filmed the video, is seen chasing the pig as he yells, “There’s a pig in West Hollywood!” He later says, […]",
+      "author": "Jazztangcay",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6b500759c78872cb",
+      "title": "‘Lanterns’ Premiere Lights Up Strong Ratings on HBO, HBO Max",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-ratings-hbo-max-1236678072/",
+      "datePublished": "2026-08-20T21:12:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The DC series racks up more than 9 million viewers worldwide over its first three days.",
+      "author": "Rick Porter",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "2b64f992937b4a59",
+      "title": "Hayden Panettiere’s Boyfriend Breaks Silence on Her Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/brian-hickerson-hayden-panettiere-boyfriend-death-1236678053/",
+      "datePublished": "2026-08-20T21:11:52.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Brian Hickerson's attorney says police have found no signs of foul play as the investigation into the actress' death continues.",
+      "author": "Kevin Dolak",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "95dc3a08d75b8251",
+      "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+      "datePublished": "2026-08-20T21:08:34.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+      "author": "Lucas Ropek",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "149366ecbadaa522",
+      "title": "L.A. Mayor Karen Bass Throws Her Support Behind Paramount-Warner Bros. Discovery Settlement",
+      "url": "https://www.hollywoodreporter.com/business/business-news/karen-bass-paramount-warner-bros-discovery-settlement-1236677994/",
+      "datePublished": "2026-08-20T21:04:29.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The mayor previously stated that she opposed the $111 billion merger deal unless jobs were preserved in the transaction.",
+      "author": "Katie Kilkenny",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f5aeeda4b8129ec7",
+      "title": "TV Vet Chuck Saftler to Depart Disney and FX After Nearly 33 Years",
+      "url": "https://variety.com/2026/tv/news/chuck-saftler-to-depart-disney-and-fx-1236839456/",
+      "datePublished": "2026-08-20T21:04:23.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Longtime TV exec Chuck Saftler, who helped build FX into the powerhouse it is — having joined the company in 1993, prior to its before its June 1994 launch date — is departing the company after nearly 33 years. The well-regarded Saftler most recently served as head of acquisitions for Disney networks including ABC, Freeform, […]",
+      "author": "Varietyschneider",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "13830117335cff9c",
+      "title": "Peacock Plans Get Another Price Hike — Here Are the Best Subscription Deals and Free Trial Hacks",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-peacock-subscription-streaming-deal-1235500478/",
+      "datePublished": "2026-08-20T21:02:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "See how deal-savvy streamers can save on the NBCUniversal-owned service, including three little-known ways to get it for free.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9c4b0a14c295481f",
+      "title": "Lindsay Clancy Trial Sparks Discourse Online",
+      "url": "https://knowyourmeme.com/memes/events/lindsay-clancy-trial",
+      "datePublished": "2026-08-20T21:01:11.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Lindsay Clancy is a Massachusetts mother accused of killing her three young children, Cora, Dawson and Callan, at the family’s home in Duxbury on January 24th, 2023. Clancy has pleaded not guilty to three counts of first-degree murder. Prosecutors allege the killings were deliberate, while her defense argues that she was suffering from undiagnosed postpartum psychosis at the time. Due to the grim ",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/323/Screenshot_2026-08-20_150245.jpg",
+      "source": "Know Your Meme"
+    },
+    {
+      "id": "373dd825766ae745",
+      "title": "What to watch on Hulu: The best shows streaming right now",
+      "url": "https://www.avclub.com/hulu-what-to-watch-best-tv-shows",
+      "datePublished": "2026-08-20T21:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The best shows on Hulu feature handmaids, a pair of Soviet spies, and a group of Indigenous teens from Oklahoma.",
+      "author": "The A.V. Club",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/20155953/avc-hulu-tv-list-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
+      "id": "d1b9c97982dac220",
+      "title": "What is CyberLeek? Everything we know about the alleged GTA 6 leakers.",
+      "url": "https://mashable.com/tech/cyberleek-gta-6-leaks-explained",
+      "datePublished": "2026-08-20T20:59:40.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "CyberLeek is leaking alleged GTA 6 gameplay, promoting a memecoin, and may have a playable build. Here’s everything we know.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03yb458JjVps32fEVINVbS1/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d7dbe9eea5c59a7d",
+      "title": "Yahya Abdul-Mateen II thinks Wonder Man \"deserves\" some \"real, hard information\" about why it got canceled",
+      "url": "https://www.avclub.com/yahya-abdul-mateen-wonder-man-deserves-answers-optics",
+      "datePublished": "2026-08-20T20:59:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"If I’m a big business, if I’m Disney, if I’m Marvel, I don’t want to be attached to these optics,\" the Emmy-nominated actor said of the cancellation.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/23194205/wonderman-review-squared.jpg",
+      "source": "The A.V. Club"
+    },
+    {
+      "id": "f0c7298d6e6c87c3",
+      "title": "Riot is ending active development of 2XKO in December",
+      "url": "https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/",
+      "datePublished": "2026-08-20T20:56:22.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The fighting game will still receive content updates through October 2026.",
+      "author": "staff@engadget.com (Ian Carlos Campbell)",
+      "imageUrl": "https://www.engadget.com/img/gallery/riot-is-ending-active-development-of-2xko-in-december/l-intro-1787259192.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "46e9a4a9c8193ead",
+      "title": "All match overrides and console locations in Fortnite Chapter 7 Season 4",
+      "url": "https://www.polygon.com/fortnite-chapter-7-season-4-match-overrides-console-locations-c7s4/",
+      "datePublished": "2026-08-20T20:53:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Match overrides change the way you play Fortnite in Chapter 7 Season 4. Here are all the match overrides and where to find override consoles.",
+      "author": "Johnny Yu",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/override-console_fn.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "1eb80258f5567cff",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "datePublished": "2026-08-20T20:53:13.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "author": "Amanda Silberling",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "4d4324f75a8195ee",
+      "title": "Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome",
+      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
+      "datePublished": "2026-08-20T20:50:28.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The industry gets a little less transparent",
+      "author": "Rebekah Valentine",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/xbox-games-store.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "daef7d1e6154796a",
+      "title": "D&D Is Playtesting Baldur’s Gate 3’s Nastiest Transformation on Tabletop",
+      "url": "https://www.polygon.com/dnd-baldurs-gate-3-mind-flayer-tabletop-transformation/",
+      "datePublished": "2026-08-20T20:46:05.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "D&D’s new Unearthed Arcana options let characters host a tadpole, unlock psionic powers, and eventually transform into a full mind flayer.",
+      "author": "Corey Plante",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21943689/Baldur_s_Gate_3_mind_flayer.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d43ce900e0de0d8b",
+      "title": "Want to Become Menswear's Next Big Thing? Wait 10 Years",
+      "url": "https://www.highsnobiety.com/p/best-new-menswear-brands/",
+      "datePublished": "2026-08-20T20:45:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "ssstein, Auralee, mfpen, Camiel Fortgens, Gabriela Coll, Bode — nearly every single brand that's come to define modern menswear is at least a decade old.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "8329a15bbfb93dcb",
+      "title": "The Odyssey defies gods, trillionaires, and Deadpool to become biggest R-rated movie ever",
+      "url": "https://www.avclub.com/the-odyssey-becomes-highest-grossing-r-rated-movie-ever",
+      "datePublished": "2026-08-20T20:44:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Odyssey has supplanted Deadpool & Wolverine as the highest-grossing movie unsuitable for viewers under 17.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/21145118/odyssey-myth-squared.jpg",
+      "source": "The A.V. Club"
+    },
+    {
+      "id": "ed3d0997925b0d5f",
+      "title": "L.A. Mayor Karen Bass Weighs In on Paramount-Warner Bros. Merger, Urges California AG Rob Bonta to Engage in Talks on Antitrust Case: ‘This Is Not About Taking Sides’",
+      "url": "https://variety.com/2026/film/news/la-mayor-karen-bass-paramount-warner-bros-merger-settle-antitrust-case-1236839410/",
+      "datePublished": "2026-08-20T20:42:30.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Los Angeles Mayor Karen Bass urged California attorney general Rob Bonta and Paramount to resolve their differences and work “urgently” to find a resolution to the 12-state antitrust lawsuit that is blocking Paramount’s takeover of Warner Bros. Discovery. “While there are varying perspectives on the proposed transaction, today we are united around one clear message: […]",
+      "author": "Todd Spangler",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "8b6420de15e44bb1",
+      "title": "Seth Rogen, Danny Boyle, Colman Domingo, Mo Abudu Join TIFF: The Market Summit Lineup",
+      "url": "https://www.hollywoodreporter.com/business/business-news/seth-rogen-tiff-the-market-summit-lineup-1236678005/",
+      "datePublished": "2026-08-20T20:39:08.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Kat Sandler, Jordan Firstman, Amber Midthunder and Cody Lightning will also feature among speakers and panel members at Toronto’s inaugural content market next month.",
+      "author": "Etan Vlessing",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "39cf3eb1d63c73dd",
+      "title": "Neutrogena Responds to Backlash in Wake of Onetime Ambassador Hayden Panettiere’s Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/neutrogena-hayden-panettiere-postpartum-depression-boycott-1236677969/",
+      "datePublished": "2026-08-20T20:39:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"This is not what Neutrogena stands for or who we want to be,\" said the brand in acknowledging that Panettiere felt unsupported after revealing her struggle with postpartum depression.",
+      "author": "Chris Gardner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "3bb2dddeaaa626a3",
+      "title": "Neutrogena Comments on Hayden Panettiere’s Death Amid Backlash and Says ‘We Made Her Feel Unsupported’; Actor Said the Company Nearly Fired Her for Talking About Postpartum",
+      "url": "https://variety.com/2026/tv/news/neutrogena-hayden-panettiere-backlash-postpartum-depression-1236839404/",
+      "datePublished": "2026-08-20T20:34:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Neutrogena, the popular cosmetics and skin care brand, has issued a statement following the death of Hayden Panettiere, who served as a spokesperson and brand ambassador for the company for nearly a decade during the height of her career. Panettiere’s death ignited widespread backlash against Neutrogena across social media due to comments the actor made […]",
+      "author": "Zack Sharf",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "cce0019ccef38813",
+      "title": "Hayden Panettiere’s Ex-Boyfriend Brian Hickerson Breaks Silence",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-boyfriend-death-1235611430/",
+      "datePublished": "2026-08-20T20:31:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Hayden’s death remains under investigation and it is important to allow that investigation to proceed”",
+      "author": "Cheyenne Roundtree",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "f3868c92d2d3f813",
+      "title": "‘Lanterns’ Premiere Pulls in 9.3 Million Viewers in First Three Days on HBO Max",
+      "url": "https://variety.com/2026/tv/news/lanterns-premiere-viewership-9-3-million-hbo-max-1236839414/",
+      "datePublished": "2026-08-20T20:23:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Lanterns” haters are going to be green with envy. The series premiere of the DC Studios show has racked up 9.3 million views in its first three days of availability across HBO and HBO Max. That represents the biggest premiere for a DC Studios show on HBO Max to date and one of the top […]",
+      "author": "Joseph Otterson",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "dfb391046b2ff45f",
+      "title": "Jessica Simpson Documentary Headed to Netflix in 2027",
+      "url": "https://www.rollingstone.com/music/music-news/jessica-simpson-documentary-netflix-2027-1235612241/",
+      "datePublished": "2026-08-20T20:20:30.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Joe Pearlman, filmmaker behind recent Robbie Williams doc, will helm the \"dive deep into the pop star’s life and career\"",
+      "author": "Daniel Kreps",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "8a282a78eb061fab",
+      "title": "Riot Games Officially Confirms End of an Era for League of Legends",
+      "url": "https://www.polygon.com/riot-games-cancels-2xko-league-of-legends/",
+      "datePublished": "2026-08-20T20:16:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "League of Legends fighting game 2XKO is ending active development in 2026, Riot Games has announced less than a year after launch.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jinx.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "b237d921b3aab56b",
+      "title": "Pirates Have Resonance: A Plague Tale Legacy A Week Before Release As Games Keep Leaking On PC",
+      "url": "https://kotaku.com/pirates-have-resonance-a-plague-tale-legacy-a-week-before-release-as-games-keep-leaking-on-pc-2000726279",
+      "datePublished": "2026-08-20T20:15:51.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "This is getting old",
+      "author": "Ethan Gach",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/resonance-.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "c2b6f1b974db9b7a",
+      "title": "Harry and Meghan Are Leaving California — But Are They Leaving Hollywood?",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/prince-harry-meghan-markle-uk-move-what-it-means-netflix-deal-1236677752/",
+      "datePublished": "2026-08-20T20:13:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The former Duke and Duchess of Sussex, once Hollywood's hottest couple to court, have a hit documentary in theaters but a dwindling Netflix deal. Is it curtains for Archewell Productions?",
+      "author": "Anthony Maglio",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "6a17c083df26fc80",
+      "title": "Remi Wolf Announces New Album Mud",
+      "url": "https://pitchfork.com/story/remi-wolf-announces-new-album-mud/",
+      "datePublished": "2026-08-20T20:13:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“I literally felt like I was covered in shit. And now, at the end of the album process, I feel so clean and clear.”",
+      "author": "Jazz Monroe",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "c992986a594fa67e",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "datePublished": "2026-08-20T20:07:26.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 315 # Comments: 46",
+      "author": "speckx",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "6a6eb87271e4b9f0",
       "title": "5 Classic Nintendo Games that Are Completely Unplayable Today",
@@ -26,6 +555,19 @@
       "author": "Thomas Hindmarch",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/hoyeon-hope-2026.JPG",
       "source": "Polygon"
+    },
+    {
+      "id": "a5e84bc57d51e5bd",
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "datePublished": "2026-08-20T20:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "imageUrl": "",
+      "source": "TechCrunch"
     },
     {
       "id": "8a4e1553ba6c27f6",
@@ -81,6 +623,19 @@
       "source": "Engadget"
     },
     {
+      "id": "0036e6f0d6f06dfc",
+      "title": "Charles Melton might mentor Destin Daniel Cretton's Naruto",
+      "url": "https://www.avclub.com/charles-melton-talks-naruto-adaptation",
+      "datePublished": "2026-08-20T19:48:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Emmy nominee Charles Melton is in final negotiations to play Naruto's mentor Kakashi in Destin Daniel Cretton's adaptation.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/21181722/Beef-Melton-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "5d8e714d35010d41",
       "title": "Sean Duffy’s America 250 Reality Show Draws Just 2,900 Viewers",
       "url": "https://consequence.net/2026/08/sean-duffys-america-250-reality-show-draws-just-2900-viewers/",
@@ -134,6 +689,19 @@
       "source": "Variety"
     },
     {
+      "id": "55b1a08aa314879f",
+      "title": "Trump’s Treasury Secretary Thinks It’s Good That the Economy Is Bad",
+      "url": "https://newrepublic.com/post/214577/trump-treasury-secretary-job-market-economy-bad",
+      "datePublished": "2026-08-20T19:40:45.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Treasury Secretary Scott Bessent wants you to think that a weak job market is a good thing. CNBC’s Sara Eisen asked Bessent to comment on recent signs that the job market was cracking. Bessent downplayed the “noisy” numbers suggesting the job market was not stable. “The jobs that we’re seeing are going to Americans,” Bessent. “After the deportations that we’ve seen during the President Trump admin",
+      "author": "Edith Olmsted",
+      "imageUrl": "https://images.newrepublic.com/038fcf3d8477ecb20111eb39a894560aa0cb6251.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
       "id": "0afe06c6e86629f6",
       "title": "Apple Music to Label AI-Made Tracks Later This Year",
       "url": "https://variety.com/2026/music/news/apple-music-to-label-ai-made-tracks-1236839371/",
@@ -157,6 +725,19 @@
       "description": "Three Layer Dip Stack or 3 Layer Dip Stack is a 2026 TikTok brainrot meme and song based on a line from a 2020 Pringles Super Bowl commercial featuring a robot version of the character Morty from Rick and Morty. The meme centers on the absurdly repetitive phrase, “Cheddar and barbecue wavy and sour cream and onion equals a three-layer dip stack,” delivered by robotic Morty clones in the commercial",
       "author": "",
       "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/303/Screenshot_2026-08-17_171600.jpg",
+      "source": "Know Your Meme"
+    },
+    {
+      "id": "5a5ad67e90a7715a",
+      "title": "Robert Loggia Family Guy Meme Explained",
+      "url": "https://knowyourmeme.com/memes/robert-loggia-family-guy",
+      "datePublished": "2026-08-20T19:37:28.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Robert Loggia refers to a cutaway bit from the American animated sitcom Family Guy, which references real-life actor Robert Loggia. The clip, derived from an episode that aired in 2007, began seeing ironic use in various remixes, fancams and brainrot memes or other content in late July and August 2026. The clip is also used as bait-and-switch media and copypasta due to its long and tedious nature.",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/296/Screenshot_2026-08-14_151555.jpg",
       "source": "Know Your Meme"
     },
     {
@@ -184,6 +765,19 @@
       "author": "",
       "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/318/Screenshot_2026-08-19_154117.jpg",
       "source": "Know Your Meme"
+    },
+    {
+      "id": "0636424b2447b613",
+      "title": "Steven Yeun to explore the darker side of fatherhood in Pagans",
+      "url": "https://www.avclub.com/steven-yeun-pagans-netflix-announcement",
+      "datePublished": "2026-08-20T19:32:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Netflix describes the upcoming series as \"horrifying and humorous.\"",
+      "author": "Jarrod Jones",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20151635/steven-yeun-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "e0024eb99416244b",
@@ -300,6 +894,34 @@
       ],
       "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 30 # Comments: 29",
       "author": "0xedb",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ab05a8d294e9940d",
+      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "url": "https://tidalcycles.org/",
+      "datePublished": "2026-08-20T19:21:45.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 31 # Comments: 5",
+      "author": "gjvc",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9dd2350da94391ea",
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "datePublished": "2026-08-20T19:19:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 31 # Comments: 6",
+      "author": "hurrrr",
       "imageUrl": "",
       "source": "Hacker News"
     },
@@ -514,6 +1136,19 @@
       "source": "Polygon"
     },
     {
+      "id": "569d1df61205049e",
+      "title": "Brad Holbrook spews the truth on The Onion’s Jim Haggerty",
+      "url": "https://www.avclub.com/brad-holbrook-interview-the-onion-infowars-the-jim-haggerty-show",
+      "datePublished": "2026-08-20T19:00:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "For nearly 20 years, the actor-turned-anchorman-turned-actor has grounded The Onion’s video parodies as the satirical outlet's most beloved onscreen character.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19172712/jim-haggerty.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "67adda02eafacfaa",
       "title": "Did You Know There’s a New Claire Denis Film Out?",
       "url": "http://www.vulture.com/article/review-claire-deniss-the-fence-on-amc-with-matt-dillon.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
@@ -700,6 +1335,19 @@
       "author": "Jennifer Maas",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "8cab637b15ee1cb1",
+      "title": "Great Job, Internet!: Darth Vader, Galactic Empire support San Diego's Flock cameras",
+      "url": "https://www.avclub.com/gji-darth-vader-san-diego-flock-endorsement",
+      "datePublished": "2026-08-20T18:30:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Darth Vader dropped by a SoCal community meeting to leave public comment about how Flock could help him catch Luke Skywalker.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20142427/darth-vader-public-comment-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "158c5ab9da4a10cc",
@@ -1144,6 +1792,19 @@
       "source": "Polygon"
     },
     {
+      "id": "5cfc57b98a6e62ad",
+      "title": "Rob Liefeld wants you to know that Deadpool's really packing heat",
+      "url": "https://www.avclub.com/rob-liefeld-deadpool-revelation",
+      "datePublished": "2026-08-20T17:42:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The comic artist revealed the extent of Wade Wilson's secret weapon on a podcast.",
+      "author": "Jarrod Jones",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20133725/deadpool-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "52ca12f946d52673",
       "title": "Project Cybersyn (2022)",
       "url": "https://bactra.org/notebooks/cybersyn.html",
@@ -1301,6 +1962,19 @@
       "author": "K.J. Yossman",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "d8e22779c2a31796",
+      "title": "Netflix is spending Thanksgiving with The Hunting Wives",
+      "url": "https://www.avclub.com/the-hunting-wives-season-2-premiere-date-first-look",
+      "datePublished": "2026-08-20T17:29:32.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The streamer shared a first look of the series ahead of its November 26 premiere.",
+      "author": "Drew Gillis",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/07160030/the-hunting-wives.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "9c9092ae971549fe",
@@ -1514,6 +2188,19 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "4b35fed31f957169",
+      "title": "Yellowjackets make it home for the final season this November",
+      "url": "https://www.avclub.com/yellowjackets-seaason-four-teaser-release-date",
+      "datePublished": "2026-08-20T17:05:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Melanie Lynskey and Christina Ricci return for the conclusion of Paramount+'s survival series.",
+      "author": "Matt Schimkowitz",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20125857/yellowjackets-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "6f3a01a450108319",
       "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
       "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
@@ -1592,6 +2279,19 @@
       "author": "Todd Spangler",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "6b57027a191ad82e",
+      "title": "Why do movies look like that now?",
+      "url": "https://www.avclub.com/why-do-movies-look-like-that-now-contrast-washed-out-cinematography-netflix",
+      "datePublished": "2026-08-20T17:00:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Cinematographers, colorists, and camera ops explain how shifting technologies and business expectations are making movies look like that.",
+      "author": "Kyle Turner",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19115640/wicked-squared.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "a80e2b52e0c71563",
@@ -1804,6 +2504,19 @@
       "source": "Engadget"
     },
     {
+      "id": "4a6fd1b0010e6803",
+      "title": "Cleave it to Paramount+ to ham up the new Golden Axe animated series",
+      "url": "https://www.avclub.com/golden-axe-paramount-plus-trailer-matthew-rhys",
+      "datePublished": "2026-08-20T16:30:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A new trailer has been released for the Matthew Rhys-led comedy-fantasy, which drops on September 16.",
+      "author": "Jarrod Jones",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20115705/goldenaxe-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "abb26719f5d56a14",
       "title": "Getting Concert Tickets Has Become a Bloodbath. Now Another Leisure Activity Is Joining the Club.",
       "url": "https://slate.com/culture/2026/08/dune-3-imax-70mm-tickets-the-odyssey-movies-amc.html?via=rss",
@@ -1867,6 +2580,19 @@
       "author": "Malcolm Ferguson",
       "imageUrl": "https://images.newrepublic.com/58f1141034a237f3182da5aa763cc1fef5504389.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
       "source": "The New Republic"
+    },
+    {
+      "id": "a986010cc9816bc3",
+      "title": "Stephen A. Smith, John McEnroe reportedly in the running to be 60 Minutes' new Andy Rooney",
+      "url": "https://www.avclub.com/60-minutes-stephen-a-smith-john-mcenroe-andy-rooney",
+      "datePublished": "2026-08-20T16:19:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "New executive producer Nick Bilton is also apparently developing an AI system to review story pitches.",
+      "author": "Drew Gillis",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/07114028/stephen-a-smith-tonight-show-square.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "b40e5ae462d307bb",
@@ -2554,6 +3280,19 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "fb20dc367d02add6",
+      "title": "Weird Al Yankovic finally brings some parodies to the Tiny Desk",
+      "url": "https://www.avclub.com/weird-al-yankovic-tiny-desk",
+      "datePublished": "2026-08-20T15:07:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Finally, \"The Saga Begins\" has graced the NPR office.",
+      "author": "Drew Gillis",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20110519/MixCollage-20-Aug-2026-11-01-AM-2662.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "33900ac9dcb9dd7d",
       "title": "‘Hunting Wives’ Sets Season 2 Release Date, Drops First-Look Photos",
       "url": "https://variety.com/2026/tv/news/hunting-wives-season-2-release-date-first-look-1236839062/",
@@ -2594,6 +3333,19 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "a2f3d6347e1b014c",
+      "title": "Rhea Seehorn offers Owen Wilson a mulligan in this first look at Stick season 2",
+      "url": "https://www.avclub.com/stick-season-2-first-look-owen-wilson-rhea-seehorn",
+      "datePublished": "2026-08-20T15:00:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Apple TV comedy takes a second swing at success on November 4.",
+      "author": "Jarrod Jones",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20102308/stick-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "f1daa871fd67902c",
       "title": "A Pulitzer, a Movie, and Two Mind-Melting New Books — Best Year Ever?",
       "url": "https://www.polygon.com/a-pulitzer-a-movie-and-two-mind-melting-new-horror-books-best-year-ever/",
@@ -2605,6 +3357,19 @@
       "author": "Matt Patches",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/daniel_kraus_polygon.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "3d2f739b0122fde0",
+      "title": "The only conspiracy in Freefall: A Reckoning For Boeing is corporate rot",
+      "url": "https://www.avclub.com/freefall-a-reckoning-for-boeing-nexflix-corporate-rot-conspiracy-theory-whistleblower",
+      "datePublished": "2026-08-20T15:00:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Even considering a whistleblower's mysterious death, Freefall: A Reckoning For Boeing only finds a familiar consequence of capitalism.",
+      "author": "Monica Castillo",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19162920/freefall-boeing-squared.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "f89f2060937a90af",
@@ -3073,6 +3838,19 @@
       "source": "Hacker News"
     },
     {
+      "id": "ab9e50c8d32902af",
+      "title": "Theo James dubs self too old to play James Bond",
+      "url": "https://www.avclub.com/theo-james-too-old-james-bond",
+      "datePublished": "2026-08-20T14:06:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Gentlemen star is one year younger than Daniel Craig was when Casino Royale premiered.",
+      "author": "Drew Gillis",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20100527/MixCollage-20-Aug-2026-10-04-AM-5716.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "52091c2586ff98ff",
       "title": "Stwipe Acquires OpenWouter",
       "url": "https://stwipe.com/",
@@ -3259,6 +4037,19 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "2e8970db300196d3",
+      "title": "Chris Pratt goes off the grid in first look at The Terminal List season 2",
+      "url": "https://www.avclub.com/terminal-list-season-2-first-look-teaser",
+      "datePublished": "2026-08-20T13:33:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Prime Video series returns on October 21.",
+      "author": "Jarrod Jones",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20092753/terminal-lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "835902e7460efe06",
       "title": "Florida School Board Leading “War on Woke” Loses Conservative Majority",
       "url": "https://newrepublic.com/post/214542/florida-school-board-war-woke-loses-conservative-majority",
@@ -3392,6 +4183,19 @@
       "source": "Consequence"
     },
     {
+      "id": "582c95b93259784b",
+      "title": "The home is a cruel place in first full Monster: The Lizzie Borden Story trailer",
+      "url": "https://www.avclub.com/monster-the-lizzie-borden-story-full-trailer",
+      "datePublished": "2026-08-20T13:04:21.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The latest entry of the Monster anthology premieres on September 17.",
+      "author": "Drew Gillis",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/04140237/MixCollage-04-Aug-2026-01-59-PM-4350.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "fe2a82f35475b7e3",
       "title": "AI data giant Alation confirms cyberattack",
       "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
@@ -3429,6 +4233,19 @@
       "author": "Rebekah Valentine",
       "imageUrl": "https://kotaku.com/app/uploads/2024/07/4a708de5f5f2fed200a3c32730ded1db-1280x721.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "be1c427028d4551d",
+      "title": "Star Trek: Strange New World’s puppet episode is a bridge too far",
+      "url": "https://www.avclub.com/star-trek-strange-new-worlds-recap-season-4-episode-5-level-five-transporter-accident",
+      "datePublished": "2026-08-20T13:00:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Level Five Transporter Accident” boldly goes where no show should go again.",
+      "author": "Erik Adams",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19170125/SNW_405_JT_0710_2979_RT.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "87085957faff2a23",
@@ -4106,6 +4923,19 @@
       "author": "Psyche Video",
       "imageUrl": "https://images.aeonmedia.co/images/737e3143-0725-4594-aaa6-7c4dd5d5d209/everything-is-going-to-be-fine-landscape-1.jpg?top=21&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto",
       "source": "Psyche"
+    },
+    {
+      "id": "39f3b15e9855757a",
+      "title": "Rick Baker on the past and future of making monsters: \"Practical effects are coming back in a big way\"",
+      "url": "https://www.avclub.com/rick-baker-interview-thriller-american-werewolf-coming-to-america-king-kong-men-in-black",
+      "datePublished": "2026-08-20T10:00:51.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Makeup legend Rick Baker tells us about \"the good\" American Werewolf, pulling double Kong duty, defining \"Thriller,\" and AI.",
+      "author": "Josh Slater-Williams",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/17135311/rick-baker-squared-1.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "55d1ecac0e0cf82d",
@@ -5848,852 +6678,6 @@
       "author": "Pedro Camacho",
       "imageUrl": "",
       "source": "Consequence"
-    },
-    {
-      "id": "d829edc693d41220",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "datePublished": "2026-08-19T21:19:50.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 90 # Comments: 44",
-      "author": "fg137",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "3f67bb5f92f9afaf",
-      "title": "Sandra Bullock Says She Felt ‘Isolated’ Hiding Bryan Randall’s ALS",
-      "url": "http://www.vulture.com/article/sandra-bullock-isolated-hiding-husband-als.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-19T21:17:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Eventually, she shared her partner’s diagnosis with close friends like Jennifer Aniston.",
-      "author": "Bethy Squires",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/053/21b/a1b01d5272b1ff0c268cae7fea8e707a9f-sandra-bullock.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "8d388b70854e4843",
-      "title": "Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in",
-      "url": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/",
-      "datePublished": "2026-08-19T21:14:31.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Eight leaked Steam Frame videos are informative and kinda silly.",
-      "author": "staff@engadget.com (Jessica Conditt)",
-      "imageUrl": "https://www.engadget.com/img/gallery/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/l-intro-1787173988.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "2880576c639d9b7f",
-      "title": "Pokémon Halloween 2026 Merch Is Here So Ditch The 12-foot Home Depot Skeleton",
-      "url": "https://www.polygon.com/pokemon-center-new-halloween-merchandise-2026/",
-      "datePublished": "2026-08-19T21:11:55.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Pokémon Center just released its Halloween 2026 merchandise. It includes Pokémon yard statues, Gengar sleepwear, and more.",
-      "author": "Austin Manchester",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-halloween-merch.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "ebc042d1fb8a4ea0",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "datePublished": "2026-08-19T21:11:31.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 31 # Comments: 12",
-      "author": "jggonz",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "733d56f49f5add49",
-      "title": "‘Even Stevens’ Star Christy Carlson Romano Says ‘Early Fame Is Like CTE’ After Hayden Panettiere’s Death: ‘Another Performer I Grew Up With, Gone Too Soon’",
-      "url": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/",
-      "datePublished": "2026-08-19T21:09:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Christy Carlson Romano, a Disney Channel teen icon after playing Ren Stevens on “Even Stevens” and voicing the title character on “Kim Possible,” published an emotional essay on Elle’s website in the wake of Hayden Panettiere’s death. The two actors got their breakthroughs in 2000, the year both “Even Stevens” and “Remember the Titans” premiered, […]",
-      "author": "Zack Sharf",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "ba84ab9586314fcf",
-      "title": "Sons Of Anarchy cast to go for another ride in meta reunion series Legends",
-      "url": "https://www.avclub.com/sons-of-anarchy-reunion-series-legends-announced",
-      "datePublished": "2026-08-19T21:08:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Charlie Hunnam, Ron Perlman, Katey Sagal, and the rest of the Sons will play themselves at a fictional reunion.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19170519/sons-of-anarchy-lead-1.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "4c21afcf623aae87",
-      "title": "Waymo Ojai vans are now available for all riders in three cities",
-      "url": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
-      "datePublished": "2026-08-19T21:07:58.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
-      "author": "staff@engadget.com (Anna Washenko)",
-      "imageUrl": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "0313514d4c6bb509",
-      "title": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
-      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/",
-      "datePublished": "2026-08-19T21:02:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The merger of Paramount and Warner Bros. could cost about 4,500 film and TV jobs over three years, according to a new report issued by Los Angeles County. The report, prepared by CVL Economics, argues that the merger would accelerate the downturn in L.A. production, which has already cost 52,000 jobs over the last four […]",
-      "author": "Gmaddaus",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "370d0a3be6561580",
-      "title": "5 Short Games Under 20 Hours",
-      "url": "https://www.polygon.com/best-games-under-20-hours/",
-      "datePublished": "2026-08-19T21:00:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "If you don't have time for 80-plus-hour epics, these 5 games under 20 hours are perfect for you.",
-      "author": "Lillian Ali",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24380559/Link_s_Awakening_official.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "f068436bd20363ad",
-      "title": "Twisted Teens Sign to Sub Pop",
-      "url": "https://pitchfork.com/story/twisted-teens-sign-to-sub-pop/",
-      "datePublished": "2026-08-19T21:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Plus, a pair of new U.S. shows and an Australian tour",
-      "author": "Jazz Monroe",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "37d6634e967ada82",
-      "title": "Sorry, Brad Pitt and Robert Pattinson: Among 2027 Oscar Contenders Poised for Two Noms, Only Sandra Hüller Has the Stuff",
-      "url": "https://www.indiewire.com/awards/predictions/oscars-2027-double-nominees-sandra-huller-robert-pattinson-brad-pitt-1235211354/",
-      "datePublished": "2026-08-19T20:48:20.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "One actress, Sandra Hüller, with four high-octane roles, could land both Best Actress and Supporting Actress nominations.",
-      "author": "Anne Thompson",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "675b97a2e3a97b12",
-      "title": "LISTEN: How ‘Dateline’ Became a Content Dynamo for NBC News",
-      "url": "https://variety.com/2026/tv/news/dateline-dynamo-nbc-news-liz-cole-paul-ryan-nbc-100-1236837946/",
-      "datePublished": "2026-08-19T20:47:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "On today’s episode of “Daily Variety” podcast, “Dateline” executive producers Liz Cole and Paul Ryan detail how the venerable newsmagazine became a digital content dynamo for NBC News. Cole, senior executive producer for “Dateline” and president of NBC News Studios, and Ryan, “Dateline” executive producer and a 14-year NBC News veteran, are at the helm […]",
-      "author": "Cynthia Littleton",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "75baab9356d53b60",
-      "title": "Marvel going back to the Wolverine: Origin well for another adamantium dip",
-      "url": "https://www.avclub.com/wolverine-origin-3-dark-age-announcement-marvel-comics",
-      "datePublished": "2026-08-19T20:46:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Wolverine: Origin III — The Dark Age #1 slices into comic shops on December 16.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19163933/wolvie-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "f38f4109bacbde25",
-      "title": "Phoebe Bridgers Covers Nirvana’s “Lithium” on BBC 1 Live Lounge",
-      "url": "https://consequence.net/2026/08/phoebe-bridgers-nirvana-cover-lithium/",
-      "datePublished": "2026-08-19T20:41:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Bridgers also performed her own \"Bobby\" and \"Lost Boys.\" Phoebe Bridgers Covers Nirvana’s “Lithium” on BBC 1 Live Lounge Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "a3812c52d42c5500",
-      "title": "The Future of Cars Looks Surprisingly Retro",
-      "url": "https://www.highsnobiety.com/p/monterey-car-week-2026/",
-      "datePublished": "2026-08-19T20:33:01.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Monterey Car Week 2026 gave us the great cars of yesterday. Yes, Jaguar & Aston Martin flexed the future but the best automotive moments were of the past.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "4597082f1f17f7eb",
-      "title": "New Balance Just Made the Rolls Royce of Normcore Sneakers",
-      "url": "https://www.highsnobiety.com/p/new-balance-2040v5-castlerock/",
-      "datePublished": "2026-08-19T20:32:23.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Dropping in late August 2026 with a steep $400 price point, the New Balance 2040v5 Castlerock is a lifetime investment.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "065bdd070dec0461",
-      "title": "Magic’s Leaked Secret Lair Commander Deck Includes an Overpowered $60 Cyborg",
-      "url": "https://www.polygon.com/mtg-secret-lair-odds-and-ends-commander-decklist-leak/",
-      "datePublished": "2026-08-19T20:30:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Magic's leaked Odds and Ends Secret Lair deck offers huge value, including a $60 Esper Sentinel in a deck focused on odd-cost cards.",
-      "author": "Corey Plante",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/esper-sentinel-modern-horizons-2-mtg-art.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "31860cbc791409c3",
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
-      "datePublished": "2026-08-19T20:28:43.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 59 # Comments: 6",
-      "author": "mike-the-brain",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "7a1d187c6a8e99d9",
-      "title": "Pokémon and Polaroid are collaborating on three new adorable cameras",
-      "url": "https://www.engadget.com/2240387/pokemon-polaroid-collaboration-cameras-coming-soon/",
-      "datePublished": "2026-08-19T20:27:28.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The new cameras are prettier versions of Polaroid Now and Polaroid Go.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/pokmon-and-polaroid-are-collaborating-on-three-new-adorable-cameras/l-intro-1787171108.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "f13e3c6df536c80e",
-      "title": "Sons of Anarchy Cast Reunites for Very Meta FX Limited Series Starring/Created by Charlie Hunnam",
-      "url": "https://consequence.net/2026/08/sons-of-anarchy-legends-fx-charlie-hunnam/",
-      "datePublished": "2026-08-19T20:23:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Legends stars the show's original cast as themselves in a \"meta-thriller.\" Sons of Anarchy Cast Reunites for Very Meta FX Limited Series Starring/Created by Charlie Hunnam Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "0ea877ecd78b6f25",
-      "title": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-study-economic-1236677088/",
-      "datePublished": "2026-08-19T20:21:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The county's own report projects that $1.26 billion in lost wages by workers is at stake as part of the overall hit.",
-      "author": "Katie Kilkenny",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "836e49fe90a5873b",
-      "title": "When will GTA 6 launch on PC? What we know so far.",
-      "url": "https://mashable.com/entertainment/gta-6-will-not-launch-on-pc-in-november-explainer",
-      "datePublished": "2026-08-19T20:18:40.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "'Grand Theft Auto 6' will skip PC at launch. Here's what we know about the console-only release, Rockstar's port history, and fan reaction.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/073gRtzDEMhyEBPfeLlyrHM/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "7e5c3dde7893e704",
-      "title": "You may have just gotten Alexa+ AI for free, even if you dont have Amazon Prime",
-      "url": "https://mashable.com/tech/amazon-alexa-plus-ai-assisant-free-for-fire-tv-users",
-      "datePublished": "2026-08-19T20:14:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Amazon has just expanded free access to the AI-powered version of its ubiquitous smart assistant, Alexa+.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00GKlafxCcCcMxTVn5ctH1M/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d8927d350e190fa7",
-      "title": "MrBeast Meets 'Battle Royale' In New Thriller From GenZ's Next Great Director",
-      "url": "https://www.polygon.com/alex-ullom-4-x-4-the-event-movie-plot-cast/",
-      "datePublished": "2026-08-19T20:13:53.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The director of Hollywood's next Gen Z horror hit has already finished filming his next movie",
-      "author": "Jake Kleinman",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/beast1.JPG",
-      "source": "Polygon"
-    },
-    {
-      "id": "51fcd7b35fb71694",
-      "title": "Pressed Penny Machine Map",
-      "url": "https://pennypresses.net/home/map.php",
-      "datePublished": "2026-08-19T20:13:47.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 34 # Comments: 30",
-      "author": "willmeyers",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2af4b6b79610f062",
-      "title": "Witcher 3 Dev Explains How Ultra Realistic NPCs Created Weird Problems: ‘Women Were Just Dropping Their Babies Left And Right’",
-      "url": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923",
-      "datePublished": "2026-08-19T20:13:01.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "A commitment to realism had some unintended consequences",
-      "author": "Ethan Gach",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/witcher-3.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "c4a05327063e6133",
-      "title": "Trump’s Freedom 250 Grand Prix Takes Over the National Mall",
-      "url": "https://newrepublic.com/post/214529/trump-freedom-250-grand-prix-national-mall-dc",
-      "datePublished": "2026-08-19T20:12:58.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The upcoming Freedom 250 Grand Prix is making the National Mall look more like a sideshow. Photos of the preparation for the Indycar race this weekend show grandstands, finish lines, and signage all around the area in the nation’s capital. It’s unusual to see corporate signage and bleachers near the Capitol building, but that’s how President Trump wants to celebrate the 250th anniversary of the De",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/099cf52d90ec3945e7fb08849808eecf4f110bcb.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "24e11ddd75bd6ba6",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "datePublished": "2026-08-19T20:12:33.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-      "author": "Dominic-Madori Davis",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "82b9bdca79b44eea",
-      "title": "ICE bans agents from using Meta smart glasses, but wants to build its own",
-      "url": "https://mashable.com/tech/ice-agents-meta-smart-glasses-ban",
-      "datePublished": "2026-08-19T20:07:29.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "ICE banned employees from wearing Meta smart glasses at work, citing privacy risks, while DHS pursues its own prototypes.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ZyFX2cvrtRJFAZ9J8YdHT/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "9f449a88623891bf",
-      "title": "Georgian Director Ana Urushadze on Making Her Sarajevo Competition Film Before “A Dead-End Situation” Got Worse",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/",
-      "datePublished": "2026-08-19T20:06:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "‘Supporting Role,’ about a fading actor’s odyssey through Tbilisi, made it out just before industry censorship protests and a boycott of the state funding agency intensified: \"I don't want to stop doing what I love.\"",
-      "author": "Lily Ford",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "79377a4c5458b34b",
-      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-      "datePublished": "2026-08-19T20:04:12.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The actress' firm Kinship Ventures is an investor in the company.",
-      "author": "Dominic-Madori Davis",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "bebd6cd83fb51500",
-      "title": "Xwayland 26.1.0 rc1",
-      "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-      "datePublished": "2026-08-19T20:03:03.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 42 # Comments: 23",
-      "author": "ErenayDev",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ec9a76bea4eeefd6",
-      "title": "A robot could eventually conduct your blood draw at the doctor's office",
-      "url": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
-      "datePublished": "2026-08-19T20:02:52.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The FDA has approved a first-of-its-kind automated blood draw device for outpatient settings.",
-      "author": "staff@engadget.com (Anna Washenko)",
-      "imageUrl": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/l-intro-1787169711.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "b565bce1bd57e7ae",
-      "title": "BTS Touch Down in Toronto for ‘Arirang’ Tour: Here’s Where to Find Last-Minute Tickets Online",
-      "url": "https://www.rollingstone.com/product-recommendations/tickets/bts-toronto-arirang-tour-dates-find-cheap-tickets-buy-online-1235611544/",
-      "datePublished": "2026-08-19T20:02:11.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "There are a few ways to get BTS Toronto tour tickets for a discount, to have them in hand for this weekend's dates",
-      "author": "Tim Chan",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "df590374c9f9220b",
-      "title": "Carly Simon Isn’t Sure She Ever Loved Sweet Baby James",
-      "url": "http://www.vulture.com/article/carly-simon-james-taylor-diss-song.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-19T20:01:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A song from Simon’s new album is her version of an ex-husband diss track: “Maybe it’s best to bury whatever it was we had our fill of.”",
-      "author": "Devon Ivie",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/287/59a/8bc09324a2acb9daa80593aa379ee61a49-Carly-Simon-James-Taylor.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "2530ef5883e831ee",
-      "title": "Need a Wardrobe Refresh Ahead of Fall? Here Are 9 Reasons to Check Men’s Wearhouse",
-      "url": "https://www.rollingstone.com/product-recommendations/style/best-mens-wearhouse-fall-clothing-1235611651/",
-      "datePublished": "2026-08-19T20:01:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With new suits, shirts, shoes, and more, Men’s Wearhouse makes a great one-stop shop for updating your fall wardrobe",
-      "author": "Oscar Hartzog",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "cf5261ff3049a480",
-      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-      "datePublished": "2026-08-19T20:01:02.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Have we tried turning off society and turning it back on again?",
-      "author": "Amanda Silberling",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "fd801c7fd0f54de5",
-      "title": "10 Best Dark Fantasy Books for Fans of the Witcher and Game of Thrones",
-      "url": "https://www.polygon.com/best-dark-fantasy-books-like-the-witcher-game-of-thrones/",
-      "datePublished": "2026-08-19T20:00:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Read stories of heists, magic, monsters, and morally gray characters.",
-      "author": "Sam Nelson",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/81zd2d-nmzl-_sl1500_.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "64bf290497c6c95b",
-      "title": "BG3 meets Fire Emblem in a Steamy New Steam RPG",
-      "url": "https://www.polygon.com/ledgerbound-tactical-rpg-insurance-dating-sim/",
-      "datePublished": "2026-08-19T20:00:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ledgerbound casts you as an insurance adjuster proving dead heroes had it coming, with Fire Emblem-style tactics and a cast worth falling for.",
-      "author": "Rebecca Corgan",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ledgerbound-rayna-frustrated.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "9923c1299680501d",
-      "title": "‘Sons of Anarchy’ Spinoff ‘Legends’ Ordered With Charlie Hunnam, Original Cast Returning — With a Wild Twist",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spin-off-legends-charlie-hunnam-1236677057/",
-      "datePublished": "2026-08-19T20:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "FX and Hulu are taking a meta lens to their hit gritty series that ran from 2008 to 2014.",
-      "author": "James Hibberd",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a9b7de9fbae2f506",
-      "title": "U.S. Airman Arrested Over Call to Impeach Trump Is Detained Again",
-      "url": "https://newrepublic.com/post/214532/us-airman-arrested-call-impeach-trump-detained",
-      "datePublished": "2026-08-19T19:53:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Air Force Major Jason Watson—who was arrested on the steps of the U.S. Capitol Building last month while calling for President Trump’s impeachment—has been arrested again. Watson was detained on Tuesday, just one day after an exclusive CNN interview in which he said the president was “violating the Constitution, breaking the law, [and] engaged in rampant corruption.” Watson is currently in pretria",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/0ec1d41a0b4230813a836b9b5fc28df6925d96e1.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "fa744eb1afb91789",
-      "title": "Avengers: Doomsday Star Might Have Just Spoiled a Doctor Doom Reveal",
-      "url": "https://www.polygon.com/avengers-doomsday-doctor-doom-robert-downey-jr-david-harbour/",
-      "datePublished": "2026-08-19T19:52:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "MCU star David Harbour reveals one of his lines from Avengers: Doomsday. Does it give away too much about Doctor Doom's identity?",
-      "author": "Michael McWhertor",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "4380f18c86477694",
-      "title": "Between ‘Off Campus’ and ‘The Shards,’ Collegiate-Inspired Menswear Is Queued Up for Fall",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/fall-2026-menswear-trends-preppy-aesthetic-mens-wearhouse-1236676668/",
-      "datePublished": "2026-08-19T19:52:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "After all, cardigans, quarter-zips and polo sweaters never go out of style.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "968533b7c672b21c",
-      "title": "Salma Hayek wants revenge in trailer for Angelina Jolie's latest feature",
-      "url": "https://www.avclub.com/without-blood-trailer-salma-hayek-angelina-jolie",
-      "datePublished": "2026-08-19T19:48:39.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Without Blood is Jolie's first directorial effort since 2017's First They Killed My Father .",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19154458/MixCollage-19-Aug-2026-03-37-PM-5571.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "92b93bce30250a5c",
-      "title": "The 8 Best Things to Buy From Nike Right Now, According to Our Editors",
-      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-nike-products-1235053074/",
-      "datePublished": "2026-08-19T19:45:34.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From NYC-themed tees to best-selling kicks, our commerce editors round up their favorite things to buy from The Swoosh in 2026",
-      "author": "Oscar Hartzog",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "5831236134c18c98",
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "datePublished": "2026-08-19T19:43:48.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review Comments URL: https://news.ycombinator.com/item?id=49366264 Points: 44 # Comments: 84",
-      "author": "animalcule",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "a96d1bf2c4e0c6e7",
-      "title": "Leaked GTA 6 footage prompts hot debate about refilling video game gas tanks",
-      "url": "https://www.avclub.com/gta-6-leaks-fuel-realism-debate",
-      "datePublished": "2026-08-19T19:38:11.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The furor reignited after gameplay leaks took to social media.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19152839/gta6-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "a8c07418eb2c4cba",
-      "title": "Anderson .Paak and Cordae Announce Collaborative Album Heavy Is the Crown",
-      "url": "https://consequence.net/2026/08/anderson-paak-cordae-heavy-is-the-crown-album/",
-      "datePublished": "2026-08-19T19:31:34.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The longtime collaborators lean into their friendship, Step Brothers style. Anderson .Paak and Cordae Announce Collaborative Album Heavy Is the Crown Alex Krinsky",
-      "author": "Alex Krinsky",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "e59206dd5d8a5103",
-      "title": "Quiet on the creek TikTok trend, explained",
-      "url": "https://mashable.com/life/quiet-on-the-creek-tiktok-trend-explained",
-      "datePublished": "2026-08-19T19:28:33.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "TikTok is obsessed with Saucy Santana’s 'quiet on the creek.' Here’s where the phrase came from and what it means.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02hfFT73F4jDkW28Pg1Fjn2/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4e4fdaf3da44b5ed",
-      "title": "Another Indonesian Brainrot Character Gets Added To The Database With 'Udin Din Din Dun'",
-      "url": "https://knowyourmeme.com/memes/udin-din-din-dun",
-      "datePublished": "2026-08-19T19:24:15.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Udin Din Din Dun or O Din Din Din Din Dun Ma Din Din Din Dun, also known as Udindindindun or U Din Din Din Din Dun Ma Din Din Din Dun, is an AI-generated Indonesian Brainrot character depicted as an anthropomorphic orange with a single leaf on his head, a human face, muscular arms and legs, a red or purple Speedo and Nike high-top sneakers, often shown standing in a gym. The character is part of t",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/319/Udin_Din_Din_Dun_meme_banner_image.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "01dcf617a408d398",
-      "title": "Private Equity Is Buying Up the World of Football",
-      "url": "",
-      "datePublished": "2026-08-19T19:24:04.236Z",
-      "category": [
-        "society"
-      ],
-      "description": "Les Girondins de Bordeaux is one of France’s most historic and decorated , with a record of winning six League 1 titles and nurturing star players from Zinedine Zidane to Jules Koundé and Aurélien Tchouaméni. Yet at the start of the 2025–26 season, the club found itself on the verge of collapse, struggling to survive in the fourth tier of French football, after years of financial mismanagement, de",
-      "author": "Sophie Bandarkar",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "69661dd265e8f584",
-      "title": "Prime Video's leaky ship released Jason Statham's boat thriller, Mutiny, two days early",
-      "url": "https://www.avclub.com/prime-video-leaked-jason-statham-thriller-mutiny",
-      "datePublished": "2026-08-19T19:23:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Amazon's Prime Video joins Netflix and X as the latest tech company to botch a major studio release with self-inflicted leaks.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19151536/mutiny-prime-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "37b7d32cb83f5095",
-      "title": "I’m a Paleontology Nerd. Anne Hathaway’s New Movie Gives Us Some Real Dinosaur Boners—Sometimes Literally.",
-      "url": "https://slate.com/culture/2026/08/end-of-oak-street-movie-dinosaurs-reviews-allosaurus-titanoboa.html?via=rss",
-      "datePublished": "2026-08-19T19:19:15.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The End of Oak Street is preposterous, but there’s at least one way in which its prehistoric creatures represent a giant step forward.",
-      "author": "Riley Black",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "b4b9a1a4b5e2234f",
-      "title": "Making the case for minority-owned media in the Trump era",
-      "url": "https://mashable.com/life/bomesi-black-media-voices",
-      "datePublished": "2026-08-19T19:18:45.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "For Black Business Month, marketing expert DéVon Christopher Johnson explains why he created an organization for minority-owned media.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03e1LA338qmgWW7HbhfDLlT/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "78d8316069feb962",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "datePublished": "2026-08-19T19:11:40.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "author": "Sarah Perez",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "e9db124622131a3f",
-      "title": "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer",
-      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-t-mobile-deal",
-      "datePublished": "2026-08-19T19:11:35.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "T-Mobile is offering the Samsung Galaxy Z Fold 8 with an eligible trade-in on a qualifying plan — here's exactly what it takes to get Samsung's newest foldable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06T3MG48hSFpYI4REKh3ENs/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "42e8e2119d185999",
-      "title": "V’s ‘Unmistakable Style’ and ‘Artistic Vision’ Helped Him Land New Champion Campaign",
-      "url": "https://www.rollingstone.com/product-recommendations/style/bts-v-champion-collection-campaign-photos-shop-clothes-online-1235604683/",
-      "datePublished": "2026-08-19T19:07:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The BTS star models Champion's signature sweats and new streetwear-inspired looks, available to shop online now",
-      "author": "Tim Chan",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "905e480928d5e70f",
-      "title": "Dems Are Looking Good in North Carolina—or Are They?",
-      "url": "https://newrepublic.com/post/214526/roy-cooper-whatley-north-carolina-polls",
-      "datePublished": "2026-08-19T19:07:14.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free. Inside Washington Dems are looking good in North Carolina—or are they? If Democrats want to take back the Senate, they need North Carolina—their best chance to pick up a previously Republican-held seat, according to the Cook Political Repo",
-      "author": "Emma Janssen, TNR Staff",
-      "imageUrl": "https://images.newrepublic.com/6acf747a22ea20744fdb907857d7d74dd6711e68.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "b650c8e47359643d",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "datePublished": "2026-08-19T19:06:16.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 112 # Comments: 33",
-      "author": "1e1a",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "adbd4c6c16df9c4d",
-      "title": "Tyler, the Creator’s Camp Flog Gnaw Returns With Future, Don Toliver, Steve Lacy, Turnstile",
-      "url": "https://www.rollingstone.com/music/music-news/camp-flog-gnaw-2026-tyler-the-creator-steve-lacy-turnstile-1235611575/",
-      "datePublished": "2026-08-19T19:02:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Scheduled for Nov. 14 and 15 at Dodger Stadium, the weekend-long event will also feature appearances from Not for Radio, Wallows, Lola Young, and more",
-      "author": "Larisha Paul",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "dc9e2b5faf51c788",
-      "title": "Bowers & Wilkins’ High-End Headphones Are Currently on Sale for Less Than Bose and Sony Models",
-      "url": "https://www.rollingstone.com/product-recommendations/tech/bowers-and-wilkins-headphones-deal-discount-1235611072/",
-      "datePublished": "2026-08-19T19:01:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Px7 S2e headphones feature the British hi-fi brand's signature design, and they're currently discounted to $229",
-      "author": "Jonathan Zavaleta",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "5f37f6368ea82358",
-      "title": "Google is turning Search into an AI study tool",
-      "url": "https://mashable.com/tech/google-search-ai-study-features-gemini",
-      "datePublished": "2026-08-19T19:00:52.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Google announces new education features, free Gemini subscriptions, and AI Search tools for students.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04as0oAKIlwJtOtljFHgVM6/hero-image.jpg",
-      "source": "Mashable"
     }
   ]
 }
