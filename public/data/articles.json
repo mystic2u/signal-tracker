@@ -1,6 +1,112 @@
 {
-  "generatedAt": "2026-08-21T21:56:45.616Z",
+  "generatedAt": "2026-08-21T22:57:01.700Z",
   "articles": [
+    {
+      "id": "e4f6afd078cda123",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "datePublished": "2026-08-21T22:37:38.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "author": "Lucas Ropek",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "083ef39425a4221a",
+      "title": "Walmart Tap to Pay: Contactless Apple Pay is finally coming to Walmart",
+      "url": "https://mashable.com/life/walmart-sams-club-tap-to-pay",
+      "datePublished": "2026-08-21T22:32:11.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Walmart and Sam's Club stores will soon accept contactless \"Tap to Pay\" payment methods, including Apple Pay.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02dzCdH51Xq4rgykmIDgdZg/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "adeabf45ba011f36",
+      "title": "Top of the Line: Why Vince Gilligan Isn’t Stressed About Streaming",
+      "url": "https://www.indiewire.com/features/craft/top-of-the-line-vince-gilligan-not-stressed-streaming-1235211894/",
+      "datePublished": "2026-08-21T22:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "'Pluribus' creator and showrunner Vince Gilligan talks to IndieWire about getting the gift of time and other stories from the IndieWire Craft team.",
+      "author": "Sarah Shachat",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "61de225a7ea47e67",
+      "title": "The Anthony Bourdain Biopic Has Been Called a “Perfect Little Movie.” Its Accuracy Isn’t Quite So Pristine.",
+      "url": "https://slate.com/culture/2026/08/anthony-bourdain-tony-movie-matt-johnson-true-story.html?via=rss",
+      "datePublished": "2026-08-21T22:23:53.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Tony is delicious—but is it true?",
+      "author": "Ellin Stein",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "33c195583236960f",
+      "title": "Paramount Sued By Ex-Distribution Chief Chris Aronson Over Millions of Dollars In Pay",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-sued-by-ex-distribution-chief-chris-aronson-1236678740/",
+      "datePublished": "2026-08-21T22:22:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The theatrical executive had inked a new deal with the studio last year only to be terminated and replaced months later.",
+      "author": "Erik Hayden",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a8dbdd681755ccdf",
+      "title": "ENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning",
+      "url": "https://consequence.net/2026/08/enhypen-new-album-the-sin-bliss-interview/",
+      "datePublished": "2026-08-21T22:15:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "ENHYPEN on how their latest EP THE SIN : BLISS stretched them artistically and personally. ENHYPEN on How THE SIN : BLISS Is a New Sound for a New Beginning Christine Terrisse",
+      "author": "Christine Terrisse",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "e1b06620a2d81585",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "datePublished": "2026-08-21T22:10:01.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "author": "Dominic-Madori Davis",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "c92a5cae29d5bf4d",
+      "title": "In This Soulslike, The Dog Will Pet You Back…With A Sword",
+      "url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
+      "datePublished": "2026-08-21T22:00:27.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Are you tired of being a good boy? Don't you just wanna go apeshit?",
+      "author": "Ash Parrish",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/stray-dog--1280x720.jpg",
+      "source": "Kotaku"
+    },
     {
       "id": "a982ba2e19d895df",
       "title": "The Best Sunscreens for Your Face (and Body), as Recommended by Beauty Insiders",
@@ -80,6 +186,20 @@
       "source": "Variety"
     },
     {
+      "id": "b0d6a556f321d95f",
+      "title": "Remotely Unlocking Electric Scooters",
+      "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+      "datePublished": "2026-08-21T21:32:07.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 8 # Comments: 0",
+      "author": "henriemategui",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "480c77f4b8fa9fc4",
       "title": "Someone Cleared All 1,000 Levels Of Splatoon Raiders’ ‘Bottomless Buffet’ And Got Nothing For It",
       "url": "https://kotaku.com/someone-cleared-all-1000-levels-of-splatoon-raiders-bottomless-buffet-2000726699",
@@ -91,6 +211,19 @@
       "author": "Rebekah Valentine",
       "imageUrl": "https://kotaku.com/app/uploads/2026/04/splatoon-raiders.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "b3d3527bdaf3b663",
+      "title": "Former Housewife’s House Arrest Ending Next Week",
+      "url": "http://www.vulture.com/article/jen-shah-house-arrest-ending.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-21T21:23:32.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It’s the last chunk Jen Shah will serve of her 2022 sentence for fraud conviction.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/0f4/4d6/a3303e0afc5902e5f0e4c8209b102baa0d-jen-shah.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "688751557a5673ba",
@@ -321,6 +454,19 @@
       "source": "Highsnobiety"
     },
     {
+      "id": "acd4a5e77ef41af9",
+      "title": "A Certain Type Of Alt Girls Have Been Deemed 'Misery Girls' By TikTokers, Sparking Discourse, Memes",
+      "url": "https://knowyourmeme.com/memes/misery-girl",
+      "datePublished": "2026-08-21T20:43:32.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Misery Girl or Misery Girls refers to a series of memes that make fun of girls with specific alt and goth aesthetics, including excessive piercings and heavy makeup, referring to them as \"misery girls,\" a reference to the song \"Misery\" by Pupsies, which is often depicted in the memes as being their favorite song. Many of the memes use photographs of X user @himonkeyhamie as the ultimate representa",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/329/mgirlcover.jpg",
+      "source": "Know Your Meme"
+    },
+    {
       "id": "6d7265c8c727a2ec",
       "title": "What the Hell Is Indie Slop? How the Video Game Insult Found Indie Film",
       "url": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
@@ -400,6 +546,19 @@
       "source": "The New Republic"
     },
     {
+      "id": "0120e8050e93643b",
+      "title": "Sheryl Crow Wrote an Entire Album for Lightning McQueen",
+      "url": "http://www.vulture.com/article/sheryl-crow-wrote-an-entire-album-for-lightning-mcqueen.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-21T20:15:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "What the hell, sure.",
+      "author": "Devon Ivie",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/0a8/1f8/508f74482dfad71268dd8def374e2d6aec-Crowe-McQueen.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "8a5abcbabb08109b",
       "title": "How Hollywood’s Veterans Are Chasing Emmy History: Sally Field, Harrison Ford, Martin Short and More",
       "url": "https://variety.com/2026/tv/awards/harrison-ford-sally-field-emmys-2026-oldest-winner-history-1236831709/",
@@ -465,6 +624,19 @@
       "author": "Todd Spangler",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "1b932246ee0236c9",
+      "title": "Did You Know Donald Trump Doesn’t Like Rosie O’Donnell?",
+      "url": "http://www.vulture.com/article/rosie-odonnell-jimmy-kimmel-live-white-house-statement.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-21T20:03:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jimmy Kimmel Live!’s most loyal viewer weighed in on the latest guest host.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/6e2/ef9/9710f93e386875e4c0bf73a4450b0f70db-rosie-kimmell-trump.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "acae014d45283526",
@@ -4217,6 +4389,20 @@
       "source": "Polygon"
     },
     {
+      "id": "9b7a151adba34331",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "datePublished": "2026-08-21T12:10:13.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "https://archive.ph/SflVC https://www.youtube.com/watch?v=_2rokxux5cU Comments URL: https://news.ycombinator.com/item?id=49386895 Points: 410 # Comments: 527",
+      "author": "floathub",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "1be18b93069ad656",
       "title": "Animal Crossing’s fake language is different in Japan, and here’s why",
       "url": "https://www.polygon.com/video/animal-crossing-s-fake-language-is-different-in-japan-and-here-s-why/",
@@ -6510,193 +6696,6 @@
       "author": "Anna Marie de la Fuente",
       "imageUrl": "",
       "source": "Variety"
-    },
-    {
-      "id": "f9af7db8aba157ae",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "datePublished": "2026-08-20T22:09:51.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "author": "Lucas Ropek",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "61783821b157854d",
-      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
-      "datePublished": "2026-08-20T22:05:18.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/06/gta666666-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "043a8ce6b5cd76ca",
-      "title": "A Pogue’s Guide to Grieving Outer Banks’s Final Season",
-      "url": "http://www.vulture.com/article/outer-banks-s5-recap-final-season-ending-explained.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-20T22:00:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Maybe the real treasure was the friends we watched repeatedly cheat death along the way.",
-      "author": "Maggie Fremont",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/454/71b/4a3d5f8bc601961edb0e93d0dc0f73f24a-Outer-Banks-S5-lede.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "d8ea8b52212b8f1e",
-      "title": "HyperX's first open-back gaming headset brings the bass",
-      "url": "https://www.engadget.com/2241185/hyperx-first-open-back-gaming-headset-brings-the-bass/",
-      "datePublished": "2026-08-20T22:00:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Cloud Alpha Air is reasonably priced at $150 and sports super comfy earpads.",
-      "author": "staff@engadget.com (Sam Rutherford)",
-      "imageUrl": "https://www.engadget.com/img/gallery/hyperxs-first-open-back-gaming-headset-brings-the-bass/l-intro-1787257227.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "e28eb10522bb49a7",
-      "title": "Want smarter screen time? This documentary streaming service is now $130 for life.",
-      "url": "https://mashable.com/entertainment/aug-20-magellantv-documentary-streaming-service-lifetime-year-subscription",
-      "datePublished": "2026-08-20T22:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Learn while you relax with this lifetime subscription to MagellanTV Documentary Streaming Service, now only $129.97.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/002bTWnYLFVlG9HnVuUbLyg/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "95b736d345ded254",
-      "title": "Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series",
-      "url": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
-      "datePublished": "2026-08-20T22:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dave Bautista is officially taking up the mantle of the “God of War.” Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play […]",
-      "author": "Joseph Otterson",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "48f121f359985347",
-      "title": "‘Spa Weekend’ Review: These Funny Women Deserve a Much Better Break",
-      "url": "https://www.indiewire.com/criticism/movies/spa-weekend-review-leslie-mann-isla-fisher-michelle-buteau-1235211346/",
-      "datePublished": "2026-08-20T22:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Leslie Mann, Isla Fisher, Michelle Buteau, and Anna Faris make for a spirited foursome in \"The Hangover\" writers and \"Bad Moms\" filmmakers Jon Lucas and Scott Moore's messy, unhinged, sometimes funny new film.",
-      "author": "Kate Erbland",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "c151a097bb5d12d2",
-      "title": "Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting",
-      "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/",
-      "datePublished": "2026-08-20T21:59:57.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Duane “Keffe D” Davis now says he lied to investigators during the meeting to gain leverage while facing a potential life sentence on drug charges",
-      "author": "Nancy Dillon",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "4e7d972f1bf7bb8a",
-      "title": "The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years",
-      "url": "https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/",
-      "datePublished": "2026-08-20T21:53:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Hollies have officially called it a day. And perhaps, like many, you didn’t even realize a version of that classic rock band was still performing. Yet the Rock and Roll Hall of Fame-inducted group had endured in some form and continued to tour since 1962 — including two members who go back virtually to […]",
-      "author": "Chris Willman",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "830b97b015a20aef",
-      "title": "Apple Music will reportedly label any AI-made tracks later this year",
-      "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
-      "datePublished": "2026-08-20T21:50:50.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The upcoming feature expands its Transparency Tags for marking slop songs.",
-      "author": "staff@engadget.com (Anna Washenko)",
-      "imageUrl": "https://www.engadget.com/img/gallery/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/l-intro-1787262611.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "b7f75c9859c7d042",
-      "title": "Scientists Release Biggest 2D Map of the Universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "datePublished": "2026-08-20T21:42:51.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/ Comments URL: https://news.ycombinator.com/item?id=49380671 Points: 3 # Comments: 0",
-      "author": "gmays",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "0db8fb991f2ae26b",
-      "title": "Madonna Is Still Queen of the VMAs",
-      "url": "https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/",
-      "datePublished": "2026-08-20T21:42:48.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "She's defined (and redefined) the MTV awards show's standards for more than 40 years. With 11 nominations at this year's show, she still reigns supreme",
-      "author": "Larisha Paul",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "be013bae7682b30d",
-      "title": "Lawmakers Offer Film Industry a Fix on California Tax Credit Cap",
-      "url": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "datePublished": "2026-08-20T21:41:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since […]",
-      "author": "Gmaddaus",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "fdc7d4adbff9152f",
-      "title": "The Hayden Panettiere Story Keeps Getting More Complicated",
-      "url": "http://www.vulture.com/article/hayden-panettiere-death-what-to-know-investigation.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-20T21:38:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here’s everything we know so far.",
-      "author": "Jason P. Frank",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/bc1/bd0/5473780b203826511e3c1298f2296552e4-hayden-panettiere-explainer.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
     }
   ]
 }
