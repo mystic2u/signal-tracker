@@ -1,6 +1,686 @@
 {
-  "generatedAt": "2026-08-21T18:02:57.986Z",
+  "generatedAt": "2026-08-21T19:51:29.037Z",
   "articles": [
+    {
+      "id": "405f0713f53b70f8",
+      "title": "Psychonauts Developer Double Fine Reveals Post-Xbox Comeback Plan",
+      "url": "https://www.polygon.com/double-fine-kickstarter-xbox-layoffs/",
+      "datePublished": "2026-08-21T19:48:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "After splitting from Xbox, Double Fine is holding a new game jam where Kickstarter backers can vote on the studio's next game.",
+      "author": "Elijah Gonzalez",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/psychonauts-2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "a86fe7a1d6b1fd35",
+      "title": "Emmy Predictions: What Surprises Could Emerge With Five Days Left to Vote",
+      "url": "https://variety.com/lists/2026-emmys-predictions/",
+      "datePublished": "2026-08-21T19:45:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […",
+      "author": "Clayton Davis",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6df4ce90783712b9",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "datePublished": "2026-08-21T19:43:39.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "author": "Julie Bort",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "e1e524024c656d0a",
+      "title": "How ‘Beef’ Director Jake Schreier Builds a Oner for Maximum Anxiety",
+      "url": "https://www.indiewire.com/features/craft/beef-season-2-director-jake-schreier-interview-oners-1235211893/",
+      "datePublished": "2026-08-21T19:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Director Jake Schreier tells IndieWire about the joys of long takes and using visuals to create a visceral sense of character.",
+      "author": "Sarah Shachat",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "2d7c74404b311df0",
+      "title": "Shaquille O’Neal: Marvel Turned Me Down for the ‘Avengers’ (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/shaquille-o-neal-marvel-turned-me-down-avengers-1236840308/",
+      "datePublished": "2026-08-21T19:28:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Shaquille O’Neal will not be appearing in December’s “Avengers: Doomsday,” or any other “Avengers” film, for that matter. In an interview with Variety about his “Dunkman” league, the first professional dunking league where contestants from around the world compete for a grand prize of $500,000 — whose finals is airing the night of Aug. 25 […]",
+      "author": "Marlow Stern",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c51c46e31815ab19",
+      "title": "Ministry Unleash Anti-Trump Single and Music Video “We Hate”: Stream",
+      "url": "https://consequence.net/2026/08/ministry-we-hate-single-video/",
+      "datePublished": "2026-08-21T19:27:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The video delivers a scathing examination of Trump's presidency. Ministry Unleash Anti-Trump Single and Music Video “We Hate”: Stream Langdon Hickman",
+      "author": "Langdon Hickman",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "ef28a6de8f76d986",
+      "title": "Rockstar Games Reportedly Remains In The Dark About Who’s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
+      "url": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
+      "datePublished": "2026-08-21T19:20:07.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Multiple gameplay clips are circulating despite strict security protocols to keep information from leaking",
+      "author": "Ethan Gach",
+      "imageUrl": "https://kotaku.com/app/uploads/2025/05/0fda1e1fd9a36e1717ae92a79d156334-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "4ac7f26dcb93c1b2",
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today ",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "datePublished": "2026-08-21T19:16:15.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "author": "TechCrunch Events",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "d19f3331ce356678",
+      "title": "Apples next Beats headphones have reportedly leaked (again)",
+      "url": "https://mashable.com/tech/beats-headphones-leak-apple",
+      "datePublished": "2026-08-21T19:16:01.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A new pair of Beats headphones have leaked, and they might be called the Beats 360. Here's what we know so far.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02SwiFURyWu5vloK83OlmcP/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "440f11eee81460ad",
+      "title": "Nike’s Army-Toned Air Jordans Deserve a Salute",
+      "url": "https://www.highsnobiety.com/p/jordan-4-light-army/",
+      "datePublished": "2026-08-21T19:15:56.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The Air Jordan 4 Retro sneaker lands in the familiar \"Light Army\" colorway. The results? A tonal military-coded take on the signature model.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "923b98499133ccaf",
+      "title": "The 'GTA 6' Leaks Continue Into Fourth Day As Discourse Continues Spreading Across The Web",
+      "url": "https://knowyourmeme.com/memes/events/august-2026-gta-6-leaks-2026-grand-theft-auto-vi-leak",
+      "datePublished": "2026-08-21T19:12:11.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The August 2026 GTA 6 Leaks or August 2026 Grand Theft Auto VI Leak refers to a viral incident involving the unauthorized release of various in-game footage and other material of the unreleased video game Grand Theft Auto 6 by the group CyberLeek in mid-August 2026. The leaked content, which depicted various gameplay from an unknown earlier build of the Rockstar game, quickly spread around the int",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/327/August_2026_GTA_6_Leaks_banner_image.jpg",
+      "source": "Know Your Meme"
+    },
+    {
+      "id": "7d340d67f0e78ed6",
+      "title": "LinkedIn says its AI slop button is working",
+      "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+      "datePublished": "2026-08-21T19:11:07.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "LinkedIn says its AI slop button is working.",
+      "author": "staff@engadget.com (Karissa Bell)",
+      "imageUrl": "https://www.engadget.com/img/gallery/linkedin-says-its-ai-slop-button-is-working/l-intro-1787339421.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "5bfb20acfe16e211",
+      "title": "Music Industry Moves: My Morning Jacket and Jim James Sign Publishing Deal With Peermusic",
+      "url": "https://variety.com/2026/music/news/iheartmedias-alissa-pollack-president-mediabase-1236836639/",
+      "datePublished": "2026-08-21T19:10:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Peermusic has signed a worldwide publishing deal with My Morning Jacket and frontman Jim James, as announced by Jamie Cerreta, President of U.S. and Canada. Through the deal, Peermusic will publish the go-forward works of My Morning Jacket as well as Jim James’ go-forward solo recordings, starting with his new album “Wowed Out,” due out […]",
+      "author": "Jem Aswad",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e2c3f8f47237877e",
+      "title": "HBO and James Gunn Confirm New 8-Part True-Crime Series Spinoff",
+      "url": "https://www.polygon.com/dc-jimmy-olsen-show-people-v-gorilla-grodd-hbo-max/",
+      "datePublished": "2026-08-21T19:09:23.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The People v. Gorilla Grodd is coming to HBO Max, featuring Jimmy Olsen and Gorilla Grodd in a new true crime mockumentary series.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jimmy-olsen-superman.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "e47e4d1b845fb3d4",
+      "title": "Mark Ruffalo Goes Scorched-Earth on Paramount-Warner Bros. Merger, Calling Out the Ellison Family’s Complicity in Palestinian ‘Genocide’",
+      "url": "https://variety.com/2026/film/news/mark-ruffalo-paramount-warner-bros-merger-david-ellison-1236840301/",
+      "datePublished": "2026-08-21T19:04:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mark Ruffalo is not staying quiet. The Oscar-nominated actor and activist, who’s currently starring in the box-office smash “Spider-Man: Brand New Day,” sounded off on his Instagram Story Friday about Paramount Skydance’s pending $111 billion takeover of Warner Bros. Discovery. The merger, which is currently being challenged by a dozen state attorney generals, including in […]",
+      "author": "Marlow Stern",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "323a0347f24ae5e8",
+      "title": "Scary Version Of 'Bart Simpson,' 'Barf Simmons,' Goes Viral On TikTok As A Horror Entity",
+      "url": "https://knowyourmeme.com/memes/barf-simmons-barf-symptons",
+      "datePublished": "2026-08-21T19:02:04.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Barf Simmons or Barf Symptons is a series of The Simpsons memes using a creepypasta-like horror aesthetic based around a blue, elongated version of Bart Simpson referred to as Barf Simmons. The character started appearing on the Barf Symptons TikTok page in early July 2026 and became increasingly popular throughout August. Memes about Barf Simmons include edits where low-quality clips from shows l",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/328/barfcover.jpg",
+      "source": "Know Your Meme"
+    },
+    {
+      "id": "fb04149fdf509c07",
+      "title": "‘Palm Royale’ Went Full ‘Dynasty’ for Its Biggest Fight Yet",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-fight-scene-1236676616/",
+      "datePublished": "2026-08-21T19:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mallory Thompson and her stunt team channeled vintage TV catfights for a mansion-wide brawl that ended with Claudia Ferri hog-tied — and earned Emmy recognition.",
+      "author": "Lexy Perez",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f717a74c16c719fe",
+      "title": "Tumble Forth – from assembly to OS with C compiler",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "datePublished": "2026-08-21T18:59:52.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 4 # Comments: 0",
+      "author": "vicek22",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "bd50bb87bda061d6",
+      "title": "Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: ‘Buying Any Of Our Games Helps Support The Studio’",
+      "url": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713",
+      "datePublished": "2026-08-21T18:57:26.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "'Everything, we got back, the transfer of the IP came back to us'",
+      "author": "Rebekah Valentine",
+      "imageUrl": "https://kotaku.com/app/uploads/2021/06/cdblz0xjfk311hb0yhoa.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "f2485bd178817022",
+      "title": "New Docuseries ‘9/11 Reunited’ Connects Survivors 25 Years Later: How to Watch the Three-Part Special",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-911-reunited-docuseries-national-geographic-streaming-1236678545/",
+      "datePublished": "2026-08-21T18:56:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The powerful limited series documents emotional reunions, thank-yous and joint reflections two and a half decades after the attacks.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a7b3b72f854e10a6",
+      "title": "3 Years Later, Mark Wahlberg's Suburban Action Film Is Still Dominating Streaming",
+      "url": "https://www.polygon.com/mark-wahlberg-the-family-plan-streaming-success-apple-tv-august-2026/",
+      "datePublished": "2026-08-21T18:53:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Family Plan starring Mark Wahlberg and Michelle Monaghan is back near the top of Apple TV’s streaming charts nearly three years later.",
+      "author": "Sam Hill",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/family-plan-mark-whalberg.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "7382d091ca0730f6",
+      "title": "Season two of Netflix's Cyberpunk 2077 anime streams October 20",
+      "url": "https://www.engadget.com/2241834/season-two-of-netflixs-cyberpunk-2077-anime-streams-october-20/",
+      "datePublished": "2026-08-21T18:51:03.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Season two of Netflix's Cyberpunk 2077 anime streams October 20",
+      "author": "staff@engadget.com (Ian Carlos Campbell)",
+      "imageUrl": "https://www.engadget.com/img/gallery/season-two-of-netflixs-cyberpunk-2077-anime-streams-october-20/l-intro-1787338189.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "ea84f07ef58b9c54",
+      "title": "‘Novak Djokovic: The Wolf in Winter’ Doc Director Unpacks the Tennis Champ’s Resilience and His Retirement",
+      "url": "https://variety.com/2026/tv/news/novak-djokovic-the-wolf-in-winter-documentary-1236840149/",
+      "datePublished": "2026-08-21T18:50:46.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Novak Djokovic is, by the numbers, one of the best tennis players in the modern era. He has spent the most weeks — 428 — ranked as the world’s No. 1 player. He holds a record 24 Grand Slam singles titles, and he also has an Olympic gold medal. Djokovic emerged onto the tennis scene […]",
+      "author": "Jazztangcay",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "5fdee0ebcd36c858",
+      "title": "Nintendo Goes After Switch Emulation With Aggressive New Takedowns",
+      "url": "https://www.polygon.com/nintendo-emulation-take-downs-piracy/",
+      "datePublished": "2026-08-21T18:49:39.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Nintendo just took down over 400 GitHub repositories for Nintendo Switch emulators after issuing a DCMA notice.",
+      "author": "Elijah Gonzalez",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/switch-vs-switch-2-launch-year.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "62928a8393195768",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "datePublished": "2026-08-21T18:48:28.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 6 # Comments: 0",
+      "author": "garo-pro",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e78ce546fe2c2766",
+      "title": "Nike's Nostalgic Air Forces Cracked the Code",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-cracked-leather/",
+      "datePublished": "2026-08-21T18:43:53.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike's latest Air Force 1 Low marries a 2001 shape with cracked leather uppers for a seriously nostalgic version of the world-famous sneaker.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "2b767292c67d3f29",
+      "title": "Fontaines D.C. Announce Fall Headlining Shows in Brooklyn and Los Angeles",
+      "url": "https://consequence.net/2026/08/fontaines-dc-fall-headlining-shows-brooklyn-los-angeles/",
+      "datePublished": "2026-08-21T18:41:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Fresh off the announcement of their new album Dopamine Chamber, the Irish band will perform two special headlining shows in the US in September. Fontaines D.C. Announce Fall Headlining Shows in Brooklyn and Los Angeles Paolo Ragusa",
+      "author": "Paolo Ragusa",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "9d974f8a9ce8f0a9",
+      "title": "Apple cuts dozens of employees from Vision Pro team, report says",
+      "url": "https://mashable.com/tech/apple-vision-pro-vr-layoffs-john-ternus",
+      "datePublished": "2026-08-21T18:40:28.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple is reportedly laying off around 60 employees from its Vision Pro team as John Ternus prepares to take over as CEO.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01PDiXJtL74TwGtKVJnP8lJ/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ab552340e3afe7d7",
+      "title": "Chris Hansen and the Film About Chris Hansen Are Now Arguing",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/chris-hansen-primetime-a24-nda-conflict-1235613035/",
+      "datePublished": "2026-08-21T18:38:30.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "To Catch a Predator host said he was asked to \"sign away my rights\" before viewing Primetime; source close to film denies his claims",
+      "author": "Daniel Kreps",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "b022cff1c7d05263",
+      "title": "Supreme Court Allows Trump to Move Forward With White House Ballroom",
+      "url": "https://newrepublic.com/post/214610/supreme-court-trump-white-house-ballroom",
+      "datePublished": "2026-08-21T18:34:34.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Supreme Court is letting President Trump move forward with his expensive White House ballroom. On Friday, Chief Justice John Roberts ordered a stay in the preliminary injunction issued by the U.S. District Court for the District of Columbia that would have halted work at 11:59 p.m. This means that for now, construction can resume while the high court gives a full review to the lower court’s ru",
+      "author": "Hafiz Rashid",
+      "imageUrl": "https://images.newrepublic.com/aba24657d8822bd500cb35eb5d886b656ccb2767.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "2458fbbb77a42be4",
+      "title": "Fallout Meets Fable in the Perfect Game Pass Weekend Binge",
+      "url": "https://www.polygon.com/atomfall-game-pass-fallout-bioshock-fable/",
+      "datePublished": "2026-08-21T18:31:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Uncover the mystery behind this British disaster in Atomfall, one of the most underrated sci-fi post-apocalyptic games from the last few years.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atomfall-8.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "4908a2918ba22ae9",
+      "title": "Inside Letterboxd’s Unlikely Distribution Pipeline: How ‘It Ends’ and Other Gems Found Their Way to a Deal",
+      "url": "https://www.indiewire.com/features/interviews/letterboxd-distribution-pipeline-it-ends-1235212138/",
+      "datePublished": "2026-08-21T18:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Letterboxd's Courtney Mayhew and George Linehan-Mitchell, along with \"Lemonade Blessing\" filmmaker Chris Merola, spoke with IndieWire about how the company's Video Store has become a real, if unpredictable, alternative to the traditional festival-to-distributor pipeline.",
+      "author": "Kate Erbland",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "61016f5fb84bbeb6",
+      "title": "Quality Control Co-Founder Pierre ‘P’ Thomas ‘Alive and Currently Hospitalized’ After Heart Attack",
+      "url": "https://www.rollingstone.com/music/music-news/quality-control-co-founder-pierre-p-thomas-heart-attack-1235613014/",
+      "datePublished": "2026-08-21T18:29:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The music executive, whose roster includes Lil Baby, Quavo, and JT, is reportedly being monitored in the ICU",
+      "author": "Larisha Paul",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "e1df0194ea0e72b6",
+      "title": "Trump Threatens to Sue Over National Guard Report He Doesn’t Like",
+      "url": "https://newrepublic.com/post/214612/trump-threatens-sue-national-guard-report-cap",
+      "datePublished": "2026-08-21T18:27:28.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "President Trump is trying to sue for defamation after yet another report found that the National Guard takeover of cities across America had no significant impact on reducing violent crime levels. In July, the Center for American Progress, or CAP, published a study analyzing the impact of Trump’s deployment of the National Guard to Los Angeles, Memphis, and Washington, D.C., which he has claimed t",
+      "author": "Malcolm Ferguson",
+      "imageUrl": "https://images.newrepublic.com/3ec433eb0b1af64341f961bd08013c6876ce39f9.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "9c62d286a95b2655",
+      "title": "Gwyneth Paltrow is allegedly throwing a party for AI king Sam Altman",
+      "url": "https://mashable.com/life/gwyneth-paltrow-sam-altman-ai-dinner",
+      "datePublished": "2026-08-21T18:27:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A leaked invitation says the Goop founder will honor OpenAI’s CEO at a private Hamptons dinner. Her AI ties help explain why.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00DrHXue3T3xm5LjyMDFjNq/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8b2e4a1f7a432e8b",
+      "title": "Not a Cell Phone in Sight, Just Great Outdoor Clothes",
+      "url": "https://www.highsnobiety.com/p/finally-refreshingly-uncomplicated-outdoorwear/",
+      "datePublished": "2026-08-21T18:22:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The mountain-climbing brand Gramicci's Fall/Winter 2026 campaign packs its refreshingly unfussy clothes into a photoshoot fit for a 90s-era outdoor catalog.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "2973daab4820c36a",
+      "title": "HBO Max Officially Orders Jimmy Olsen Series, ‘The People v. Gorilla Grodd’",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jimmy-olsen-gorilla-grodd-series-hbo-max-1236678557/",
+      "datePublished": "2026-08-21T18:19:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The DC Studios comedy stars Skyler Gisondo and Jimmy Tatro and comes from 'American Vandal' creators Tony Yacenda and Dan Perrault.",
+      "author": "Rick Porter",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "5132d7db230d5fd3",
+      "title": "Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project",
+      "url": "https://kotaku.com/double-fine-live-game-jam-kickstarter-2000726704",
+      "datePublished": "2026-08-21T18:18:49.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The live game jam will take place on August 31",
+      "author": "Rebekah Valentine",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/double-fine-kf-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "a0dc30d8da9bec38",
+      "title": "Jessica Tarlov, a Lonely Liberal on Fox News’ “The Five”",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/jessica-tarlov-a-lonely-liberal-on-fox-news-the-five",
+      "datePublished": "2026-08-21T18:18:41.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Tarlov occupies the hot seat on a panel of diehard conservatives, arguing for liberal values and rousing the ire of the President, who has encouraged Fox to fire her.",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "918c343be4ce4daa",
+      "title": "Meghan reportedly in talks to join Guy Ritchie’s TV series The Gentlemen",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meghan-duchess-of-sussex-guy-ritchie-the-gentlemen",
+      "datePublished": "2026-08-21T18:17:44.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Duchess of Sussex is said to be discussing a return to acting in the third season of Netflix’s hit crime series The Duchess of Sussex is in talks to make her acting return in Netflix’s hit series The Gentlemen. According to Variety, Meghan is in discussions to join the third season which has yet to receive an official greenlight. The Gentlemen is a spin-off from the 2019 crime comedy of the sa",
+      "author": "Benjamin Lee",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "afd8a5eb15246f13",
+      "title": "Michelle Pfeiffer Reveals Career Plans After Saying She “Never” Wanted to “Star in Another Movie”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/michelle-pfeiffer-reveals-career-plans-never-star-in-movie-1236678525/",
+      "datePublished": "2026-08-21T18:15:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The ‘Margo’s Got Money Troubles’ actress is clarifying her comments about film after reports of retirement.",
+      "author": "Mariel Turner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "00ceaea4a8246986",
+      "title": "Tesla’s solar roof is dead — here’s what went wrong",
+      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "datePublished": "2026-08-21T18:09:53.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+      "author": "Tim De Chant",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "886138f5af768716",
+      "title": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing",
+      "url": "https://www.engadget.com/2241785/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/",
+      "datePublished": "2026-08-21T18:09:50.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing.",
+      "author": "staff@engadget.com (Will Shanklin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/l-intro-1787335669.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "c2b2d8d9b0980918",
+      "title": "Jon Lovett Answers Your Questions",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/jon-lovett-answers-your-questions",
+      "datePublished": "2026-08-21T18:09:32.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The “Pod Save America” host answers listeners’ questions about the 2026 midterm elections and what they tell us about the 2028 Presidential race.",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "4cba8af1b1abc332",
+      "title": "Superman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max",
+      "url": "https://consequence.net/2026/08/the-people-v-gorilla-grodd-hbo-max/",
+      "datePublished": "2026-08-21T18:08:32.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The meta DC Studios comedy stars Skyler Gisondo and Jimmy Tatro. Superman Spinoff Comedy The People v. Gorilla Grodd Greenlit at HBO Max Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "90cf5fea52526cce",
+      "title": "Kacey Musgraves Is Selling a Line of Sex Lube",
+      "url": "https://www.rollingstone.com/music/music-country/kacey-musgraves-sex-lubricant-1235612981/",
+      "datePublished": "2026-08-21T18:05:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The country singer's, ahem, Drought Drops promise to “keep the dry spells away and the good times coming\"",
+      "author": "Marissa Moss",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "dd8d60c17acede64",
+      "title": "HBO Reveals Cast for The Pitt Season 3 in First Trailer",
+      "url": "https://www.polygon.com/the-pitt-season-3-trailer-release-date-2027/",
+      "datePublished": "2026-08-21T18:05:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "While HBO's first trailer for The Pitt Season 3 is only a minute and a half long, it answers the most important question on viewers' minds.",
+      "author": "Ashely Claudino",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dr-langdon-the-pitt-cast.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d0d14978f65bd25d",
+      "title": "Has Anyone Seen My Son Lifeweaver Overwatch?",
+      "url": "https://kotaku.com/overwatch-lifeweaver-disabled-disappeared-gone-bug-2000726691",
+      "datePublished": "2026-08-21T18:04:14.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Overwatch, please put Lifeweaver back",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/image-81.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "c6dc1ecbfcb8b8fd",
+      "title": "The Jordan Design Studio Seeks Greatness in New York City",
+      "url": "https://www.highsnobiety.com/p/jordan-design-studio-nyc/",
+      "datePublished": "2026-08-21T18:04:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The Jordan Brand Design studio makes its way to New York City for a two-day workshop hosted by Angelo Baque.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "f431e0c47f2a9ed8",
+      "title": "Republican Donors Fume Over Trump Putting Texas Senate Seat at Risk",
+      "url": "https://newrepublic.com/post/214607/republican-donors-trump-texas-senate-seat-paxton-talarico",
+      "datePublished": "2026-08-21T18:02:59.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "President Trump isn’t spending any campaign cash on close midterm election races, irking his fellow Republicans and putting contests like the Texas Senate seat in jeopardy. In July, Politico reports, Trump’s MAGA Inc. super PAC didn’t spend any of its $400 million in the bank on Republican candidates, not even Texas Attorney General Ken Paxton, who only narrowly won his state’s GOP Senate primary ",
+      "author": "Hafiz Rashid",
+      "imageUrl": "https://images.newrepublic.com/1cd7941d76e2d7bf4c88ed7030b7a49b220dd794.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "cb5221842b5182be",
+      "title": "Can a vehicle wrap hide your car from Flock cameras?",
+      "url": "https://mashable.com/tech/new-tech-hiding-cars-from-flock-cameras",
+      "datePublished": "2026-08-21T18:02:25.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Anti-AI project noRecognition claims its flashy patterns help your car avoid detection from Flock cameras. Does it work?",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0457cFqfZvV7yWpbQu1Gazq/hero-image.jpg",
+      "source": "Mashable"
+    },
     {
       "id": "0c9782b4807e0bcb",
       "title": "Kingdom Hearts 4 Director Tetsuya Nomura Sends Fans Spiraling With World Ends With You T-Shirt",
@@ -322,6 +1002,20 @@
       "author": "Joseph Hudak",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "cf4a21abca75c1b5",
+      "title": "Galactic Compass 2: now with new augmented reality mode",
+      "url": "https://interconnected.org/home/2026/08/21/galactic",
+      "datePublished": "2026-08-21T17:30:38.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Show HN: Galactic Compass – an app that points to the galactic center - https://news.ycombinator.com/item?id=39389858 - Feb 2024 (60 comments) Comments URL: https://news.ycombinator.com/item?id=49391348 Points: 9 # Comments: 2",
+      "author": "bobbiechen",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "4a191d4db6d2cfbc",
@@ -814,6 +1508,20 @@
       "source": "Polygon"
     },
     {
+      "id": "992ba562ffcbca3a",
+      "title": "Decayfmt – a file format that corrupts itself a little every time you open it",
+      "url": "https://github.com/aravpanwar/decayfmt",
+      "datePublished": "2026-08-21T16:09:50.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/aravpanwar/decayfmt Comments URL: https://news.ycombinator.com/item?id=49390206 Points: 29 # Comments: 9",
+      "author": "unprovable",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "8509768c2ad6309d",
       "title": "Trump Moves to Strip American Bar Association of Its Power",
       "url": "https://newrepublic.com/post/214597/trump-american-bar-association-power-accreditation",
@@ -1010,6 +1718,20 @@
       "author": "Varietyschneider",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "ad3e7a95a824bd0b",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "datePublished": "2026-08-21T15:51:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 49 # Comments: 11",
+      "author": "toebee",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "a1daf61e32d74f3c",
@@ -1426,6 +2148,20 @@
       ],
       "description": "It is a fork of https://github.com/DenisSergeevitch/desktop-fly, but with an important update. Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/rules, .kiro/steering, and forty others. Anything on the screen that points to these",
       "author": "kulikov0",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9d4ea01a0de0749d",
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "datePublished": "2026-08-21T15:17:47.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://pointinthecloud.com/2026-08-19-144600.html Comments URL: https://news.ycombinator.com/item?id=49389441 Points: 59 # Comments: 11",
+      "author": "colinprince",
       "imageUrl": "",
       "source": "Hacker News"
     },
@@ -2235,6 +2971,19 @@
       "author": "Ethan Gach",
       "imageUrl": "https://kotaku.com/app/uploads/2026/08/xbox.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "dab1699fc06dc31d",
+      "title": "Four’s Company in Shygirl’s New “Alyse” Video",
+      "url": "https://pitchfork.com/story/fours-company-in-shygirls-new-alyse-video/",
+      "datePublished": "2026-08-21T13:38:42.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A high-drama clip accompanies the London artist’s first single of the year",
+      "author": "Walden Green",
+      "imageUrl": "",
+      "source": "Pitchfork"
     },
     {
       "id": "defbf7c0dd5daf72",
@@ -5948,753 +6697,6 @@
       "author": "Alex Krinsky",
       "imageUrl": "",
       "source": "Consequence"
-    },
-    {
-      "id": "f72b8969aca0a773",
-      "title": "Riot Will End Active Development On 2XKO At The End Of The Year",
-      "url": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
-      "datePublished": "2026-08-20T19:18:48.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "2XKO will not make it to its first official birthday",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/01/2XKO.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "3d82ea00a2217ab8",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "datePublished": "2026-08-20T19:18:21.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "author": "Sarah Perez",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "62b21e412151097b",
-      "title": "U.N. Alarmed by Trump Plan to Allow Drilling Near World Heritage Site",
-      "url": "https://newrepublic.com/post/214567/un-trump-plan-drilling-world-heritage-site-new-mexico",
-      "datePublished": "2026-08-20T19:15:44.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Trump administration’s plan to allow oil and gas extraction near the Chaco Culture National Historical Park in New Mexico is drawing concerns from UNESCO, the United Nations’ heritage organization. The Guardian reports that the organization is alarmed that the administration is getting rid of a buffer zone around the park, which is a world heritage site. “The world heritage committee has consi",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/342e293d734bf9e64180656fc1bad767371095f4.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "859f0b88d5add40a",
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "datePublished": "2026-08-20T19:15:05.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "author": "Julie Bort",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "59ad0d8da522b806",
-      "title": "‘We Literally Have No Control Over Our Setting: Watch Kareem Rahma Break Down the Chaotic Art of Making ‘SubwayTakes’",
-      "url": "https://www.indiewire.com/features/interviews/kareem-rahma-interview-making-subway-takes-1235211626/",
-      "datePublished": "2026-08-20T19:15:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Rahma walks us through his process that turned \"SubwayTakes\" into one of the most unique entertainment properties on the internet.",
-      "author": "Christian Zilko",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "208e83f2b34c273c",
-      "title": "Wolves in the Throne Room Announce New Album, Unveil “Ghosts Among the Obelisks”: Stream",
-      "url": "https://consequence.net/2026/08/wittr-estuary-ghosts-among-the-obelisks/",
-      "datePublished": "2026-08-20T19:12:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Estuary, the band's eighth LP, is out October 23rd via Relapse Records. Wolves in the Throne Room Announce New Album, Unveil “Ghosts Among the Obelisks”: Stream Langdon Hickman",
-      "author": "Langdon Hickman",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "828b51d3947aa408",
-      "title": "Toward Simp Liberation?",
-      "url": "",
-      "datePublished": "2026-08-20T19:10:27.766Z",
-      "category": [
-        "society"
-      ],
-      "description": "In late July, magazine’s published Ezra Marcus’s “,” the story of Nikita Tyukalo, a twenty-one-year-old Andrew Tate acolyte who built a webcam sex-trafficking operation out of luxury rentals in the Seattle suburbs. Astonishingly, Tyukalo was taken down by a community of self-described “simps,” obsessive online fans of the young women he exploited who noticed something was amiss while watching hour",
-      "author": "Evelina Johansson Wilén",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "edb999535bf4f542",
-      "title": "This Nike Throwback Has Been Stewing Since 2001",
-      "url": "https://www.highsnobiety.com/p/nike-air-force-1-01-light-army/",
-      "datePublished": "2026-08-20T19:10:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The Swoosh satisfies nostalgic archival cravings with the arrival of the Nike Air Force 1 Low '01 Light Army.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "44935435c220fda6",
-      "title": "All sprites in Fortnite Chapter 7 Season 4",
-      "url": "https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/",
-      "datePublished": "2026-08-20T19:09:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here's a list of all the new sprites added in Fortnite Chapter 7 Season 4, including the Sonic the Hedgehog sprites.",
-      "author": "Julia Lee",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jlee_260820_1001_fn_sprites.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "a2c40c903b5f776d",
-      "title": "Apple Music to Launch Labels on AI Tracks Later This Year",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/apple-music-to-launch-labels-on-ai-tracks-1236677791/",
-      "datePublished": "2026-08-20T19:05:56.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Content providers will be required to include AI Transparency Tags in any instance where AI was used to create a material portion of the content, including tracks that are AI platform generated,\" Apple Music said.",
-      "author": "Ethan Millman",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "19e393a5e185aef9",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "datePublished": "2026-08-20T19:05:36.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for cod",
-      "author": "danielvaughn",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "0e654cd827ec5e76",
-      "title": "Democrats Launch Probe Into Hegseth Meddling With Military Newspaper",
-      "url": "https://newrepublic.com/post/214575/democrats-probe-hegseth-meddling-military-newspaper",
-      "datePublished": "2026-08-20T19:04:10.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Senate Democrats are initiating a probe into whether Defense Secretary Pete Hegseth placed one of his own supporters inside the independent military newspaper Stars and Stripes. “Our offices have been informed that the Department of Defense assigned an active-duty Public Affairs officer to serve as a ‘deputy’ to Stars and Stripes Publisher Max Lederer, reportedly without consultation with Mr. Lede",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/df9543d66d45965dbaffecafdffb6cc657f8d86e.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "1a93afac15d86cce",
-      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-      "datePublished": "2026-08-20T19:01:41.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-      "author": "Marina Temkin",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "64962d425bc46d3d",
-      "title": "BG3's Best New Mod Adds an Entire 3-Part Campaign About Astarion",
-      "url": "https://www.polygon.com/baldurs-gate-3-astarion-mod-dream-of-silence/",
-      "datePublished": "2026-08-20T19:00:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A Dream of Silence: ReVamped traps you and Astarion together in a shifting nightmare, with four possible endings and the option to betray him.",
-      "author": "Rebecca Corgan",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25237368/astarion1.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "569d1df61205049e",
-      "title": "Brad Holbrook spews the truth on The Onion’s Jim Haggerty",
-      "url": "https://www.avclub.com/brad-holbrook-interview-the-onion-infowars-the-jim-haggerty-show",
-      "datePublished": "2026-08-20T19:00:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "For nearly 20 years, the actor-turned-anchorman-turned-actor has grounded The Onion’s video parodies as the satirical outlet's most beloved onscreen character.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19172712/jim-haggerty.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "67adda02eafacfaa",
-      "title": "Did You Know There’s a New Claire Denis Film Out?",
-      "url": "http://www.vulture.com/article/review-claire-deniss-the-fence-on-amc-with-matt-dillon.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-20T19:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Starring Matt Dillon and Isaach de Bankolé, The Fence doesn’t deserve to disappear.",
-      "author": "Bilge Ebiri",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/2ab/c57/e9ac0a3287491f8fa7f13289ae0aa91cda-thefence.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "e31c0f6a6f3a4f62",
-      "title": "How to open the Temple Vault in Stone Sanctum in Fortnite Chapter 7 Season 4",
-      "url": "https://www.polygon.com/fortnite-chapter-7-season-4-temple-vault-stone-sanctum-keys-how-to-open-c7s4/",
-      "datePublished": "2026-08-20T18:55:57.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Temple Vault is a secret area in Fortnite Chapter 7 Season 4. Here's how to find the Temple Vault keys and open the vault.",
-      "author": "Ashely Claudino",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-sanctum-puzzle.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "37d3470eba408a52",
-      "title": "Meta's app for creating generative AI minigames is now available in the US",
-      "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
-      "datePublished": "2026-08-20T18:55:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "It's called Pocket and is described as a \"platform for making and sharing gizmos.\"",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/metas-app-for-creating-generative-ai-minigames-is-now-available-in-the-us/l-intro-1787251821.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "4125e512fc459399",
-      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "datePublished": "2026-08-20T18:54:32.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ Comments URL: https://news.ycombinator.com/item?id=49378630 Points: 122 # Comments: 50",
-      "author": "Akasci",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "aa380a209161983d",
-      "title": "Eric Swalwell’s Home Raided in Federal Sexual Assault Probe",
-      "url": "https://www.rollingstone.com/politics/politics-news/eric-swalwell-devices-seized-fbi-sexual-assault-1235612235/",
-      "datePublished": "2026-08-20T18:51:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Things can indeed get worse for the former Democratic congressman",
-      "author": "Nikkimccannramirez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "d463bf8033906c41",
-      "title": "Ten Years Later, Frank Ocean Still Knows Something We Don’t",
-      "url": "https://www.rollingstone.com/music/music-features/frank-ocean-blonde-ten-years-later-1235612186/",
-      "datePublished": "2026-08-20T18:50:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A decade after Blonde, the masterpiece remains rooted in a vanished world while gathering new meaning from everyone who has lived alongside it",
-      "author": "Jeff Ihaza",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "93fe6cf1b7f67dfb",
-      "title": "How to watch Gamescom's Opening Night Live showcase",
-      "url": "https://www.engadget.com/2241085/how-to-watch-gamescom-opening-night-live-showcase/",
-      "datePublished": "2026-08-20T18:45:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The two-hour stream will feature Final Fantasy 7 Revelation, Gears of War: E-Day and The Witcher 3: Songs of the Past.",
-      "author": "staff@engadget.com (Kris Holt)",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-watch-gamescoms-opening-night-live-showcase/l-intro-1787250926.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "dced27144251c7d7",
-      "title": "Faye Dunaway and Nicola Peltz Beckham Among Honorees at Kinéo Awards During Venice Film Fest",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/kineo-awards-2026-faye-dunaway-nicola-peltz-beckham-1236677778/",
-      "datePublished": "2026-08-20T18:43:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The awards, conceived by Kinéo Cultural Association president Rosetta Sannelli, toasts a milestone 25th anniversary next month with the ceremony set to take place at Casa Cinema Giovani on Sept. 5.",
-      "author": "Chris Gardner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d95aa910167f6e0a",
-      "title": "Who Knew Arc’teryx Jackets Would Make Such Beautiful Bags?",
-      "url": "https://www.highsnobiety.com/p/arcteryx-stuff-sack/",
-      "datePublished": "2026-08-20T18:39:59.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The megaretailer BEAMS landed an exclusive Japan release of Arc’teryx’s recycled bag, reimagining it as an accessory fit for the streets, not the trails.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "97d1483d355228d7",
-      "title": "Why Aren't Smart People Happier?",
-      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "datePublished": "2026-08-20T18:38:47.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 4 # Comments: 0",
-      "author": "rafaelc",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "1123440b8780f4fe",
-      "title": "DIRECTV Promotes Its Premium Channel Offerings With Three Months of HBO Max, Paramount+ and More",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/directv-free-premium-add-ons-paramount-plus-peacock-hbo-max-1236669155/",
-      "datePublished": "2026-08-20T18:35:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The streamer is letting new customers test the waters with promos on an assortment of its most popular premium add-ons.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "2fd7b6f66174066d",
-      "title": "Argentina’s Cosquín Rock Announces 2027 Lineup with Jack Johnson, Babasónicos, Wos, and Illya Kuryaki",
-      "url": "https://consequence.net/2026/08/jack-johnson-babasonicos-cosquin-rock-2027/",
-      "datePublished": "2026-08-20T18:31:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 27th edition of the festival returns to Córdoba on February 6th and 7th with Los Fabulosos Cadillacs, Jorge Drexler, Divididos, and more. Argentina’s Cosquín Rock Announces 2027 Lineup with Jack Johnson, Babasónicos, Wos, and Illya Kuryaki Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "815a42b626049b18",
-      "title": "Chinese video platform Bilibili is going global",
-      "url": "https://www.engadget.com/2241074/chinese-video-platform-bilibili-is-going-global/",
-      "datePublished": "2026-08-20T18:31:37.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The platform is expanding with a new international app and an English version of its website.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/chinese-video-platform-bilibili-is-going-global/l-intro-1787250589.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "25e7c4b0068ca15e",
-      "title": "How an Indie Studio Convinced ‘Naruto’ Creator, TV Tokyo to Let Them Make Franchise’s First Official Digital Cards App (EXCLUSIVE)",
-      "url": "https://variety.com/2026/gaming/news/naruto-digital-card-app-sekai-tv-tokyo-1236839122/",
-      "datePublished": "2026-08-20T18:31:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Naruto” fans will have access to the popular anime franchise’s first-ever official digital cards app with Thursday’s worldwide launch of “Naruto Ninja Cards.” Described as “a gamified card-collecting experience,” “Naruto Ninja Cards” lets app users collect the series’ most iconic characters in card form, uncover exclusive artworks, and enjoy real-time strategic activities with friends. While […]",
-      "author": "Jennifer Maas",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "8cab637b15ee1cb1",
-      "title": "Great Job, Internet!: Darth Vader, Galactic Empire support San Diego's Flock cameras",
-      "url": "https://www.avclub.com/gji-darth-vader-san-diego-flock-endorsement",
-      "datePublished": "2026-08-20T18:30:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Darth Vader dropped by a SoCal community meeting to leave public comment about how Flock could help him catch Luke Skywalker.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20142427/darth-vader-public-comment-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "158c5ab9da4a10cc",
-      "title": "What Does Prince Harry and Meghan Markle’s Move Back to the U.K. Mean for the Royal Family?",
-      "url": "https://variety.com/2026/global/news/prince-harry-meghan-markle-uk-move-means-royal-family-1236839004/",
-      "datePublished": "2026-08-20T18:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Sussexes are coming home. In a shock announcement on Wednesday, it was revealed that Prince Harry and Meghan Markle are moving back to the U.K. for an “extended period” with their two young children after six years of living in California. But after the pair’s dramatic exit from royal life in 2020, will England […]",
-      "author": "Ellise Shafer",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "b2cc388966965d2e",
-      "title": "Why ‘A Knight of the Seven Kingdoms’ Broke One of ‘Game of Thrones’ Biggest Musical Rules",
-      "url": "https://www.hollywoodreporter.com/music/music-features/knight-of-the-seven-kingdoms-game-of-thrones-music-rules-1236676610/",
-      "datePublished": "2026-08-20T18:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Composer Dan Romer explains the decision to ditch the HBO franchise’s iconic sound for a warmer, stranger blend of spaghetti Western guitars, whistles and modern drums.",
-      "author": "Lexy Perez",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "c39153ce59c0f334",
-      "title": "New Balance's Most Iconic Dad Shoe Loses Its Logo",
-      "url": "https://www.highsnobiety.com/p/mfpen-new-balance-992-gray/",
-      "datePublished": "2026-08-20T18:30:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Mfpen's stripped-down New Balance 992 sneaker is classic dad shoe excellence at its best.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "b7f257aab37ace5b",
-      "title": "Charles Melton in Talks for ‘Naruto’ Movie as Kakashi",
-      "url": "https://variety.com/2026/film/news/charles-melton-naruto-movie-kakashi-1236839318/",
-      "datePublished": "2026-08-20T18:28:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Charles Melton is in close talks to play Kakashi Hatake in Destin Daniel Cretton’s upcoming live-action “Naruto” movie, Variety has learned. The news comes amid speculation that Melton would be announced to join the “X-Men” cast at last week’s D23 convention. The global “Naruto” casting search began last month to find the live-action versions of […]",
-      "author": "Matthew Minton",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "73562b02ee530f34",
-      "title": "Viral video shows Amazon delivery drone dropping package in hot tub",
-      "url": "https://mashable.com/tech/amazon-delivery-drone-pool-viral-video",
-      "datePublished": "2026-08-20T18:25:32.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A viral video shows an Amazon delivery drone dropping a package into a backyard pool in Texas.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01oupAF7BvY5Qk6ESUBtU9Q/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5232b63651bb1ff7",
-      "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
-      "url": "https://kandelo.dev/20260819-demo/",
-      "datePublished": "2026-08-20T18:25:30.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js. Kandelo is still experimental, but it already runs a substantial range of existing software. Do you have use cases for this? We are trying Kandelo as a new foundation for WordPress Playground which runs server-side WordPress entirely in the browser. Kandelo also looks promising as a sandbox",
-      "author": "brandonpayton",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "3482a35144582a86",
-      "title": "Maggie Rose Doesn’t Know How to Feel About That ‘Best-Kept Secret’ Compliment",
-      "url": "https://www.rollingstone.com/music/music-country/maggie-rose-nashville-best-kept-secret-1235611427/",
-      "datePublished": "2026-08-20T18:25:09.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"I’m making no efforts to remain a secret,\" says the two-time Grammy nominee, who just released her new album Half Moon",
-      "author": "Joseph Hudak",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "b1e638465d349b56",
-      "title": "Reggie Watts Is a Prominent Ketamine Advocate. Was It His Ex’s ‘Undoing’?",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/reggie-watts-ketamine-drug-advocate-1235607828/",
-      "datePublished": "2026-08-20T18:22:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The comedian promotes ketamine and psychedelics to explore higher consciousness. Yet friends of his ex-girlfriend, who died by suicide, claim his encouragement fueled an addiction. Watts’ team calls the claims “dangerously false.”",
-      "author": "Jason Newman",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "585cd008fc665506",
-      "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-      "url": "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757/",
-      "datePublished": "2026-08-20T18:22:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "As major studios slash budgets for tentpole features and series, there's fewer big-ticket projects. There's also more indies and an uptick in shoot activity, the state's film office director says.",
-      "author": "Erik Hayden",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d20ab4a382db581d",
-      "title": "Ron Perlman Joins Lily James in Horror Thriller ‘Seasons’ for Amazon MGM Studios ",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-perlman-lily-james-horror-thriller-seasons-amazon-1236677458/",
-      "datePublished": "2026-08-20T18:22:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Drew Hancock is directing the feature, which began as a short story on Reddit.",
-      "author": "Borys Kit",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "594513ac4c6dc854",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "datePublished": "2026-08-20T18:20:35.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "author": "Lauren Forristal",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "b9407ca92b8d47d0",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "datePublished": "2026-08-20T18:19:51.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 21 # Comments: 0",
-      "author": "gregsadetsky",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "b429769155e9cc05",
-      "title": "People are threatening to uninstall ChatGPT just to see if it begs",
-      "url": "https://mashable.com/life/chatgpt-uninstall-prank-trend",
-      "datePublished": "2026-08-20T18:12:31.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Users are telling ChatGPT they plan to uninstall it and posting its sometimes melodramatic responses on social media.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00gzm42wUAbsYrt2GIyMBgZ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a7a8005dba306018",
-      "title": "Prime Video’s 95-Minute Action Thriller Is Officially One of the Biggest Films on Streaming",
-      "url": "https://www.polygon.com/ice-fall-prime-video-streaming-action-movies-august-2026/",
-      "datePublished": "2026-08-20T18:11:20.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Joel Kinnaman’s 2025 survival thriller Icefall has climbed to No. 2 on Prime Video in the U.S.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-20-at-2-05-54-pm.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "629c68a3897f4c41",
-      "title": "Enslaved Announce New Album, Unleash Single “Solar Will”: Stream",
-      "url": "https://consequence.net/2026/08/enslaved-new-album-single-solar-will/",
-      "datePublished": "2026-08-20T18:10:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The veteran metal act's 17th studio album is out October 30th via Nuclear Blast Records. Enslaved Announce New Album, Unleash Single “Solar Will”: Stream Langdon Hickman",
-      "author": "Langdon Hickman",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "a04fda6882b5bc38",
-      "title": "Lola Blankets’ Biggest Sale of the Year Means Half Off Hollywood’s Favorite Faux Fur Throw",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-50-off-discount-christmas-in-august-sale-2026-1236677484/",
-      "datePublished": "2026-08-20T18:09:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Selena Gomez, Simone Biles, Oprah Winfrey and Tate McRae are just a handful of the viral blanket brand's famous fans.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "81626166c971d02d",
-      "title": "Bricks & Minifigs’ $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement",
-      "url": "https://kotaku.com/reckless-ben-star-wars-lego-bricks-minifigs-mansell-family-mormon-mafia-2000726238",
-      "datePublished": "2026-08-20T18:05:48.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "A joint statement from the Mansell family and BAM Franchising stated that the parties involved have ‘reached a comprehensive and amicable resolution’",
-      "author": "Lewis Parker",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/06/Thumbnail-from-Reckless-Bens-video-I-got-arrested-because-of-legos.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "170dd6f87d3d9da6",
-      "title": "Yungblud Crowd-Surfs in a Wheelchair While Performing With Broken Leg",
-      "url": "https://www.rollingstone.com/music/music-news/yungblud-crowdsurfs-wheelchair-performing-broken-leg-1235612019/",
-      "datePublished": "2026-08-20T18:05:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Good way to break my leg …,” singer quips weeks after injuring himself before Sturgis Motorcycle Rally gig",
-      "author": "Daniel Kreps",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "92b8b4061bf4f56e",
-      "title": "Charles Melton in Talks to Play Kakashi in Destin Daniel Cretton’s ‘Naruto’ Movie (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/charles-melton-in-talks-to-play-kakashi-in-destin-daniel-crettons-naruto-movie-exclusive-1236673756/",
-      "datePublished": "2026-08-20T18:03:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The actor recently landed a nomination for his role in Netflix anthology 'Beef.'",
-      "author": "Mia Galuppo",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "c16f4155a01f112b",
-      "title": "Eric Goode Knows He’s Complicit in Monsters of God",
-      "url": "http://www.vulture.com/article/monsters-of-god-director-eric-goode-interview.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-20T18:00:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Tiger King and Chimp Crazy director turns his lens on the the global reptile-smuggling trade",
-      "author": "Lane Brown",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/f55/214/15f84cad1e103c2024a993aac770e486b4-lede-eric-goode.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "fc4ce5bfbe3047f8",
-      "title": "HBO's Near-Perfect Sci-Fi Mystery Still Has One of the Best Endings in TV History",
-      "url": "https://www.polygon.com/lanterns-damon-lindelof-the-leftovers-hbo-sci-fi-shows/",
-      "datePublished": "2026-08-20T18:00:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "After proving he could stick the impossible landing with The Leftovers, Damon Lindelof is primed to make DC’s Lanterns an unmissable triumph.",
-      "author": "Ryan Epps",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mrgret-quailey-the-leftovers.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "c28f085a7b3602ac",
-      "title": "10 Replay Ideas to Make Elden Ring Feel Brand New Again",
-      "url": "https://www.polygon.com/elden-ring-new-game-plus-run-ideas-switch-2-release/",
-      "datePublished": "2026-08-20T18:00:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "New Game Plus and trying different builds are just a starting point for re-experiencing FromSoftware's lauded RPG",
-      "author": "Patricia Hernandez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/elden-ring-switch-2.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "c6d9626350b87948",
-      "title": "CBS Plans Special Morning, Primetime Coverage of 9/11 Anniversary",
-      "url": "https://variety.com/2026/tv/news/cbs-9-11-anniversary-tv-news-coverage-1236839200/",
-      "datePublished": "2026-08-20T18:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "CBS will fill key morning and primetime hours on September 11 with live coverage and special programming devoted to the 25th anniversary of terrorist attacks on America on that date in 2001. The CBS programming will also be available on Paramount+. A selection of reporting on the attacks and their aftermath from “60 Minutes” will […]",
-      "author": "Brian Steinberg",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "8e4d0cb73f00bbc6",
-      "title": "The ‘Top Chef’ Casting Team Never Packs Up Their Knives",
-      "url": "https://www.indiewire.com/features/craft/the-top-chef-reality-show-casting-interview-1235211638/",
-      "datePublished": "2026-08-20T18:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Casting director Ron Mare tells IndieWire about why casting \"Top Chef\" has only gotten more interesting the longer the show has run.",
-      "author": "Sarah Shachat",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "4c576a629fd69d1c",
-      "title": "Breeos smokeless fire pit just dropped to its lowest price in months — grab it now for $509",
-      "url": "https://mashable.com/life/aug-20-breeo-x-series-24-smokeless-fire-pit-deal",
-      "datePublished": "2026-08-20T17:59:58.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Breeo's X Series 24 smokeless fire pit just dropped to $509, its lowest price in months — a 15% discount off its $599 list price.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06x2TWcNMVoDpw4s5EoDgfS/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a3fe983f865901f8",
-      "title": "Sonys noise-canceling headphones are back on sale at Amazon — grab them for under $100",
-      "url": "https://mashable.com/tech/aug-20-sony-wh-ch720n-headphones-deal",
-      "datePublished": "2026-08-20T17:57:16.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Sony's WH-CH720N wireless noise-canceling headphones are down to $98, a 46% discount off their $179.99 list price.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02jZKUttFfJNS0hUoHvUhiU/hero-image.jpg",
-      "source": "Mashable"
     }
   ]
 }
