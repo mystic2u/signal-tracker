@@ -1,6 +1,85 @@
 {
-  "generatedAt": "2026-08-22T20:55:34.712Z",
+  "generatedAt": "2026-08-22T21:49:27.738Z",
   "articles": [
+    {
+      "id": "85c488706ee4c8a3",
+      "title": "New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall",
+      "url": "https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068",
+      "datePublished": "2026-08-22T21:48:20.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The founders of Black Pony Immersive say they aren’t going to be tempted by live service trends, averting previous mistakes made with their most infamous immersive sim",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "6024a826f3039a27",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "datePublished": "2026-08-22T21:46:56.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "be5b317c882ae864",
+      "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+      "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+      "datePublished": "2026-08-22T21:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
+      "author": "staff@engadget.com (Novak Božović)",
+      "imageUrl": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "0b9a4c56ee14ded6",
+      "title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+      "url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
+      "datePublished": "2026-08-22T21:00:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 89. A representative said Morris died in his sleep. “He lived a big, bold, beautiful, blessed life, and I’m holding onto […]",
+      "author": "Chris Willman",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "b22e7cd43a6a0603",
+      "title": "Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/",
+      "datePublished": "2026-08-22T21:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando “Rolly” Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer Teofimo Lopez (22-2-0) in a high-profile match. Romero vs. Lopez takes place on Saturday, Aug. 22 at T-Mobile Arena in Las Vegas, Nevada with a start time of […]",
+      "author": "Rudie Obias",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "184b07ed5d66075e",
+      "title": "Collective hallucination of Meghan Markle teaming up with Guy Ritchie evaporates as quickly as it came",
+      "url": "https://www.avclub.com/meghan-markle-guy-ritchie-the-gentlemen-backlash-not-happening",
+      "datePublished": "2026-08-22T20:53:08.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The same reporters who previously claimed Markle might appear in Ritchie's The Gentlemen are now saying the role has been yanked due to a \"backlash.\"",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/09151011/meghan-markle.jpg",
+      "source": "The A.V. Club"
+    },
     {
       "id": "1eee44465245ead2",
       "title": "How to limit Instagram from using your data for AI and ads",
@@ -134,6 +213,19 @@
       "author": "Jack Dunn",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "581d03e145d8fe80",
+      "title": "Bruce Campbell now saying as clearly and plainly as he can that he's done playing Ash",
+      "url": "https://www.avclub.com/bruce-campbell-retired-from-playing-ash",
+      "datePublished": "2026-08-22T19:55:21.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"Apologies if this news seems new,\" Campbell said in a post saying both \"ability and interest\" led to the decision.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/02213149/bruce-campbell-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "b7f8c452c2434ca3",
@@ -634,6 +726,19 @@
       "author": "matthieu_bl",
       "imageUrl": "",
       "source": "Hacker News"
+    },
+    {
+      "id": "f50904126ea46def",
+      "title": "Meta files patent to suck last ounce of joy out of basic human interactions",
+      "url": "https://www.avclub.com/meta-glasses-patent-facial-recognition-highlight-reel",
+      "datePublished": "2026-08-22T16:57:52.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The new patent would allow Meta's AI glasses to analyze your friends' faces and actions, then spit out a highlight reel of your own life.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/19100604/Untitled-6.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "d9e4fe882961a585",
@@ -1355,6 +1460,19 @@
       "author": "sbulaev",
       "imageUrl": "",
       "source": "Hacker News"
+    },
+    {
+      "id": "03357883ac98b255",
+      "title": "What are you watching this weekend?",
+      "url": "https://www.avclub.com/streaming-recommendations-mr-scorsese-desperate-housewives-legends",
+      "datePublished": "2026-08-22T12:00:52.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "For your consideration: A series on Indian fighter pilots, a close-up on a legendary filmmaker, and literally watching the time go by.",
+      "author": "A.V. Club Staff",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/21123321/Legends-small.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "e1b9e4642cff3a26",
@@ -4491,6 +4609,20 @@
       "source": "The A.V. Club"
     },
     {
+      "id": "d8a0785800e287ab",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "datePublished": "2026-08-21T13:43:33.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 66 # Comments: 11",
+      "author": "olalonde",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "dab1699fc06dc31d",
       "title": "Four’s Company in Shygirl’s New “Alyse” Video",
       "url": "https://pitchfork.com/story/fours-company-in-shygirls-new-alyse-video/",
@@ -6650,136 +6782,6 @@
       "author": "Eliran Arazi",
       "imageUrl": "https://images.aeonmedia.co/images/feb30884-154c-41ba-a04f-79e7037a973a/cj_aeon_boto.jpg?width=1200&quality=75&format=auto",
       "source": "Aeon"
-    },
-    {
-      "id": "46c9443d478bb91f",
-      "title": "How to rediscover your purpose later in life",
-      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "You don’t have to ‘reinvent’ yourself to live happily after 60. There’s a better approach grounded in lifespan psychology - by Denise Taylor Read on Psyche",
-      "author": "Denise Taylor",
-      "imageUrl": "https://images.aeonmedia.co/images/fc9ce543-4c3f-4448-9741-f519eb7135fc/nyc8443.jpg?top=55&left=0&cropWidth=1056&cropHeight=594&width=1200&quality=75&format=auto",
-      "source": "Psyche"
-    },
-    {
-      "id": "1b783a85467db7db",
-      "title": "Critics’ Cult Classics: Emily Nussbaum on “Slings & Arrows”",
-      "url": "https://www.newyorker.com/podcast/critics-at-large/critics-cult-classics-emily-nussbaum-on-slings-and-arrows",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The New Yorker writer sings the praises of a little-known Canadian television series set at a Shakespeare festival—which happens to be her favorite show of all time.",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "fb3ce0a0d13caeaf",
-      "title": "What Your Swimwear Says About You",
-      "url": "https://www.newyorker.com/humor/shouts-murmurs/what-your-swimwear-says-about-you",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Yellow polka-dot bikini: you were deeply affected by a Yoplait Light commercial as a youth and consider this suit to be the physical manifestation of confidence.",
-      "author": "Madeline Goetz, Viktoria Shulevich",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "2eff030b28d6b10a",
-      "title": "“Every Weekday at 4:45 P.M.,” by Libby Flores",
-      "url": "https://www.newyorker.com/books/flash-fiction/every-weekday-at-445-pm-libby-flores",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In the delicious heat, a summer breeze came and they fought as the woman sucked her ice cream through the bottom of her cone.",
-      "author": "Libby Flores",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "f78dd4fa27966411",
-      "title": "A “12 Inch Pianist” Walks Into a Bar",
-      "url": "https://www.newyorker.com/humor/shorts-and-murmurs/a-12-inch-pianist-walks-into-a-bar",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Lucas Ansel’s stop-motion short reveals a few fellow-drinkers’ deepest desires in this reimagined Shouts & Murmurs classic.",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "d995bc8a53859a97",
-      "title": "The Podcast That’s Charting a Post-Trump Future",
-      "url": "https://www.newyorker.com/culture/podcast-dept/the-show-thats-charting-a-post-trump-future",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "“America, Actually,” a new offering from Vox, is trying to talk about politics without talking about the President. Is that even possible?",
-      "author": "Jon Allsop",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "f794b1118781c445",
-      "title": "Can Head Start Be Deregulated Out of Existence?",
-      "url": "https://www.newyorker.com/culture/progress-report/can-head-start-be-deregulated-out-of-existence",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The early-childhood program faces a renewed assault by the Trump Administration.",
-      "author": "Jessica Winter",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "9e9049ea67d0d2e6",
-      "title": "After Six Months of War, Trump Is Still Losing to Iran",
-      "url": "https://www.newyorker.com/news/global-notes/after-six-months-of-war-trump-is-still-losing-to-iran",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The conflict marks a “precipitous collapse of American power and American prestige.”",
-      "author": "Ishaan Tharoor",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "ac7870903152a6a9",
-      "title": "Has Trump Lost His Fear of Markets?",
-      "url": "https://newrepublic.com/article/214535/trump-iran-bond-markets-taco",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Since January 2025, a reigning principle of global markets has been something called TACO. TACO stands for “Trump Always Chickens Out,” meaning whenever President Trump does something stupid that creates financial instability, an adverse market reaction can be counted on to scare him into backing down. Until now, TACO has kept the S&P 500 climbing to levels that make little economic sense. When 10",
-      "author": "Timothy Noah",
-      "imageUrl": "https://images.newrepublic.com/d1918b507691e0a2708a74994557dd5e1fec1b75.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "a27780b9bd81040b",
-      "title": "The DSA Reckons With a Leader Going Viral for All the Wrong Reasons",
-      "url": "https://newrepublic.com/article/214513/democatic-socialists-america-megan-romer-interview-new-yorker-fox-news",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The verdict was swift and unequivocal: Megan Romer’s interview with The New Yorker editor David Remnick was a disaster for the Democratic Socialists of America, of which Romer is the national co-chair. And it wasn’t just the likes of the notoriously anti-DSA New York Post, which wrote that Romer “appeared clueless.” “What does the DSA actually want?” the Forward asked. “Its national co-chair can’t",
-      "author": "Finn Hartnett",
-      "imageUrl": "https://images.newrepublic.com/0399f21bcbaee0cd96b352ac7b2ea3ef5623d4d6.png?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
     }
   ]
 }
