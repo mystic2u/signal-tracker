@@ -2,7 +2,7 @@ import { timeAgo } from '../utils/dateUtils';
 import NotificationCenter from './NotificationCenter';
 
 const TABS = [
-  { id: 'feed', label: 'Feed' },
+  { id: 'home', label: 'Home' },
   { id: 'saved', label: 'Saved' },
   { id: 'settings', label: 'Settings' },
 ];
@@ -10,6 +10,7 @@ const TABS = [
 export default function Header({
   activeTab,
   onTabChange,
+  onBrandClick,
   lastUpdated,
   isStale,
   theme,
@@ -21,14 +22,14 @@ export default function Header({
   return (
     <header className="app-header">
       <div className="app-header-top">
-        <div className="brand">
+        <button type="button" className="brand" onClick={onBrandClick} aria-label="Go to home dashboard">
           <svg className="brand-mark" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
             <circle cx="16" cy="16" r="2.4" fill="currentColor" />
             <circle cx="16" cy="16" r="7" fill="none" stroke="currentColor" strokeWidth="1.4" opacity="0.6" />
             <circle cx="16" cy="16" r="12" fill="none" stroke="currentColor" strokeWidth="1.4" opacity="0.3" />
           </svg>
           <span className="brand-name">Signal Tracker</span>
-        </div>
+        </button>
 
         <div className="header-right">
           <span className={`status-pill ${isStale ? 'status-pill--stale' : ''}`}>

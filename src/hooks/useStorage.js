@@ -18,6 +18,8 @@ function loadFromDisk() {
       userSources: parsed.userSources || [],
       savedItems: parsed.savedItems || [],
       dismissedItems: parsed.dismissedItems || [],
+      categoryOrder: parsed.categoryOrder || [],
+      hiddenCategories: parsed.hiddenCategories || [],
     };
   } catch (err) {
     console.warn('Could not read saved data, starting fresh.', err);
@@ -117,11 +119,31 @@ export function useStorage() {
     [data.dismissedItems]
   );
 
+  // Dashboard layout: full replacement of the order array (caller computes
+  // the new order, e.g. after a move-up/move-down click).
+  const setCategoryOrder = useCallback((order) => {
+    setData((prev) => ({ ...prev, categoryOrder: order }));
+  }, []);
+
+  const toggleCategoryHidden = useCallback((categoryId) => {
+    setData((prev) => {
+      const isHidden = prev.hiddenCategories.includes(categoryId);
+      return {
+        ...prev,
+        hiddenCategories: isHidden
+          ? prev.hiddenCategories.filter((id) => id !== categoryId)
+          : [...prev.hiddenCategories, categoryId],
+      };
+    });
+  }, []);
+
   return {
     settings: data.settings,
     userSources: data.userSources,
     savedItems: data.savedItems,
     dismissedItems: data.dismissedItems,
+    categoryOrder: data.categoryOrder,
+    hiddenCategories: data.hiddenCategories,
     updateNotificationPref,
     addCustomCategory,
     addUserSource,
@@ -131,5 +153,7 @@ export function useStorage() {
     isSaved,
     dismissItem,
     isDismissed,
+    setCategoryOrder,
+    toggleCategoryHidden,
   };
 }

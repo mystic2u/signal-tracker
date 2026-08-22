@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 
 const DEBOUNCE_MS = 300;
 
-export default function SearchBar({ onSearch, resultCount, showCount }) {
+export default function SearchBar({ onSearch, resultCount, showCount, placeholder }) {
   const [value, setValue] = useState('');
   const timer = useRef(null);
 
@@ -22,8 +22,8 @@ export default function SearchBar({ onSearch, resultCount, showCount }) {
         type="text"
         value={value}
         onChange={(e) => setValue(e.target.value)}
-        placeholder="Search titles and descriptions"
-        aria-label="Search current feed"
+        placeholder={placeholder || 'Search titles and descriptions'}
+        aria-label="Search"
       />
       {showCount && value && (
         <span className="search-count">

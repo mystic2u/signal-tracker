@@ -1,6 +1,7 @@
 import { useCallback, useMemo, useState } from 'react';
 import Header from './components/Header';
-import Feed from './components/Feed';
+import Dashboard from './components/Dashboard';
+import CategoryDetail from './components/CategoryDetail';
 import SavedItems from './components/SavedItems';
 import SettingsPanel from './components/SettingsPanel';
 import { useArticles } from './hooks/useArticles';
@@ -33,7 +34,8 @@ function matchesSearch(article, term) {
 
 export default function App() {
   const [theme, toggleTheme] = useTheme();
-  const [activeTab, setActiveTab] = useState('feed');
+  const [activeTab, setActiveTab] = useState('home');
+  const [focusedCategory, setFocusedCategory] = useState(null);
 
   const { articles, status, lastUpdated, isStale, newlyArrived, clearNewlyArrived } = useArticles();
   const storage = useStorage();
@@ -51,7 +53,14 @@ export default function App() {
     [storage.settings.customCategories]
   );
 
-  const [searchTerm, setSearchTerm] = useState('');
+  const visibleArticles = useMemo(
+    () => articles.filter((a) => !storage.isDismissed(a.id)),
+    [articles, storage]
+  );
+
+  // Filters for the Saved tab only — the dashboard and category views have
+  // their own local search state, since they're not one shared stream.
+  const [savedSearchTerm, setSavedSearchTerm] = useState('');
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [dateFrom, setDateFrom] = useState('');
   const [dateTo, setDateTo] = useState('');
@@ -63,37 +72,23 @@ export default function App() {
     );
   }, []);
 
-  const filterAndSort = useCallback(
-    (list) => {
-      let result = list.filter((a) => matchesSearch(a, searchTerm));
-
-      if (selectedCategories.length) {
-        result = result.filter((a) => (a.category || []).some((c) => selectedCategories.includes(c)));
-      }
-      if (dateFrom || dateTo) {
-        result = result.filter((a) => isWithinRange(a.datePublished, dateFrom, dateTo));
-      }
-
-      result = [...result].sort((a, b) => {
-        const diff = new Date(b.datePublished) - new Date(a.datePublished);
-        return sortOrder === 'newest' ? diff : -diff;
-      });
-
-      return result;
-    },
-    [searchTerm, selectedCategories, dateFrom, dateTo, sortOrder]
-  );
-
-  const feedArticles = useMemo(() => {
-    const notDismissed = articles.filter((a) => !storage.isDismissed(a.id));
-    return filterAndSort(notDismissed);
-  }, [articles, storage, filterAndSort]);
-
   const savedArticles = useMemo(() => {
     const byId = new Map(articles.map((a) => [a.id, a]));
-    const joined = storage.savedItems.map((s) => byId.get(s.id)).filter(Boolean);
-    return filterAndSort(joined);
-  }, [articles, storage.savedItems, filterAndSort]);
+    let result = storage.savedItems.map((s) => byId.get(s.id)).filter(Boolean);
+
+    result = result.filter((a) => matchesSearch(a, savedSearchTerm));
+    if (selectedCategories.length) {
+      result = result.filter((a) => (a.category || []).some((c) => selectedCategories.includes(c)));
+    }
+    if (dateFrom || dateTo) {
+      result = result.filter((a) => isWithinRange(a.datePublished, dateFrom, dateTo));
+    }
+    result = [...result].sort((a, b) => {
+      const diff = new Date(b.datePublished) - new Date(a.datePublished);
+      return sortOrder === 'newest' ? diff : -diff;
+    });
+    return result;
+  }, [articles, storage.savedItems, savedSearchTerm, selectedCategories, dateFrom, dateTo, sortOrder]);
 
   const savedMetaById = useMemo(() => {
     const map = {};
@@ -103,21 +98,26 @@ export default function App() {
     return map;
   }, [storage.savedItems]);
 
-  const filters = { selectedCategories, dateFrom, dateTo, sortOrder };
+  const goHome = useCallback(() => {
+    setActiveTab('home');
+    setFocusedCategory(null);
+  }, []);
 
-  const sharedFilterHandlers = {
-    onSearch: setSearchTerm,
-    onToggleCategory: toggleCategory,
-    onDateFromChange: setDateFrom,
-    onDateToChange: setDateTo,
-    onSortOrderChange: setSortOrder,
-  };
+  const handleTabChange = useCallback((tab) => {
+    setActiveTab(tab);
+    setFocusedCategory(null);
+  }, []);
+
+  const focusedCategoryMeta = focusedCategory
+    ? allCategories.find((c) => c.id === focusedCategory)
+    : null;
 
   return (
     <div className="app" data-theme={theme}>
       <Header
         activeTab={activeTab}
-        onTabChange={setActiveTab}
+        onTabChange={handleTabChange}
+        onBrandClick={goHome}
         lastUpdated={lastUpdated}
         isStale={isStale}
         theme={theme}
@@ -137,12 +137,23 @@ export default function App() {
           </div>
         )}
 
-        {activeTab === 'feed' && (
-          <Feed
-            articles={feedArticles}
-            categories={allCategories}
-            filters={filters}
-            {...sharedFilterHandlers}
+        {activeTab === 'home' && !focusedCategoryMeta && (
+          <Dashboard
+            articles={visibleArticles}
+            allCategories={allCategories}
+            categoryOrder={storage.categoryOrder}
+            hiddenCategories={storage.hiddenCategories}
+            onSetCategoryOrder={storage.setCategoryOrder}
+            onToggleHidden={storage.toggleCategoryHidden}
+            onViewAll={setFocusedCategory}
+          />
+        )}
+
+        {activeTab === 'home' && focusedCategoryMeta && (
+          <CategoryDetail
+            category={focusedCategoryMeta}
+            articles={visibleArticles}
+            onBack={() => setFocusedCategory(null)}
             isSaved={storage.isSaved}
             onSave={storage.saveItem}
             onUnsave={storage.unsaveItem}
@@ -155,8 +166,12 @@ export default function App() {
             articles={savedArticles}
             savedMetaById={savedMetaById}
             categories={allCategories}
-            filters={filters}
-            {...sharedFilterHandlers}
+            filters={{ selectedCategories, dateFrom, dateTo, sortOrder }}
+            onSearch={setSavedSearchTerm}
+            onToggleCategory={toggleCategory}
+            onDateFromChange={setDateFrom}
+            onDateToChange={setDateTo}
+            onSortOrderChange={setSortOrder}
             onUnsave={storage.unsaveItem}
           />
         )}

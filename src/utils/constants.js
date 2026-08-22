@@ -42,6 +42,9 @@ export const STALE_DATA_HOURS = 2;
 // How often the app re-checks data/articles.json for new articles.
 export const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
 
+// How many stories a dashboard panel shows before you have to hit "View all".
+export const PANEL_PREVIEW_COUNT = 7;
+
 export const DEFAULT_STORAGE = {
   settings: {
     notificationPreferences: DEFAULT_NOTIFICATION_PREFS,
@@ -52,4 +55,8 @@ export const DEFAULT_STORAGE = {
   // Not in the original spec's schema, but needed so a dismissed card
   // doesn't just reappear the next time the page loads.
   dismissedItems: [],
+  // Dashboard layout: order is a list of category ids (missing ones are
+  // appended in default order); hidden is category ids to skip entirely.
+  categoryOrder: [],
+  hiddenCategories: [],
 };

@@ -1,19 +1,25 @@
-name: Scrape signals
+name: Scrape and deploy
 
 on:
   schedule:
-    # Runs at the top of every hour.
     - cron: '0 * * * *'
-  # Lets you trigger a scrape manually from the Actions tab, e.g. right after
-  # editing sources.json, instead of waiting for the next hour.
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  scrape:
+  scrape-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -41,3 +47,15 @@ jobs:
             git commit -m "Update articles.json [automated]"
             git push
           fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload build for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -3,8 +3,6 @@ name: Build and deploy
 on:
   push:
     branches: [main]
-  # Runs automatically after the scrape workflow commits fresh data, and can
-  # also be triggered manually from the Actions tab.
   workflow_dispatch:
 
 permissions:
