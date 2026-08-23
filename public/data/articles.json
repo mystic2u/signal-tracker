@@ -1,6 +1,421 @@
 {
-  "generatedAt": "2026-08-22T21:49:27.738Z",
+  "generatedAt": "2026-08-23T07:49:40.058Z",
   "articles": [
+    {
+      "id": "7e8bbd7e442f899e",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "datePublished": "2026-08-23T06:41:51.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 43 # Comments: 19",
+      "author": "taubek",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "525e0c69bb2a7ca8",
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "datePublished": "2026-08-23T06:04:51.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 27 # Comments: 0",
+      "author": "zX41ZdbW",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "650ef088ec9d0114",
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "datePublished": "2026-08-23T05:51:01.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 38 # Comments: 4",
+      "author": "userbinator",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "108f406dc415716f",
+      "title": "NYT Connections hints today: Meanings for each word for Aug. 23, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-august-23-2026-clone",
+      "datePublished": "2026-08-23T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1169.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01puRsHEhV3S7Gb5rD8JLXE/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a73b6872105e44c0",
+      "title": "How to Watch the 2026 MLB Little League Classic Online for Free",
+      "url": "https://www.rollingstone.com/product-recommendations/streaming/watch-2026-mlb-little-league-classic-online-free-streaming-1235613464/",
+      "datePublished": "2026-08-23T04:32:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The one-night-only game features big leaguers from the Braves and Brewers playing in Williamsport, Pa., home of the current Little League Baseball World Series",
+      "author": "Tim Chan",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "ed2719edd91e715e",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "datePublished": "2026-08-23T04:28:18.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 29 # Comments: 8",
+      "author": "ilamont",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "efbac362b9328991",
+      "title": "How to watch Manchester City vs. Bournemouth online for free",
+      "url": "https://mashable.com/entertainment/manchester-city-bournemouth-premier-league-2026-live-stream-for-free",
+      "datePublished": "2026-08-23T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Premier League for free. Live stream Manchester City vs. Bournemouth in the Premier League for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05ftTgqsA0Btj8gzhFg5lPV/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ffcda034a980433c",
+      "title": "How to watch Frosinone vs. Juventus online for free",
+      "url": "https://mashable.com/entertainment/frosinone-juventus-serie-a-2026-live-stream-for-free",
+      "datePublished": "2026-08-23T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Serie A for free. Live stream Frosinone vs. Juventus in Serie A for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04iHmdCIgIB5XsS7t5JjECi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9f378d0d834e9bbe",
+      "title": "Moon phase today: What the Moon will look like on August 23",
+      "url": "https://mashable.com/science/moon-phase-today-aug-23-2026",
+      "datePublished": "2026-08-23T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for August 23, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00pN3k1ogTBvG0RpljNY9mY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "cded1185dafe2b44",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "datePublished": "2026-08-23T03:32:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 78 # Comments: 45",
+      "author": "andsoitis",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "da94b48b41991571",
+      "title": "Taylor Sheridan Accused of Stealing ‘Yellowstone’ Idea From TV Writer’s Pitch",
+      "url": "https://www.hollywoodreporter.com/business/business-news/taylor-sheridan-sued-yellowstone-copyright-infringement-1236679202/",
+      "datePublished": "2026-08-23T03:30:19.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In the suit, Lauren J. Salkin claims the Paramount hit features a number of striking similarities to her proposed show 'Sovereign Nation.'",
+      "author": "Hilary Lewis",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "dad76ca327cb6dfe",
+      "title": "‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards",
+      "url": "https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/",
+      "datePublished": "2026-08-23T03:22:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“One Battle After Another” and “Marty Supreme” took top honors at the Location Managers Guild International (LMGI) LMGI Awarda. The LGMI Awards were handed out on Saturday night and honor the use of filming locations across motion pictures, television, commercials, film commissions, and special achievement categories. Paul Thomas Anderson’s “One Battle After Another” won outstanding […]",
+      "author": "Isabelle Farina",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "99609a67b1b67c63",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "datePublished": "2026-08-23T03:13:16.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 86 # Comments: 22",
+      "author": "boilerupnc",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "bb0a5345c338260b",
+      "title": "29 Years Later, the Best Cosmic Sci-Fi Thriller of All Time Is Officially Free To Stream",
+      "url": "https://www.polygon.com/best-cosmic-sci-fi-thriller-free-streaming/",
+      "datePublished": "2026-08-23T03:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "This terrific cult classic is an unforgettably gnarly space adventure.",
+      "author": "Debopriyaa Dutta",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/event-horizon-inner-core-1.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "adca07b703578c96",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "datePublished": "2026-08-23T03:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "author": "Jagmeet Singh",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "1c232580dfbfe558",
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "datePublished": "2026-08-23T02:33:22.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 52 # Comments: 22",
+      "author": "Sir_Twist",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "8ff138d5d0b91124",
+      "title": "NYT Connections hints today: Clues, answers for August 23, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-23-2026",
+      "datePublished": "2026-08-23T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07F6LpCZgzQjIPju1qtPu25/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0f9355c17e7d7979",
+      "title": "NYT Strands hints, answers for August 23, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-23-2026",
+      "datePublished": "2026-08-23T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06tJYyJu6gcziPgoKNDwLEd/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7bd2b856ff6bb5c7",
+      "title": "Wordle today: Answer, hints for August 23, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-august-23-2026",
+      "datePublished": "2026-08-23T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1891 on August 23 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03yiaBTAOEMRiqwNhLcjMzP/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5e3578d9fb3ed0d0",
+      "title": "Hurdle hints and answers for August 23, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-23-2026",
+      "datePublished": "2026-08-23T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07yiOQTTTGcGQiJxpM8lWSj/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "57c01bdbb42fd8b5",
+      "title": "‘National Treasure 3’ Is “Finally Real” and “We Have a Script,” Director Says",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/national-treasure-3-finally-happening-director-says-1236679147/",
+      "datePublished": "2026-08-23T01:11:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Disney movies, released in 2004 and 2007, starred Nicolas Cage as treasure hunter Ben Gates.",
+      "author": "Lexi Carson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "1cd4d0159507925f",
+      "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Greatest Moments in TV History",
+      "url": "https://www.polygon.com/spike-best-quote-buffy-the-vampire-slayer/",
+      "datePublished": "2026-08-23T01:01:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
+      "author": "Maria Loreto",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tsdbuth_fe099.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "6bd6b4d652fa1bec",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "datePublished": "2026-08-23T00:56:03.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 56 # Comments: 13",
+      "author": "cocacola1",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "1192cdef7c1f4c14",
+      "title": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/",
+      "datePublished": "2026-08-23T00:21:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Anna Faris and Michelle Buteau also star in the film by 'Bad Moms' directors Jon Lucas and Scott Moore, about four childhood friends on a birthday trip that spirals out of control.",
+      "author": "Angie Han",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "0576728d8d0738fa",
+      "title": "Mark Ruffalo Rejects Paramount’s Claim His Anti-Merger Comments Were “Antisemitic”: “My Views Should Never Be Interpreted as Hostility Toward Jewish People”",
+      "url": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-paramount-anti-merger-comments-not-antisemitic-1236679153/",
+      "datePublished": "2026-08-23T00:10:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actor and staunch opponent to the David Ellison-led studio's $111 billion deal for Warner Bros. recently took aim at Ellison's father Larry Ellison and his company Oracle's ties to the Israeli military.",
+      "author": "Hilary Lewis",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "531e52c04f11156c",
+      "title": "Bunny Levine, Librarian Turned Actress in ‘Gilmore Girls,’ Thelma’ and ‘You Don’t Mess With the Zohan,’ Dies at 97",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bunny-levine-dead-gilmore-girls-shameless-thelma-actress-1236679105/",
+      "datePublished": "2026-08-22T23:40:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "She built an extensive résumé of television appearances, including roles on 'Law & Order,' 'Everybody Loves Raymond,' 'Southland,' 'New Girl' and 'Shameless.'",
+      "author": "Lexi Carson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "892fbd8fc408137b",
+      "title": "10 Classic Game Series That Started on the SNES",
+      "url": "https://www.polygon.com/10-classic-snes-franchises/",
+      "datePublished": "2026-08-22T23:01:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Besides just offering good games in general, the SNES served as a starting point for 10 beloved series.",
+      "author": "Jason Venter",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19168734/vlcsnap_00082.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "32c32689469303ca",
+      "title": "Mark Ruffalo Calls Paramount’s Response to Him ‘Dishonest’",
+      "url": "http://www.vulture.com/article/mark-ruffalo-paramount-wb-merger-response.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-22T22:46:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The studio said Ruffalo’s criticism of the Paramount-WB merger was “antisemitic.”",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/61c/7f8/85ddd56be82aaec4279c704a5417d34f7c-mark-ruffalo.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "60180b317e26613e",
+      "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
+      "url": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/",
+      "datePublished": "2026-08-22T22:23:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Despite HBO Max hiking prices again last fall, the streamer is hoping to win over some new customers, with a 7-day free trial through Prime Video, just in time for the buzzy premiere of “Lanterns” and awards season pushes for critically-acclaimed shows like “Hacks” and “The Pitt.” While Amazon usually saves its streaming deals for […]",
+      "author": "Atingley4",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "3377c27b081e0284",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "datePublished": "2026-08-22T22:14:27.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 86 # Comments: 26",
+      "author": "stared",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "85c488706ee4c8a3",
       "title": "New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall",
@@ -79,6 +494,19 @@
       "author": "William Hughes",
       "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/09151011/meghan-markle.jpg",
       "source": "The A.V. Club"
+    },
+    {
+      "id": "fe85a845820f85ef",
+      "title": "National Treasure 3 Is ‘Hollywood Real’",
+      "url": "http://www.vulture.com/article/national-treasure-3-confirmed.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-08-22T20:38:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Director Jon Turteltaub confirms a third film “is happening.”",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/cf4/cc4/b881ebc6101c98f372adb5820c3dea2130-nicolas-cage.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "1eee44465245ead2",
@@ -499,6 +927,34 @@
       "source": "Hacker News"
     },
     {
+      "id": "a0f751d893141d66",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "datePublished": "2026-08-22T18:11:40.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 88 # Comments: 12",
+      "author": "speckx",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "5f827225d9c71e5d",
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "datePublished": "2026-08-22T18:10:49.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 141 # Comments: 29",
+      "author": "pjacotg",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "0cbbcd53f19cb6ca",
       "title": "Scrap",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
@@ -509,6 +965,20 @@
       ],
       "description": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 119 # Comments: 43",
       "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "b0c261b5c2bf4109",
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "datePublished": "2026-08-22T18:08:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 35 # Comments: 26",
+      "author": "rznicolet",
       "imageUrl": "",
       "source": "Hacker News"
     },
@@ -6320,468 +6790,6 @@
       "author": "Jarrod Jones",
       "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20102308/stick-lead.jpg",
       "source": "The A.V. Club"
-    },
-    {
-      "id": "3d2f739b0122fde0",
-      "title": "The only conspiracy in Freefall: A Reckoning For Boeing is corporate rot",
-      "url": "https://www.avclub.com/freefall-a-reckoning-for-boeing-nexflix-corporate-rot-conspiracy-theory-whistleblower",
-      "datePublished": "2026-08-20T15:00:06.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Even considering a whistleblower's mysterious death, Freefall: A Reckoning For Boeing only finds a familiar consequence of capitalism.",
-      "author": "Monica Castillo",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19162920/freefall-boeing-squared.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "9e493ca9da199157",
-      "title": "Ossoff Rejoices as White House Melts Down Over His Natalie Harp Jab",
-      "url": "https://newrepublic.com/post/214548/ossoff-rejoices-white-house-meltdown-natalie-harp",
-      "datePublished": "2026-08-20T14:59:03.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Senator Jon Ossoff, a 2028 presidential contender, has struck gold with his jab at President Trump’s aide Natalie Harp. The White House quickly lashed out after Ossoff mentioned Harp during an Atlanta rally on Sunday, and ever since then, Harp has been all over the news, with new details about her unusually close relationship with the president being revealed nearly every day. On Wednesday, Ossoff",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/062b4005b255d81bc214fed97af4883c57b67992.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "7e48bfd1397c9cd4",
-      "title": "Michael Cohen’s Defense of Trump Podcast Reunion Sure Is Interesting",
-      "url": "https://newrepublic.com/post/214550/michael-cohen-trump-podcast-interview",
-      "datePublished": "2026-08-20T14:52:54.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Michael Cohen won’t confirm or deny whether he’ll use President Trump’s Thursday appearance on his podcast to ask for a pardon. “We’ll see,” he said to Politico regarding the potential pardon request. “Will I make that request down the road? I don’t know. Maybe, maybe not.” He noted that “people may be interested to hear two individuals that were friends for a decade and a half who have not public",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/7d2a63da8073b92cae56cd0d3b80ba044ed5b86a.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "178fe2a88dc55571",
-      "title": "Immanuel Wallerstein Predicted the Fall of the US Empire",
-      "url": "",
-      "datePublished": "2026-08-20T14:50:13.907Z",
-      "category": [
-        "society"
-      ],
-      "description": "In July 2002, Immanuel Wallerstein appeared on C-SPAN’s morning . He had just written an for magazine with a provocative title: “The Eagle Has Crash Landed.” Wallerstein argued that the US position of dominance on the world stage was in decline.call-in programessayForeign Policy As he was speaking, less than a year had passed since the terrorist attacks of 9/11 and the subsequent US invasion of Af",
-      "author": "Gregory P. Williams",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "ad78ec085e56cc0e",
-      "title": "Gaming monitor deals that take the pain out of upgrading: Save up to $650 on our top picks from LG and Samsung",
-      "url": "https://mashable.com/tech/aug-20-best-gaming-monitor-deals",
-      "datePublished": "2026-08-20T14:47:18.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The best gaming monitor deals to shop as of Aug. 20 include the LG Ultragear OLED, Samsung Odyssey Neo G9 and Odyssey G5.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05lsFiyuCtOr8ITikxNmErK/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "7521340796a47037",
-      "title": "Why Did Natalie Harp Wait Over a Year to Get a Security Clearance?",
-      "url": "https://newrepublic.com/post/214549/natalie-harp-security-clearance-wait-trump",
-      "datePublished": "2026-08-20T14:36:54.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump’s closest aide, Natalie Harp, refused to seek security clearance for more than a year while working in the White House. Two people familiar with the matter told MS NOW that it was unclear why Harp had failed to obtain the proper security clearance received by all staff when they began working at the White House. Maybe she was too busy writing the president gushing love letters to fini",
-      "author": "Edith Olmsted",
-      "imageUrl": "https://images.newrepublic.com/a5669c2a5efb34f9cdf1d89550219ae06bd1caa7.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "c65d1d2039b7c7a3",
-      "title": "Daily Cartoon: Thursday, August 20th",
-      "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-august-20th-last-two-weeks",
-      "datePublished": "2026-08-20T14:32:47.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A drawing that riffs on the latest news and happenings.",
-      "author": "David Sipress",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "f9173e963ea53d72",
-      "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
-      "url": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
-      "datePublished": "2026-08-20T14:16:19.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativity The first song Rivers Cuomo wrote for Weezer’s new album, their 20th, blatantly mimics the US rockers’ 1994 debut single, Undone (The Sweater Song). On the track CEO, the singer-guitarist grumbles over a slow, Velvets-y",
-      "author": "Stevie Chick",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "f256823e3bd792f2",
-      "title": "Utopia Is a Promise Worth Fighting For",
-      "url": "",
-      "datePublished": "2026-08-20T14:10:31.947Z",
-      "category": [
-        "society"
-      ],
-      "description": "The haunting impossibility of a society that lives up to our stated ideals can feel painful when set against the actual societies that fall so far short of them. This is why the dream of utopia, or “no place,” has disturbed the sleep of many thinkers for so long it can feel instead like a nightmare. Given the hypocrisy of a world where cruelty often feels like the point, what business do we have s",
-      "author": "Matt McManus",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "ab9e50c8d32902af",
-      "title": "Theo James dubs self too old to play James Bond",
-      "url": "https://www.avclub.com/theo-james-too-old-james-bond",
-      "datePublished": "2026-08-20T14:06:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Gentlemen star is one year younger than Daniel Craig was when Casino Royale premiered.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20100527/MixCollage-20-Aug-2026-10-04-AM-5716.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "b0a960febe2db0e0",
-      "title": "The best deals on 3D printers this week — shop Bambu Lab, Creality, and Flashforge with steep discounts",
-      "url": "https://mashable.com/tech/best-3d-printer-deals-this-week",
-      "datePublished": "2026-08-20T13:35:26.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Score deep discounts on top 3D printers this week, including up to 31% off the Flashforge AD5M Pro, 24% off the Creality K1 Max, and 9% off the Bambu Lab P1S Combo.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00KC7OL1aLtWXez9ClXCNc6/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "2e8970db300196d3",
-      "title": "Chris Pratt goes off the grid in first look at The Terminal List season 2",
-      "url": "https://www.avclub.com/terminal-list-season-2-first-look-teaser",
-      "datePublished": "2026-08-20T13:33:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Prime Video series returns on October 21.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/20092753/terminal-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "835902e7460efe06",
-      "title": "Florida School Board Leading “War on Woke” Loses Conservative Majority",
-      "url": "https://newrepublic.com/post/214542/florida-school-board-war-woke-loses-conservative-majority",
-      "datePublished": "2026-08-20T13:28:28.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A Florida school board—known for its book bans, anti-mask mandates, and anti-LGBTQ stance—has lost its conservative majority. The Sarasota County School Board election, which was led by a co-founder of the conservative group Moms for Liberty, saw two Democrat-endorsed candidates, Megan Tennimon and Beth Mayberry, cruise to victory. A third Democratic candidate, Jimmy Glover, will face a run-off vo",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/93ddcfc2bebc747c04f888259240b3c699ca8fea.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "36ee7f0a5180ed81",
-      "title": "Missouri Judge Blocks Voters From Challenging Republicans’ Rigged Map",
-      "url": "https://newrepublic.com/post/214545/missouri-judge-republicans-map-gerrymandering",
-      "datePublished": "2026-08-20T13:08:59.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A Missouri judge has allowed Republicans in the state to gerrymander their congressional map in time for November’s elections. Cole County Circuit Judge Daniel Green ruled Wednesday that the state could use the new map backed by President Trump without a statewide voter referendum. It’s a big boost to Republican efforts to hold on to the House, although the ruling will likely be appealed to the Su",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/cdf503edad68272d5d094202ecb102f654427d74.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "582c95b93259784b",
-      "title": "The home is a cruel place in first full Monster: The Lizzie Borden Story trailer",
-      "url": "https://www.avclub.com/monster-the-lizzie-borden-story-full-trailer",
-      "datePublished": "2026-08-20T13:04:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The latest entry of the Monster anthology premieres on September 17.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/04140237/MixCollage-04-Aug-2026-01-59-PM-4350.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "bc495cc43ffb7aa6",
-      "title": "Amy Lee of Evanescence: ‘I could happily do an entire album of nothing but Portishead covers’",
-      "url": "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers",
-      "datePublished": "2026-08-20T13:00:52.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "As her band hits the road, the metal trailblazer answers your questions on sexualisation in show business, finding inspiration in dreams and Spinal Tap moments on tour You wrote Bring Me to Life when you were 19. When you perform it now, how do you relate to the younger you? becgoldsmith I was in an abusive relationship, so Bring Me to Life was partly about processing the reality of that abuse and",
-      "author": "As told to Dave Simpson",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "be1c427028d4551d",
-      "title": "Star Trek: Strange New World’s puppet episode is a bridge too far",
-      "url": "https://www.avclub.com/star-trek-strange-new-worlds-recap-season-4-episode-5-level-five-transporter-accident",
-      "datePublished": "2026-08-20T13:00:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Level Five Transporter Accident” boldly goes where no show should go again.",
-      "author": "Caroline Siede",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/19170125/SNW_405_JT_0710_2979_RT.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "458001447b61058f",
-      "title": "German Greens Bet the Future on More Weapons Spending",
-      "url": "",
-      "datePublished": "2026-08-20T12:50:28.865Z",
-      "category": [
-        "society"
-      ],
-      "description": "According to the famous “garbage can” model of political decision-making, there isn’t much rationality in politics. in the 1970s, this model resists the idea that collective choices are the outcome of political professionals intentionally looking for optimal solutions for well-defined problems. Rather, it casts these choices as the result of contests between different elite factions who try to con",
-      "author": "Ewald Engelen",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "46ce6a151448c3fc",
-      "title": "‘All the watering places are crammed with hot people’: on holiday with Dickens",
-      "url": "https://www.theguardian.com/books/2026/aug/20/holiday-charles-dickens-exhibition",
-      "datePublished": "2026-08-20T12:20:19.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Exhibition at Charles Dickens Museum in London looks at writer’s holiday pursuits, from Kent to the Isle of Wight It’s summer in the city, the pubs are crowded, and the coast beckons. In a year that has so far brought five significant heatwaves, it is a fair description of the current holiday season. But the same was true, too, of the much less frequent hot, dry summers of the past, including 186 ",
-      "author": "Caroline Davies",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "b2e8e43d6282543b",
-      "title": "Keep your food dry and cold: Score $30 off Ninja’s FrostVault cooler on Amazon",
-      "url": "https://mashable.com/life/aug-20-ninja-frostvault-30qt-cooler-deal",
-      "datePublished": "2026-08-20T12:04:28.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of Aug. 20, the 30qt Ninja FrostVault cooler in cloud white is on sale for $169.99 at Amazon, 15% off its list price of $199.99.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/002SFnyGBKsr5u7hkRRnLS7/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "578f8baf914293f5",
-      "title": "Sen Morimoto Readies New Album Time Is on Your Side",
-      "url": "https://pitchfork.com/story/sen-morimoto-readies-new-album-time-is-on-your-side/",
-      "datePublished": "2026-08-20T12:01:37.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Join the versatile singer-songwriter in a woodsy video for single “Overthinker”",
-      "author": "Jazz Monroe",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "199d44fd266e6070",
-      "title": "Record-low deal: Get $200 off Amazons 50-inch Omni QLED 4K TV",
-      "url": "https://mashable.com/tech/aug-20-amazon-fire-tv-omni-qled-4k-tv-deal",
-      "datePublished": "2026-08-20T11:51:18.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of Aug. 20, the Amazon Fire TV 50-inch Omni QLED 4K TV has been discounted from $469.99 to $269.99 at Amazon, making for 43% in savings.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02iVrLVQsojspfkfOXAAspS/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5a7ca4db86422d7b",
-      "title": "Seth Meyers launches A Closer Look as summer video podcast series",
-      "url": "https://mashable.com/entertainment/seth-meyers-a-closer-look-out-of-office",
-      "datePublished": "2026-08-20T11:43:39.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "\"A Closer Look: Out of Office\" is now streaming on YouTube.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/05ayiWORJN2Xkvxp43bXmLy/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "17fede3869fbe530",
-      "title": "Weird Al Yankovics Tiny Desk Concert is an absolute treat",
-      "url": "https://mashable.com/entertainment/weird-al-yankovic-tiny-desk-concert",
-      "datePublished": "2026-08-20T11:15:17.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "'Weird Al' Yankovic on Tiny Desk Concert? It happened. Again.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/04RK2rKZjEnIxfXbZry9mzi/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "1acf95e0fcd39d45",
-      "title": "Transcript: Trump Hits Brutal Poll Low as Dem Flip Shakes MAGA Country",
-      "url": "https://newrepublic.com/article/214540/transcript-trump-hits-brutal-poll-low-dem-flip-shakes-maga-country",
-      "datePublished": "2026-08-20T10:57:53.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The following is a lightly edited transcript of the August 20 episode of the Daily Blast podcast. Listen to it here. Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent. Democrats appear to have flipped a state legislative district in western Pennsylvania that Donald Trump won less than two years ago by eighteen points",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/4b5df6d9108b231eccdb3d85b94c703e8acb133c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "9156c0b8234c26d9",
-      "title": "Post your questions for Beck",
-      "url": "https://www.theguardian.com/music/2026/aug/20/post-your-questions-for-beck",
-      "datePublished": "2026-08-20T10:42:54.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The genre-hopping hitmaker’s new album fingerpicks the same melancholy heartstrings as Sea Change. You can ask him anything in our upcoming reader interview News of a Beck album is always cause for celebration, especially when it’s seven years since the last one – 2019’s Hyperspace – but even more so when it’s recorded with the same wrecking crew as the melancholy classics Sea Change and Morning P",
-      "author": "Guardian Staff",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "951ce1b499e91dbf",
-      "title": "Rosie ODonnell has another Kimmel monologue dig at Trump",
-      "url": "https://mashable.com/entertainment/rosie-odonnell-trump-kimmel-roosevelt",
-      "datePublished": "2026-08-20T10:24:01.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Rosie O'Donnell's \"Jimmy Kimmel Live!\" guest-hosting run has been peppered with digs at Donald Trump.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/01k6japnLUj6ZHMQ3UpfTa8/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "5fd3611e2c417103",
-      "title": "NYT Connections hints today: Meanings for each word for Aug. 20, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-august-20-2026",
-      "datePublished": "2026-08-20T10:22:37.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1166.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06rFh0Sg9IA7CO6yK7KL4wV/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "feabd65a5500022d",
-      "title": "The best deals this week, according to Mashables team of shopping experts",
-      "url": "https://mashable.com/gifts/best-deals-this-week",
-      "datePublished": "2026-08-20T10:10:55.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The best deals this week. Mashable's shoping team finds deals on AirPods, Pokémon cards, robot vacuums, and so much more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/05ayk4RwLY2Rq52BvLllpLS/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "fc0b3c65c5951ab4",
-      "title": "The best celeb interview podcasts of the week (Aug. 20, 2026)",
-      "url": "https://mashable.com/entertainment/best-celebrity-interview-podcasts-august-20-2026",
-      "datePublished": "2026-08-20T10:04:09.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "There's a superabundance of celeb interview podcasts and internet series out there. Here's five you should watch this week.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/022BnZSxAhv2AOy3DOJw7Dj/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "774752dd667fc394",
-      "title": "A vocabulary for the future: touch",
-      "url": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
-      "datePublished": "2026-08-20T10:01:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "A mesmerising blend of words and images make touch a doorway into the deepest questions in physics and philosophy - by Aeon Video Watch on Aeon",
-      "author": "Aeon Video",
-      "imageUrl": "https://images.aeonmedia.co/images/82a196ab-9e8c-4452-8c6d-319f97c0246d/a-vocabulary-for-the-future-touch-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "source": "Aeon"
-    },
-    {
-      "id": "685984f7c5de6864",
-      "title": "Everything is going to be fine",
-      "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
-      "datePublished": "2026-08-20T10:01:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "What a classist, a psychologist and preppers have to say about the end of the world, and what you might do about it - Directed by Ryan Malloy Watch on Psyche",
-      "author": "Psyche Video",
-      "imageUrl": "https://images.aeonmedia.co/images/737e3143-0725-4594-aaa6-7c4dd5d5d209/everything-is-going-to-be-fine-landscape-1.jpg?top=21&left=0&cropWidth=2000&cropHeight=1125&width=1200&quality=75&format=auto",
-      "source": "Psyche"
-    },
-    {
-      "id": "39f3b15e9855757a",
-      "title": "Rick Baker on the past and future of making monsters: \"Practical effects are coming back in a big way\"",
-      "url": "https://www.avclub.com/rick-baker-interview-thriller-american-werewolf-coming-to-america-king-kong-men-in-black",
-      "datePublished": "2026-08-20T10:00:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Makeup legend Rick Baker tells us about \"the good\" American Werewolf, pulling double Kong duty, defining \"Thriller,\" and AI.",
-      "author": "Josh Slater-Williams",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/17135311/rick-baker-squared-1.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "ec7334d62695dbcb",
-      "title": "Dolphins and other lovers",
-      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "datePublished": "2026-08-20T10:00:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "The Andoque of the Amazon know what we have forgotten: the forest’s most beautiful creatures are also its most dangerous - by Eliran Arazi Read on Aeon",
-      "author": "Eliran Arazi",
-      "imageUrl": "https://images.aeonmedia.co/images/feb30884-154c-41ba-a04f-79e7037a973a/cj_aeon_boto.jpg?width=1200&quality=75&format=auto",
-      "source": "Aeon"
     }
   ]
 }
