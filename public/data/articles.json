@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-23T22:53:28.488Z",
+  "generatedAt": "2026-08-23T23:47:28.576Z",
   "articles": [
+    {
+      "id": "821e165ccc2ec4cc",
+      "title": "5 Years Ago, Double Fine Boldly Tried to Reimagine the AAA Machine",
+      "url": "https://www.polygon.com/psychonauts-2-retrospective-double-fine-games/",
+      "datePublished": "2026-08-23T23:30:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "On Psychonauts 2's fifth birthday, Polygon looks back at Double Fine's bold effort to reshape what AAA video games could be",
+      "author": "Josh Broadwell",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/psychonauts-2.jpg",
+      "source": "Polygon"
+    },
     {
       "id": "2f82e096c5b99972",
       "title": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
@@ -39,6 +52,19 @@
       "author": "Zack Kotzer",
       "imageUrl": "https://kotaku.com/app/uploads/2021/09/24123897f999eec2a0b478d27f417dbb-1280x720.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "b9cb1899f2906951",
+      "title": "Police from Bolivia, Brazil, Colombia, Ecuador and Peru arrested 839 people and seized timber, minerals and thousands of livestock in one of the largest coordinated crackdowns targeting illegal mining, logging, wildlife trafficking, fuel smuggling and land grabbing across the Amazon Basin.",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1vwkct2/police_from_bolivia_brazil_colombia_ecuador_and/",
+      "datePublished": "2026-08-23T22:01:13.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/sg_plumber to r/UpliftingNews [link] [comments]",
+      "author": "/u/sg_plumber",
+      "imageUrl": "https://external-preview.redd.it/3Vy8KB-sQMHHdQjmVl0KKTDgF7NohWhJf3fW43hzGEA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e764a2bc5f68d52791e195e015c4a62806b3b8ae",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "c8feb7b8ff36dcb3",
@@ -6713,36 +6739,6 @@
       "description": "How to watch Ligue 1 for free. Live steam Olympique Marseille vs. Strasbourg in Ligue 1 for free from anywhere in the world.",
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/07CGM0MfF9Vm7J4NTrCC6oL/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5cbff2672e9cc17e",
-      "title": "It Ends review: Gen Zs disillusionment is distilled in a mind-snapping road trip thriller",
-      "url": "https://mashable.com/entertainment/it-ends-review",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Alexander Ullom's directorial debut is here to mess you up.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06QH9SrKswqxAdbjCeS1s0l/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "0dacfe725b55af41",
-      "title": "How to watch the Premier League online for free",
-      "url": "https://mashable.com/entertainment/premier-league-live-stream-free",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Premier League for free. Live stream the 2026-27 Premier League for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UV5KvoC9EkmtnsCpDBJs7/hero-image.jpg",
       "source": "Mashable"
     }
   ]
