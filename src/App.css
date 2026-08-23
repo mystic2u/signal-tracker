@@ -3,27 +3,27 @@
    ========================================================================== */
 
 .app {
-  --font-display: 'Space Grotesk', system-ui, sans-serif;
-  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
-  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Menlo, monospace;
+  --font-display: 'Poppins', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
 
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 16px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-badge: 6px;
 
-  /* dark theme (default) */
-  --bg: #1b1d22;
-  --surface: #24272e;
-  --surface-raised: #2c2f38;
-  --border: #383c46;
-  --text: #ede9e2;
-  --text-dim: #9a9da6;
-  --accent: #e8a23d;
-  --accent-contrast: #1b1d22;
-  --teal: #5fb3b3;
-  --danger: #d9705a;
-  --save: #7fb88f;
-  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  /* light theme (default) — clean white, playful accent colors used sparingly */
+  --bg: #fafafa;
+  --surface: #ffffff;
+  --surface-raised: #f5f5f5;
+  --border: #ededed;
+  --text: #23241f;
+  --text-dim: #8b8b8b;
+  --accent: #ff6b4a;
+  --accent-contrast: #ffffff;
+  --teal: #2fb6a6;
+  --danger: #e5484d;
+  --save: #22a06b;
+  --shadow: 0 8px 24px rgba(35, 36, 31, 0.08);
 
   background: var(--bg);
   color: var(--text);
@@ -32,36 +32,37 @@
   transition: background 0.2s ease, color 0.2s ease;
 }
 
-.app[data-theme='light'] {
-  --bg: #efeee7;
-  --surface: #ffffff;
-  --surface-raised: #f7f5f0;
-  --border: #dcd8cd;
-  --text: #232323;
-  --text-dim: #6b6a63;
-  --accent: #c17f22;
-  --accent-contrast: #ffffff;
-  --teal: #2d7a7a;
-  --danger: #b34e36;
-  --save: #3f8452;
-  --shadow: 0 8px 24px rgba(30, 25, 15, 0.1);
+.app[data-theme='dark'] {
+  --bg: #201e1b;
+  --surface: #2b2926;
+  --surface-raised: #343330;
+  --border: #423f3b;
+  --text: #f5f2ea;
+  --text-dim: #a19c92;
+  --accent: #ff8266;
+  --accent-contrast: #201e1b;
+  --teal: #45cdbc;
+  --danger: #ec6b6f;
+  --save: #3fc98c;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
 
-/* Category color coding — used for the left accent strip and freq-tag pills. */
+/* Category badge colors — bold solid fills, the main source of "playful" in
+   the UI. Each has a matching text color below for contrast. */
 .app {
-  --cat-tech: #5fb3b3;
-  --cat-food: #c9793f;
-  --cat-energy: #e8a23d;
-  --cat-telecoms: #7b8fd1;
-  --cat-lifestyle: #c98fa0;
-  --cat-fashion: #b07fc9;
-  --cat-sport: #6fae6f;
-  --cat-culture: #8b7fc9;
-  --cat-entertainment: #cf6b52;
-  --cat-internet-culture: #a9b34f;
-  --cat-society: #5a93a6;
-  --cat-forums: #8f8f9e;
-  --cat-trends: #b6598f;
+  --cat-tech: #2fb6a6;
+  --cat-food: #ff8a4c;
+  --cat-energy: #ffc93c;
+  --cat-telecoms: #4c8fff;
+  --cat-lifestyle: #ff6fa0;
+  --cat-fashion: #b07fe0;
+  --cat-sport: #4caf6b;
+  --cat-culture: #7c6fe0;
+  --cat-entertainment: #ff6b4a;
+  --cat-internet-culture: #b7d336;
+  --cat-society: #3fc1e0;
+  --cat-forums: #8c8fc9;
+  --cat-trends: #e0527f;
 }
 
 /* ==========================================================================
@@ -103,8 +104,7 @@
 .brand {
   display: flex;
   align-items: center;
-  gap: 8px;
-  color: var(--accent);
+  gap: 9px;
   background: none;
   border: none;
   padding: 0;
@@ -114,8 +114,8 @@
 
 .brand-name {
   font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 1.05rem;
+  font-weight: 700;
+  font-size: 1.08rem;
   color: var(--text);
   letter-spacing: -0.01em;
 }
@@ -130,8 +130,7 @@
   display: none;
   align-items: center;
   gap: 6px;
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   color: var(--text-dim);
   white-space: nowrap;
 }
@@ -147,7 +146,7 @@
 }
 
 .theme-toggle {
-  background: var(--surface);
+  background: var(--surface-raised);
   border: 1px solid var(--border);
   color: var(--text);
   width: 32px;
@@ -164,7 +163,7 @@
   max-width: 960px;
   margin: 12px auto 0;
   display: flex;
-  gap: 4px;
+  gap: 18px;
 }
 
 .app-tab {
@@ -174,13 +173,14 @@
   font-family: var(--font-display);
   font-weight: 500;
   font-size: 0.9rem;
-  padding: 8px 14px;
+  padding: 9px 2px;
   cursor: pointer;
-  border-bottom: 2px solid transparent;
+  border-bottom: 2.5px solid transparent;
 }
 
 .app-tab.is-active {
   color: var(--text);
+  font-weight: 600;
   border-bottom-color: var(--accent);
 }
 
@@ -256,8 +256,7 @@
 }
 
 .search-count {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   color: var(--text-dim);
   white-space: nowrap;
 }
@@ -302,6 +301,7 @@
 
 .filter-panel-header h2 {
   font-family: var(--font-display);
+  font-weight: 600;
   font-size: 1rem;
   margin: 0;
 }
@@ -323,7 +323,7 @@
 }
 
 .filter-group legend {
-  font-family: var(--font-mono);
+  font-family: var(--font-display);
   text-transform: uppercase;
   font-size: 0.68rem;
   letter-spacing: 0.06em;
@@ -374,8 +374,7 @@
 }
 
 .filter-count {
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   color: var(--text-dim);
 }
 
@@ -392,7 +391,6 @@
 .panel {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-left: 3px solid var(--teal);
   border-radius: var(--radius-lg);
   padding: 12px 14px;
   display: flex;
@@ -414,22 +412,11 @@
 .panel-title {
   display: flex;
   align-items: center;
-  gap: 7px;
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 0.9rem;
-}
-
-.panel-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  flex-shrink: 0;
+  gap: 8px;
 }
 
 .panel-count {
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: var(--text-dim);
   font-weight: 400;
 }
@@ -438,7 +425,7 @@
   background: none;
   border: none;
   color: var(--text-dim);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   cursor: pointer;
   white-space: nowrap;
   font-family: var(--font-body);
@@ -458,7 +445,7 @@
   border: 1px solid var(--border);
   color: var(--text-dim);
   border-radius: var(--radius-sm);
-  font-size: 0.68rem;
+  font-size: 0.7rem;
   padding: 3px 7px;
   cursor: pointer;
 }
@@ -471,7 +458,7 @@
 .panel-list {
   max-height: 280px;
   overflow-y: auto;
-  margin-top: 4px;
+  margin-top: 6px;
 }
 
 .panel-item {
@@ -485,19 +472,18 @@
 }
 
 .panel-item-title {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   line-height: 1.4;
   margin-bottom: 3px;
 }
 
 .panel-item-meta {
-  font-family: var(--font-mono);
-  font-size: 0.66rem;
+  font-size: 0.72rem;
   color: var(--text-dim);
 }
 
 .panel-empty {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   color: var(--text-dim);
   padding: 10px 0 4px;
 }
@@ -506,10 +492,10 @@
   background: none;
   border: none;
   color: var(--text-dim);
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   cursor: pointer;
   padding: 0;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   font-family: var(--font-body);
 }
 
@@ -518,16 +504,12 @@
 }
 
 .category-detail-heading {
-  display: flex;
-  align-items: center;
-  gap: 8px;
   margin-bottom: 14px;
 }
 
-.category-detail-heading h2 {
-  font-family: var(--font-display);
-  font-size: 1.2rem;
-  margin: 0;
+.category-detail-heading .freq-tag {
+  font-size: 0.85rem;
+  padding: 5px 14px;
 }
 
 /* ==========================================================================
@@ -559,13 +541,13 @@
 }
 
 .card-reveal--save {
-  background: color-mix(in srgb, var(--save) 25%, transparent);
+  background: color-mix(in srgb, var(--save) 20%, transparent);
   color: var(--save);
   justify-content: flex-start;
 }
 
 .card-reveal--dismiss {
-  background: color-mix(in srgb, var(--danger) 25%, transparent);
+  background: color-mix(in srgb, var(--danger) 20%, transparent);
   color: var(--danger);
   justify-content: flex-end;
 }
@@ -574,7 +556,6 @@
   position: relative;
   background: var(--surface);
   border: 1px solid var(--border);
-  border-left: 3px solid var(--teal);
   border-radius: var(--radius-lg);
   padding: 14px 16px;
   touch-action: pan-y;
@@ -585,7 +566,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   gap: 8px;
 }
 
@@ -595,52 +576,40 @@
   flex-wrap: wrap;
 }
 
+/* Category badges — solid fill, bold, a little rounded. This is the main
+   "playful" signature of the design, reused for card tags, panel headers,
+   and the category-detail heading. */
 .freq-tag {
-  font-family: var(--font-mono);
+  font-family: var(--font-display);
+  font-weight: 600;
   font-size: 0.68rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  padding: 2px 8px;
-  border-radius: 20px;
+  letter-spacing: 0.03em;
+  padding: 3px 9px;
+  border-radius: var(--radius-badge);
   background: var(--surface-raised);
   color: var(--text-dim);
-  border: 1px solid var(--border);
 }
 
-.freq-tag--tech { color: var(--cat-tech); border-color: color-mix(in srgb, var(--cat-tech) 45%, var(--border)); }
-.freq-tag--food { color: var(--cat-food); border-color: color-mix(in srgb, var(--cat-food) 45%, var(--border)); }
-.freq-tag--energy { color: var(--cat-energy); border-color: color-mix(in srgb, var(--cat-energy) 45%, var(--border)); }
-.freq-tag--telecoms { color: var(--cat-telecoms); border-color: color-mix(in srgb, var(--cat-telecoms) 45%, var(--border)); }
-.freq-tag--lifestyle { color: var(--cat-lifestyle); border-color: color-mix(in srgb, var(--cat-lifestyle) 45%, var(--border)); }
-.freq-tag--fashion { color: var(--cat-fashion); border-color: color-mix(in srgb, var(--cat-fashion) 45%, var(--border)); }
-.freq-tag--sport { color: var(--cat-sport); border-color: color-mix(in srgb, var(--cat-sport) 45%, var(--border)); }
-.freq-tag--culture { color: var(--cat-culture); border-color: color-mix(in srgb, var(--cat-culture) 45%, var(--border)); }
-.freq-tag--entertainment { color: var(--cat-entertainment); border-color: color-mix(in srgb, var(--cat-entertainment) 45%, var(--border)); }
-.freq-tag--internet-culture { color: var(--cat-internet-culture); border-color: color-mix(in srgb, var(--cat-internet-culture) 45%, var(--border)); }
-.freq-tag--society { color: var(--cat-society); border-color: color-mix(in srgb, var(--cat-society) 45%, var(--border)); }
-.freq-tag--forums { color: var(--cat-forums); border-color: color-mix(in srgb, var(--cat-forums) 45%, var(--border)); }
-.freq-tag--trends { color: var(--cat-trends); border-color: color-mix(in srgb, var(--cat-trends) 45%, var(--border)); }
-
-.card:has(.freq-tag--tech) { border-left-color: var(--cat-tech); }
-.card:has(.freq-tag--food) { border-left-color: var(--cat-food); }
-.card:has(.freq-tag--energy) { border-left-color: var(--cat-energy); }
-.card:has(.freq-tag--telecoms) { border-left-color: var(--cat-telecoms); }
-.card:has(.freq-tag--lifestyle) { border-left-color: var(--cat-lifestyle); }
-.card:has(.freq-tag--fashion) { border-left-color: var(--cat-fashion); }
-.card:has(.freq-tag--sport) { border-left-color: var(--cat-sport); }
-.card:has(.freq-tag--culture) { border-left-color: var(--cat-culture); }
-.card:has(.freq-tag--entertainment) { border-left-color: var(--cat-entertainment); }
-.card:has(.freq-tag--internet-culture) { border-left-color: var(--cat-internet-culture); }
-.card:has(.freq-tag--society) { border-left-color: var(--cat-society); }
-.card:has(.freq-tag--forums) { border-left-color: var(--cat-forums); }
-.card:has(.freq-tag--trends) { border-left-color: var(--cat-trends); }
+.freq-tag--tech { background: var(--cat-tech); color: #ffffff; }
+.freq-tag--food { background: var(--cat-food); color: #ffffff; }
+.freq-tag--energy { background: var(--cat-energy); color: #5c4300; }
+.freq-tag--telecoms { background: var(--cat-telecoms); color: #ffffff; }
+.freq-tag--lifestyle { background: var(--cat-lifestyle); color: #ffffff; }
+.freq-tag--fashion { background: var(--cat-fashion); color: #ffffff; }
+.freq-tag--sport { background: var(--cat-sport); color: #ffffff; }
+.freq-tag--culture { background: var(--cat-culture); color: #ffffff; }
+.freq-tag--entertainment { background: var(--cat-entertainment); color: #ffffff; }
+.freq-tag--internet-culture { background: var(--cat-internet-culture); color: #4a5200; }
+.freq-tag--society { background: var(--cat-society); color: #ffffff; }
+.freq-tag--forums { background: var(--cat-forums); color: #ffffff; }
+.freq-tag--trends { background: var(--cat-trends); color: #ffffff; }
 
 .card-time {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   color: var(--text-dim);
   white-space: nowrap;
 }
@@ -692,8 +661,7 @@
 }
 
 .card-source {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   color: var(--text-dim);
 }
 
@@ -713,7 +681,7 @@
 }
 
 .card-btn--save.is-active {
-  background: color-mix(in srgb, var(--save) 20%, transparent);
+  background: color-mix(in srgb, var(--save) 18%, transparent);
   color: var(--save);
   border-color: var(--save);
 }
@@ -725,8 +693,7 @@
 
 .card-saved-meta {
   margin-top: 8px;
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: var(--text-dim);
 }
 
@@ -739,8 +706,8 @@
   padding: 10px 20px;
   border-radius: var(--radius-md);
   cursor: pointer;
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
 }
 
 .empty-state {
@@ -802,7 +769,7 @@
 
 .notif-bell {
   position: relative;
-  background: var(--surface);
+  background: var(--surface-raised);
   border: 1px solid var(--border);
   color: var(--text);
   width: 32px;
@@ -820,8 +787,8 @@
   right: -5px;
   background: var(--accent);
   color: var(--accent-contrast);
-  font-family: var(--font-mono);
   font-size: 0.62rem;
+  font-weight: 600;
   min-width: 15px;
   height: 15px;
   border-radius: 8px;
@@ -851,7 +818,7 @@
   align-items: center;
   padding: 10px 12px;
   border-bottom: 1px solid var(--border);
-  font-family: var(--font-mono);
+  font-family: var(--font-display);
   font-size: 0.72rem;
   text-transform: uppercase;
   color: var(--text-dim);
@@ -892,8 +859,7 @@
 
 .notif-time {
   margin-left: auto;
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: var(--text-dim);
 }
 
@@ -910,6 +876,7 @@
 
 .settings-section h2 {
   font-family: var(--font-display);
+  font-weight: 600;
   font-size: 1.05rem;
   margin: 0 0 4px;
 }
@@ -948,8 +915,7 @@
   display: flex;
   align-items: center;
   gap: 6px;
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   color: var(--text-dim);
 }
 
@@ -960,7 +926,7 @@
   color: var(--text);
   border-radius: var(--radius-sm);
   padding: 4px 6px;
-  font-family: var(--font-mono);
+  font-family: var(--font-body);
 }
 
 .inline-form {
@@ -1038,8 +1004,7 @@
 .source-meta {
   display: block;
   color: var(--text-dim);
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   margin-top: 2px;
 }
 

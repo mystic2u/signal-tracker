@@ -13,8 +13,8 @@ import './App.css';
 
 function useTheme() {
   const [theme, setTheme] = useState(() => {
-    if (typeof window === 'undefined') return 'dark';
-    return window.localStorage.getItem('signal-tracker-theme') || 'dark';
+    if (typeof window === 'undefined') return 'light';
+    return window.localStorage.getItem('signal-tracker-theme') || 'light';
   });
   const toggle = useCallback(() => {
     setTheme((prev) => {

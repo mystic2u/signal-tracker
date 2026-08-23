@@ -40,8 +40,7 @@ export default function CategoryDetail({
       </button>
 
       <div className="category-detail-heading">
-        <span className="panel-dot" style={{ background: `var(--cat-${category.id}, var(--teal))` }} aria-hidden="true" />
-        <h2>{category.label}</h2>
+        <span className={`freq-tag freq-tag--${category.id}`}>{category.label}</span>
       </div>
 
       <div className="toolbar">

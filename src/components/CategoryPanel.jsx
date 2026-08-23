@@ -16,11 +16,10 @@ export default function CategoryPanel({
   const openSource = (url) => window.open(url, '_blank', 'noopener,noreferrer');
 
   return (
-    <div className={`panel ${isHidden ? 'panel--hidden' : ''}`} style={{ borderLeftColor: category.color }}>
+    <div className={`panel ${isHidden ? 'panel--hidden' : ''}`}>
       <div className="panel-header">
         <div className="panel-title">
-          <span className="panel-dot" style={{ background: category.color }} aria-hidden="true" />
-          <span>{category.label}</span>
+          <span className={`freq-tag freq-tag--${category.id}`}>{category.label}</span>
           <span className="panel-count">{totalCount}</span>
         </div>
         {editing ? (

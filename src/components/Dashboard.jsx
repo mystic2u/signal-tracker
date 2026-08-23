@@ -29,11 +29,7 @@ export default function Dashboard({
   }, [categoryOrder, allCategories]);
 
   const orderedCategories = useMemo(
-    () =>
-      effectiveOrder
-        .map((id) => allCategories.find((c) => c.id === id))
-        .filter(Boolean)
-        .map((c) => ({ ...c, color: `var(--cat-${c.id}, var(--teal))` })),
+    () => effectiveOrder.map((id) => allCategories.find((c) => c.id === id)).filter(Boolean),
     [effectiveOrder, allCategories]
   );
 

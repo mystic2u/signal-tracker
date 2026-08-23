@@ -23,10 +23,18 @@ export default function Header({
     <header className="app-header">
       <div className="app-header-top">
         <button type="button" className="brand" onClick={onBrandClick} aria-label="Go to home dashboard">
-          <svg className="brand-mark" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
-            <circle cx="16" cy="16" r="2.4" fill="currentColor" />
-            <circle cx="16" cy="16" r="7" fill="none" stroke="currentColor" strokeWidth="1.4" opacity="0.6" />
-            <circle cx="16" cy="16" r="12" fill="none" stroke="currentColor" strokeWidth="1.4" opacity="0.3" />
+          <svg className="brand-mark" viewBox="0 0 30 30" width="28" height="28" aria-hidden="true">
+            <circle cx="15" cy="15" r="14" fill="var(--accent)" />
+            <path
+              d="M6 16 L11 16 L13 11 L16 20 L18 14 L20 16 L24 16"
+              fill="none"
+              stroke="var(--surface)"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+            <circle cx="23" cy="7" r="2.2" fill="var(--cat-energy)" />
+            <circle cx="6" cy="23" r="1.6" fill="var(--cat-tech)" />
           </svg>
           <span className="brand-name">Signal Tracker</span>
         </button>
