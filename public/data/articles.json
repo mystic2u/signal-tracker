@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-08-23T14:56:41.801Z",
+  "generatedAt": "2026-08-23T15:51:28.294Z",
   "articles": [
+    {
+      "id": "0bdd4dde7aac2ba9",
+      "title": "Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nick-glennie-smith-man-in-iron-mask-secretariat-composer-1236679301/",
+      "datePublished": "2026-08-23T15:42:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The British conductor and keyboardist collaborated often with Oscar winner Hans Zimmer.",
+      "author": "Mike Barnes",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "bfc89a0d698e3b6f",
+      "title": "Box Office: ‘Spider-Man: Brand New Day’ Triumphs Again in Fourth Weekend With $39 Million, ‘Insidious 6’ Launches to $25 Million",
+      "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
+      "datePublished": "2026-08-23T15:41:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Long may Peter Parker reign! Sony’s Marvel adventure “Spider-Man: Brand New Day” continues to dominate at the box office, collecting $39 million in its fourth weekend of release. Despite a smattering of newcomers, Spidey remained at No. 1 ahead of another Sony release, “Insidious: Out of the Further.” Much lower down on box office charts […]",
+      "author": "Rebecca Rubin",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "efbc0e59e94ac4ff",
+      "title": "Charlize Theron Reflects on ‘Mad Max: Fury Road’ a Decade Later: “There’s a Deep Connection to This Film”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/charlize-theron-mad-max-fury-road-decade-later-1236679218/",
+      "datePublished": "2026-08-23T15:37:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "At a special 'Fury Road' screening, the star acknowledged how iconic her character has become, so much so that she now meets young children named Furiosa: \"The weirdest thing ever.\"",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "80bab8a4119aa845",
+      "title": "Zara Larsson and PinkPantheress Finally Sing “Stateside” Live Together",
+      "url": "https://pitchfork.com/story/zara-larsson-and-pinkpantheress-finally-sing-stateside-live-together/",
+      "datePublished": "2026-08-23T15:36:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“You guys are watching herstory being made,” Larsson told the crowd at All Points East in London",
+      "author": "Hattie Lindert",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "80d039e631a921e8",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "datePublished": "2026-08-23T15:30:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "003cb0a893a58c65",
+      "title": "These modern smartwatches are in their last year of updates",
+      "url": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
+      "datePublished": "2026-08-23T15:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A whole bunch of smart watches are getting phased out this year. Is your watch on the list?",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/these-modern-smartwatches-are-in-their-last-year-of-updates/l-intro-1786985243.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "e7de03056c003074",
+      "title": "'One Piece Card Game' Is Collaborating With 'Final Fantasy's Best Artist",
+      "url": "https://www.polygon.com/one-piece-card-game-final-fantasy/",
+      "datePublished": "2026-08-23T15:12:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Yoshitaka Amano designed new Loki and Shamrock cards for One Piece Card Game",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screenshot-2026-08-23-at-11-03-51-am.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "24cfbd11db66beeb",
+      "title": "'It Ends' Director Alex Ullom Reveals the Movie's Meaning and His Surprising Sequel Plan",
+      "url": "https://www.polygon.com/it-ends-director-interview-alex-ullom/",
+      "datePublished": "2026-08-23T15:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The director of It Ends talks liminal spaces, Gen Z horror, the 3-hour cut he had to scrap, and his plans for a sequel",
+      "author": "Jake Kleinman",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/still-1-_phinehas-yoon-akira-jackson-noah-toth-in-it-ends_courtesy-of-neon-1.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "badce92339778deb",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "datePublished": "2026-08-23T15:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "author": "Amanda Silberling",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
     {
       "id": "d78b826396fc0faf",
       "title": "Leslie Parrish, Actress in ‘Li’l Abner’ and ‘The Manchurian Candidate,’ Dies at 90",
@@ -28,6 +146,34 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "ce7bbfc736ab3cfe",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "datePublished": "2026-08-23T14:38:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+      "author": "dredmorbius",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "15fbdafa718a1f37",
+      "title": "Authoritarianism of Code",
+      "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+      "datePublished": "2026-08-23T14:36:38.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+      "author": "wqlander",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "d4b3dfe2eb74f2f2",
       "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
       "url": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
@@ -53,6 +199,20 @@
       "author": "Elisabeth Garber-Paul",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "94efea681729da1d",
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "datePublished": "2026-08-23T14:24:21.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+      "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "7cdef0d37eab44f3",
@@ -6610,176 +6770,6 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/07CGM0MfF9Vm7J4NTrCC6oL/hero-image.jpg",
       "source": "Mashable"
-    },
-    {
-      "id": "5cbff2672e9cc17e",
-      "title": "It Ends review: Gen Zs disillusionment is distilled in a mind-snapping road trip thriller",
-      "url": "https://mashable.com/entertainment/it-ends-review",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Alexander Ullom's directorial debut is here to mess you up.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06QH9SrKswqxAdbjCeS1s0l/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "0dacfe725b55af41",
-      "title": "How to watch the Premier League online for free",
-      "url": "https://mashable.com/entertainment/premier-league-live-stream-free",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Premier League for free. Live stream the 2026-27 Premier League for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UV5KvoC9EkmtnsCpDBJs7/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "0c6e551428382c15",
-      "title": "Teenage Sex and Death at Camp Miasma review: Laughing in the face of elevated horror",
-      "url": "https://mashable.com/entertainment/teenage-sex-and-death-at-camp-miasma-review",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Hannah Einbinder and Gillian Anderson star in \"Teenage Sex and Death at Camp Miasma,\" a queer, hilarious slasher from \"I Saw the TV Glow\" maker Jane Schoenbrun. Review.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0044qiLsjfh3J7Eb21WmVUV/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "ef529232ce88da86",
-      "title": "How to watch F1 live streams online for free",
-      "url": "https://mashable.com/article/f1-live-stream-for-free",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch F1 for free. Live stream the 2026 F1 season for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03uoHzCakpugxGlnWfpm5Vi/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a73f010a10b2d0db",
-      "title": "Trump’s Rage Darkens as MTG Drops Midterm Bombshell: GOP Is Toast",
-      "url": "https://newrepublic.com/article/214581/trump-rage-darkens-mtg-drops-midterm-bombshell-gop-toast",
-      "datePublished": "2026-08-21T09:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump just issued a crazed, rambling tirade, vowing to hit Iran with the “MOST CRUSHING ECONOMIC OPERATION EVER TAKEN” while threatening “TREMENDOUS” economic consequences to any country that helps Iran. News organizations are struggling to divine what he means and what it’s supposed to accomplish. Regardless, it shows just how stuck Trump is in this quagmire. Meanwhile, Marjorie Taylor Gre",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/46e453eda2da48daa69910666bde35a6341342ef.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "cfdd1a1f0a3c9692",
-      "title": "This 15-function Victorinox Swiss Army knife is a handy tool to have around — and its on sale for under $40",
-      "url": "https://mashable.com/tech/aug-21-victorinox-swiss-army-knife-deal",
-      "datePublished": "2026-08-21T08:50:12.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Save 23% on the Victorinox Swiss Army knife at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02DefYSxiCOwtdrECGa4s1q/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "9fdb1fb485d3b587",
-      "title": "This pocket-sized laser measure is a handy tool to have around the house — and it’s on sale for 35% off",
-      "url": "https://mashable.com/tech/aug-21-hoto-pocket-laser-deal",
-      "datePublished": "2026-08-21T08:42:24.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Save 35% on the Hoto Pocket-Size Laser at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ad3p9AS2V8lRe5oUzTWk0/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "1079ba76445dae25",
-      "title": "Stella Lefty: Long Way Home review – Boston singer’s debut is bland, boilerplate and beyond banal",
-      "url": "https://www.theguardian.com/music/2026/aug/21/stella-lefty-long-way-home-review",
-      "datePublished": "2026-08-21T07:30:28.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "(Atlantic Outpost) The breakout 24-year-old country star’s debut is stunningly unremarkable, offering little in the way of artistic identity or her peers’ originality Anyone railing against nepo babies taking over culture has already lost: the rage they engender is as key to the publicity plan as their ready-made profile. But once in a while, you meet one so egregious that it’s hard not to want to",
-      "author": "Laura Snapes",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "b665a34e481bfca1",
-      "title": "Silo Season 3, episode 8: We may finally know how the world ends",
-      "url": "https://mashable.com/entertainment/silo-season-3-episode-8-how-the-world-ends",
-      "datePublished": "2026-08-21T07:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "\"Silo\" Season 3, episode 8 gives us a clue as to how the world ends.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01qWPO9QJog6Z4tY1zTkPeZ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5c2c4cf9e76a10d1",
-      "title": "The Most Popular Beatles Song Wasn’t Written by John or Paul",
-      "url": "https://slate.com/podcasts/hit-parade/2026/08/beatles-biggest-song-was-written-by-george-harrison?via=rss",
-      "datePublished": "2026-08-21T07:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "“Here Comes the Sun” inspired countless cover versions. (George preferred James Brown’s.)",
-      "author": "Chris Molanphy",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "1c35e28a794b2e24",
-      "title": "Anthony Hopkins: Life Is a Dream album review – easy on the ear melodies written from the heart",
-      "url": "https://www.theguardian.com/music/2026/aug/21/anthony-hopkins-life-is-a-dream-album-review-philharmonia-dudamel",
-      "datePublished": "2026-08-21T06:30:27.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Philharmonia Orchestra/Dudamel (Decca) There’s a cinematic flourish to many of Hopkins’ compositions, together with fine arrangements of Welsh tunes and pieces dedicated to family Anthony Hopkins, it turns out, has been composing music all his life. Now, at the age of 88, the Welsh-born Hollywood actor makes his Decca debut, securing the services of LA Philharmonic’s outgoing music director Gustav",
-      "author": "Clive Paget",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "889dbed7dbbb6f94",
-      "title": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
-      "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman",
-      "datePublished": "2026-08-21T06:00:27.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality M is a celebrated film actor. A star since childhood, now the face of a major fashion brand, she has been famous all her life. That her career closely resembles Natalie Portman’s has been gleefully seized upon by the press, something Rachel Cusk must surely h",
-      "author": "Clare Clark",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
     }
   ]
 }
