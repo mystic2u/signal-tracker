@@ -1,6 +1,105 @@
 {
-  "generatedAt": "2026-08-30T09:08:19.462Z",
+  "generatedAt": "2026-08-30T10:07:12.441Z",
   "articles": [
+    {
+      "id": "ed438150d6f985a6",
+      "title": "Martin Scorsese's Controversial 10/10 Psychological Thriller Is Officially Free on Streaming",
+      "url": "https://www.polygon.com/robert-de-niro-neo-noir-pluto-tv-streaming-free/",
+      "datePublished": "2026-08-30T10:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "One of the most engrossing cinematic portraits of urban isolation.",
+      "author": "Debopriyaa Dutta",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/l-intro-1666222037.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "73d0e8cb92e9dcad",
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "datePublished": "2026-08-30T09:26:08.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments URL: https://news.ycombinator.com/item?id=49497063 Points: 16 # Comments: 3",
+      "author": "defrost",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ffb078230922bed5",
+      "title": "NASTD 2026: Why Gov Tech Leaders Must Focus on Culture",
+      "url": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/nastd-2026-why-gov-tech-leaders-must-focus-on-culture",
+      "datePublished": "2026-08-30T09:18:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "IT leaders from across the country gathered this past week for the National Association of State Technology Directors National Conference in Denver. One takeaway: Building culture remains key.",
+      "author": "https://www.govtech.com/authors/dan-lohrmann.html",
+      "imageUrl": "https://erepublic.brightspotcdn.com/dims4/default/d7a4e1d/2147483647/strip/true/crop/5712x2777+0+1124/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fd3%2F0c%2Fd5d741b8436ebe9007d51fdd1a5b%2Fimg-3966.jpeg",
+      "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "8d1a394bd03bc791",
+      "title": "Our 17 favorite Lego sets, sourced from actual Lego fans",
+      "url": "https://mashable.com/article/favorite-lego-sets-2026",
+      "datePublished": "2026-08-30T09:00:25.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Looking for a new Lego set for adults, kids, or adults who still feel like kids? Let our favorite building kits from actual Lego enthusiasts guide the way.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01dt0sm5QYnm0Bda4P5ECWj/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "773179306a5f0faf",
+      "title": "The 6 best power stations for camping keep you both online and off-grid",
+      "url": "https://mashable.com/roundup/best-camping-portable-power-stations",
+      "datePublished": "2026-08-30T09:00:02.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The best power stations for camping come from Jackery, Anker, Goal Zero, and EcoFlow.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "dcb9ca1f18f40532",
+      "title": "Hookup apps without AI features",
+      "url": "https://mashable.com/life/hookup-apps-without-ai-features",
+      "datePublished": "2026-08-30T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A guide to hookups apps with no AI features. Want a break from endless AI? These are the hookup apps for you.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00EfI5MRn1l99VEfAdSTf85/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ee5f9d54dd66cb5e",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "datePublished": "2026-08-30T08:51:39.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 14 # Comments: 1",
+      "author": "vntok",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "99fa9639e3161fd4",
       "title": "Olivia Rodrigo Delivers Magic With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain",
@@ -13,6 +112,19 @@
       "author": "Angie Martoccio",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "ce360bd03d91fa7a",
+      "title": "This YC founder kept his kid secret to avoid looking less hardcore",
+      "url": "https://www.businessinsider.com/yc-founder-mocha-kid-parenting-fatherhood-tech-culture-2026-8",
+      "datePublished": "2026-08-30T08:39:01.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Nicholas Charriere had a kid before starting at Y Combinator. \"Saying 'I just had a kid and I love spending time with them' is not the vibe,\" he said.",
+      "author": "Henry Chandonnet",
+      "imageUrl": "https://i.insider.com/6a8d9a9adec7dad37a36af5e?width=1200&format=jpeg",
+      "source": "RSS.app (Culture)"
     },
     {
       "id": "dcb60953eba6837f",
@@ -43,6 +155,33 @@
       "source": "Mashable"
     },
     {
+      "id": "a651615e7911bbfa",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "datePublished": "2026-08-30T08:23:26.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 31 # Comments: 6",
+      "author": "joebig",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "2a50d76f207dd3ff",
+      "title": "Iceland rejects EU-accession talks plan in referendum",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w2brm3/iceland_rejects_euaccession_talks_plan_in/",
+      "datePublished": "2026-08-30T08:21:08.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/Ehansaja to r/worldnews [link] [comments]",
+      "author": "/u/Ehansaja",
+      "imageUrl": "https://external-preview.redd.it/a-Gqag2HAVUleEmkeCJ7TV8XAyRwC902kjQ1sQPOI6Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1be1d444a992cc347126f6c115d301dd56e8d4b7",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "b6ec1dabd85d5b60",
       "title": "adidas Put the Superstar On Ozempic",
       "url": "https://www.highsnobiety.com/p/adidas-put-the-superstar-on-ozempic/",
@@ -55,6 +194,20 @@
       "author": "",
       "imageUrl": "",
       "source": "Highsnobiety"
+    },
+    {
+      "id": "ddc870b2f9f86f2f",
+      "title": "Iceland rejects reopening talks on EU entry",
+      "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
+      "datePublished": "2026-08-30T08:07:29.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f Comments URL: https://news.ycombinator.com/item?id=49496707 Points: 30 # Comments: 18",
+      "author": "JumpCrisscross",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "6c486bcf731a2624",
@@ -150,6 +303,20 @@
       "author": "Naman Ramachandran",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "713a1d2b413f9f1d",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "datePublished": "2026-08-30T07:35:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs Comments URL: https://news.ycombinator.com/item?id=49496543 Points: 7 # Comments: 0",
+      "author": "klelatti",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "a91a42c9a03613ab",
@@ -780,6 +947,19 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "bd17d6c805c8b28b",
+      "title": "Sadsack Microsoft asking around whether anyone wants to try making a Halo show again",
+      "url": "https://www.avclub.com/microsoft-hollywood-halo-diablo-elder-scrolls-warcraft-shows",
+      "datePublished": "2026-08-29T23:45:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Microsoft is reportedly shopping gaming brands like Elder Scrolls , Diablo , and, yes, Halo to Hollywood studios.",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/04162329/halo-show-lead2.jpg",
+      "source": "The A.V. Club"
+    },
+    {
       "id": "dab2710a3e78aae4",
       "title": "The Rise and Fall of Agent Civilizations",
       "url": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -1045,6 +1225,19 @@
       "author": "/u/southpawFA",
       "imageUrl": "https://external-preview.redd.it/GTW83QMp5lscOsN-sb6Mo6TSknA9lSNZ-YKVgjiiGFs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc4fa5bfde650306df7ba1982906751623d0330e",
       "source": "r/news (multireddit)"
+    },
+    {
+      "id": "ba5d3854e96f8615",
+      "title": "Liz Meriwether says maybe the real New Girl reunion was the weird little feuds we had along the way",
+      "url": "https://www.avclub.com/liz-meriwether-denies-she-has-scripts-for-a-new-girl-reunion-written",
+      "datePublished": "2026-08-29T22:04:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "",
+      "author": "William Hughes",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/29180147/liz-meriwether-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "f6207d46e2863c1c",
@@ -6536,190 +6729,6 @@
       "author": "Rebecca Bellan",
       "imageUrl": "",
       "source": "TechCrunch"
-    },
-    {
-      "id": "441ff04983c7f0cd",
-      "title": "Bad Bunny’s Wildest adidas Sneaker Just Got Wearable",
-      "url": "https://www.highsnobiety.com/p/bad-bunny-x-adidas-f50-ghost-sprint-charcoal/",
-      "datePublished": "2026-08-28T20:23:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Bad Bunny’s F50 Ghost Sprint returns in “Charcoal,” a dark, wearable take on the singer's web-covered adidas sneaker.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "1ee7aad2d8e2a476",
-      "title": "Dave Franco Says Raunchy ‘Idiots’ Scene Is “Craziest Thing” He’s Done on Camera",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/dave-franco-raunchy-idiots-scene-1236684499/",
-      "datePublished": "2026-08-28T20:19:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The star-producer talks bringing the project back from the dead, and how a key motel scene goes toe to toe with Jeff Daniels' famous ‘Dumb and Dumber' moment.",
-      "author": "Brian Davids",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "75dd44717fc093e9",
-      "title": "Sorry, Haters, the Gwyneth Paltrow–Sam Altman Hamptons Dinner Party Is Apparently On Hold",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-hamptons-dinner-party-postponed-1236684510/",
-      "datePublished": "2026-08-28T20:19:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "After a viral backlash to an invitation, Paltrow clapped back with an AI-generated guest list of her own.",
-      "author": "Kevin Dolak",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "0829ef9f8af88480",
-      "title": "Dan Stevens, speaking for us all, hopes Amazon's RoboCop is bloody and funny",
-      "url": "https://www.avclub.com/dan-stevens-hopes-for-robocop-prime-video",
-      "datePublished": "2026-08-28T20:18:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The actor was recently cast as the new Alex Murphy in an upcoming Prime Video series.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/25130859/dan-stevens-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "2d0b508a27a8c42a",
-      "title": "adidas’ Skate-able Samba Has No Business Looking This Tasty",
-      "url": "https://www.highsnobiety.com/p/adidas-samba-adv-shoes-dark-brown/",
-      "datePublished": "2026-08-28T20:17:03.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "adidas' latest Samba ADV sneaker lands in \"Dark Brown,\" resulting in easily the sweetest version of the skate model thus far.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "da1b9af6a6e0d84b",
-      "title": "What to watch on Apple TV: The best shows streaming right now",
-      "url": "https://www.avclub.com/best-tv-shows-to-watch-on-apple-tv",
-      "datePublished": "2026-08-28T20:15:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From Widow's Bay and Schmigadoon! to Severance and For All Mankind, these are the best shows on Apple TV right now.",
-      "author": "The A.V. Club",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/28154954/murderbot-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "363277ca392f7799",
-      "title": "Three Trump-Appointed Judges Deliver Major Blow to Kalshi",
-      "url": "https://newrepublic.com/post/214911/trump-judges-rule-against-kalshi-nevada",
-      "datePublished": "2026-08-28T20:10:16.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A federal court has dealt a serious blow to prediction markets, ruling that Kalshi can’t block the state of Nevada from regulating its platform. The Ninth Circuit ​Court of Appeals in San Francisco ​ruled 3-0 against Kalshi Friday, saying that federal commodity training law doesn’t block Nevada from also regulating the platform when it comes to betting on sports events. All three judges were appoi",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/426ccfae83584f3e452a69e9c6ca224ef0ee540e.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "fc2be9d2e3694b37",
-      "title": "Ex-Pokémon World Champion Banned From Competing At World Championships After Cutting In Merch Line: ‘I Believe This To Be Extremely Unjust’",
-      "url": "https://kotaku.com/pokemon-world-championships-ban-luca-ceribelli-merch-line-2000729442",
-      "datePublished": "2026-08-28T20:10:03.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Luca Ceribelli, Ruben Gianzini, and Luca Lussignoli were told they'd be banned from the Pokémon Center, but ended up barred from the event itself",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/worlds-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "0d99594e3e6afbc4",
-      "title": "The Last of Us, Skyrim and More Get Unreal Makeovers With Nvidia's Controversial AI Tech",
-      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
-      "datePublished": "2026-08-28T20:08:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "PC gamers are testing out DLSS 5 graphics on games like GTA: San Andreas and Skyrim, and the results are realistic but uncanny",
-      "author": "Patricia Hernandez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nord.JPG",
-      "source": "Polygon"
-    },
-    {
-      "id": "92848100b8dfc16a",
-      "title": "Best of ATX 2026: People & Culture",
-      "url": "https://www.austinmonthly.com/best-of-atx-2026-people-culture/",
-      "datePublished": "2026-08-28T20:05:57.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Breakout TV shows, rising country stars, and actresses-turned-authors garnered plenty of headlines in Austin this past year.",
-      "author": "Madeline Hollern, Bryan C. Parker, Ruvani de Silva",
-      "imageUrl": "https://def8jvn5u7ca0.cloudfront.net/wp-content/uploads/2026/08/austinmonthly-christy0060-1.jpg",
-      "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "e2ddc92203d1cc0b",
-      "title": "The Offspring Unleash Cover of Ramones Classic “I Wanna Be Sedated”: Stream",
-      "url": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated/",
-      "datePublished": "2026-08-28T20:00:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Hear The Offspring's take on the iconic punk song. The Offspring Unleash Cover of Ramones Classic “I Wanna Be Sedated”: Stream Spencer Kaufman",
-      "author": "Spencer Kaufman",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "6e0abae8ef36e13e",
-      "title": "FX's Near-Perfect 11-Part Neo-Western Detective Series Is a Brilliant from Start to Finish",
-      "url": "https://www.polygon.com/fx-fargo-season-4-weekend-binge/",
-      "datePublished": "2026-08-28T20:00:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Season 4 of Noah Hawley's Fargo is usually considered the weakest season of the Coen brothers-inspired show, but its still a riveting crime drama",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/tcdfarg_fx012.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "8ff75e2fd47a4e00",
-      "title": "The Most Unforgettable Apocalypse Action Movie of the 21st Century Is Officially Leaving Streaming",
-      "url": "https://www.polygon.com/zombieland-leaving-netflix-movies-rec/",
-      "datePublished": "2026-08-28T20:00:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Zombieland leaves Netflix after Aug. 31. Its chaotic action, experimental style, and sincere found-family story remain a must-watch.",
-      "author": "Corey Plante",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdzomb_ec013-1.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "b243b4524e2ea5cf",
-      "title": "Ridley Scott on Telling Love Stories from ‘Thelma and Louise’ to ‘The Dog Stars,’ Shooting With 11 Cameras, and Why Silence Is the Best Sound Effect",
-      "url": "https://www.indiewire.com/features/podcast/ridley-scott-the-dog-stars-cameras-love-stories-interview-1235212528/",
-      "datePublished": "2026-08-28T20:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The veteran director of \"Alien,\" \"Blade Runner,\" and \"Black Hawk Down\" visits IndieWire's Filmmaker Toolkit podcast to talk about his latest film.",
-      "author": "Jim Hemphill",
-      "imageUrl": "",
-      "source": "IndieWire"
     }
   ]
 }
