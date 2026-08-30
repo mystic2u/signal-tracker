@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-30T08:07:54.608Z",
+  "generatedAt": "2026-08-30T09:08:19.462Z",
   "articles": [
+    {
+      "id": "99fa9639e3161fd4",
+      "title": "Olivia Rodrigo Delivers Magic With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain",
+      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/",
+      "datePublished": "2026-08-30T08:48:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Rodrigo capped her inaugural all-women festival with a stunning headlining set — and invited her heroes to the stage",
+      "author": "Angie Martoccio",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "dcb60953eba6837f",
+      "title": "‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
+      "url": "https://variety.com/2026/film/news/sea-of-glass-review-1236846714/",
+      "datePublished": "2026-08-30T08:31:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "There are Greek waves aplenty lapping at the forlorn beachside setting of “Sea of Glass,” though they’re not especially weird ones. Amid a national cinema that has become internationally recognized for perverse plotting and deadpan absurdism, writer-director Alexis Alexiou’s third feature stands out for its stark storytelling and earnest emotional intensity. There is more than […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "dda9f4dfb57d90aa",
+      "title": "Roman Space Telescope launch today: Livestream details, when to watch",
+      "url": "https://mashable.com/science/nasa-roman-space-telescope-launch-time-livestream-details",
+      "datePublished": "2026-08-30T08:24:48.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "NASA's Nancy Grace Roman Space Telescope will launch on a SpaceX Falcon Heavy rocket. Here are ways to follow the liftoff live.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01wxcwyKBpK4oLqpmDeATAX/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b6ec1dabd85d5b60",
+      "title": "adidas Put the Superstar On Ozempic",
+      "url": "https://www.highsnobiety.com/p/adidas-put-the-superstar-on-ozempic/",
+      "datePublished": "2026-08-30T08:19:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The adidas Originals Superstar Lo Pro Aurora Coffee/Cream White strips away the 1970s cupsole in favor of an ultra-flat, low-profile footprint.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
     {
       "id": "6c486bcf731a2624",
       "title": "Harry Potter Meets The Odyssey in the Most Highly-Anticipated Fantasy Book of the Summer",
@@ -52,6 +107,36 @@
       "author": "Jason Venter",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/super-mario-galaxy-end-credits.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "9b5fc6eaef57c3cb",
+      "title": "Shop the REI Labor Day sale: We found late summer outdoor and camping deals",
+      "url": "https://mashable.com/life/rei-labor-day-sale-2026",
+      "datePublished": "2026-08-30T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The REI Labor Day sale takes 25% off outdoor and camping gear from Osprey, REI, Hoka, Big Agnes, Thule, and more.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05YSVgh5iTFH1hNM4AcR4Lf/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4f40953591a07721",
+      "title": "How to watch Safiullin vs. Alcaraz online for free",
+      "url": "https://mashable.com/entertainment/safiullin-alcaraz-us-open-2026-live-stream-for-free",
+      "datePublished": "2026-08-30T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch the US Open for free. Live stream Safiullin vs. Alcaraz in the 2026 US Open online for free.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/052IWJyuOWTliNVvJ1v7Qca/hero-image.jpg",
+      "source": "Mashable"
     },
     {
       "id": "d87d40cb21837bfe",
@@ -214,6 +299,19 @@
       "author": "McKinley Franklin",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "30a6fbd584a8efac",
+      "title": "Mass Cultural Council Adopts FY27 Spending Plan",
+      "url": "https://franklinobserver.town.news/g/franklin-town-ma/n/385917/mass-cultural-council-adopts-fy27-spending-plan",
+      "datePublished": "2026-08-30T04:07:51.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Agency expects to award at least 2,300 grants, across several programs, totaling nearly $28 million.",
+      "author": "Alan Earls",
+      "imageUrl": "https://franklinobserver.town.news/sites/default/files/styles/extra_large/public/9677/2026-08/grants_for_creative_individuals_aug_2026.png.jpg?itok=BbNcA3GG",
+      "source": "RSS.app (Culture)"
     },
     {
       "id": "5b4e2523271c57d2",
@@ -6622,97 +6720,6 @@
       "author": "Jim Hemphill",
       "imageUrl": "",
       "source": "IndieWire"
-    },
-    {
-      "id": "9282c3291db4e6c2",
-      "title": "How to Watch 2026 Little League World Series Championship Weekend Live Online",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/",
-      "datePublished": "2026-08-28T19:58:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Four of 20 teams remain — two from the U.S. and two international — as we head into the final stage of the annual 12-day tournament.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "51500d87aa6a0f05",
-      "title": "Mitakuye Owas’in festival brings Native culture to Levitt at the Falls",
-      "url": "https://www.thedakotascout.com/p/mitakuye-owas-in-festival-brings-native-culture-to-levitt-at-the-falls",
-      "datePublished": "2026-08-28T19:52:42.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Event features Native American music, arts and dancing",
-      "author": "Dorene Weinstein",
-      "imageUrl": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d93b44b-0350-4a96-ab05-b9b34bb2cc29/2026-All-My-Relatives-Image.webp?t=1787945990",
-      "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "fb61be745ac66c5c",
-      "title": "How the Meta Settlement Could Change the Internet",
-      "url": "https://www.newyorker.com/news/the-lede/how-the-meta-settlement-could-change-the-internet",
-      "datePublished": "2026-08-28T19:48:22.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Even while refusing to admit legal fault, the parent company of Facebook and Instagram has accepted, for the first time, that much of its business model is unacceptable for children.",
-      "author": "Nathaniel Lubin",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "eee17f0a9cd06554",
-      "title": "The 15 Best Tennis Scenes in Movies",
-      "url": "http://www.vulture.com/article/best-tennis-movies-scenes-ranked.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-28T19:45:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "You can learn a lot about a character from how they use a racquet.",
-      "author": "Joe Reid",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ff/afb/1d3ebf0af9609f8495de804157d0d8e52c-best-tennis-scenes-lede.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "13c998a151755be1",
-      "title": "Mark Zuckerberg confesses Meta’s mighty AI takeover is not going well",
-      "url": "https://www.avclub.com/zuckerberg-meta-ai-failure",
-      "datePublished": "2026-08-28T19:41:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The CEO concedes he will just have to keep using dumb humans—for now.",
-      "author": "Dennis Perkins",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28153315/151-2.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "e6457a0a6917cc38",
-      "title": "Adults Recap: I’ve Always Said That",
-      "url": "http://www.vulture.com/article/adults-recap-season-2-episode-6-fx-hulu.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-28T19:36:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Samir dreads telling his girlfriend, Carly, that her pursuit of a career as a K-pop artist is doomed.",
-      "author": "Ben Rosenstock",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/e92/8fb/62f9ebba3ee4140847a09099fe68947831-adults-ep6.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ef6e1520a0f4c199",
-      "title": "Coaching culture at WVU truly is a family affair",
-      "url": "https://www.wvnews.com/bluegoldnews/coaching-culture-at-wvu-truly-is-a-family-affair/article_7e1d5531-9877-4190-b7f7-440990553e02.html",
-      "datePublished": "2026-08-28T19:36:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "MORGANTOWN, W., Va. — Many sports teams and organizations over the years have taken to portraying themselves as families [See the Pittsburgh Pirates' use of the Sister Sledge's hit song",
-      "author": "Bob Hertzel  For WV News",
-      "imageUrl": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/c/60/c60b314c-06ea-4907-b85e-5556863be964/68ac7d3757b99.image.jpg?crop=1702%2C894%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "source": "RSS.app (Culture)"
     }
   ]
 }
