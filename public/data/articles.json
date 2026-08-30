@@ -1,6 +1,99 @@
 {
-  "generatedAt": "2026-08-29T23:07:49.112Z",
+  "generatedAt": "2026-08-30T00:08:39.982Z",
   "articles": [
+    {
+      "id": "6b034f3fa7ca72dc",
+      "title": "Netflix's New 10-Part Mystery Thriller Is a Perfect Weekend Binge From Start to Finish",
+      "url": "https://www.polygon.com/revival-syfy-zombie-show-on-netflix/",
+      "datePublished": "2026-08-30T00:01:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A 2025 Syfy show exploring a different type of zombie story is now available to stream on Netflix",
+      "author": "Maria Loreto",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/revival-1.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "4fa94f56ab24b530",
+      "title": "Where to Watch the 2026 College Football Season Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-college-football-streams-2026-ncaa-free-live-1236684734/",
+      "datePublished": "2026-08-29T23:47:01.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A full breakdown of the networks and streaming services broadcasting NCAA football.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "83b74b700f5041cd",
+      "title": "College RB dies after medical emergency during game",
+      "url": "https://www.reddit.com/r/news/comments/1w21lpz/college_rb_dies_after_medical_emergency_during/",
+      "datePublished": "2026-08-29T23:37:41.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/1SirJava to r/news [link] [comments]",
+      "author": "/u/1SirJava",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "bd915958c5433d2a",
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "datePublished": "2026-08-29T23:26:44.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms Comments URL: https://news.ycombinator.com/item?id=49494231 Points: 11 # Comments: 2",
+      "author": "measurablefunc",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "60574a2f48b3f321",
+      "title": "Miami celebrates Colombian culture with Medellin flower festival in Wynwood - WSVN 7News | Miami News, Weather, Sports ",
+      "url": "https://wsvn.com/news/local/miami-dade/medellin-flower-festival-miami/",
+      "datePublished": "2026-08-29T23:12:57.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Colombia's Medellín Flower Festival is making its international debut in Miami's Wynwood Arts District this weekend, featuring live music, art, and tomorrow's silleteros parade.",
+      "author": "Kevin Boulandier",
+      "imageUrl": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/082926-Colombian-culture-event.png",
+      "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "67be056da9bdefbb",
+      "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+      "url": "https://www.reddit.com/r/news/comments/1w2111t/palestinian_woman_and_nbc_news_team_reportedly/",
+      "datePublished": "2026-08-29T23:12:29.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/sicklyslick to r/news [link] [comments]",
+      "author": "/u/sicklyslick",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "fd6f4fb83ebe5320",
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "datePublished": "2026-08-29T23:12:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/ Comments URL: https://news.ycombinator.com/item?id=49494151 Points: 25 # Comments: 10",
+      "author": "lisper",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "78a0cbfbe69b906e",
       "title": "How to save money on your phone bill with an MVNO",
@@ -27,6 +120,33 @@
       "author": "Jack Dunn",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "b740839700fdb40f",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "datePublished": "2026-08-29T22:51:17.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 46 # Comments: 22",
+      "author": "throw0101a",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e827e09a7bf42415",
+      "title": "First annual cultural festival celebrated at Greater Binghamton Sports Complex",
+      "url": "https://www.wbng.com/2026/08/29/first-annual-cultural-festival-celebrated-greater-binghamton-sports-complex/",
+      "datePublished": "2026-08-29T22:46:52.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Vendors, music and a kids’ World Cup tournament drew crowds Saturday",
+      "author": "Cameron Brown",
+      "imageUrl": "https://gray-wbng-prod.gtv-cdn.com/resizer/v2/I6RHQDNDIRFVVDJ2IE2LYPXUKA.JPG?auth=22f17e9d0548c846766d62f133a5b1c49610f7c02fac08605060b287e58cf624&width=1200&height=600&smart=true",
+      "source": "RSS.app (Culture)"
     },
     {
       "id": "876e29d099f21719",
@@ -6576,124 +6696,6 @@
       "author": "Jazztangcay",
       "imageUrl": "",
       "source": "Variety"
-    },
-    {
-      "id": "18c8ce01d3454958",
-      "title": "Miguel Calls Out Harassment of Partner and Child: ‘Legal and Ethical Lines Have Been Crossed’",
-      "url": "https://www.rollingstone.com/music/music-news/miguel-calls-out-online-harassment-1235617426/",
-      "datePublished": "2026-08-28T18:10:49.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Racism, threats, harassment, stalking, invasions of privacy, and targeting of children are abuse. Not opinion,” the singer-songwriter wrote in a lengthy Instagram post",
-      "author": "Larisha Paul",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "19d00c2cd8dd6a1d",
-      "title": "Buddy Is the Latest Effort to Find the Scary Side of Nostalgia",
-      "url": "http://www.vulture.com/article/review-buddy-tries-to-find-the-scary-side-of-nostalgia.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-28T18:08:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Adult Swim stalwart Casper Kelly riffs on Barney in his new horror movie that just isn’t as good as his short Too Many Cooks.",
-      "author": "Alison Willmore",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/47c/dbc/020d7b10e9a042e01c0b655e60b9cf4d00-buddyfilm.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "cd4b5e9e66a5b0cb",
-      "title": "The First Footage Of EA’s Iron Man Game Just Leaked, And Man, Flying Looks Really Fun",
-      "url": "https://kotaku.com/ea-iron-man-leaked-footage-flying-anthem-2000729417",
-      "datePublished": "2026-08-28T18:07:00.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Anthem with more juice",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/iron-man-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "49def8b09431e7e0",
-      "title": "Owen Thiele on Portraying Queer Friendship in ‘Adults,’ Working With Connor Storrie and Being a ‘Nepo Grandchild’",
-      "url": "https://variety.com/2026/tv/news/owen-thiele-adults-overcompensating-nepo-baby-1236845690/",
-      "datePublished": "2026-08-28T18:01:28.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Owen Thiele has a lot more riding on “Adults” this time around. The FX comedy returned for its second season Aug. 27 with an audience now invested in its messy, co-dependent group of twentysomethings. Thiele, who plays Anton, says the cast spent much of the wait for renewal worried the show might not come back […]",
-      "author": "Atingley4",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "228a49c29d287aae",
-      "title": "This East Atlanta art gallery lets you step into the world of internet memes in real life — 20+ local & international artists inspired by meme and internet culture",
-      "url": "https://secretatlanta.co/repost-abv-gallery-meme-culture/",
-      "datePublished": "2026-08-28T18:01:16.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "ABV Gallery's newest installation reimagines meme culture into physical art, and even lets you step into the world of Internet memes!",
-      "author": "Susan Swavely",
-      "imageUrl": "https://offloadmedia.feverup.com/secretatlanta.co/wp-content/uploads/2026/08/28135408/260815_ABV_2026_0815_172659-0387_DVP.jpg",
-      "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "5137206cc036a2e0",
-      "title": "Music Industry Moves: Warner Music and Blavatnik Family Foundation Announce 2026 Grantees; Spotify Ups Joe Hadley",
-      "url": "https://variety.com/2026/music/news/meghan-trainor-signs-with-uta-1236842423/",
-      "datePublished": "2026-08-28T18:01:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Warner Music Group / Blavatnik Family Foundation Social Justice Fund has announced its first slate of 2026 grantees – a docket that includes 17 organizations and an investment of almost $6 million. Since its launch in 2020, the $100 million fund has committed more than $52 million to organizations that focus on criminal justice […]",
-      "author": "Jem Aswad",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d71ce4681b7c7d2f",
-      "title": "US corporate profits have hit a record, but as worker payouts have decreased to the lowest level since the 1950s, per FT",
-      "url": "https://www.reddit.com/r/unusual_whales/comments/1w0xuun/us_corporate_profits_have_hit_a_record_but_as/",
-      "datePublished": "2026-08-28T18:00:19.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/UnusualWhalesBot to r/unusual_whales [link] [comments]",
-      "author": "/u/UnusualWhalesBot",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "04dc8293bdd77a4b",
-      "title": "Elden Ring’s New DLC Just Quietly Brought Back A Beloved Dark Souls 2 Character",
-      "url": "https://kotaku.com/elden-rings-big-update-dark-souls-2-character-2000729304",
-      "datePublished": "2026-08-28T18:00:15.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "We remembered her name...sort of",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/2144-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "38d3aa20515964ba",
-      "title": "What's the difference between Dolby Atmos and lossless audio?",
-      "url": "https://www.engadget.com/2244161/dolby-atmos-and-lossless-audio-differences/",
-      "datePublished": "2026-08-28T18:00:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "If you're seeing these labels in your music apps and wondering what they do, let this article walk you through how they work.",
-      "author": "staff@engadget.com (Adnan Ahmed)",
-      "imageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-atmos-and-lossless-audio/l-intro-1787247166.jpg",
-      "source": "Engadget"
     }
   ]
 }
