@@ -1,6 +1,391 @@
 {
-  "generatedAt": "2026-08-30T16:07:41.265Z",
+  "generatedAt": "2026-08-30T17:07:54.814Z",
   "articles": [
+    {
+      "id": "7a0e32eb6f4656b0",
+      "title": "Sex & Relationships",
+      "url": "https://www.service95.com/tag/sex",
+      "datePublished": "2026-08-30T17:07:51.683Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "2b3d26cfda1bfa01",
+      "title": "The Culture List",
+      "url": "https://www.service95.com/tag/the-culture-list",
+      "datePublished": "2026-08-30T17:07:51.683Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "893a15a6cc158f43",
+      "title": "The Travel List",
+      "url": "https://www.service95.com/tag/the-travel-list",
+      "datePublished": "2026-08-30T17:07:51.683Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "7c7dbe123b5d3cc9",
+      "title": "The Photo Series",
+      "url": "https://www.service95.com/tag/thephotoseries",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "5ed26f74482aca2f",
+      "title": "Syria, Everyday: The Arab Culture You Don’t See On The News",
+      "url": "https://www.service95.com/arabic-life-photo-series-syria",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "0673f25c785616f5",
+      "title": "wars or political crises",
+      "url": "https://www.service95.com/tag/activism",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "7cac3c0eda3271f8",
+      "title": "authentic representation of Arab culture",
+      "url": "https://www.service95.com/artin-syria",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "d3e1e51a32f98248",
+      "title": "See All Stories",
+      "url": "https://www.service95.com/stories",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "3772feabc1b9e319",
+      "title": "The Reading List",
+      "url": "https://www.service95.com/tag/the-reading-list",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "c0b882fa952910dc",
+      "title": "Books For Virgos Who Love Depth & Attention To Detail",
+      "url": "https://www.service95.com/virgo-book-recommendations",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "086ef70049408693",
+      "title": "Service95 Partnerships",
+      "url": "https://www.service95.com/tag/service95-partnerships",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "00d75ed9a2465db9",
+      "title": "How To Pack A Carry-On Like A Pro, Courtesy Of July",
+      "url": "https://www.service95.com/wish-list-holiday-packing-july",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "108cdf3054098ff8",
+      "title": "The Radical Act Of Slowing Down In An Always-On World",
+      "url": "https://www.service95.com/softening-slowing-down-essay",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "8d69ebebe9cb6bce",
+      "title": "How To Follow The Midnight Sun – A Local’s Guide To The Icelandic Summer",
+      "url": "https://www.service95.com/iceland-summer-travel",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "eb128fca676eab95",
+      "title": "Getting ‘Well’ Killed My Ambition – Here’s How I Got It Back",
+      "url": "https://www.service95.com/getting-well-killed-my-ambition",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "e49e9488a312ee41",
+      "title": "The Soundtrack To ‘Lost Lambs’ As Chosen By Madeline Cash",
+      "url": "https://www.service95.com/madeline-cash-playlist",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "2654349406f7ccbf",
+      "title": "How Four Musicians Carry Their Cultures Across Borders",
+      "url": "https://www.service95.com/womad-music-across-borders",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "6ef0c660d49f5810",
+      "title": "Gifts To Buy The Leo In Your Life",
+      "url": "https://www.service95.com/wishlist-gifts-for-leos",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "0f3f5b108a639604",
+      "title": "The Way I Work…",
+      "url": "https://www.service95.com/tag/the-way-i-work",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "049b8c7e83dfc2c3",
+      "title": "From Acid House To Holy Carrot: Inside The Mind Of Chef Daniel Watkins",
+      "url": "https://www.service95.com/video-interview-daniel-watkins-holy-carrot",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "38065a3f75d73826",
+      "title": "The Latest From Book Club",
+      "url": "https://www.service95.com/book-club",
+      "datePublished": "2026-08-30T17:07:51.682Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "c7825c08852de98f",
+      "title": "The 10 Nastiest Video Game Foods That'll Ruin Your Appetite",
+      "url": "https://www.polygon.com/worst-video-game-foods-nastiest-gross-menu-items/",
+      "datePublished": "2026-08-30T17:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From Fallout's roasted radroaches to a cult's minced-follower-meat casserole, these are the 10 nastiest and weirdest video game foods",
+      "author": "Rebecca Corgan",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/link-just-eat-a-rock-roast-0-23-screenshot.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "394e1ec8df527d40",
+      "title": "‘Entertainment Tonight’ Presents New Dolly Parton TV Special: Where to Watch Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-entertainment-tonight-dolly-parton-2026-special-free-1236684990/",
+      "datePublished": "2026-08-30T17:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "'Remembering Dolly: A Rhinestone Life' airs on Sunday, Aug. 30.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a05533f3a7101e08",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "datePublished": "2026-08-30T16:54:25.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "author": "Connie Loizos",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6b5e7a25c3f874b8",
+      "title": "Chris Hansen Contemplating Legal Action Against Primetime Makers",
+      "url": "https://consequence.net/2026/08/chris-hansen-contemplating-legal-action-against-primetime-makers/",
+      "datePublished": "2026-08-30T16:53:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The To Catch a Predator host said he was told he has a \"decent case\" against the A24 film. Chris Hansen Contemplating Legal Action Against Primetime Makers Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "89ed2a1839ba7e6e",
+      "title": "Ghislaine Maxwell has virtually run out of legal routes to overturn conviction, experts say",
+      "url": "https://www.reddit.com/r/news/comments/1w2mleh/ghislaine_maxwell_has_virtually_run_out_of_legal/",
+      "datePublished": "2026-08-30T16:47:23.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/serene_sketch to r/news [link] [comments]",
+      "author": "/u/serene_sketch",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "e5b0412c1313de9b",
+      "title": "'Coyote Vs. ACME' Beat 'The Odyssey' And Ridley Scott At The Box Office This Weekend",
+      "url": "https://www.polygon.com/coyote-vs-acme-box-office/",
+      "datePublished": "2026-08-30T16:43:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A modest but respectable opening for Coyote Vs. ACME, a movie abandoned by Warner Bros and eventually released in theaters by Ketchup Entertainment",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/screen-shot-2026-04-22-at-10-47-32-am.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "63a682507e570918",
+      "title": "Google Maps will show 'Lake America' in US, not 'Lake Ontario’",
+      "url": "https://www.reddit.com/r/news/comments/1w2mgoy/google_maps_will_show_lake_america_in_us_not_lake/",
+      "datePublished": "2026-08-30T16:42:22.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/arcelyte to r/news [link] [comments]",
+      "author": "/u/arcelyte",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
     {
       "id": "0809c65cfc170b8d",
       "title": "How Jewish immigrants invented American childhood through classic toys, comics, and media",
@@ -15,6 +400,59 @@
       "source": "RSS.app (Culture)"
     },
     {
+      "id": "00d88c8f30d100a3",
+      "title": "WB's Iconic 263-Episode Series Is Officially Free on Streaming, and Every Episode Is a Masterpiece",
+      "url": "https://www.polygon.com/best-classic-looney-tunes-shorts-coyote-vs-acme/",
+      "datePublished": "2026-08-30T16:30:13.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "If you liked Coyote vs. AME, you'll enjoy these Looney Tunes starring Wile E. Coyote, Road Runner, Daffy Duck, Tweety Bird, and Foghorn Leghorn",
+      "author": "Brian VanHooker",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdcovs_ec011_h-1.JPG",
+      "source": "Polygon"
+    },
+    {
+      "id": "1c4be76fe3f9527e",
+      "title": "What free gifts does Xbox give you on your birthday?",
+      "url": "https://www.engadget.com/2242783/free-gifts-birthday-xbox/",
+      "datePublished": "2026-08-30T16:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "During your birthday week, you can claim a special gift from Xbox. Let's see what it is and how to claim it.",
+      "author": "staff@engadget.com (Dave Meikleham)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-free-gifts-does-xbox-give-you-on-your-birthday/l-intro-1786651298.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "bd974aa09a3ebb59",
+      "title": "From Timothée Chalamet and Tom Cruise to Cynthia Erivo: It’s Time for Some Overdue Actors to Finally Win an Oscar",
+      "url": "https://www.indiewire.com/awards/consider-this/overdue-actors-oscar-matt-damon-tom-cruise-timothee-chalamet-1235213219/",
+      "datePublished": "2026-08-30T16:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "John Malkovich, Matt Damon, and Glenn Close are also Academy Award-less. We rank the overlooked contenders from likeliest to least likely.",
+      "author": "Anne Thompson",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "9cf9d7c60d9bbda0",
+      "title": "Drummer Zak Starkey Is Back in The Who After Messy Firing",
+      "url": "https://consequence.net/2026/08/zak-starkey-back-in-the-who/",
+      "datePublished": "2026-08-30T16:29:41.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The drummer will join The Who as they embark on the rest of their farewell tour. Drummer Zak Starkey Is Back in The Who After Messy Firing Spencer Kaufman",
+      "author": "Spencer Kaufman",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
       "id": "bb7815f21069f8da",
       "title": "How Russia’s Cultural Projects Conceal Their Human Atrocities",
       "url": "https://www.kyivpost.com/post/83259",
@@ -26,6 +464,46 @@
       "author": "David Root",
       "imageUrl": "https://static.kyivpost.com/storage/2026/08/28/cb7518f8f868159e4dfcf0faefc325f4.jpg?w=1200&q=90&f=jpg",
       "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "f1aff6d963ff70ff",
+      "title": "Apple prototyped a stylus for the foldable iPhone that we may never see",
+      "url": "https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/",
+      "datePublished": "2026-08-30T16:23:10.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "On the bright side, Apple is more certainly working on an Apple Watch overhaul.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/apple-prototyped-a-stylus-for-the-foldable-iphone-that-we-may-never-see/l-intro-1788106865.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "27b0dc43eb65f014",
+      "title": "Google Maps Changes Lake Ontario to Lake America After Trump’s Executive Order",
+      "url": "https://www.rollingstone.com/politics/politics-news/google-maps-changes-lake-ontario-lake-america-trump-order-1235617988/",
+      "datePublished": "2026-08-30T16:21:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Company says U.S. Geographic Names Information System spurred change in America, and that Canadians users would continue to see Lake Ontario on their maps",
+      "author": "Daniel Kreps",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "50faf71016533f38",
+      "title": "Box Office: ‘The Dog Stars’ Bombs With $8 Million; ‘Spider-Man’ Continues Reign in Fifth Weekend",
+      "url": "https://variety.com/2026/film/box-office/box-office-the-dog-stars-bombs-spider-man-brand-new-day-1236846879/",
+      "datePublished": "2026-08-30T16:17:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“The Dog Stars” couldn’t beat the heat during the dog days of summer and melted down over its opening weekend. Disney and 20th Century’s “The Dog Stars” opened to just $8 million domestically from 3,330 locations for a fifth-place finish. The post-apocalyptic thriller, which cost more than $80 million to produce, has not sat well […]",
+      "author": "Jack Dunn",
+      "imageUrl": "",
+      "source": "Variety"
     },
     {
       "id": "1af9c2d942e2e292",
@@ -70,6 +548,19 @@
       "source": "Service95"
     },
     {
+      "id": "6996886f61f24d1a",
+      "title": "Greece to sign $3.6b. Israeli air defense deal, creating 'Achilles Shield' against Turkey and Iran",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w2lhcu/greece_to_sign_36b_israeli_air_defense_deal/",
+      "datePublished": "2026-08-30T16:04:43.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/PerceptionMurky3704 to r/worldnews [link] [comments]",
+      "author": "/u/PerceptionMurky3704",
+      "imageUrl": "https://external-preview.redd.it/-VOca8sg7xfhwXCx1zgQo2mruCoXXyeTXtD4Dza9a1Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ddd47a80b5f5965f3687d804be480a194a67dd4",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "2e4b2d630bd06c23",
       "title": "‘Coyote vs. Acme’ Snags No. 2 With $15.4M as ‘Spider-Man’ Nears ‘Avatar 2’; ‘Dog Stars’ Put to Sleep",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-box-office-spider-man-titanic-dog-stars-1236685104/",
@@ -83,6 +574,20 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "b89143fbd6df8e07",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "datePublished": "2026-08-30T16:03:17.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 12 # Comments: 2",
+      "author": "rzk",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "526c740386423a2b",
       "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
       "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
@@ -94,6 +599,20 @@
       "author": "Kirsten Korosec",
       "imageUrl": "",
       "source": "TechCrunch"
+    },
+    {
+      "id": "e3b8bb2b25ab16b5",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "datePublished": "2026-08-30T16:01:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 54 # Comments: 8",
+      "author": "metrofun",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "8f70730c002dbd41",
@@ -136,6 +655,33 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "53ff405eed5a757f",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "datePublished": "2026-08-30T15:59:49.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 83 # Comments: 39",
+      "author": "trap0xcc",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "876c2ec80d1875cf",
+      "title": "Google maps changes Lake Ontario to ‘Lake America’ for U.S. users",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w2lawx/google_maps_changes_lake_ontario_to_lake_america/",
+      "datePublished": "2026-08-30T15:58:15.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/MilkyWayObserver to r/worldnews [link] [comments]",
+      "author": "/u/MilkyWayObserver",
+      "imageUrl": "https://external-preview.redd.it/Fww0aLTMYpai4wbT0Pvdu5RULAQqQZrraxNDzqX2ckI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cfe6904f2d59e86e323d4e2f4f8521241d00ad0",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "c20b2c32050700a7",
       "title": "Woman Steals Ambulance Outside Avenged Sevenfold, Good Charlotte Concert, Crashes, Police Say",
       "url": "https://consequence.net/2026/08/ambulance-theft-avenged-sevenfold-good-charlotte/",
@@ -147,6 +693,19 @@
       "author": "Travis Bland",
       "imageUrl": "",
       "source": "Consequence"
+    },
+    {
+      "id": "b42ac4680b38bd8a",
+      "title": "Scientists painted just one blade black on four wind turbines in Norway and bird deaths fell by 72%. No white tailed eagles were recorded colliding with the treated turbines afterward, suggesting an incredibly simple change could make wind power much safer for birds.",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1w2l2mg/scientists_painted_just_one_blade_black_on_four/",
+      "datePublished": "2026-08-30T15:49:02.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/ArgentineBeauty to r/UpliftingNews [link] [comments]",
+      "author": "/u/ArgentineBeauty",
+      "imageUrl": "https://external-preview.redd.it/a7GY0-3X-0YhRPZc9L1B-5W26QXu4ke0wlKCuauDJPU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97e3dec381b073fff66993dd0721463524952093",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "ad801c5ac2897780",
@@ -173,6 +732,19 @@
       "author": "Bernadette Giacomazzo",
       "imageUrl": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/niahiqoqwiy6yi2hg7zi",
       "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "ba79352d79aef7f7",
+      "title": "Trump shares a news headline that says ‘Canada on notice’ following Venezuela oil deal",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w2kwoz/trump_shares_a_news_headline_that_says_canada_on/",
+      "datePublished": "2026-08-30T15:42:26.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/joe4942 to r/worldnews [link] [comments]",
+      "author": "/u/joe4942",
+      "imageUrl": "https://external-preview.redd.it/0clgtZ0IBU98SvYudTSgv8Jr-ahUui_V_CQ8J3R7WNY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f13a44e1eff0d003464d1313923934b1eb72d82",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "57c09f17011810b1",
@@ -213,6 +785,20 @@
       "author": "Tomas Franzese",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ciri-witcher-4.png",
       "source": "Polygon"
+    },
+    {
+      "id": "19612e8a656df01e",
+      "title": "Your Cozy Morning Espresso, Brewed By FKA Twigs",
+      "url": "https://www.highsnobiety.com/p/on-cloudmonster-3-mule-cacao-fka-twigs/",
+      "datePublished": "2026-08-30T15:17:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Stepping in to bridge the gap between high-performance running tech and cold-weather utility, the On Cloudmonster 3 Mule Cacao/Espresso.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
     },
     {
       "id": "b88151edfa472ed9",
@@ -374,6 +960,20 @@
       "source": "Polygon"
     },
     {
+      "id": "18f241fe65da026f",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "datePublished": "2026-08-30T14:41:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 12 # Comments: 0",
+      "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "a7b311cb5174945f",
       "title": "Things to know before using your MacBook outside",
       "url": "https://www.engadget.com/2242777/using-macbook-outside-consider-these-things/",
@@ -427,6 +1027,20 @@
       "author": "/u/CharlieKonR",
       "imageUrl": "",
       "source": "r/news (multireddit)"
+    },
+    {
+      "id": "be3448202bf0fd5f",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "datePublished": "2026-08-30T14:06:54.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/ Comments URL: https://news.ycombinator.com/item?id=49498787 Points: 5 # Comments: 0",
+      "author": "catbird",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "9c157d96d18d5584",
@@ -505,6 +1119,19 @@
       "author": "Christian Zilko",
       "imageUrl": "",
       "source": "IndieWire"
+    },
+    {
+      "id": "725d6bbe9a43f990",
+      "title": "What Do All the Colors Mean? Decoding Taylor Swift’s Next Move",
+      "url": "https://www.rollingstone.com/music/music-news/taylor-swift-color-theory-explained-new-music-1235617057/",
+      "datePublished": "2026-08-30T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Here are all the fans theories making the rounds",
+      "author": "Maya Georgi",
+      "imageUrl": "",
+      "source": "Rolling Stone"
     },
     {
       "id": "48e69cb8018ee892",
@@ -1343,6 +1970,20 @@
       "author": "https://www.wallpaper.com/author/emily-mcdermott",
       "imageUrl": "https://cdn.mos.cms.futurecdn.net/SRSm3DhXNgCYqVfX28r55k-1200-80.gif",
       "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "90281413333efccb",
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "datePublished": "2026-08-30T09:52:15.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://blog.lyc8503.net/en/post/dn42-2-dnet/ Comments URL: https://news.ycombinator.com/item?id=49497200 Points: 66 # Comments: 61",
+      "author": "uneven9434",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "ded5f6cbe772f91c",
@@ -6080,643 +6721,6 @@
       "author": "Debopriyaa Dutta",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24017434/Cyberpunk_Edgerunners_Season1_Episode2_00_21_37_03.jpg",
       "source": "Polygon"
-    },
-    {
-      "id": "5f343a867cbe304c",
-      "title": "Moon phase today: What the Moon will look like on August 29",
-      "url": "https://mashable.com/science/moon-phase-today-aug-29-2026",
-      "datePublished": "2026-08-29T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "See the Moon phase expected for August 29, 2026 as well as when the next Full Moon is expected.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07bLdM2xsPtwstEm1MydceC/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "55b77f4b58a1b85d",
-      "title": "How to watch SV Elversberg vs. Leverkusen online for free",
-      "url": "https://mashable.com/entertainment/sv-elversberg-leverkusen-bundesliga-2026-live-stream-for-free",
-      "datePublished": "2026-08-29T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Bundesliga for free. Live steam SV Elversberg vs. Leverkusen in Bundesliga for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01SSh6OXHQQ9ncNoSiY3wOf/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "06ff2bedf7034583",
-      "title": "How to watch South Africa vs. New Zealand (2nd Test) online for free",
-      "url": "https://mashable.com/entertainment/south-africa-new-zealand-test-2-2026-live-stream-for-free",
-      "datePublished": "2026-08-29T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Rugby's Greatest Rivalry for free. Live stream the second South Africa vs. New Zealand test in Rugby's Greatest Rivalry for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/062DMZrlqteFgP3MNaZI52U/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "f063627c3fc5b24d",
-      "title": "Tonight’s After Dark: ‘New Jack City,’ the Gangster Classic That Became a Westwood Flashpoint",
-      "url": "https://www.indiewire.com/news/general-news/new-jack-city-riot-westwood-los-angeles-1991-1235213357/",
-      "datePublished": "2026-08-29T03:59:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Mario Van Peebles’ electric 1991 crime thriller arrived in Westwood just days after the Rodney King beating.",
-      "author": "Alison Foreman",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "37eff50b0c4ab53f",
-      "title": "Jackie Glass, ‘Swift Justice’ Host, Dies at 70",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/jackie-glass-dead-swift-justice-host-oj-simpson-1236684783/",
-      "datePublished": "2026-08-29T03:52:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Glass was the judge who sentenced O.J. Simpson to 33 years in prison for armed-robbery in at a Las Vegas hotel 2008.",
-      "author": "McKinley Franklin",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a84375f511aa7a38",
-      "title": "Milo Yiannopoulos in ICE Custody After Feud-Fueled Tip-Off",
-      "url": "https://www.hollywoodreporter.com/news/general-news/milo-yiannopoulos-ice-custody-tip-off-1236684770/",
-      "datePublished": "2026-08-29T03:44:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Laura Loomer, whom the far-right provocateur waged a vicious campaign against last year, says she reported the political operative's immigration status",
-      "author": "Kevin Dolak",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "c5770bd3966c82ba",
-      "title": "The Best Sci-Fi Action Epic of All Time Is About to Be Streaming on Netflix",
-      "url": "https://www.polygon.com/james-cameron-aliens-on-netflix/",
-      "datePublished": "2026-08-29T03:00:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "James Cameron's Aliens is the still the greatest sequel ever because it gives you more than you could expect from a sequel to Ridley Scott's Alien",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdalie_fe068.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "64673d60cf44e383",
-      "title": "Trump’s Trade Negotiations with Canada Have Been a Master Class in Ignorance and Incompetence",
-      "url": "https://www.reddit.com/r/politics/comments/1w1ar0a/trumps_trade_negotiations_with_canada_have_been_a/",
-      "datePublished": "2026-08-29T02:54:50.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Ilikeinvestigating to r/politics [link] [comments]",
-      "author": "/u/Ilikeinvestigating",
-      "imageUrl": "https://external-preview.redd.it/CKzik3EAAzmAQKbHVUKqSGO9w4OZEB9x3peh8CGAMLg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19c12e74d471b659b817fc318d53dca924e2530d",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "75782c1f8b203d16",
-      "title": "White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump's speeches",
-      "url": "https://www.reddit.com/r/news/comments/1w1amfi/white_house_teleprompter_operator_ordered_to_pay/",
-      "datePublished": "2026-08-29T02:48:38.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/igetproteinfartsHELP to r/news [link] [comments]",
-      "author": "/u/igetproteinfartsHELP",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "6cda62b0daa412a0",
-      "title": "Naomi Osaka Debuts a Luxury Accessories Brand at Uncharted’s Fame to Fortune Summit in the Hamptons",
-      "url": "https://variety.com/2026/biz/news/naomi-osaka-luxury-brand-uncharted-fame-to-fortune-summit-1236846357/",
-      "datePublished": "2026-08-29T02:44:49.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next staple piece: one she’s designed herself. Such is the brand of luxury leather goods Osaka unveiled Friday at the Fame […]",
-      "author": "Corbin Bolies",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "640911e557a547b5",
-      "title": "Consumers Have Hit Their ‘Limit’ With Streaming Price Hikes. Now Platforms Are Changing Course.",
-      "url": "https://www.reddit.com/r/worldnews/comments/1w1aadj/consumers_have_hit_their_limit_with_streaming/",
-      "datePublished": "2026-08-29T02:31:59.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Kooky-Balance9525 to r/worldnews [link] [comments]",
-      "author": "/u/Kooky-Balance9525",
-      "imageUrl": "https://external-preview.redd.it/MFZD7Df_JoLAKpoOWsYSMpdiq2OvHZ16QgbGnRI6CH4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4295f54f56b75e953096a5b733e4e29105521c15",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "e052a31a3a7e876f",
-      "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
-      "url": "https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
-      "datePublished": "2026-08-29T02:28:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "82b4563522669718",
-      "title": "Bill Maher Delivers Lamest Dolly Parton Tribute Yet",
-      "url": "https://variety.com/2026/tv/news/bill-maher-lamest-dolly-parton-tribute-real-time-hbo-1236846445/",
-      "datePublished": "2026-08-29T02:28:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Last week, Bill Maher dedicated his long-running HBO show “Real Time” to defending Trump “human printer” Natalie Harp — after admitting he was too afraid to mock her oddly close relationship with President Trump because Laura Loomer sued him for ridiculing theirs (the lawsuit was tossed) — and getting chummy with Hunter Biden during his […]",
-      "author": "Marlow Stern",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "05e1cd6224761f61",
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "datePublished": "2026-08-29T02:23:37.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 22 # Comments: 4",
-      "author": "rgbimbochamp",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "66ccc06fb88d2eec",
-      "title": "Pete Hegseth Is Too Egotistical to Know How Incompetent He Is",
-      "url": "https://www.reddit.com/r/politics/comments/1w19zn5/pete_hegseth_is_too_egotistical_to_know_how/",
-      "datePublished": "2026-08-29T02:17:30.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/B-Z_B-S to r/politics [link] [comments]",
-      "author": "/u/B-Z_B-S",
-      "imageUrl": "https://external-preview.redd.it/ii6Nw09G9mRIoppfyQhWKsE16Kv6XSTGgjV-hBLICAY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c8fb462646694da5c4ccded91127b1f19831008",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "a3e6309c65b93166",
-      "title": "NYT Connections hints today: Meanings for each word for Aug. 29, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-august-29-2026",
-      "datePublished": "2026-08-29T02:15:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1175.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Z7a6dPSF1MYICWsmarRxe/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4d03d9e22b0d455d",
-      "title": "NYT Connections Sports Edition today: Hints and answers for August 29, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07y5JmnEiCdEhSEvlY37Z1D/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "97330de436b3d84f",
-      "title": "NYT Pips hints, answers for August 29, 2026",
-      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ZmyQ0rksOUCmxMkAbw2LK/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "dfb5c2139f1ed127",
-      "title": "NYT Connections hints today: Clues, answers for August 29, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03KZ5bC3OTqqzcVT0yAYO5u/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "53b53abe9fabc5a1",
-      "title": "NYT Strands hints, answers for August 29, 2026",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05Jaxwf8NmldMsZJrqIWmC1/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5b9f9d8da2d45827",
-      "title": "Wordle today: Answer, hints for August 29, 2026",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Here's the answer for \"Wordle\" #1897 on August 29 as well as a few hints, tips, and clues to help you solve it yourself.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/049WXcII5OscK8zRarczxzs/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "f7378a0d3dcb3988",
-      "title": "Hurdle hints and answers for August 29, 2026",
-      "url": "https://mashable.com/entertainment/hurdle-hints-answers-august-29-2026",
-      "datePublished": "2026-08-29T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Hints and answers to today's Hurdle all in one place.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06TfhfOR4VtPmGYQdiNzsf3/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "b3cc9dbff5f6d07c",
-      "title": "Magic’s Next Set Is Caught in a ‘Naval Snarl’ at the Panama Canal",
-      "url": "https://www.polygon.com/mtg-reality-fracture-shipping-delay-panama-canal-explained/",
-      "datePublished": "2026-08-29T01:49:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A Panama Canal traffic jam may cause a shortage of Magic: The Gathering’s Reality Fracture Play Boosters after the set’s October launch.",
-      "author": "Corey Plante",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/cargo-ship-art-final-fantasy-47-932b865c-bfe7-4bb7-82e9-2403cf0e0522-art.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "f7e01fe899024fd0",
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "url": "https://www.kumander.org/",
-      "datePublished": "2026-08-29T01:48:15.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 17 # Comments: 2",
-      "author": "linuxkernal",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "3ac53775613517ac",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "datePublished": "2026-08-29T01:47:53.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 169 # Comments: 60",
-      "author": "meetpateltech",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "02882117275878d0",
-      "title": "Sara Bareilles Sings About Loss — and It’s Our Gain — in the Beautifully Bittersweet ‘Good Grief’: Album Review",
-      "url": "https://variety.com/2026/music/album-reviews/sara-bareilles-album-review-good-grief-1236846038/",
-      "datePublished": "2026-08-29T01:46:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Well, just how good can grief be? That’s a question raised by Sara Bareilles’ “Good Grief,” which, true to its promissory title, deals primarily with loss and death and the kind of tough stuff that folks in a marketing meeting might suggest slightly downplaying when one is releasing one’s first studio album in seven years. […]",
-      "author": "Chris Willman",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "2ec7837b567b4ad1",
-      "title": "M. Night Shyamalan launches YouTube channel to try to work on his relationship with you",
-      "url": "https://www.avclub.com/m-night-shyamalan-youtube-relationship-with-you",
-      "datePublished": "2026-08-29T01:46:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Visibly a little nervous, Shyamalan expressed his hope of undoing \"whatever stigmas are in my head, or in anybody's head.\"",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28214227/shyamalan-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "b180bfd9e57208ba",
-      "title": "'Star Wars' Officially Returns to Disney Plus Next Week with New Streaming Release",
-      "url": "https://www.polygon.com/star-wars-mandalorian-and-grogu-streaming-date-disney-plus/",
-      "datePublished": "2026-08-29T01:33:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Mandalorian and Grogu revived Star Wars in 2026, now it's coming home to Disney Plus.",
-      "author": "Polygon Staff",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/grogu-sits-by-some-sauce-dispensers-in-the-mandalorian-and-grogu.jpeg",
-      "source": "Polygon"
-    },
-    {
-      "id": "0110e72feee352c4",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "datePublished": "2026-08-29T01:24:13.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 38 # Comments: 9",
-      "author": "thclpr",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "6b46ed86bd1c51a3",
-      "title": "California Tries Offering Hollywood New Perks to Make Up for Catch in $750 Million Incentive Program",
-      "url": "https://www.hollywoodreporter.com/business/business-news/california-budget-trailer-bill-hollywood-tax-credit-issue-1236678209/",
-      "datePublished": "2026-08-29T01:23:53.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The legislation introduced Friday proposes to exempt indie productions from business tax credit caps and allow productions to monetize their refunds faster.",
-      "author": "Katie Kilkenny",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "90b8f758a0f551d0",
-      "title": "US threatens Britain over Falklands",
-      "url": "https://www.reddit.com/r/worldnews/comments/1w18nc7/us_threatens_britain_over_falklands/",
-      "datePublished": "2026-08-29T01:12:56.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Adventurous-Host8062 to r/worldnews [link] [comments]",
-      "author": "/u/Adventurous-Host8062",
-      "imageUrl": "https://external-preview.redd.it/jY6nYgxc3d11TL-Y9LXEAq4QAXkpU9GM01TEG_-m3FE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f78e446d59ffa18f829f70129dcf470aa0c3f01",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "860eddbaa5ebb2fb",
-      "title": "At long last, Hooters' cinematic origin story will be told",
-      "url": "https://www.avclub.com/at-long-last-hooters-cinematic-origin-story-will-be-told",
-      "datePublished": "2026-08-29T00:58:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "One of the founders of the \"breastaurant\" chain will serve as a screenwriter on the buddy comedy-esque Hooters: The Movie .",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28205438/hooters-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "5ace9db3da5371ff",
-      "title": "Russia’s ‘Doomsday Radio’ erupts with coded messages after CIA chief’s Moscow visit",
-      "url": "https://www.reddit.com/r/worldnews/comments/1w18bca/russias_doomsday_radio_erupts_with_coded_messages/",
-      "datePublished": "2026-08-29T00:57:21.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/WelcomeWagoneer to r/worldnews [link] [comments]",
-      "author": "/u/WelcomeWagoneer",
-      "imageUrl": "https://external-preview.redd.it/eNSqEYubrtiKEbadWJiuZKLvWwQ1E740cowb86k4FBQ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=05beeacc3bbd1cbc244f3772c1d2d81964423207",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "e987c3fc81d012d9",
-      "title": "Zak Starkey and the Who Have Kissed and Made Up, as Rehearsal Reunion Is Revealed",
-      "url": "https://variety.com/2026/music/news/zak-starkey-the-who-reconcile-rehearsal-1236846409/",
-      "datePublished": "2026-08-29T00:43:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Apparently the deep and much-talked-about rift between the Who and former (and future?) drummer Zak Starkey was not quite a hell-freezes-over situation after all. Starkey, who was famously revealed to have been unceremoniously handed his walking orders in April 2025, is now back with Roger Daltrey and Pete Townshend … or at least he has […]",
-      "author": "Chris Willman",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "c1a94a45fc79f926",
-      "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys",
-      "url": "https://www.hollywoodreporter.com/music/music-news/jelly-roll-clarifies-political-views-after-grammys-1236684749/",
-      "datePublished": "2026-08-29T00:42:48.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The singer-songwriter opened up about his beliefs during his final night guest hosting 'Jimmy Kimmel Live!' after a Trump joke he made earlier in the week sparked backlash from conservatives.",
-      "author": "Hilary Lewis",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "1f60f902720a0f63",
-      "title": "Rep. Crockett says she’ll be campaigning ‘downballot’ instead of with Talarico",
-      "url": "https://www.reddit.com/r/politics/comments/1w17y2a/rep_crockett_says_shell_be_campaigning_downballot/",
-      "datePublished": "2026-08-29T00:39:52.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/bwermer to r/politics [link] [comments]",
-      "author": "/u/bwermer",
-      "imageUrl": "https://external-preview.redd.it/ig-3gHI7vvDJRoQOmIQcZ8F1Wj7mEiP0PnaztQdSRmQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2868f387e8c35e89d14844e4945e678167b758ae",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "7d643e33e3d97e1b",
-      "title": "California Lawmakers Settle on Partial Film Carveout From Tax Credit Cap",
-      "url": "https://variety.com/2026/film/news/california-partial-film-carveout-tax-credit-cap-1236845354/",
-      "datePublished": "2026-08-29T00:32:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "California lawmakers have agreed on a partial carveout for the film and TV industry from a state cap on tax credits. The bill, AB 186, was unveiled on Friday evening. It addresses concerns raised in June by the Motion Picture Association and a coalition of entertainment unions, who argued that the cap threatened to undermine […]",
-      "author": "Gmaddaus",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "545962bf2ba0939e",
-      "title": "Lawsuit alleges Freedom Fuel gas stations touted by Trump are selling stolen fuel",
-      "url": "https://www.reddit.com/r/politics/comments/1w17h0d/lawsuit_alleges_freedom_fuel_gas_stations_touted/",
-      "datePublished": "2026-08-29T00:17:45.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/matthieuC to r/politics [link] [comments]",
-      "author": "/u/matthieuC",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "972ec7829e281ea8",
-      "title": "Nashville Airport to Be Renamed in Honor of Dolly Parton, Tennessee Governor Announces 3 Days After Her Death",
-      "url": "https://www.reddit.com/r/UpliftingNews/comments/1w17970/nashville_airport_to_be_renamed_in_honor_of_dolly/",
-      "datePublished": "2026-08-29T00:08:03.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Sariel007 to r/UpliftingNews [link] [comments]",
-      "author": "/u/Sariel007",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "ee101b9ee597f77e",
-      "title": "Mark Cuban: If founders don't share the wealth generated by their companies with their employees, they should give back through taxes.",
-      "url": "https://www.reddit.com/r/unusual_whales/comments/1w1721b/mark_cuban_if_founders_dont_share_the_wealth/",
-      "datePublished": "2026-08-29T00:00:06.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/UnusualWhalesBot to r/unusual_whales [link] [comments]",
-      "author": "/u/UnusualWhalesBot",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "9b93afe190059783",
-      "title": "College Football Kickoff: Where to Watch North Carolina vs. TCU in the First Game of the Season",
-      "url": "https://www.rollingstone.com/product-recommendations/streaming/watch-north-carolina-tcu-college-football-game-online-free-1235615770/",
-      "datePublished": "2026-08-29T00:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Taking place in Dublin, Ireland, here’s how you can tune into the NCAA matchup without paying a dime",
-      "author": "Alexis Mikulski Ruiz",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "c321e84a6a6b187c",
-      "title": "Newton School District Releases Culture Survey Results",
-      "url": "https://www.kniakrls.com/newton-school-district-releases-culture-survey-results/",
-      "datePublished": "2026-08-29T00:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Administrators and staff in the Newton School District have developed some improvement actions to initiate based on the results from the 2026 District Culture Survey that was taken by 374 of the district’s 450 employees. It gauged",
-      "author": "trevorwc26@gmail.com",
-      "imageUrl": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2779/2026/08/28141530/2026-district-culture-survey-school-board.jpeg",
-      "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "1043f0cf452bcee7",
-      "title": "Artificial intelli-gents: 12 inhuman pop culture tech bros",
-      "url": "https://www.avclub.com/inventory-inhuman-pop-culture-tech-bros-definitely-not-mark-zuckerberg",
-      "datePublished": "2026-08-29T00:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Though few pieces of media mention Mark Zuckerberg by name, he's forever shaped the way a certain type of Silicon Valley villain looks.",
-      "author": "AV Club",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28114200/MixCollage-28-Aug-2026-10-41-AM-6194.jpg",
-      "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "7ce74e63ead31cd3",
-      "title": "Tennessee governor plans to name Nashville airport after Dolly Parton",
-      "url": "https://www.reddit.com/r/news/comments/1w16sjm/tennessee_governor_plans_to_name_nashville/",
-      "datePublished": "2026-08-28T23:48:16.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Party_Friend_9290 to r/news [link] [comments]",
-      "author": "/u/Party_Friend_9290",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "189580b82e318804",
-      "title": "The blurst of times continues in new trailer for A Tale Of Two Cities",
-      "url": "https://www.avclub.com/a-tale-of-two-cities-trailer-release-date",
-      "datePublished": "2026-08-28T23:47:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "MGM+ cordially invites you to enjoy a new version of Charles Dickens’ timeless classic, starring Kit Harrington, this September.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28193236/tale-of-two-cities-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "4f5d5f3e71580445",
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "datePublished": "2026-08-28T23:46:10.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 69 # Comments: 18",
-      "author": "dev_l1x_be",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "c70d2f095ebb31ec",
-      "title": "PPWR lands another blow to an precarious tabletop industry",
-      "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-      "datePublished": "2026-08-28T23:41:05.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/ Comments URL: https://news.ycombinator.com/item?id=49485504 Points: 35 # Comments: 23",
-      "author": "healsdata",
-      "imageUrl": "",
-      "source": "Hacker News"
     }
   ]
 }
