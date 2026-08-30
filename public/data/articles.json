@@ -1,6 +1,153 @@
 {
-  "generatedAt": "2026-08-30T06:08:19.836Z",
+  "generatedAt": "2026-08-30T08:07:54.608Z",
   "articles": [
+    {
+      "id": "6c486bcf731a2624",
+      "title": "Harry Potter Meets The Odyssey in the Most Highly-Anticipated Fantasy Book of the Summer",
+      "url": "https://www.polygon.com/neverfear-katherine-rundell-book/",
+      "datePublished": "2026-08-30T08:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Katherine Rundell's blockbuster Impossible Creatures series is worth the hype",
+      "author": "Sam Nelson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/impossible-creatures-3_-the-neverfear-2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "3fa9940ccf15221a",
+      "title": "Anno 117's New Hippodrome DLC Is More Fun Than It Has Any Right to Be",
+      "url": "https://www.polygon.com/anno-117-hippodrome-dlc/",
+      "datePublished": "2026-08-30T08:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Anno 117's new DLC adds the Hippodrome and some much-needed late-game purpose, along with a welcome new use for prestige thanks to Heroic specialists",
+      "author": "Josh Broadwell",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/anno-117-hippodrome-dlc.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "2ad7078a1ae3d78a",
+      "title": "Robert Downey Jr's 98-Minute Cult Classic Psychological Thriller Is Officially Coming to Netflix",
+      "url": "https://www.polygon.com/halle-berry-rdj-gothika-netflix-streaming-september-1/",
+      "datePublished": "2026-08-30T08:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Celebrate autumn with a movie set in a permanent twilight",
+      "author": "Thomas Hindmarch",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/robert-downey-jr-halle-berry-gothika-2003.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "e9d4d1efd2724bae",
+      "title": "12 Video Games That Deserve Movie or TV Adaptations",
+      "url": "https://www.polygon.com/12-games-deserve-movies/",
+      "datePublished": "2026-08-30T08:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "With more video games finding success as movies and TV shows, 12 favorite games deserve adaptations soon.",
+      "author": "Jason Venter",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/super-mario-galaxy-end-credits.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d87d40cb21837bfe",
+      "title": "Inside the Global Rise of CJ ENM’s ‘The Legend of Kitchen Soldier’",
+      "url": "https://variety.com/2026/tv/news/legend-of-kitchen-soldier-cj-enm-global-success-1236846772/",
+      "datePublished": "2026-08-30T07:56:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "When “The Legend of Kitchen Soldier” was selected as the only K-drama in the Special Screening section at Series Mania in Lille earlier this year, it marked an early signal that something unusual was happening with a show that had started life as a calculated creative gamble. By July 31, when the series took best […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a91a42c9a03613ab",
+      "title": "How to watch Marseille vs. Monaco online for free",
+      "url": "https://mashable.com/entertainment/marseille-monaco-ligue-1-2026-live-stream-for-free",
+      "datePublished": "2026-08-30T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Ligue 1 for free. Live steam Marseille vs. Monaco in Ligue 1 for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00AEFnpdEqRH4BUOcGmFs83/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4d3daea5058771a3",
+      "title": "Festival of Nations, Polish Festival and Soulard Market celebrate food and culture",
+      "url": "https://www.yahoo.com/lifestyle/articles/festival-nations-polish-festival-soulard-064007033.html",
+      "datePublished": "2026-08-30T06:40:07.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Several St. Louis-area weekend events, including The Festival of Nations, Polish Festival and Soulard Market, are celebrating food and culture.",
+      "author": "Joey Schneider",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/4ccdc4f862f61c8e6f43fd9ae77861ca9c4b12b19bad333aedc1bcec9529cbe2/lightyear_networkapi/resizefill_w900_h504%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktvi_articles_498%2Fd786da1c22dd8362801b3d57eaacb8ae.png",
+      "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "6ed27ee77fa200a1",
+      "title": "Festival of Nations, Polish Festival and Soulard Market celebrate food and culture",
+      "url": "https://fox2now.com/news/missouri/festival-of-nations-polish-festival-and-soulard-market-celebrate-food-and-culture/",
+      "datePublished": "2026-08-30T06:40:07.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Several St. Louis-area weekend events, including The Festival of Nations, Polish Festival and Soulard Market, are celebrating food and culture.",
+      "author": "Joey Schneider",
+      "imageUrl": "https://fox2now.com/wp-content/uploads/sites/14/2026/08/Festival-of-Nations-food.png?w=1280",
+      "source": "RSS.app (Culture)"
+    },
+    {
+      "id": "b6ec059ec38394ae",
+      "title": "Star Wars Effects Artist Phil Tippett Shutters Studio",
+      "url": "https://kotaku.com/star-wars-effects-artist-phil-tippett-shutters-studio-2000729605",
+      "datePublished": "2026-08-30T06:11:11.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Following a Chapter 11 bankruptcy, the Hollywood puppetry wizard and director of Mad God is selling over 40 years of movie magic",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/08/philtippett.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "b41a161e6cf80488",
+      "title": "How to watch the 2026 US Open online for free",
+      "url": "https://mashable.com/entertainment/us-open-2026-live-stream-for-free",
+      "datePublished": "2026-08-30T06:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch the US Open for free. Live stream the 2026 US Open for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/054ZFFpadgM24MTSybUtFOa/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d5395289c78f643e",
+      "title": "Russia Conducts ICBM Test Following CIA Director’s Visit",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w289ea/russia_conducts_icbm_test_following_cia_directors/",
+      "datePublished": "2026-08-30T05:04:39.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/ipeedinherasshole to r/worldnews [link] [comments]",
+      "author": "/u/ipeedinherasshole",
+      "imageUrl": "https://external-preview.redd.it/G2pucCTcLjlZexasfQXCvarHDxpOg0DibILttOlMHl4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef92cc8663b9a13c8229a60d25292370a95d1398",
+      "source": "r/news (multireddit)"
+    },
     {
       "id": "6cd2b66e2b4b64b3",
       "title": "Netflix Is About to Lose a 10/10 Sci-Fi Series That's Perfect From Start to Finish",
@@ -28,6 +175,32 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/06wbDmVNhPdHvyOtntbMozO/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "379d77a589ccbf95",
+      "title": "Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation Sum Bringing Total to $20 Million",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1w27lnr/melinda_french_gates_doubles_olivia_rodrigos/",
+      "datePublished": "2026-08-30T04:30:05.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/mcfw31 to r/UpliftingNews [link] [comments]",
+      "author": "/u/mcfw31",
+      "imageUrl": "https://external-preview.redd.it/PqgLg4da2lfPWF8UFUqiYf5Vb6CKaCL8NN-b_99PYMM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6718400fab4aaae46553708b23e9155ac366c282",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "a41d6bbb3d9d221c",
+      "title": "What caused the deadly Nepal-Tibet disaster?",
+      "url": "https://www.reddit.com/r/news/comments/1w27g74/what_caused_the_deadly_nepaltibet_disaster/",
+      "datePublished": "2026-08-30T04:22:06.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/matchaP0P to r/news [link] [comments]",
+      "author": "/u/matchaP0P",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "79f7d8350d96695b",
@@ -5854,6 +6027,20 @@
       "source": "RSS.app (Culture)"
     },
     {
+      "id": "0abb3e2e499fe456",
+      "title": "A few feral cats in an ALGOL trenchcoat.",
+      "url": "https://wiki.xxiivv.com/site/pop2.html",
+      "datePublished": "2026-08-28T21:36:33.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://wiki.xxiivv.com/site/pop2.html Comments URL: https://news.ycombinator.com/item?id=49484520 Points: 13 # Comments: 1",
+      "author": "bmacho",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "8f00ab0d4c316e11",
       "title": "26 GTA 6 Screenshot Comparisons Showing How Much Things Have Changed Since Vice City",
       "url": "https://kotaku.com/26-gta-6-screenshot-comparisons-showing-how-much-things-have-changed-since-vice-city-2000729444",
@@ -6526,193 +6713,6 @@
       "author": "Bob Hertzel  For WV News",
       "imageUrl": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/c/60/c60b314c-06ea-4907-b85e-5556863be964/68ac7d3757b99.image.jpg?crop=1702%2C894%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
       "source": "RSS.app (Culture)"
-    },
-    {
-      "id": "008bf3db0497baa3",
-      "title": "Trump Totally Bombs His Speech in Front of Artemis II Astronauts",
-      "url": "https://newrepublic.com/post/214913/trump-artemis-ii-astronauts-speech",
-      "datePublished": "2026-08-28T19:33:19.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "President Donald Trump flew to Texas Friday to award the Artemis II team with the Congressional Space Medal of Honor—but still managed to make the event all about him. After making the team wait on stage for him for half an hour, the president began his meandering speech by recounting his experience watching the launch earlier this year during a “very important meeting with the biggest people in t",
-      "author": "Edith Olmsted",
-      "imageUrl": "https://images.newrepublic.com/07064c2335ed78c613cf756875b4dbfce80967a7.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "f6ac2e0933701daf",
-      "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard",
-      "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
-      "datePublished": "2026-08-28T19:31:12.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Committing grand theft auto in Grand Theft Auto 6 will be much more challenging and rewarding",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "09fc2e9c2c2d86c0",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "datePublished": "2026-08-28T19:30:38.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "author": "Russell Brandom",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "cab482a4d6e964e4",
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-      "datePublished": "2026-08-28T19:30:15.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/ Comments URL: https://news.ycombinator.com/item?id=49483182 Points: 147 # Comments: 102",
-      "author": "randycupertino",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "86380741b64bece6",
-      "title": "5 Excellent New Steam Games to Try This Weekend",
-      "url": "https://www.polygon.com/new-steam-games-august-28-2026/",
-      "datePublished": "2026-08-28T19:30:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "PC players have tons of exciting new games to play this weekend, as some true GOTY contenders just hit Steam.",
-      "author": "Giovanni Colantonio",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/resonance_screenshot_4k_04.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "6dd8f25b64343021",
-      "title": "‘The Uprising’ Thinks It Needs Robin Hood, but the Peasants’ Revolt Was Already Exciting Enough",
-      "url": "https://www.indiewire.com/features/general/the-uprising-history-robin-hood-explained-1235213318/",
-      "datePublished": "2026-08-28T19:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The US marketing team for \"The Uprising\" briefly added \"The Rise of Robin Hood\" to the film's title on promotional material. But what does Sherwood's Most Fictional Outlaw have to do with history?",
-      "author": "Sarah Shachat",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "b833134a32db0055",
-      "title": "What O’Shea Jackson Jr. Watches (and Listens to) With His Daughter",
-      "url": "http://www.vulture.com/article/oshea-jackson-jr-daughter-kids-movies.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-28T19:29:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Introducing a kid to “Grandpa’s music” is a little tricky when it’s N.W.A.",
-      "author": "O'Shea Jackson Jr.",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/fa8/6f9/db73e7125997a2ce7871fe35c1b64f0c31-oshea-jackson.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "284ee5415a25005e",
-      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://github.com/sseshachala/conductai",
-      "datePublished": "2026-08-28T19:29:20.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/sseshachala/conductai Comments URL: https://news.ycombinator.com/item?id=49483173 Points: 17 # Comments: 3",
-      "author": "sudhendra1",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "516d679f543b77be",
-      "title": "Top Toronto Fest Party Host Expects More Studio Bashes, Tighter Budgets: “No One Is Throwing Money Around”",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/top-toronto-party-host-studio-bashes-1236684498/",
-      "datePublished": "2026-08-28T19:27:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "For TIFF's 51st edition, Charles Khabouth predicts his downtown restaurants and nightclubs will have more talent dinners and premiere parties than last year, even as major studios and streamers reduce overall spending.",
-      "author": "Etan Vlessing",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "63b9485298a8857f",
-      "title": "Mac DeMarco Releases Four New Albums",
-      "url": "https://pitchfork.com/story/mac-demarco-releases-four-new-albums/",
-      "datePublished": "2026-08-28T19:24:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The projects were originally issued as physical-only CD-Rs on tour",
-      "author": "Alex Suskind",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "9dc76ec30178cc39",
-      "title": "MAGA Says ‘No!’ to Jelly Roll’s New Telly Role",
-      "url": "http://www.vulture.com/article/jelly-roll-political-opinions-revealed.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-08-28T19:24:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "While guest hosting Jimmy Kimmel Live! this week, the country star sparked boycotts of his music by telling softball Trump jokes.",
-      "author": "Hershal Pandya",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/1f1/4e4/21d8513bd2ceb014a6f98acf9f4dd0d047-jellyroll.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "455234faaa393bd1",
-      "title": "Early leak of NVIDIA's DLSS 5 has an uncanny valley problem",
-      "url": "https://www.engadget.com/2246658/early-leak-of-nvidia-dlss5-has-an-uncanny-valley-problem/",
-      "datePublished": "2026-08-28T19:20:33.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "People are grafting a pre-release version of DLSS 5 onto their favorite games with unspectacular results.",
-      "author": "staff@engadget.com (Will Shanklin)",
-      "imageUrl": "https://www.engadget.com/img/gallery/nvidias-dlss-5-has-an-uncanny-valley-problem/l-intro-1787944651.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "31dfc9ea48d3fe78",
-      "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-      "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-      "datePublished": "2026-08-28T19:18:22.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/ Comments URL: https://news.ycombinator.com/item?id=49483080 Points: 8 # Comments: 0",
-      "author": "farlight",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "7135aad4c6ba3827",
-      "title": "Show HN: Sesame - a local-first, open-source password manager",
-      "url": "https://usesesame.app/",
-      "datePublished": "2026-08-28T19:14:14.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the vault itself. It's still early software and the independent security review isn't finished yet, so I am mainly interested in feedback, testing, and people looking through the code. (Linux support is yet ",
-      "author": "d0mkaaa",
-      "imageUrl": "",
-      "source": "Hacker News"
     }
   ]
 }
