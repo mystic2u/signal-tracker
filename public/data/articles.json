@@ -1,6 +1,410 @@
 {
-  "generatedAt": "2026-09-06T18:55:23.520Z",
+  "generatedAt": "2026-09-06T21:07:20.308Z",
   "articles": [
+    {
+      "id": "7c7dbe123b5d3cc9",
+      "title": "The Photo Series",
+      "url": "https://www.service95.com/tag/thephotoseries",
+      "datePublished": "2026-09-06T21:07:17.228Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "b30aba6d7ad50f79",
+      "title": "Bringing People Together: Notting Hill Carnival Through The Lens Of Ollie Tikare",
+      "url": "https://www.service95.com/notting-hill-carnival-photo-essay",
+      "datePublished": "2026-09-06T21:07:17.228Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "b59df44c54ba362d",
+      "title": "9 Australian Brands To Shop If You’re Clinging On To Summer",
+      "url": "https://www.service95.com/best-australian-brands",
+      "datePublished": "2026-09-06T21:07:17.228Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "6a3a62ca594ac19c",
+      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "datePublished": "2026-09-06T20:47:37.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6837118d1bcf261a",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "datePublished": "2026-09-06T20:45:13.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 4 # Comments: 2",
+      "author": "bosmarcel",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "8e04042fb1578039",
+      "title": "XCancel is available again",
+      "url": "https://xcancel.com/about",
+      "datePublished": "2026-09-06T20:44:59.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://xcancel.com/about Comments URL: https://news.ycombinator.com/item?id=49590736 Points: 4 # Comments: 0",
+      "author": "1matin",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "95e8c843f321cc0f",
+      "title": "The United States keeps deporting its own citizens",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w97iud/the_united_states_keeps_deporting_its_own_citizens/",
+      "datePublished": "2026-09-06T20:38:15.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/Unsuspecting_Toaster to r/worldnews [link] [comments]",
+      "author": "/u/Unsuspecting_Toaster",
+      "imageUrl": "https://external-preview.redd.it/p5Jxf-eHlJTaZ0-UFZ0p65RanqRA-RsdHUAHhyoPbGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59b6c66d54104c30faa4fa51b60dfaba127877ea",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "da78c093b5712c3a",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "datePublished": "2026-09-06T20:32:38.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 4 # Comments: 0",
+      "author": "xena",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "d240cb8346955760",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "datePublished": "2026-09-06T20:24:00.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 6 # Comments: 1",
+      "author": "Cider9986",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ccfb50c86a633e08",
+      "title": "‘Woman Unknown’ Review: Some More Problematic Sex — and Its Consequences — by Denmark’s May el-Toukhy",
+      "url": "https://variety.com/2026/film/reviews/woman-unknown-review-1236853350/",
+      "datePublished": "2026-09-06T20:15:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Against the rubble gray and stiff mahogany with which director May el-Toukhy washes out her post-Second World War Copenhagen, the pops of crimson in “Woman Unknown” announce a stark symbolism that’s about as subtle as the red swastika eventually smeared on the front door of protagonist Marie (Mathilde Arcel). As obvious as these subliminal scarlet […]",
+      "author": "Guy Lodge",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "d88a96cf3378c412",
+      "title": "‘Woman Unknown’ Review: A Sharp, Haunting Portrait of Denmark’s Post-War Reckoning",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/woman-unknown-may-el-toukhy-1236685095/",
+      "datePublished": "2026-09-06T20:15:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "This Venice competition entry from director May el-Toukhy ('Queen of Hearts') revolves around a maid whose past threatens to unravel her future in the wake of World War II.",
+      "author": "Richard Lawson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c333432cab2aaa8d",
+      "title": "‘Woman Unknown’ Review: May el-Toukhy’s Paranoid Period Thriller Depicts the Degradation of Women Accused of Sleeping with Nazis",
+      "url": "https://www.indiewire.com/criticism/movies/woman-unknown-movie-review-may-el-toukhy-1235215198/",
+      "datePublished": "2026-09-06T20:15:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "This harrowing fictionalization of the Danish resistance’s witch hunts will make you despair for humanity.",
+      "author": "David Ehrlich",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "edc58d22d707141c",
+      "title": "New 85% on Metacritic Fantasy Action Game Just Shot Up to No. 1 on Steam Overnight",
+      "url": "https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/",
+      "datePublished": "2026-09-06T20:11:13.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Fans have waited 20 years for a new installment of Capcom's action game.",
+      "author": "Ashley Potter",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/onimusha-way-of-the-sword-feather-battle.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "092cbb6f3df07a1b",
+      "title": "Kalshi Prematurely Pays Out Millions In Wagers For Losing College Football Team",
+      "url": "https://kotaku.com/kalshi-prematurely-pays-out-millions-in-wagers-for-losing-college-football-team-2000731695",
+      "datePublished": "2026-09-06T20:09:12.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The legal standings of speculation markets only gets dumber as Kalshi accidentally made the wrong call in the very state its being sued by",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2024/07/f063ad6a80e17117fd413b1da6831644.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "d0e08b4d5fdebb93",
+      "title": "They're Made Out of Meat",
+      "url": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
+      "datePublished": "2026-09-06T20:07:55.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml Comments URL: https://news.ycombinator.com/item?id=49590362 Points: 10 # Comments: 0",
+      "author": "embedding-shape",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "768176aedba84e7d",
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "url": "https://getvodforge.com/",
+      "datePublished": "2026-09-06T20:07:30.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make multiple streaming version off of a single source file. So I build vodforge to use yt-dlp and ffmpeg under the hood with preconfigured settings for the highes",
+      "author": "coopernusbaum",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "4c3db02cd36097d0",
+      "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://github.com/mmeyerlein/meclaw",
+      "datePublished": "2026-09-06T20:07:16.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/mmeyerlein/meclaw Comments URL: https://news.ycombinator.com/item?id=49590351 Points: 3 # Comments: 0",
+      "author": "mmeyerlein",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "99972dd8adcd80c0",
+      "title": "President Trump: “I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself”",
+      "url": "https://www.reddit.com/r/unusual_whales/comments/1w96lpf/president_trump_ive_made_hundreds_of_billions_of/",
+      "datePublished": "2026-09-06T20:02:54.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/soccerorfootie to r/unusual_whales [link] [comments]",
+      "author": "/u/soccerorfootie",
+      "imageUrl": "https://preview.redd.it/ttez9o8phynh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23a3aa909e818eedb590bfb36dd0d08ad2ce4647",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "daeeefe6ffc0d34e",
+      "title": "5 Most Exciting Thriller Movies of All Time",
+      "url": "https://www.polygon.com/most-exciting-thrillers-all-time-ranked/",
+      "datePublished": "2026-09-06T20:00:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From The Silence of the Lambs to Jaws, these five essential thriller movies deliver unforgettable suspense, shocking twists, and gripping mysteries.",
+      "author": "Debopriyaa Dutta",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/b1e56a16-fd5f-451c-8131-367c2762c8bd_xl.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "44af3463ee31b000",
+      "title": "How To Send High-Quality Images And Videos From Android To iPhone",
+      "url": "https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/",
+      "datePublished": "2026-09-06T20:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It can be tough to preserve the quality of your images when sending them from Android to iPhone, but these tried-and-true methods keep them crystal clear.",
+      "author": "staff@engadget.com (Jack Peachey)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-send-high-quality-images-and-videos-from-android-to-iphone/l-intro-1788280400.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "696e1f1a5f7f540b",
+      "title": "The car industry A/B tested selling a car with and without CarPlay",
+      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+      "datePublished": "2026-09-06T19:53:23.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 55 # Comments: 33",
+      "author": "gumby",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "20beb1f4129fee2b",
+      "title": "There Gonna Be a Shortage of Everything",
+      "url": "https://out-of-hell.xylon.me.uk/shortage.html",
+      "datePublished": "2026-09-06T19:45:39.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://out-of-hell.xylon.me.uk/shortage.html Comments URL: https://news.ycombinator.com/item?id=49590129 Points: 15 # Comments: 13",
+      "author": "xylon",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "78b07527d61e436a",
+      "title": "Petition Calls for Macklemore’s Removal From Ed Sheeran’s Tour After Rapper’s “Free Palestine” Onstage Plea",
+      "url": "https://www.hollywoodreporter.com/music/music-news/petition-macklemore-removal-ed-sheeran-tour-free-palestine-1236692573/",
+      "datePublished": "2026-09-06T19:41:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Macklemore also performed his protest song \"Hind’s Hall\" while opening for Sheeran at MetLife Stadium.",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ed9652ff30d840aa",
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w960gx/farright_afd_wins_key_german_state_election_but/",
+      "datePublished": "2026-09-06T19:41:19.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/HelFJandinn to r/worldnews [link] [comments]",
+      "author": "/u/HelFJandinn",
+      "imageUrl": "https://external-preview.redd.it/66F6hmq0G0esHK-kz031vvcNp1ghsjkk9MfPHhDSAo4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11ffe66832c5805d65910334059a78e575c26061",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "d79e2ea718aadfd7",
+      "title": "Cult Classic Platformer Rain World Is Getting A Definitive Release On Nintendo Switch 2",
+      "url": "https://www.polygon.com/cult-classic-platformer-rain-world-is-getting-a-definitive-release-on-nintendo-switch-2/",
+      "datePublished": "2026-09-06T19:30:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Rain World Anthology Edition, Airframe Ultra's release date, Bonespire, and more were announced in the first-ever Akupara Direct",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/rain-world.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "f2d9fbf88d50fc9e",
+      "title": "OpenAI says it reached its goal of creating an automated research intern",
+      "url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+      "datePublished": "2026-09-06T19:26:52.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
+      "author": "staff@engadget.com (Jackson Chen)",
+      "imageUrl": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "8b0405678617d3dc",
+      "title": "Trump can’t stop changing the name of things and now has US state as his target",
+      "url": "https://www.reddit.com/r/politics/comments/1w94y9i/trump_cant_stop_changing_the_name_of_things_and/",
+      "datePublished": "2026-09-06T19:02:19.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/theindependentonline to r/politics [link] [comments]",
+      "author": "/u/theindependentonline",
+      "imageUrl": "https://external-preview.redd.it/oMgrPTKjT0f3BbuoF2qhPFyHu16ZShUI59LQ9w0r5xY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6512e102678361cdf001db28b82860d684cba3ca",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "0f6665a939284696",
+      "title": "‘Mr. Nelson, Did You Kill People?’ Review: A Vietnam Vet Reckons with PTSD in a Heavy-Handed Trauma Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/",
+      "datePublished": "2026-09-06T19:01:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Japanese director Shinya Tsukamoto adapts the nonfiction account of former U.S. Marine Allen Nelson, who spoke about the brutalities he committed on the front and hardships he faced back home.",
+      "author": "Jordan Mintzer",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "958f1520f1eea2bc",
+      "title": "Buddy The Unicorn Kicked Out Of Universal Studios’ Halloween Horror Nights",
+      "url": "https://kotaku.com/buddy-the-unicorn-kicked-out-of-universal-studios-halloween-horror-nights-2000731690",
+      "datePublished": "2026-09-06T19:00:57.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The theme park’s increasingly popular Halloween season continues to amass more and more movie maniacs, assuming they’re invited",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/09/buddyhhn.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "4a697d0e4ce8ada4",
+      "title": "‘Hombre Al Agua’ Review: Gael García Bernal’s Meta Reflection on Narrative Fascinates and Frustrates",
+      "url": "https://www.indiewire.com/criticism/movies/hombre-al-agua-review-gael-garcia-bernal-1235215178/",
+      "datePublished": "2026-09-06T19:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Venice: Gael García Bernal’s third directorial outing is rich with layers but leaves his protagonist too much of a blank slate.",
+      "author": "Kate Erbland",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
     {
       "id": "255219202f73fb39",
       "title": "Macklemore Calls Out ‘Free Palestine’ Onstage, Spurring Petition Demanding He Leave Ed Sheeran Tour",
@@ -13,6 +417,19 @@
       "author": "Pat Saperstein",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "a9d45804b6fcc527",
+      "title": "Amazon Cargo Boeing 767 Crashes At Miami International Airport",
+      "url": "https://www.reddit.com/r/news/comments/1w94jqk/amazon_cargo_boeing_767_crashes_at_miami/",
+      "datePublished": "2026-09-06T18:47:33.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/ansyhrrian to r/news [link] [comments]",
+      "author": "/u/ansyhrrian",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "2b3dae30b63377c4",
@@ -53,6 +470,32 @@
       "author": "staff@engadget.com (Igor Bonifacic)",
       "imageUrl": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "62582c0929aa104c",
+      "title": "'A wasted effort': US tourism groups attempt to win Canadian visitors back",
+      "url": "https://www.reddit.com/r/worldnews/comments/1w93y1o/a_wasted_effort_us_tourism_groups_attempt_to_win/",
+      "datePublished": "2026-09-06T18:25:34.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/RealWorldToday to r/worldnews [link] [comments]",
+      "author": "/u/RealWorldToday",
+      "imageUrl": "https://external-preview.redd.it/whkFZ6xpsLINjvEqQzTVCLLpBvCRWddPRgjfmtesq5M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc9155f23445039685f9574b18aad3d3ab1ee9a8",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "1ad30f2abc80c8b8",
+      "title": "Trump Wants to Make Sure Every Voter Knows the Midterms Are a Referendum on Trump",
+      "url": "https://www.reddit.com/r/politics/comments/1w93m96/trump_wants_to_make_sure_every_voter_knows_the/",
+      "datePublished": "2026-09-06T18:13:39.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/SenorBurns to r/politics [link] [comments]",
+      "author": "/u/SenorBurns",
+      "imageUrl": "https://external-preview.redd.it/_eyVKbDqZGeZUp1Kqj2ClFzHRbbwvCA9y56zZvRRx44.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33818fbf7e2088891cd0a17830316308485046c5",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "62aff7506ebcf39e",
@@ -253,6 +696,19 @@
       "source": "r/news (multireddit)"
     },
     {
+      "id": "4644214d262b4825",
+      "title": "The billionaire the US investigated for money laundering now has a Pentagon oil deal",
+      "url": "https://www.reddit.com/r/news/comments/1w92l1y/the_billionaire_the_us_investigated_for_money/",
+      "datePublished": "2026-09-06T17:36:04.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/MooseAffectionate985 to r/news [link] [comments]",
+      "author": "/u/MooseAffectionate985",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "a1926730aa6222fd",
       "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record",
       "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/",
@@ -304,6 +760,19 @@
       "author": "staff@engadget.com (Igor Bonifacic)",
       "imageUrl": "https://www.engadget.com/img/gallery/how-to-set-up-chatgpts-parental-controls-to-protect-your-teen/l-intro-1787767354.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "d4f5ccb76f4325f0",
+      "title": "USS Lincoln sailors delight in the ‘simple stuff’ during first break in months in Thailand",
+      "url": "https://www.reddit.com/r/news/comments/1w92ept/uss_lincoln_sailors_delight_in_the_simple_stuff/",
+      "datePublished": "2026-09-06T17:29:52.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/MooseAffectionate985 to r/news [link] [comments]",
+      "author": "/u/MooseAffectionate985",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "90e71339397b3783",
@@ -1519,6 +1988,20 @@
       "source": "r/news (multireddit)"
     },
     {
+      "id": "0406ceee0e2e31ba",
+      "title": "adidas’ Yeehaw Agenda Continues with a Muted Black Mule",
+      "url": "https://www.highsnobiety.com/p/y-3-adidas-regu-mule-black/",
+      "datePublished": "2026-09-06T11:14:02.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "adidas' Y-3 Regu Mule is a heel-free take on the Three Stripes' decidedly western sneaker of the same name.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
       "id": "9a776ea2e0bfe97a",
       "title": "You Don’t Have a Right to Safe Drinking Water, US Court Rules",
       "url": "https://www.reddit.com/r/politics/comments/1w8stcm/you_dont_have_a_right_to_safe_drinking_water_us/",
@@ -1752,6 +2235,20 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/011fhus8wIbwx2mmNt3NOQp/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "27fda122d003bcfd",
+      "title": "Nike's Leopard-Print Sneaker Was Born for the Track",
+      "url": "https://www.highsnobiety.com/p/nike-air-superfly-lx-sneaker-pony-hair/",
+      "datePublished": "2026-09-06T08:16:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike's leopard print pony hair Air Superfly LX sneaker is a retro-runner straight from the jungle.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
     },
     {
       "id": "e86f88829acc3a73",
@@ -6223,507 +6720,6 @@
       "description": "submitted by /u/No_Idea_Guy to r/news [link] [comments]",
       "author": "/u/No_Idea_Guy",
       "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "eb2f44dfb9a0fb08",
-      "title": "Former John Fetterman Aides Threaten to Expose Senator’s Internal Messages",
-      "url": "https://www.reddit.com/r/politics/comments/1w7p16x/former_john_fetterman_aides_threaten_to_expose/",
-      "datePublished": "2026-09-05T03:08:32.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/joe13pr to r/politics [link] [comments]",
-      "author": "/u/joe13pr",
-      "imageUrl": "https://external-preview.redd.it/TrTzPmSlLD7rGsUe3HlprSju56kvmsCDMuZRT3uDWOI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a628a070b5dbc265a36a84b52f2c4161b5abbe07",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "ed020c853bb2e5da",
-      "title": "‘A Long Winter’ Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh’s Fine-Grained Drama",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/",
-      "datePublished": "2026-09-05T02:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Also featuring Caitríona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai, the film — adapted from Colm Tóibín's novella — measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.",
-      "author": "David Rooney",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "303e9ffd5865988d",
-      "title": "‘A Long Winter’ Review: Andrew Haigh Goes Cold with an Immaculately Crafted Coming-of-Age Story Too Restrained for Its Own Good",
-      "url": "https://www.indiewire.com/criticism/movies/a-long-winter-movie-review-1235214822/",
-      "datePublished": "2026-09-05T02:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Fred Hechinger and Eben Moss-Bachrach are terrific in a queer period drama about a young man trying to escape his father's shadow in 1950s Colorado.",
-      "author": "David Ehrlich",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "af467af24c4f8b82",
-      "title": "NYT Connections hints today: Meanings for each word for Sept. 5, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-september-5-2026",
-      "datePublished": "2026-09-05T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1182.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07wzC1j0T2BzvhJsCh8N4ln/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "3444d3e9a971aeff",
-      "title": "NYT Strands hints, answers for September 5, 2026",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-september-5-2026",
-      "datePublished": "2026-09-05T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04JuNxQDAaUTw6dSAxu9EmE/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "730d7e37a382f0f3",
-      "title": "NYT Connections hints today: Clues, answers for September 5, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-september-5-2026",
-      "datePublished": "2026-09-05T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05N1Sohi8hQsClGltjMUsa3/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "92274e0d410966c7",
-      "title": "Wordle today: Answer, hints for September 5, 2026",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-september-5-2026",
-      "datePublished": "2026-09-05T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Here's the answer for \"Wordle\" #1904 on September 5 as well as a few hints, tips, and clues to help you solve it yourself.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07IIWqyadm5CCYVjj6fGLsE/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d65a6d511485df63",
-      "title": "‘Tender Loving Care’ Review: Kate O’Flynn Lights Up Mike Leigh’s Warm, Gently Wrenching Study of Solace and Solidarity",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/tender-loving-care-review-mike-leigh-kate-oflynn-1236690339/",
-      "datePublished": "2026-09-05T01:47:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 'Widow's Bay' star plays a London social worker in the English writer-director's Telluride-bowing film, co-starring Alice Bailey Johnson, Marion Bailey and Paul Jesson.",
-      "author": "Jon Frosch",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a89d130874d77745",
-      "title": "‘Tender Loving Care’ Review: Kate O’Flynn Astonishes in Mike Leigh’s Simple but Profoundly Moving Final Film",
-      "url": "https://www.indiewire.com/criticism/movies/tender-loving-care-review-mike-leigh-1235214666/",
-      "datePublished": "2026-09-05T01:47:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A drama about a week in the life of two social workers, Leigh's supposed swan song pierces with the directness of a closing statement.",
-      "author": "David Ehrlich",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "c4a892ae60c403ef",
-      "title": "Measles cases top 3,000 to reach highest level in three decades, CDC reports",
-      "url": "https://www.reddit.com/r/news/comments/1w7m64f/measles_cases_top_3000_to_reach_highest_level_in/",
-      "datePublished": "2026-09-05T00:49:48.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/rascallyrascal1511 to r/news [link] [comments]",
-      "author": "/u/rascallyrascal1511",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "b108bf233f73f6c9",
-      "title": "Tupac’s Murderer Claims He’s Innocent: “I’m Not No F***ing Killer” (Exclusive Interview)",
-      "url": "https://www.hollywoodreporter.com/music/music-news/tupac-duane-keffe-d-davis-claims-innocent-exclusive-interview-1236691414/",
-      "datePublished": "2026-09-05T00:43:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Our man in Vegas sat down with convicted Tupac Shakur slayer Duane \"Keffe D\" Davis, who tells THR that he isn't the least bit worried about spending the rest of his natural life in prison. \"I'm a good man. I'm a good person.\"",
-      "author": "Benjamin Svetkey",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "49dc113d230bc680",
-      "title": "Rob Rausch and Maura Higgins Reunite to Co-Host Peacock Reality Show",
-      "url": "http://www.vulture.com/article/rob-rausch-maura-higgins-get-me-out-of-here.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-05T00:40:57.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The pair will co-host Get Me Out of Here, a riff on U.K. mainstay I’m a Celebrity…Get Me Out of Here!",
-      "author": "Bethy Squires",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/5d4/dcf/46640c3c51b3b6f108cfd6120915d64e3f-get-me-out.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "e6a09d7d8c9226b2",
-      "title": "Celebrating Dolly Parton And Her Imagination Library",
-      "url": "https://www.service95.com/dolly-parton-literary-legacy",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "307006540b8ed763",
-      "title": "Kokoroko, The Collective Redefining Jazz With Every Performance",
-      "url": "https://www.service95.com/backstage-with-kokoroko",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "0b560d976c3d221e",
-      "title": "The Book Club Interview",
-      "url": "https://www.service95.com/tag/the-book-club-interview",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "aff007416402ca16",
-      "title": "All About ‘Martyr!’ – Dua Meets Author Kaveh Akbar",
-      "url": "https://www.service95.com/dua-lipa-kaveh-akbar-book-club-interview",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "2bbb606bf1d8a036",
-      "title": "The Unexpected Joy Of Travelling With Strangers",
-      "url": "https://www.service95.com/unexpected-joy-travelling-with-strangers",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "eb128fca676eab95",
-      "title": "Getting ‘Well’ Killed My Ambition – Here’s How I Got It Back",
-      "url": "https://www.service95.com/getting-well-killed-my-ambition",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "108cdf3054098ff8",
-      "title": "The Radical Act Of Slowing Down In An Always-On World",
-      "url": "https://www.service95.com/softening-slowing-down-essay",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "38065a3f75d73826",
-      "title": "The Latest From Book Club",
-      "url": "https://www.service95.com/book-club",
-      "datePublished": "2026-09-05T00:40:03.952Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "e97662b96a0de96b",
-      "title": "Meet Topic, the Indie Studio Dominating the Festival Circuit With ‘The Debut,’ ‘Club Kid,’ ‘Wicker’",
-      "url": "https://variety.com/2026/film/news/topic-studios-indie-film-the-debut-club-kid-wicker-1236852204/",
-      "datePublished": "2026-09-05T00:32:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Movies developed and financed outside of the major studios and streamers have a massive hill to climb. It happens that Topic Studios, one such independent shop, has made it all the way up the Rockies — with some of the year’s buzziest films in tow. On the ground at this weekend’s Telluride Film Festival in […]",
-      "author": "Varietymattdonnelly",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "99d11e6753e5d742",
-      "title": "‘The Gentlemen’ Star Theo James Is Ready to Talk About That Bloody Season 2 Ending",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-gentlemen-season-2-finale-theo-james-interview-1236691153/",
-      "datePublished": "2026-09-05T00:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The star and co-executive producer talks with The Hollywood Reporter about his and Guy Ritchie's deeper and darker second season, how that finale sets up season three — and the rumored casting of the real-life Duchess of Sussex: \"It's fascinating how [those reports] exploded that much, and how intrigued people are.",
-      "author": "Jackie Strause",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "9290aaf354cab84c",
-      "title": "‘Wheel of Fortune’ Announcer Jim Thornton Fired After Investigation Into Allegations",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/wheel-of-fortune-jim-thornton-fired-investigation-1235621967/",
-      "datePublished": "2026-09-05T00:27:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A representative for Sony Pictures Television said Thornton's employment has been \"terminated\"",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "45b9b8ca68d9c6b4",
-      "title": "Zach Cregger still regrets his first film: \"I made a bad movie and I suffered for it\"",
-      "url": "https://www.avclub.com/zach-cregger-miss-march-bad-movie-and-i-suffered-for-it",
-      "datePublished": "2026-09-05T00:25:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Describing 2009 sex comedy Miss March , which he made with long-time comedy buddy Trevor Moore, Cregger said, \"I wasted a year of my life.\"",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04201801/miss-march-cregger-moore-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "f541ae83479eee82",
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "datePublished": "2026-09-05T00:04:16.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 219 # Comments: 76",
-      "author": "Cider9986",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2d1aff01ef67ae47",
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "datePublished": "2026-09-05T00:04:14.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 9 # Comments: 0",
-      "author": "nojs",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "16b05ead06dd0bb6",
-      "title": "\"Los Angeles has now banned using AI on school devices in public schools,\" per ABC",
-      "url": "https://www.reddit.com/r/unusual_whales/comments/1w7l3dy/los_angeles_has_now_banned_using_ai_on_school/",
-      "datePublished": "2026-09-05T00:00:21.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/UnusualWhalesBot to r/unusual_whales [link] [comments]",
-      "author": "/u/UnusualWhalesBot",
-      "imageUrl": "",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "4c1bae7c49dcd08b",
-      "title": "Halloween Horror Nights Opens at Universal Studios Hollywood With ‘Sinners,’ ‘Stranger Things 5’ and a Blood-Soaked Nikki From ‘Obsession’",
-      "url": "https://variety.com/2026/film/news/halloween-horror-nights-opena-universal-studios-hollywood-1236852215/",
-      "datePublished": "2026-09-04T23:55:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Halloween has officially arrived at Universal Studios Hollywood. Halloween Horror Nights opened Thursday at the theme park where screams of excitement turned to screams of fright. Guests rushed into the park to face this year’s collection of haunted houses, which included the Upside Down from Netflix’s “Stranger Things 5” and the vampire-infested Club Juke from […]",
-      "author": "Tanya Fedak",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "4a93a311166fb4a7",
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "url": "https://moadim.io/",
-      "datePublished": "2026-09-04T23:50:29.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you",
-      "author": "tupe12334",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "66a9af2363ee6d65",
-      "title": "Jordan Firstman’s ‘Club Kid’ Hits Telluride, and Colleen Camp Could Be Its Secret Oscar Weapon",
-      "url": "https://variety.com/2026/film/awards/club-kid-jordan-firstman-colleen-camp-telluride-oscars-1236852164/",
-      "datePublished": "2026-09-04T23:45:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Jordan Firstman is hoping to join an exclusive club: the Oscars. And he might have someone on his team that can help him do it. “Club Kid,” Firstman’s directorial debut, arrived in Cannes’ Un Certain Regard section and drew a six-minute standing ovation before A24 acquired it for a reported $17 million. Suddenly, one of […]",
-      "author": "Clayton Davis",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "a652f884dc90e714",
-      "title": "Bruce Campbell says he has five years to live, \"give or take\"",
-      "url": "https://www.avclub.com/bruce-campbell-five-years-to-live",
-      "datePublished": "2026-09-04T23:42:30.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In March, the iconic Evil Dead star Bruce Campbell shared he has been diagnosed with cancer. Now he says he has about five years to live.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/02213149/bruce-campbell-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "44a6c9acd9ce915d",
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "datePublished": "2026-09-04T23:38:50.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 15 # Comments: 1",
-      "author": "cebert",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "a1e40369b3f21830",
-      "title": "Dolly Parton’s Sister Stella Speaks Out Against ‘AI and Endless Garbage’ Posted Online After Icon’s Death",
-      "url": "https://www.rollingstone.com/music/music-country/dolly-parton-sister-stella-speaks-out-against-fake-ai-1235621961/",
-      "datePublished": "2026-09-04T23:38:38.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Stella Parton urged people to \"show more compassion and wisdom\" moving forward",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "c2706c0bd4c4447b",
-      "title": "In major win for voters, judge blocks Trump’s mail voting restrictions for midterms",
-      "url": "https://www.reddit.com/r/politics/comments/1w7kkk6/in_major_win_for_voters_judge_blocks_trumps_mail/",
-      "datePublished": "2026-09-04T23:36:47.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/IWantPizza555 to r/politics [link] [comments]",
-      "author": "/u/IWantPizza555",
-      "imageUrl": "https://external-preview.redd.it/49jPCbJ6JhZnoCYnXYTESdaybZ1SFhebQ_V4VKSLDk0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6126ee0570850afaaf76d2c1b685f918e9c469da",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "266031deb404c101",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "datePublished": "2026-09-04T23:36:14.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "author": "Marina Temkin",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "d194bc150c4d48d0",
-      "title": "Kyrsten Sinema Can Be Sued Under North Carolina's 'Homewrecker' Law",
-      "url": "https://www.reddit.com/r/politics/comments/1w7kb9p/kyrsten_sinema_can_be_sued_under_north_carolinas/",
-      "datePublished": "2026-09-04T23:25:32.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/huffpost to r/politics [link] [comments]",
-      "author": "/u/huffpost",
-      "imageUrl": "https://external-preview.redd.it/4-9dEbJztx7tQo-LJdKeeM6YgcsENLxVljOlVYyLP-w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26ebd078d0cde2c6965ac696b5fb1544106fdb0c",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "6666e81bd710ccce",
-      "title": "Fake Version of Republican Midterm Convention Website Redirects to Epstein Files",
-      "url": "https://www.reddit.com/r/politics/comments/1w7k2ly/fake_version_of_republican_midterm_convention/",
-      "datePublished": "2026-09-04T23:15:12.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/FlyThruTrees to r/politics [link] [comments]",
-      "author": "/u/FlyThruTrees",
-      "imageUrl": "https://external-preview.redd.it/rBespiBdMEgd9mNxnnz6qXuyRAdHqAKKy683ctDL2zE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=874eec2b246d1554c976605653a9cbf4c4c3e9d3",
       "source": "r/news (multireddit)"
     }
   ]
