@@ -1,6 +1,1068 @@
 {
-  "generatedAt": "2026-09-15T01:14:41.264Z",
+  "generatedAt": "2026-09-15T07:19:20.902Z",
   "articles": [
+    {
+      "id": "727d7bfd502ca8cc",
+      "title": "Walton Goggins's Performance is a Standout in HBO's Overlooked, Near-Perfect Comedy",
+      "url": "https://www.polygon.com/walton-goggins-righteous-gemstones-overlooked/",
+      "datePublished": "2026-09-15T07:03:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Explore Walton Goggins' standout role as Baby Billy in HBO's The Righteous Gemstones and his impressive acting range.",
+      "author": "Rachel Tolleson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-14-at-2-19-25-pm.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "17b87838c8b69c81",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "datePublished": "2026-09-15T07:00:30.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013 Comments URL: https://news.ycombinator.com/item?id=49708774 Points: 0 # Comments: 0",
+      "author": "maxpr",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "06833f75f2d596da",
+      "title": "Fourth Wing Officially Returns in 2 Weeks — But There's a Catch",
+      "url": "https://www.polygon.com/threshing-day-empyrean-series-comes-out-2-weeks/",
+      "datePublished": "2026-09-15T07:00:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Rebecca Yarros is adding a new entry to her series of romantasy dragon rider novels.",
+      "author": "Maria Loreto",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fourth-wing-book-one.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "e193dd3a9efb1199",
+      "title": "Kids Get the Best Shoes. This Designer (and ASICS) \"Sculpted\" Them for Adults (EXCLUSIVE)",
+      "url": "https://www.highsnobiety.com/p/asics-camiel-fortgens-interview/",
+      "datePublished": "2026-09-15T07:00:02.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Camiel Fortgens turned ASICS dad shoes into \"luxurious\" grandad shoes, elevating running sneakers with handcraft & leather, he explained in interview.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "1dfbfb75e83702f1",
+      "title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
+      "url": "https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/",
+      "datePublished": "2026-09-15T07:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Volvo caters to EV-curious buyers with way more range in its plug-in hybrid SUVs.",
+      "author": "staff@engadget.com (Tim Stevens)",
+      "imageUrl": "https://www.engadget.com/img/gallery/2028-volvo-xc60-and-xc90-first-look-double-the-range-and-smarter-safety-too/l-intro-1789137494.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "2d3c74c7f98f8378",
+      "title": "T-Mobile is giving away the Motorola Razr+ for free — how to claim",
+      "url": "https://mashable.com/tech/sept-15-free-motorola-razr-plus-deal",
+      "datePublished": "2026-09-15T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to get the Motorola Razr+ for free. Get the new Motorola Razr+ for free with T-Mobile when you activate a new line on an Experience Beyond plan.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05ykTcnIORpuaGRwm6icL8y/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3847810ba4102dee",
+      "title": "Amazons giving Prime members $1,500 to buy a car through Amazon Autos — heres how to cash in",
+      "url": "https://mashable.com/life/sept-15-amazon-autos-prime-big-deal-days-deal",
+      "datePublished": "2026-09-15T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Prime members can get a $1,500 Amazon gift card when purchasing a new car through Amazon Autos ahead of Prime Big Deal Days 2026.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00sJFykZM93rXFsY01cMu1K/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "f604913e99a00c72",
+      "title": "Finland’s Gutsy Pictures Pacts with MTV, Germany’s Zeitsprung, Sweden’s Götafilm on Zaida Bergroth’s ‘Dangerous Woman’ (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/gutsy-pictures-mtv-zeitsprung-gotafilm-dangerous-woman-1236861400/",
+      "datePublished": "2026-09-15T07:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Value-driven Finnish outfit Gutsy Pictures headed by Marika Makaroff (“Moominvalley,” “L/Over”) has secured a greenlight from MTV Finland and added co-producers Zeitsprung in Germany and Götafilm in Sweden for the psycho-thriller “Dangerous Woman.” Already pre-bought by TV4 in Sweden, the six-parter created by Makaroff will be directed by the established Zaida Bergroth, credited for the […]",
+      "author": "Emeza805",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "f5a3d1623f81ed5a",
+      "title": "The Michael J. Fox Tribute, Mariska Hargitay Singing, and Other Highs and Lows From an Ungainly, Ill-Flowing Emmys Telecast",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/2026-emmys-critics-analysis-michael-j-fox-mariska-hargitay-1236701868/",
+      "datePublished": "2026-09-15T06:49:08.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Producers stuffed the first half of the night with awards and attempted to fill the second half with emotional moments, resulting in a strange lopsided effect.",
+      "author": "Daniel Fienberg",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a295fe3b9c16637f",
+      "title": "Stephen Colbert Says ‘Free Speech Is Alive and Well’ Despite ‘Late Show’ Cancellation",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stephen-colbert-the-late-show-free-speech-emmys-1235626775/",
+      "datePublished": "2026-09-15T06:46:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“I think that late night is just as funny and just as vital as it ever has been,\" the host said at the Emmys",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6690825290c388aa",
+      "title": "‘Practical Magic 2’ Casts a Spell Over U.K., Ireland Box Office as Oasis Doc Rocks No. 2",
+      "url": "https://variety.com/2026/film/box-office/practical-magic-2-uk-ireland-box-office-1236862589/",
+      "datePublished": "2026-09-15T06:43:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Warner Bros.’ “Practical Magic 2” cast a winning spell over the U.K. and Ireland box office, dethroning “Spider-Man: Brand New Day” after a six-week reign to claim the top spot with an opening weekend of £2.7 million ($3.7 million). Disney followed closely in second position with the cinema rollout of “Oasis: Don’t Look Back in […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "499662494b3c7b99",
+      "title": "Inside Zendaya’s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/",
+      "datePublished": "2026-09-15T06:06:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actress was both a presenter and a nominee Monday night, where she was nominated for the third and final season of 'Euphoria.'",
+      "author": "Lexi Carson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "2bc36425b6736955",
+      "title": "Kore-eda Hirokazu to Receive Cinema Honorary Award From Singapore Film Festival, Yim Soon-rye to Head Asian Competition Jury",
+      "url": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-honorary-award-singapore-film-festival-1236862585/",
+      "datePublished": "2026-09-15T06:01:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Singapore International Film Festival (SGIFF) will honor Japanese filmmaker Kore-eda Hirokazu with its Cinema Honorary Award and has named Korean director Yim Soon-rye jury head of its Asian Feature Film Competition. The 37th edition of SGIFF runs Oct. 21 to Nov. 1. Kore-eda will attend a special presentation of “Look Back” on Oct. 24, […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "37869f522feee07a",
+      "title": "Emmy Awards Snubs and Surprises: ‘Hacks’ Comes Up Short; John Oliver Shut Out; Allison Janney Scores Unexpected ‘Diplomat’ Win",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-snubs-surprises-john-oliver-allison-janney-1236701932/",
+      "datePublished": "2026-09-15T05:48:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Elsewhere, the star-studded second installment of 'Beef' failed to win in the major limited series categories after dominating in season one, with 'Love Story and 'All Her Fault' also missing out on major awards.",
+      "author": "Hilary Lewis",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "3a66bbe31e684ae3",
+      "title": "Emmys Analysis: On the ‘Widow’s Bay’ Sweep, Sally Field Surprise and Weird Variety Series Situation",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-analysis-scott-feinberg-1236701561/",
+      "datePublished": "2026-09-15T05:21:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Hollywood Reporter's executive editor of awards coverage dissects Monday night's results.",
+      "author": "Scott Feinberg",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9b720be7a41107ac",
+      "title": "Most Memorable Moments at 2026 Emmys, From Taylor Swift’s Cameo to Mariska Hargitay Recreating Nicole Kidman’s AMC Ad",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-best-worst-moments-1236701728/",
+      "datePublished": "2026-09-15T05:00:41.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From Jean Smart and Matthew Rhys' history-making wins to Marcello Hernández's special invites for Zendaya and Harrison Ford, here are some of the highlights from the 78th Emmy Awards on Monday.",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "67dd8d427cb91556",
+      "title": "Amazon announces dates for Prime Big Deal Days, its 48-hour October Prime Day sale",
+      "url": "https://mashable.com/life/amazon-prime-big-deal-days-dates-2026",
+      "datePublished": "2026-09-15T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Amazon's Prime Big Deal Days sale will run from Oct. 6 to 7 this year, the company announced Tuesday. Here's what shoppers should know ahead of time.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02ND4jVcDDtqiikKJUUzIWa/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b54ced7e385760f9",
+      "title": "Matthew Rhys Says Keri Russell Is “Always Really the Winner” After His Historic 2026 Emmy Wins",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/matthew-rhys-keri-russell-always-winner-2026-emmys-1236701813/",
+      "datePublished": "2026-09-15T04:55:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Social media users joked that the 'Widow's Bay' actor did not shout out his wife during his two acting acceptance speeches, but the actor spoke about her backstage at the awards ceremony, sharing his hopes that she'll earn an Emmy next year.",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "448754fa83970bf4",
+      "title": "Noah Wyle Says He Received “Very Encouraging” Update About Federal Film and TV Tax Incentive",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/noah-wyle-encouraging-update-federal-film-tv-tax-credit-1236701842/",
+      "datePublished": "2026-09-15T04:55:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 'Pitt' actor has been a vocal advocate from bringing productions back to Los Angeles.",
+      "author": "Nicole Fell",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "79b76ea7033f9e74",
+      "title": "Marcello Hernández Had a Special Invite for Zendaya and Tom Holland at the 2026 Emmys",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/marcello-hernandez-invite-dinner-zendaya-2026-emmys-1236701824/",
+      "datePublished": "2026-09-15T04:48:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 'Saturday Night Live' star attended TV's biggest night to present the award for best directing for a comedy series.",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "13495a4091765bfa",
+      "title": "27 Years Later, 1 of the Best Detective Thriller Series of All Time is Officially Free on Streaming",
+      "url": "https://www.polygon.com/angel-streaming-rec-tubi/",
+      "datePublished": "2026-09-15T04:41:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Buffy: The Vampire Slay spinoff Angel just keeps getting better over five seasons",
+      "author": "Sam Nelson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cordelia-charisma-carpenter-on-angel.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "c0f801f6cf1d38ac",
+      "title": "Inside the 2026 Emmys Gift Bags Totaling Over $25k Per Person",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/emmys-gift-bags-2026-official-awards-show-gifting-suite-1236691192/",
+      "datePublished": "2026-09-15T04:40:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As is tradition, presenters, performers and nominees had access to a backstage gifting suite that also gives back.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "a5255237805a3f8d",
+      "title": "Zendaya, Colman Domingo and Michelle Pfeiffer Among the Best-Dressed Stars at Emmys 2026",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/best-dressed-emmys-2026-1236701119/",
+      "datePublished": "2026-09-15T04:39:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ladies in red ruled the carpet, but gorgeous draping and exquisitely tailored tuxes also created a wealth of stunning style on TV's biggest night.",
+      "author": "Laurie Brookins",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c500756716fd746c",
+      "title": "The Emmys Gave TV Fans Winners Worth Cherishing — and a Ceremony for Somebody Else",
+      "url": "https://www.indiewire.com/criticism/shows/emmys-2026-review-mariska-hargitay-host-1235216913/",
+      "datePublished": "2026-09-15T04:37:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Kate O'Flynn, Rhea Seehorn, and Matthew Rhys (twice!) comprised a field of Emmy winners tailor-made to thrill die-hard TV fans, but the telecast meant to honor them had other priorities.",
+      "author": "Ben Travers",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "af17450984aa8e6f",
+      "title": "Stephen Colbert Says ‘Free Speech Is Alive and Well’ After Emmy Win Despite CBS Cancellation: Late Night Is ‘Just as Vital as it Ever Has Been’",
+      "url": "https://variety.com/2026/tv/news/stephen-colbert-free-speech-emmy-win-cbs-cancellation-1236862571/",
+      "datePublished": "2026-09-15T04:36:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“The Late Show With Stephen Colbert” may have been canceled by CBS, but after taking home the award for outstanding variety series at Monday night’s Emmy Awards, Stephen Colbert is still optimistic about the state of late-night television. Speaking with CNN correspondent Elizabeth Wagmeister and Variety co-president and co-editor-in-chief Ramin Setoodeh following the Emmy Awards, […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "4e7fc7723f3ec38d",
+      "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Are Powerful in Tim Blake Nelson’s Twisty Dark-Side Prison Saga",
+      "url": "https://variety.com/2026/film/reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236861069/",
+      "datePublished": "2026-09-15T04:21:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Tim Blake Nelson’s \"The Life and Deaths of Wilson Shedd\" is a gripping, wrenching, dark-as-midnight crime drama that taps into a phenomenon many might view as an underground secret (or maybe they just don’t know anything about it): the relationship that develops, more often than you’d think, between violent incarcerated criminals and civilians who fall in love with them.",
+      "author": "Owen Gleiberman",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "70139d9253c79574",
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "datePublished": "2026-09-15T04:15:23.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 83 # Comments: 30",
+      "author": "sippingabonedry",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "b4a56fac87ac168c",
+      "title": "Watch Olivia Rodrigo Sing ‘Strong Enough’ for Sheryl Crow in Nashville",
+      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-sings-for-sheryl-crow-nashville-1235626697/",
+      "datePublished": "2026-09-15T04:10:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The pop star made a surprise appearance at the BMI Troubadour ceremony, which honored 2026 recipient Crow with performances by Chris Stapleton, Eric Church, and more",
+      "author": "Joseph Hudak",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "9f7c9846866bf52e",
+      "title": "The Highs, Lows, and Whoas of the 2026 Emmys",
+      "url": "http://www.vulture.com/article/emmys-2026-highlights-moments-recap.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T04:08:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mariska did a parody musical number. John Mulaney got bleeped. And Widow’s Bay outshined them all.",
+      "author": "Roxana Hadadi",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/db4/421/7e3b0b1c10a50cdea5faf754e8f8264904-hlw-emmys-2026.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "f2c6a4e391b564c5",
+      "title": "All bosses in Marvel's Wolverine",
+      "url": "https://www.polygon.com/marvels-wolverine-bosses-list/",
+      "datePublished": "2026-09-15T04:01:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Marvel's Wolverine features many bosses and villains from the franchise. Here are all the bosses you'll face off against in order.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_omegared_4k_2026.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "8eb56dbaab3c32f0",
+      "title": "Marvel's Wolverine mission list and length, explained",
+      "url": "https://www.polygon.com/marvels-wolverine-missions-list-length-how-long/",
+      "datePublished": "2026-09-15T04:01:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A guide explaining how long Marvel's Wolverine is along with all the missions listed in order.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-parry-fight.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "95fbbb91b8f43e28",
+      "title": "All whisky bottle locations in Marvel's Wolverine",
+      "url": "https://www.polygon.com/marvels-wolverine-whisky-bottle-locations-collectibles-where-to-find/",
+      "datePublished": "2026-09-15T04:01:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A guide explaining where to find all 20 whisky bottles and their locations in Marvel's Wolverine.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-whisky-bottles-blood-and-bourbon-2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "d3933e1ad410dcd1",
+      "title": "All suits in Marvel's Wolverine and how to get them",
+      "url": "https://www.polygon.com/marvels-wolverine-suits-list-all-how-to-get/",
+      "datePublished": "2026-09-15T04:01:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A list of all suits available for Logan in Marvel's Wolverine, along with how to get each one.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-suits-header.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "88c5a48253335c8d",
+      "title": "Where to find the code for Shiro's keypad in Marvel's Wolverine",
+      "url": "https://www.polygon.com/marvels-wolverine-shiros-keypad-code-closet-bad-blood/",
+      "datePublished": "2026-09-15T04:01:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A guide explaining where to find the code for Shiro's closet keypad in Marvel's Wolverine.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolverine-shiros-keypad-header.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "4740744042d1d413",
+      "title": "Marvel’s Wolverine Post-Credits Scene, Explained",
+      "url": "https://kotaku.com/marvels-wolverine-post-credits-scene-sabretooth-apocalypse-2000734385",
+      "datePublished": "2026-09-15T04:00:27.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "It wouldn't be a modern Marvel story without something after the credits",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/09/wolfie-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "c0c44ab110383574",
+      "title": "62 Years Later, the Best 'Peanuts' Quote About Love Is Still a Quintessential Comic Strip Line",
+      "url": "https://www.polygon.com/best-peanuts-quote-unrequited-love-heartbreak/",
+      "datePublished": "2026-09-15T04:00:19.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Despite how sweet Charles Schulz's comic strip Peanuts could be, the series also specialized in the heartbreak of unrequited love",
+      "author": "Brian VanHooker",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image2.webp",
+      "source": "Polygon"
+    },
+    {
+      "id": "5cd053342cb4f9c1",
+      "title": "Moon phase today: What the Moon will look like on September 15, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-sept-15-2026",
+      "datePublished": "2026-09-15T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for September 15, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07v5HmvNQj6YaufOxe96JEm/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "074a5ba989096064",
+      "title": "Hurdle hints and answers for September 15, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-september-15-2026",
+      "datePublished": "2026-09-15T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00tiY8eC6N6aCjF1dgM6bPM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "27eeeb2ea3bbc2e7",
+      "title": "Detective Taylor Swift Drops a Few Easter Eggs at the Emmys",
+      "url": "http://www.vulture.com/article/taylor-swift-emmys-easter-eggs.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T03:59:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Just because she wasn’t there in person doesn’t mean she doesn’t love a little TV (Taylor’s Version).",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/1c2/7cf/9147978949962fd6f1ec97ff097524864b-taylor-swift-emmys.1x.rsocial.w1200.png",
+      "source": "Vulture"
+    },
+    {
+      "id": "57d35e7a3c4f4c1f",
+      "title": "Mariska Hargitay Leads a Brisk Yet Celebratory Emmys in a Return to Form: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/emmys-2026-review-1236862540/",
+      "datePublished": "2026-09-15T03:59:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Last year, the Emmys bet on an unorthodox host in Nate Bargatze and the result was an unmitigated disaster. This year, the Emmys bet on an unorthodox host and were rewarded with an effusive, yet efficient tribute to television at its best. Watching “Law & Order: Special Victims Unit” star — and “My Mom Jayne” […]",
+      "author": "Alisoncolleherman",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a7899d96af8c529f",
+      "title": "Emmys 2026: The Best, Worst, and Most WTF Moments",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/emmys-2026-best-worst-moments-1235626528/",
+      "datePublished": "2026-09-15T03:55:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TV's biggest night delivered on fan-favorite wins, uncomfortable bits, tearjerking speeches, and more",
+      "author": "Maria Fontoura",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "5bbc0547c903c950",
+      "title": "John Mulaney’s Bleeped Oral Sex Joke to Colman Domingo Dancing with Mariska Hargitay, 5 Emmy Moments Not Seen (or Heard) on TV",
+      "url": "https://www.indiewire.com/awards/results/2026-emmys-what-you-missed-on-tv-john-mulaney-oral-sex-joke-1235217014/",
+      "datePublished": "2026-09-15T03:37:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The lengthy In Memoriam segment also confused a few attendees at the 2026 Emmys.",
+      "author": "Brent Lang",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "5b7f42df53b51262",
+      "title": "Apple TV Wins 28 Emmys Thanks to ‘Widow’s Bay’ Sweep, HBO Max Takes Second Place With Help From ‘The Pitt’ and ‘DTF St. Louis’",
+      "url": "https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/",
+      "datePublished": "2026-09-15T03:36:24.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Widow’s Bay” was the most-awarded show at the Emmys this year, winning 14 trophies total. The Apple TV comedy already had eight wins under its belt at the start of Monday night’s ceremony, having picked up awards including guest comedy actress (Betty Gilpin), comedy casting and music supervision at last week’s Creative Arts Emmys. At […]",
+      "author": "Selome Hailu",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "9771a2718c126f4c",
+      "title": "Emmys 2026 Snubs and Surprises: Colbert’s Final Season Wins, Oscar Isaac Can’t Stop Matthew Rhys, Taylor Swift Crashes the Party and More",
+      "url": "https://variety.com/2026/awards/features/emmys-2026-snubs-surprises-colbert-wins-1236861943/",
+      "datePublished": "2026-09-15T03:35:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 78th Primetime Emmy Awards are here, and much like a passing glance at a cloudless night sky, the stars are out! But this is no time for puns! Television’s biggest night was hosted by “Law & Order: Special Victims Unit” icon Mariska Hargitay, and there were plenty of big wins and upsets. See some […]",
+      "author": "William Earl",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6b5a36f63d84f18c",
+      "title": "Emmys 2026: Widow’s Bay dominates as Matthew Rhys and Jean Smart land historic wins",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/emmy-winners-2026-widows-bay-the-pitt-hacks-matthew-rhys-jean-smart-historic-wins",
+      "datePublished": "2026-09-15T03:31:32.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Rhys becomes first actor to win lead acting awards for different shows in the same night, while Hacks’ Smart is the first woman to win for every season of a show Emmys 2026: red carpet looks and outfits at TV’s biggest night – in pictures In the Hacks v Widow’s Bay Emmys battle, it’s we – the audience – who are the real winners Emmys live blog: as it happened Emmy winners: the full list Matthew Rh",
+      "author": "Sian Cain",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "7791a700e432e7f2",
+      "title": "Seven Variety Cover Stars Win 2026 Emmys",
+      "url": "https://variety.com/2026/tv/awards/variety-cover-stars-emmys-matthew-rhys-jean-smart-noah-wyle-1236862389/",
+      "datePublished": "2026-09-15T03:15:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TV’s biggest night has officially come to a close, and a select group of stars can now say they’re both Emmy winners and Variety cover stars. Seven 2026 Emmy winners — from Noah Wyle to Jean Smart and more — graced the magazine’s cover over the past year. Revisit Variety’s premier coverage with the winners […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "8b6a5aa1c2ad57f0",
+      "title": "Emmy Awards Snubs and Surprises: Harrison Ford’s Shocking Loss, Allison Janney’s Upset Win, and Matthew Rhys’ Record-Breaking Night",
+      "url": "https://www.indiewire.com/awards/results/emmy-awards-snubs-surprises-harrison-ford-allison-janney-1235217076/",
+      "datePublished": "2026-09-15T03:10:19.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"Beef\" Season 2 was clearly sacrificed to the eldritch power that haunts \"Widow's Bay.\"",
+      "author": "Brent Lang",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "421d22e49d5628bc",
+      "title": "‘Widow’s Bay’ Wins Outstanding Comedy Series at 2026 Emmys",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/widows-bay-wins-emmy-outstanding-comedy-series-1235624942/",
+      "datePublished": "2026-09-15T03:08:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Apple TV series starring Matthew Rhys, Jeff Hiller and Kate O'Flynn has been awarded Outstanding Comedy Series at the 2026 Emmy Awards",
+      "author": "Larisha Paul",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "7a16ea292ad3f903",
+      "title": "Emmys So White Part 2: No Actors of Color Win Major Acting Prizes on TV’s Biggest Night",
+      "url": "https://variety.com/2026/tv/news/emmys-so-white-part-2-no-actors-of-color-win-emmys-2026-1236862434/",
+      "datePublished": "2026-09-15T03:04:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Sequels can be just as bad as their predecessors, and we’re in the midst of another unfortunate one. On Monday at the 78th Emmy Awards, in the lead and supporting races for drama and comedy, in addition to lead actor and actress in a limited series, all 10 actors who crossed the stage came from […]",
+      "author": "Clayton Davis",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "10376987ea4a21dc",
+      "title": "‘The Pitt’ Wins Outstanding Drama Series at 78th Emmy Awards",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-pitt-emmy-outstanding-drama-series-1235621600/",
+      "datePublished": "2026-09-15T03:01:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It was nominated alongside The Diplomat, Paradise, Pluribus, Slow Horses, Your Friends & Neighbors, The Gilded Age, and A Knight of the Seven Kingdoms",
+      "author": "Jaeden Pinder",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "edc19c9d922414b0",
+      "title": "John Mulaney Had One Moment at the Emmys Too Hot for NBC. It Was the Best Part of the Show.",
+      "url": "https://slate.com/culture/2026/09/emmys-2026-john-mulaney-video-meg-stalter.html?via=rss",
+      "datePublished": "2026-09-15T03:00:19.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "He managed to do the impossible.",
+      "author": "Nadira Goffe",
+      "imageUrl": "",
+      "source": "Slate (Culture)"
+    },
+    {
+      "id": "93e19fbc4fcaae90",
+      "title": "‘Wild Wild East’ Review: Jan Holoubek’s Nazi-Era Noir Western from Poland Loses Its Nerve",
+      "url": "https://www.indiewire.com/criticism/movies/wild-wild-east-review-jan-holoubek-1235217019/",
+      "datePublished": "2026-09-15T03:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TIFF: The Polish director’s latest sets up a compelling moral morass but settles for easy answers to its thorny questions.",
+      "author": "Ryan Lattanzio",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "9b439ba5f79141dc",
+      "title": "‘Widow’s Bay’ Wins Emmy for Outstanding Comedy Series",
+      "url": "https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400/",
+      "datePublished": "2026-09-15T02:55:51.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "No two episodes of Katie Dippold's genre-bending series were alike, and the TV Academy recognized the creativity.",
+      "author": "Christian Zilko",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "3a3300cff32609c1",
+      "title": "Catherine O’Hara, Rob Reiner, Hayden Panettiere, Tim Curry, James Van Der Beek, More Remembered at Emmys",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/emmys-in-memoriam-stars-remembered-1235623752/",
+      "datePublished": "2026-09-15T02:54:51.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jamie Lee Curtis, Macaulay Culkin, Dan Levy, and Annie Murphy paid tribute to Rob Reiner and Catherine O'Hara during the telecast's In Memoriam segment",
+      "author": "Kory Grow",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "0ff952bc1acf8817",
+      "title": "Noah Kahan Performs “Bridge Over Troubled Water” for Emmys’ In Memoriam: Watch",
+      "url": "https://consequence.net/2026/09/noah-kahan-2026-emmys-in-memoriam-watch/",
+      "datePublished": "2026-09-15T02:50:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Deceased icons like Rob Reiner, Robert Duvall, James Van Der Beek, and Catherine O'Hara were remembered during the musical performance. Noah Kahan Performs “Bridge Over Troubled Water” for Emmys’ In Memoriam: Watch Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "d328c113b00fb511",
+      "title": "‘DTF St. Louis’ Wins Emmy for Outstanding Limited or Anthology Series",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/dtf-st-louis-limited-series-emmy-limited-anthology-series-1235624937/",
+      "datePublished": "2026-09-15T02:42:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "HBO series beats out Love Story: John F. Kennedy Jr. & Carolyn Bessette, Beef, All Her Fault, and The Beast in Me at 78th Primetime Awards",
+      "author": "Daniel Kreps",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "b38ebb4cf1f8b8f3",
+      "title": "‘The Pitt’ Wins Second Consecutive Emmy for Outstanding Drama Series",
+      "url": "https://www.indiewire.com/awards/results/the-pitt-wins-emmy-outstanding-drama-series-1235216383/",
+      "datePublished": "2026-09-15T02:42:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The HBO Max medical drama secured another victory in the category, cementing itself as the show to beat at future ceremonies.",
+      "author": "Christian Zilko",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "c36b93b97ce8bc35",
+      "title": "Emmy Awards Remember Dolly Parton With Tribute From Sally Field and Reba McEntire",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/dolly-parton-emmys-tribute-1235625370/",
+      "datePublished": "2026-09-15T02:37:20.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 78th Emmys paid tribute to the country music superstar, who also appeared in a number of TV specials over the years",
+      "author": "Joseph Hudak",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "fcabaf82e83f0d8e",
+      "title": "Michael J. Fox Gives Moving Speech While Accepting Emmys Humanitarian Award",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/michael-j-fox-emmys-2026-humanitarian-award-bob-hope-speech-1235626636/",
+      "datePublished": "2026-09-15T02:32:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"Accepting Parkinson's didn't mean I had to surrender to it,\" actor says",
+      "author": "Kory Grow",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "a2ca9add5f2f7b36",
+      "title": "‘Bad Lieutenant: Tokyo’ Review: Takashi Miike Can’t Elevate an Uneven Entry Into an Unlikely Franchise",
+      "url": "https://www.indiewire.com/criticism/movies/bad-lieutenant-tokyo-review-takashi-miike-1235216996/",
+      "datePublished": "2026-09-15T02:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TIFF: The Japanese genre legend brings some, but not enough, of his signature style to this yakuza neo-noir.",
+      "author": "Christian Zilko",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "2a1f6b9862674ed2",
+      "title": "Dolly Parton Remembered by Sally Field and Reba McEntire at 2026 Emmy Awards: Watch",
+      "url": "https://consequence.net/2026/09/dolly-parton-emmys-reba-mcentire-sally-field/",
+      "datePublished": "2026-09-15T02:22:01.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Monday's ceremony honored the late icon with a special performance. Dolly Parton Remembered by Sally Field and Reba McEntire at 2026 Emmy Awards: Watch Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "80002f810d0aeff3",
+      "title": "‘DTF St. Louis’ Wins Emmy for Outstanding Limited Series",
+      "url": "https://www.indiewire.com/awards/results/dtf-st-louis-wins-emmy-best-limited-series-1235216849/",
+      "datePublished": "2026-09-15T02:17:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Steven Conrad's HBO series aced the top category at Monday night's Emmy Awards, besting fellow nominees \"Beef\" and \"Love Story\" — both of which were once considered frontrunners.",
+      "author": "Ben Travers",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "cdd5ebaf5137a497",
+      "title": "Broadcast TV Couldn’t Handle John Mulaney’s Manly Jokes",
+      "url": "http://www.vulture.com/article/john-mulaney-manly-emmy-jokes.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T02:14:43.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The best joke of the night got the bleep treatment.",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/245/6d5/13fb7f3a8c9be41f3618761173852c5ee4-johnmulaney.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "aa5d4ef53f442af5",
+      "title": "There’s an Oasis Coming to Sin City",
+      "url": "http://www.vulture.com/article/oasis-2027-tour.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T02:12:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Gallagher brothers are going on tour again.",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/d00/3be/dd13cc779128bd097be20e0681a19b188d-oasis.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "38e80f2417c014d1",
+      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott",
+      "url": "https://www.reddit.com/r/news/comments/1wgn9ws/macklemore_says_he_was_dropped_from_ed_sheeran/",
+      "datePublished": "2026-09-15T02:10:16.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/mvincen95 to r/news [link] [comments]",
+      "author": "/u/mvincen95",
+      "imageUrl": "",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "bf0717d91c515fb8",
+      "title": "Trump’s Voter Fraud Quest Is Turning Illegal, Whistleblower Says",
+      "url": "https://www.reddit.com/r/politics/comments/1wgn6ox/trumps_voter_fraud_quest_is_turning_illegal/",
+      "datePublished": "2026-09-15T02:06:09.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/thenewrepublic to r/politics [link] [comments]",
+      "author": "/u/thenewrepublic",
+      "imageUrl": "https://external-preview.redd.it/eoOjFiUX4z0LzfJYXCfUvrMtpPBNpf9CZUHjWqQ0kZc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38d9d4118295657960c8ee514b1f7274551db656",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "51f347ec3de6f1b3",
+      "title": "It's Officially the End of an Era for Game of Thrones on HBO",
+      "url": "https://www.polygon.com/house-of-the-dragon-not-top-10-hbo-streaming/",
+      "datePublished": "2026-09-15T02:05:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The franchise has always been a hit on the streaming service until now.",
+      "author": "Rachel Leishman",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/house-of-the-dragon.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "c3dee53343e7be47",
+      "title": "Matthew Rhys Is the Mayor of the Emmys",
+      "url": "http://www.vulture.com/article/matthew-rhys-is-the-mayor-of-the-emmys.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T02:02:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "He is the first-ever actor to win every Leading category.",
+      "author": "Jason P. Frank",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/baf/e05/682c43ae77626fb7fb85073f08810b572b-gettyimages-2294860641.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "3dc4cd25ec4a7c9f",
+      "title": "NYT Connections hints today: Meanings for each word for Sept. 15, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-september-15-2026",
+      "datePublished": "2026-09-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1192.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/053Crq6oFqZIX07vvdtnuqF/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ead02983dcffceda",
+      "title": "NYT Connections hints today: Clues, answers for September 15, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-september-15-2026",
+      "datePublished": "2026-09-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01uvVzcgHeh0TLqFSQpgDoL/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d0b38d11be3ded0e",
+      "title": "NYT Strands hints, answers for September 15, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-september-15-2026",
+      "datePublished": "2026-09-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06qRH8FdsmqXGadKCjWKuil/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "578750bfc11c599b",
+      "title": "Wordle today: Answer, hints for September 15, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-september-15-2026",
+      "datePublished": "2026-09-15T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1914 on September 15 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06e4G8KqHChaWtyhle4aF1o/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b81e8d42c982aa7b",
+      "title": "Noel Gallagher Unveils Reason for 2027 Oasis Tour, Shuts Down Possibility of New Music",
+      "url": "https://consequence.net/2026/09/noel-gallagher-on-2027-oasis-tour-new-music/",
+      "datePublished": "2026-09-15T01:55:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Manchester band made the choice to do a 2027 tour early in the 2025 reunion, he said. Noel Gallagher Unveils Reason for 2027 Oasis Tour, Shuts Down Possibility of New Music Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "cf4c6f0aac19055d",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "datePublished": "2026-09-15T01:50:48.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "author": "Connie Loizos",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "08cfde9c56daf7f4",
+      "title": "Taylor Swift Chats With Tom Cruise as She Cheers on Travis Kelce at First Chiefs Game Since Wedding",
+      "url": "https://www.rollingstone.com/music/music-news/taylor-swift-first-chiefs-game-travis-kelce-wedding-1235626496/",
+      "datePublished": "2026-09-15T01:50:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The superstar skipped the Emmys to support Kelce during the season-opening game in Kansas City",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "e8074401c6f9f1ab",
+      "title": "‘The Late Show with Stephen Colbert’ Wins Emmy for 2026 Outstanding Variety Series",
+      "url": "https://www.indiewire.com/awards/results/colbert-wins-emmy-variety-series-1235216118/",
+      "datePublished": "2026-09-15T01:41:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Variety Series in 2026 was an \"area award\" able to recognize multiple nominees that received at least 90 percent of the vote.",
+      "author": "Brian Welk",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "7865fef220314942",
+      "title": "The Late Show with Stephen Colbert Wins Its Final Emmy",
+      "url": "https://consequence.net/2026/09/late-show-stephen-colbert-emmys-2026-win/",
+      "datePublished": "2026-09-15T01:37:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Host Stephen Colbert accepted the award Monday night. The Late Show with Stephen Colbert Wins Its Final Emmy Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "f1799ed0c7d5fada",
+      "title": "John Mulaney Celebrates Masculinity With Hilarious Appearance at the 2026 Emmy Awards: Watch",
+      "url": "https://consequence.net/2026/09/john-mulaney-2026-emmys-watch/",
+      "datePublished": "2026-09-15T01:31:59.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The comedian took his time presenting the award for Lead Actor in a Drama. John Mulaney Celebrates Masculinity With Hilarious Appearance at the 2026 Emmy Awards: Watch Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "f838e3e623d9b142",
+      "title": "Taylor Swift (and Cat Olivia Benson) Crash Emmys’ Law & Order SVU Sketch: Watch",
+      "url": "https://consequence.net/2026/09/taylor-swift-law-order-svu-emmys-2026/",
+      "datePublished": "2026-09-15T01:31:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "After going down a rabbit hole of references to this year's nominees, a familiar-looking \"rookie,\" accompanied by her cat, helps Benson and Ice-T crack the case. Taylor Swift (and Cat Olivia Benson) Crash Emmys’ Law & Order SVU Sketch: Watch Liz Shannon Miller",
+      "author": "Liz Shannon Miller",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "5c5b33ea4c0718b3",
+      "title": "Matthew Rhys Wins Emmy for Best Actor in a Comedy for ‘Widow’s Bay’",
+      "url": "https://www.indiewire.com/awards/results/matthew-rhys-wins-emmy-best-actor-comedy-widows-bay-1235215845/",
+      "datePublished": "2026-09-15T01:18:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The star of the smash hit Apple TV series is no stranger to Emmys glory (he had even won earlier in the night), but this win marks his first triumph in a Comedy category. Sunset cocktails for all!",
+      "author": "Kate Erbland",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
     {
       "id": "694430edca90e3f1",
       "title": "5 Books That Will Teach You To Trust Your Gut When It Comes To Love",
@@ -184,6 +1246,19 @@
       "source": "Service95"
     },
     {
+      "id": "4cdfb9192e2f9adf",
+      "title": "Mikayla Matthews Is Leaving Secret Lives of Mormon Wives",
+      "url": "http://www.vulture.com/article/mikayla-matthews-leaving-secret-lives-of-mormon-wives.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T01:12:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Will MomTok survive losing another cast member?",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/e9a/410/089442c37c24e4d552c8986ab0eecf69c8-mikayla-matthews.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "1c9f5c52dd2d7bec",
       "title": "‘The Traitors’ Wins Third Consecutive Reality Competition Series Emmy, Earning Clean Sweep for Second Year in a Row",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmy-reality-competition-program-the-traitors-1236699454/",
@@ -234,6 +1309,19 @@
       "author": "Jason Venter",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24855988/78853045.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "ceef1d37d4b004b7",
+      "title": "Below Deck Mediterranean Recap: A Villain Is Born",
+      "url": "http://www.vulture.com/article/below-deck-mediterranean-recap-season-11-episode-15-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T01:00:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Gen’s new “villain era” might make for fun television, but targeting the beloved Joy is a risky end-of-season move.",
+      "author": "Rafaela Bassili",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/22d/15a/f6643dca3093da9faf627f1f01e442696f-Below-Deck-ep-15.1x.rsocial.w1200.png",
+      "source": "Vulture"
     },
     {
       "id": "c38b57949514b7fc",
@@ -340,6 +1428,20 @@
       "source": "Variety"
     },
     {
+      "id": "5696899b21b060d7",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "datePublished": "2026-09-15T00:40:14.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 138 # Comments: 74",
+      "author": "throwworhtthrow",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "a58dee5e245e6693",
       "title": "Allison Janney Surprised by Best Supporting Actress Emmys Win: “Not What I Planned At All”",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/allison-janney-best-supporting-actress-2026-emmys-1236701142/",
@@ -351,6 +1453,19 @@
       "author": "Abbey White",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f824a168d5472d79",
+      "title": "The Emmys Knows You Only Watch Broadcast TV in Hotel Rooms",
+      "url": "http://www.vulture.com/article/emmys-opening-song-i-love-tv-screens.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T00:39:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Or on planes.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b34/837/b473a350e8dd06df6c740a51c59f393799-emmys-opening-song.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "765a47539cc5cc3c",
@@ -377,6 +1492,32 @@
       "author": "McKinley Franklin",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "dbfe9f26773eca2a",
+      "title": "Low-water conditions are tightening navigation on the Mississippi River as the crucial fall grain-export season approaches. The latest operational restrictions show this is no longer just a forecast risk: barge drafts and tow sizes are already being reduced on parts of the Lower Mississippi",
+      "url": "https://www.reddit.com/r/PrepperIntel/comments/1wgl8kb/lowwater_conditions_are_tightening_navigation_on/",
+      "datePublished": "2026-09-15T00:36:42.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/NotADetectiveAtAll to r/PrepperIntel [link] [comments]",
+      "author": "/u/NotADetectiveAtAll",
+      "imageUrl": "https://preview.redd.it/7z5ga8szvjph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=958ed5d0469731b6163fd67ca0932b0bedae17ee",
+      "source": "r/news (multireddit)"
+    },
+    {
+      "id": "f62bf4a99401321d",
+      "title": "Tucker Carlson stuns Republicans by endorsing Democrat Abdul El-Sayed in key Michigan Senate race",
+      "url": "https://www.reddit.com/r/politics/comments/1wgl89w/tucker_carlson_stuns_republicans_by_endorsing/",
+      "datePublished": "2026-09-15T00:36:21.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/Critically_Political to r/politics [link] [comments]",
+      "author": "/u/Critically_Political",
+      "imageUrl": "https://external-preview.redd.it/coCChG4ezenmTZOXOsr-CtI43x_Uosa86NEIu6Sj8a4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98e9fa7035f66398b92c43975d8b18e53988874c",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "7fd2fd8676758eba",
@@ -525,6 +1666,19 @@
       "source": "Variety"
     },
     {
+      "id": "c7ead25bd1e7f39a",
+      "title": "Jean Smart Pulled It Off",
+      "url": "http://www.vulture.com/article/jean-smart-best-comedy-actress-emmys-sweep.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T00:21:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "She scored a clean sweep at the Emmys, winning for every year Hacks was on the air.",
+      "author": "Jason P. Frank",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/a9b/45b/5be2ae0aa4a19dafec69a5dc39dca2a7b0-jean-smart-emmy-win.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "82e1de8b0805f102",
       "title": "8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers",
       "url": "https://kotaku.com/new-things-learned-world-of-warcraft-forever-2000734005",
@@ -551,6 +1705,19 @@
       "source": "IndieWire"
     },
     {
+      "id": "8d0641dea523017f",
+      "title": "Mariska Hargitay Wins, Brands Got Involved Early, and More Emmys Takeaways",
+      "url": "https://www.adweek.com/tvnewser/mariska-hargitay-wins-emmys-takeaways/",
+      "datePublished": "2026-09-15T00:07:22.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "Hargitay, brands, and Taylor Swift win the 78th Emmys.",
+      "author": "mmwachiro",
+      "imageUrl": "",
+      "source": "AdWeek"
+    },
+    {
       "id": "7a3c9084073593a8",
       "title": "Oscars: Bulgaria Picks Cannes Winner ‘The Dreamed Adventure’ for Best International Feature Race",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/bulgaria-picks-the-dreamed-adventure-oscars-international-1236701235/",
@@ -562,6 +1729,19 @@
       "author": "Scott Roxborough",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "94db7962568f2d4a",
+      "title": "Good News: Pre-Existing Condition Has Recurred",
+      "url": "http://www.vulture.com/article/good-news-pre-existing-condition-has-recurred.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-15T00:00:43.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Marin Ireland’s 2024 play about domestic violence, at the moment starring Lupita Nyong’o, has lost none of its power.",
+      "author": "Jackson McHenry",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/bdb/102/f5c7f1bcfab493b98d8be11dee599d2e09-Pre-Existing-Condition-Lupita00079.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "6ed9ae69400ef54e",
@@ -669,6 +1849,19 @@
       "source": "Vulture"
     },
     {
+      "id": "5ee1ba7cda0fd6d2",
+      "title": "'Not the time to shield Russian oligarchs,' Zelensky says as EU delays sanctions decision amid pressure from France",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wgjqp8/not_the_time_to_shield_russian_oligarchs_zelensky/",
+      "datePublished": "2026-09-14T23:30:55.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/TwinklesPetals to r/worldnews [link] [comments]",
+      "author": "/u/TwinklesPetals",
+      "imageUrl": "https://external-preview.redd.it/Wtv1xEtAueP8Od58svEBQKrguhj87pzk3wCHORtX-ek.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4fd0a6938d17204512efa0e53be1e7fd24e2523",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "eff054afee27437b",
       "title": "Emmy Awards 2026: See the Complete Winners List",
       "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/2026-emmy-awards-winners-1235625913/",
@@ -720,6 +1913,19 @@
       "author": "Giovanni Colantonio",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/kaz-bird-grid.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "0085d897f1cfcebf",
+      "title": "NATO jets shoot down a drone over Lithuania that entered lithuanian airspace from Bealarus",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wgj6gy/nato_jets_shoot_down_a_drone_over_lithuania_that/",
+      "datePublished": "2026-09-14T23:06:51.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/LofuFox to r/worldnews [link] [comments]",
+      "author": "/u/LofuFox",
+      "imageUrl": "https://external-preview.redd.it/fS8tAG2ipqb45jNRPgO5x4CwP-1LXBRd5-MukA1giOc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=902ce1f0d06a59fa5265941df7590bab9719befa",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "5615d55f22ccb222",
@@ -869,6 +2075,19 @@
       "source": "r/news (multireddit)"
     },
     {
+      "id": "70cb04adaec79e66",
+      "title": "Carney Courts the World’s Top Investors at Toronto Summit",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wghuh1/carney_courts_the_worlds_top_investors_at_toronto/",
+      "datePublished": "2026-09-14T22:12:12.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/joe4942 to r/worldnews [link] [comments]",
+      "author": "/u/joe4942",
+      "imageUrl": "https://external-preview.redd.it/KzZxO5WGU6mgr5IL9_5sAZaZFDC5UkF5nIwEaDfaiCU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=469d3bb847d670afc801337c037435f0df3c7a00",
+      "source": "r/news (multireddit)"
+    },
+    {
       "id": "92c9d96ad9e7e284",
       "title": "A New York Label Made a Nike Tennis Sneaker as Chic as Its Clothes",
       "url": "https://www.highsnobiety.com/p/kallmeyer-nike-tennis-centre/",
@@ -974,6 +2193,19 @@
       "author": "Ash Parrish",
       "imageUrl": "https://kotaku.com/app/uploads/2026/09/fire-emblem-jester-1-1280x720.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "c445e7beb9420248",
+      "title": "Gavin Newsom says he won't run for president if Kamala Harris enters 2028 race",
+      "url": "https://www.reddit.com/r/politics/comments/1wgh0je/gavin_newsom_says_he_wont_run_for_president_if/",
+      "datePublished": "2026-09-14T21:39:26.000Z",
+      "category": [
+        "forums"
+      ],
+      "description": "submitted by /u/Unusual-State1827 to r/politics [link] [comments]",
+      "author": "/u/Unusual-State1827",
+      "imageUrl": "https://external-preview.redd.it/hlpf-FWPmbeOeVGWkN4SUuOj1m57lCx6RuRInw5lOmI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24d4632b049889220fb6dc3e78ebf59056c9d04e",
+      "source": "r/news (multireddit)"
     },
     {
       "id": "12fa34e279ec2fc6",
@@ -4333,6 +5565,21 @@
       "source": "IndieWire"
     },
     {
+      "id": "486fdcff3dd03fad",
+      "title": "Nintendo Customer Appreciation sale: Best deals you can still grab",
+      "url": "https://mashable.com/entertainment/nintendo-customer-appreciation-sales-event-2026",
+      "datePublished": "2026-09-14T14:38:04.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Enjoy up to 30% off dozens of Nintendo games, accessories and merchandise for a limited time.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01GnBRtHiZnqvUQQOcJ82l4/hero-image.png",
+      "source": "Mashable"
+    },
+    {
       "id": "4b84379493f04939",
       "title": "Tucker Carlson backs Democrat Abdul El-Sayed in Michigan Senate race",
       "url": "https://www.reddit.com/r/politics/comments/1wg55m1/tucker_carlson_backs_democrat_abdul_elsayed_in/",
@@ -4715,6 +5962,20 @@
       "source": "r/news (multireddit)"
     },
     {
+      "id": "0cbcfb95692855d5",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "datePublished": "2026-09-14T13:38:58.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete Comments URL: https://news.ycombinator.com/item?id=49696697 Points: 146 # Comments: 135",
+      "author": "theanonymousone",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "d08e222e92201298",
       "title": "\"I find Canada to be the worst country to deal with\": Trump slams northern ally, claiming they have \"ripped off\" the US for years and threatening new tariffs on imported cars.",
       "url": "https://www.reddit.com/r/unusual_whales/comments/1wg3mhc/i_find_canada_to_be_the_worst_country_to_deal/",
@@ -4792,6 +6053,20 @@
       "author": "Ryan Lattanzio",
       "imageUrl": "",
       "source": "IndieWire"
+    },
+    {
+      "id": "189862bbeb2f3ac5",
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "datePublished": "2026-09-14T13:23:53.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ Comments URL: https://news.ycombinator.com/item?id=49696453 Points: 149 # Comments: 213",
+      "author": "giuliomagnifico",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "422712c372a46ed4",
@@ -4950,6 +6225,20 @@
       "author": "Ben Child",
       "imageUrl": "",
       "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "31db6011a0fda6ec",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "datePublished": "2026-09-14T12:40:57.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 429 # Comments: 343",
+      "author": "gregnavis",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "091d08f83eb1767f",
@@ -5380,1312 +6669,6 @@
       "author": "K.J. Yossman",
       "imageUrl": "",
       "source": "Variety"
-    },
-    {
-      "id": "d3b4df37325ec03a",
-      "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-      "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-      "datePublished": "2026-09-14T10:56:30.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.thepricer.org/how-much-has-trump-made-from-crypto/ Comments URL: https://news.ycombinator.com/item?id=49694840 Points: 40 # Comments: 7",
-      "author": "cinderelacinder",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "6217cafd91cff802",
-      "title": "The Bluetti AC180 power station is $50 off at Amazon — act fast to buy for $449",
-      "url": "https://mashable.com/tech/sept-14-bluetti-ac180-power-station-deal",
-      "datePublished": "2026-09-14T10:55:11.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Find the best portable power station deal. Save 10% on the Bluetti AC180 at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06jD8kA11NhDRTi0YeGZUi4/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "de2d20e4d3219ccc",
-      "title": "Transcript: Trump Rages as Awful TV Speech Ratings Humiliate Him Badly",
-      "url": "https://newrepublic.com/article/215366/transcript-trump-rages-awful-tv-speech-ratings-humiliate-badly",
-      "datePublished": "2026-09-14T10:52:13.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The following is a lightly edited transcript of the September 14 episode of the Daily Blast podcast. Listen to it here. Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent. Donald Trump’s effort to salvage the midterms for the GOP doesn’t seem to be going well. His make-believe proposal to send five-thousand-dollar che",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/6e89005857311eb42f4d657d2bcecd4ee7ca952f.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "5238aaf739d4e8ab",
-      "title": "FC Bayern Player Jamal Musiala Keeps It Cool ",
-      "url": "https://www.highsnobiety.com/p/jamal-musiala-plays-it-cool/",
-      "datePublished": "2026-09-14T10:41:59.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "FC Bayern player Jamal Musiala’s passions beyond football shine in Google Pixel’s new Garden Theory campaign.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "a3eb5b318425e484",
-      "title": "Who Aligns the Aligners?",
-      "url": "https://prestonbyrne.com/2026/09/13/aligners/",
-      "datePublished": "2026-09-14T10:41:56.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://prestonbyrne.com/2026/09/13/aligners/ Comments URL: https://news.ycombinator.com/item?id=49694722 Points: 7 # Comments: 1",
-      "author": "timr",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "700fc888a153fbca",
-      "title": "Bomanizer teaches Anania how to sound like a Kardashian on Gaydar",
-      "url": "https://mashable.com/life/gaydar-anania-bomanizer-kardashian",
-      "datePublished": "2026-09-14T10:33:52.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Anania's latest \"Gaydar\" episode puts content creator Boman Martinez-Reid, aka Bomanizer, to the test.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/06lk4lEcvaAz55CxFE7BqXu/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "93c6dfcd8deb9cef",
-      "title": "The Pokémon TCG Chaos Rising Booster Bundle gets a major price cut — save nearly $20 while stocks last",
-      "url": "https://mashable.com/life/sept-14-pokemon-tcg-chaos-rising-booster-bundle-deal",
-      "datePublished": "2026-09-14T10:32:42.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Pokémon TCG Chaos Rising Booster Bundle is down to $41.92 at Amazon, saving $18.07 while stocks last.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/060mZwsAaqFelQPcnb5XrwY/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "6825434be3e073b3",
-      "title": "Vans & Sza Want To Get All Up In Your Toes",
-      "url": "https://www.highsnobiety.com/p/vans-and-sza-want-to-get-all-up-in-your-toes/",
-      "datePublished": "2026-09-14T10:30:37.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "SZA & Vans' Vansza LX Tabi Hike is a split-toed addition to Vans' growing collection of hiking shoes.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "ba8d03f986d8d272",
-      "title": "“Lithuania Will Disappear From the World Map,” Russia’s Medvedev Threatens NATO State",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wfzmiz/lithuania_will_disappear_from_the_world_map/",
-      "datePublished": "2026-09-14T10:27:32.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/paneuropeanism_ to r/worldnews [link] [comments]",
-      "author": "/u/paneuropeanism_",
-      "imageUrl": "https://external-preview.redd.it/iEgjS-2gYiVCaaKH34S-NlyGqkQKrtUKkuW9PC-6NqA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5915eed51bf4b3fc08c17d1adbd50baa63215658",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "d6238ed073bd4fc2",
-      "title": "T-Mobile’s launch offer wipes out the cost of the iPhone 18 Pro over 36 months",
-      "url": "https://mashable.com/tech/sept-14-t-mobile-iphone-18-pro-deal",
-      "datePublished": "2026-09-14T10:26:59.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "T-Mobile is offering shoppers the chance to get an iPhone 18 Pro on them when you switch or trade in an eligible phone in any condition on an Experience Beyond plan.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04O3kchh5V0TDEoOMwzcKpM/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d99a45fcb9a45577",
-      "title": "Fortnite Confirms Kingdom Hearts Collab Release Date, and It's Bigger Than Expected",
-      "url": "https://www.polygon.com/fortnite-kingdom-hearts-collab-skins-release-date/",
-      "datePublished": "2026-09-14T10:19:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Sora and the Keyblade had already been confirmed for Fortnite's gaming season, but it seems there's much more to this collab.",
-      "author": "Ashely Claudino",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/kingdom-hearts.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "36ae8e246dca1af8",
-      "title": "Kate McKinnon Is an Evil CEO in Sequel to Zoom&#8217;s Bowen Yang-Led Brand Reset",
-      "url": "https://www.adweek.com/brand-marketing/kate-mckinnon-is-an-evil-ceo-in-sequel-to-zooms-bowen-yang-led-brand-reset/",
-      "datePublished": "2026-09-14T10:01:42.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The SNL alum fronts the next phase of the company's largest global campaign ever",
-      "author": "Alison Weissbrot",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "fb4050ac94733da6",
-      "title": "Once upon a screen: explosive paradox",
-      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
-      "datePublished": "2026-09-14T10:01:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Decades after seeing ‘Platoon’, Kevin recalls how the film stirred generational trauma in his family and racism at school - by Aeon Video Watch on Aeon",
-      "author": "Aeon Video",
-      "imageUrl": "https://images.aeonmedia.co/images/bead947c-a6cf-4c98-97e3-1fb2364202af/once-upon-a-screen-explosive-paradox-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "source": "Aeon"
-    },
-    {
-      "id": "9e3fc00239d42a65",
-      "title": "My name is Annabel",
-      "url": "https://psyche.co/videos/step-into-the-joyful-world-of-annabel-a-performer-with-down-syndrome",
-      "datePublished": "2026-09-14T10:01:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "A creative collaboration between participant and filmmaker explores how it feels to live and perform with Down syndrome - Directed by Ida Joglar Watch on Psyche",
-      "author": "Psyche Video",
-      "imageUrl": "https://images.aeonmedia.co/images/58842924-d726-4cf8-a607-e6a3d032ff89/my-name-is-annabel-landscape-1.jpg?top=0&left=0&cropWidth=2560&cropHeight=1440&width=1200&quality=75&format=auto",
-      "source": "Psyche"
-    },
-    {
-      "id": "207102c81e77ed62",
-      "title": "The bombarding of childhood",
-      "url": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "It’s not just screen time: the problem with children’s media is that it has become relentlessly hectic, loud and bright - by Natalia Kucirkova Read on Aeon",
-      "author": "Natalia Kucirkova",
-      "imageUrl": "https://images.aeonmedia.co/images/0bdeea37-3692-4792-af19-9981bd686a4b/essay-gettyimages-514482248.jpg?width=1200&quality=75&format=auto",
-      "source": "Aeon"
-    },
-    {
-      "id": "8d6fbc6d4750d0a3",
-      "title": "How to uncover your blind spots",
-      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "We all have parts of ourselves others know but we don’t. Gain greater self-awareness by seeing yourself from the outside in - by Jennifer Farrell Read on Psyche",
-      "author": "Jennifer Farrell",
-      "imageUrl": "https://images.aeonmedia.co/images/d02fd481-d574-4739-a8a1-b25e9ff30f6f/priscilla-du-preez-_exjk18doue-unsplash.jpg?top=1425&left=0&cropWidth=1920&cropHeight=1080&width=1200&quality=75&format=auto",
-      "source": "Psyche"
-    },
-    {
-      "id": "69b3e2647e66d315",
-      "title": "Briefly Noted Book Reviews",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/dey-etna-are-they-dead-yet-unbelonging",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "“Dèy,” “Etna,” “Are They Dead Yet?,” and “Unbelonging.”",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "642aac39b9b57068",
-      "title": "Dean Rohrer’s “Beginnings”",
-      "url": "https://www.newyorker.com/culture/cover-story/cover-story-2026-09-21",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The city as a blank canvas.",
-      "author": "Françoise Mouly",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "decfbd3785dc51a3",
-      "title": "The American Religion of Self-Storage Facilities",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Why are we so obsessed with putting our belongings in metal boxes and then never looking at them again?",
-      "author": "David Owen",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "bd9acf0452f13b5c",
-      "title": "Jared Kushner’s Dollar Diplomacy",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/jared-kushners-dollar-diplomacy",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump’s son-in-law represents the kind of Washington figure for whom public office serves as a means to extraordinary wealth.",
-      "author": "Dexter Filkins",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "16522dd0f43aee70",
-      "title": "Ke Huy Quan Keeps Smiling",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/ke-huy-quan-keeps-smiling",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "On a trip to Liberty Island, the actor chats about his new memoir, “Never Say Die,” which chronicles his journey from refugee to child star in “Indiana Jones” to winning an Oscar, for “Everything Everywhere All at Once.”",
-      "author": "Sarah Larson",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "66baa69241a92701",
-      "title": "Paula Cole Doesn’t Want to Wait",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/paula-cole-doesnt-want-to-wait",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "At the Conservatory Garden, the singer reflects on her new two-album set, “Sonic Memoir: Demos 1989-1998”; launching Lilith Fair with Sarah McLachlan; and the time Jay Leno made fun of her armpit hair.",
-      "author": "Rachel Syme",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "28a7b47bda8926f1",
-      "title": "The Sisters Buying Homes Together",
-      "url": "https://www.newyorker.com/culture/the-lede/the-sisters-buying-homes-together",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "As marriage rates fall and housing prices climb, adult siblings are betting on the family they already have.",
-      "author": "Kelly Marie Coyne",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "05fe8fe15f81c006",
-      "title": "The Wealthiest—and Stealthiest—Class in America",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-everywhere-millionaire-owen-zidar-and-eric-zwick-book-review",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "America’s everywhere millionaires built fortunes from hot dogs, car dealerships, medical practices, and convenience stores. Then they learned how to protect them.",
-      "author": "John Lanchester",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "9ed97196b77b8e32",
-      "title": "The Hearing Aid That Plays It by Ear",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-hearing-aid-that-plays-it-by-ear",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A company called Fortell made an A.I.-powered device that tries to tune out background noise in real time. Does it work? Ask Fortell’s test subject, Steve Martin.",
-      "author": "David Owen",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "272c9178457ae545",
-      "title": "In “Situated,” Angela Duckworth, the Author of “Grit,” Does an About-Face",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/situated-angela-duckworth-book-review",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In “Situated,” Angela Duckworth challenges the conventional wisdom that says we shouldn’t run away from our problems.",
-      "author": "Meghan O’Gieblyn",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "dbab6a4e187f337a",
-      "title": "My Surefire, Can’t-Lose Polymarket Bets",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/my-surefire-cant-lose-polymarket-bets",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Spot on my neck: Cancer? 88% Yes. 12% More tests are needed, none of which are covered by my insurance.",
-      "author": "Shalom Auslander",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "d15c90ba46d92730",
-      "title": "The Incredible Journey of a Migratory Shorebird",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Godwits make the longest non-stop migration in the bird world. That might be the least of their marvels. Can they survive a changing planet?",
-      "author": "Rivka Galchen",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "6ad389fcb1ed29ea",
-      "title": "The Violent Feud That Shocked the Horse World",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-violent-feud-that-shocked-the-horse-world",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A prominent dressage trainer shot a belligerent student—and now maintains that he’s the real victim.",
-      "author": "Ian Parker",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "83479a93397c04f1",
-      "title": "Colin Kaepernick Misses the Game",
-      "url": "https://www.newyorker.com/culture/the-new-yorker-interview/colin-kaepernick-misses-the-game",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In his new memoir, “The Perilous Fight,” the former N.F.L. star recounts the backlash he faced from the league.",
-      "author": "David Remnick",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "9d087e779879a9fb",
-      "title": "Transcript: America’s Big Political Problem Isn’t Polarization",
-      "url": "https://newrepublic.com/article/215310/transcript-polarization-neutrality-flawed-concepts",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "This is a lightly edited transcript of the September 11 episode of Right Now With Perry Bacon. You can watch the video here or by following this show on YouTube or Substack. Perry Bacon: Welcome to another episode of Right Now, The New Republic’s twice weekly video podcast about politics and policy. I’m Perry Bacon, the host. I have a great guest. Shannon McGregor is a professor at the University ",
-      "author": "Right Now With Perry Bacon",
-      "imageUrl": "https://images.newrepublic.com/47263f94469462e0cb803768e3d1ed9cd6a70942.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "12989f87b3235ee0",
-      "title": "Iceland Just Got Played",
-      "url": "https://newrepublic.com/article/215083/iceland-eu-referendum-brexit-moment",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "On August 28, roughly a quarter of a million Icelanders took to the polls to register their thoughts on whether Europeans would steal their fish. Well, that wasn’t the question on the ballot. But it proved to be all Icelanders cared about. And as a result, Icelanders may have committed a Brexit-esque act of self-sabotage. For the last three months, the island nation of roughly 400,000 people has p",
-      "author": "John Last",
-      "imageUrl": "https://images.newrepublic.com/31f81382d45def2f5dc57887c4c098e611ae0893.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "6c56b95d68c9d51c",
-      "title": "The Mother of All Assault Weapons Cases Is Coming  ",
-      "url": "https://newrepublic.com/article/215234/ar-15-protected-second-amendment",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Second Amendment protects the right to “keep and bear arms.” But what counts as “arms”? The Supreme Court will answer that question this term when it hears a challenge to state assault-weapons bans. Gun rights groups have spent almost two decades trying to get the Supreme Court to hear a case like Viramontes v. Cook County, which centers on assault-weapon bans in Illinois’s largest county and ",
-      "author": "Matt Ford",
-      "imageUrl": "https://images.newrepublic.com/1e0a32100988ff90816fc59b4580356f6271edc1.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "6083c04368102da6",
-      "title": "How Keisha Lance Bottoms and David Crowley Can Make Political History ",
-      "url": "https://newrepublic.com/article/215218/keisha-lance-bottoms-david-crowley-can-make-political-history",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Many Americans who live in suburbs and rural areas don’t like the big, left-leaning metropolitan areas nearby. And while it’s hard to say exactly how much that anti-urban resentment is tied to race, we know that big cities often have high percentages of people of color, particularly African Americans. So in red and purple states, the Democratic Party has in the past sometimes shied away from nomin",
-      "author": "Perry Bacon",
-      "imageUrl": "https://images.newrepublic.com/b8d4f11af57b8ead2cbf035747f477ecbdc54633.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "831878f43c586249",
-      "title": "It’s Not Just Trump Who’s Dumb about Economics—It’s the GOP Generally",
-      "url": "https://newrepublic.com/article/215362/trump-gop-economic-ruin-recession",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "On her Substack over the weekend, Mary Trump, the good Trump (there had to be one), recalled the following word salad her uncle gurgled out on the 2024 campaign trail: “Under the Trump economic plan, we will cut your energy prices in half. Mark it down. And you can get very angry at me if we don’t do it. Within 12 months, your energy prices will be cut in half. My plan will cut energy prices in ha",
-      "author": "Michael Tomasky",
-      "imageUrl": "https://images.newrepublic.com/26638f0c96364d2e9b76c5dd797125d2cb7a2664.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "2e793ab5c8d0a709",
-      "title": "America’s Big Political Problem Isn’t Polarization",
-      "url": "https://newrepublic.com/article/215270/two-ideas-leading-mainstream-media-astray",
-      "datePublished": "2026-09-14T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "You can watch this episode of Right Now With Perry Bacon above or by following this show on YouTube or Substack. You can read a transcript here. The term polarization is constantly used to describe American politics today by academics and journalists. Many in both fields cast their work as neutral, objective, and balanced. But a growing number of academics and journalists are arguing that notions ",
-      "author": "Right Now With Perry Bacon",
-      "imageUrl": "https://images.newrepublic.com/47263f94469462e0cb803768e3d1ed9cd6a70942.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "306f1b9a6907a489",
-      "title": "Pkgsrc Is Cool (2022)",
-      "url": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
-      "datePublished": "2026-09-14T09:53:34.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/ Comments URL: https://news.ycombinator.com/item?id=49694311 Points: 16 # Comments: 5",
-      "author": "Tomte",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "598dfe17f9fced92",
-      "title": "Ziwes interview with Wanda Sykes is her most iconic yet",
-      "url": "https://mashable.com/life/ziwe-wanda-sykes-iconic-guest",
-      "datePublished": "2026-09-14T09:49:31.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "You thought Ziwe Fumudoh's interview with Law Roach was as iconic as it gets? Enter Wanda Sykes.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/00E2krkBD1t6XbKhKfpjyKV/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4d2d4e7aa32b2bf8",
-      "title": "This DJI drone dupe has hit its best-ever price at Amazon — save $170",
-      "url": "https://mashable.com/tech/sept-14-skyrover-drone-deal",
-      "datePublished": "2026-09-14T09:49:15.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best drone deal. Save 27% on the Skyrover X1 drone at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00Syo2cy327BmeTbDUZ2YFZ/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "dde9557691a90f09",
-      "title": "Apple charger deal: Save $90 on the Anker 3-in-1 charging station at Amazon",
-      "url": "https://mashable.com/tech/sept-14-anker-3-in-1-charger-deal",
-      "datePublished": "2026-09-14T09:47:02.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Find the best charger deal at Amazon. Save 39% on the Anker 3-in-1 charger at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01OYWCmaRJgflXQE4k8HfI5/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "434302540f648f16",
-      "title": "Beats Powerbeats Pro 2 with heart rate tracking are just $199.95 — save $50",
-      "url": "https://mashable.com/life/sept-14-beats-powerbeats-deal",
-      "datePublished": "2026-09-14T09:44:48.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Find the best deal on Beats. Save 20% on the Beats Powerbeats Pro 2 at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/000ZdPMYRzUCUSse0FsKeqq/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "a94a7e9a171bd219",
-      "title": "SNL UKs sketch about Harry and Meghan visiting home has 1 particularly brutal joke",
-      "url": "https://mashable.com/entertainment/snl-uk-harry-meghan-return-uk",
-      "datePublished": "2026-09-14T09:44:33.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "\"SNL UK\" Season 2 opened with a sketch about Harry and Meghan returning to the UK to visit King Charles and Queen Camilla.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/00lGYJ7gBJ6vd8YgySa9mbS/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "29a65befb8d5ac82",
-      "title": "The Pokémon TCG Journey Together Booster Bundle get limited-time price cut at Amazon — save over $5",
-      "url": "https://mashable.com/life/sept-14-pokemon-tcg-journey-together-booster-bundles-deal",
-      "datePublished": "2026-09-14T09:40:35.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Amazon has the Pokémon TCG Journey Together Booster Bundle for $52.70, saving $7.29 on six packs.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05giS4jzKPeDBSDurLVRUqh/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "b7caef90c9684972",
-      "title": "One of <em>Jeopardy</em>’s Most Beloved Traditions Vanished. I Spent Months Talking to the People Whose Lives It Changed. Then I Got Some News.",
-      "url": "https://slate.com/culture/2026/09/jeopardy-teen-television-games-final-ken-jennings.html?via=rss",
-      "datePublished": "2026-09-14T09:40:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A call from the show’s executive producer brought some news.",
-      "author": "Claire McNear",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "067c5afeafb9cdbe",
-      "title": "Maga’s war on divorce is really a war on women",
-      "url": "https://www.reddit.com/r/politics/comments/1wfyq23/magas_war_on_divorce_is_really_a_war_on_women/",
-      "datePublished": "2026-09-14T09:35:17.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/theipaper to r/politics [link] [comments]",
-      "author": "/u/theipaper",
-      "imageUrl": "https://external-preview.redd.it/qUTbKlE1GNB4Yzr0w6lWnF6_hL31jgT1oKa9K78SVCU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de6bf452bf9bbda556d5227c9cfccefb26ccc198",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "5dcc13a57ec4e41a",
-      "title": "The clock is ticking to save over $50 on Soundcore AeroFit 2 earbuds at Amazon",
-      "url": "https://mashable.com/tech/sept-14-soundcore-aerofit-2-deal",
-      "datePublished": "2026-09-14T09:33:30.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "As of Sept. 14, Soundcore AeroFit 2 by Anker open earbuds have dropped below $80 at Amazon, making for over $50 in savings from their list price of $129.99.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00Zs2xH5r2t9KmbJOPKKCkw/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "4989fc9d70b0eee5",
-      "title": "Who should own the knowledge that underpins AI technology?",
-      "url": "https://theconversation.com/who-should-own-the-knowledge-that-underpins-ai-technology-291503",
-      "datePublished": "2026-09-14T09:30:04.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Russian mathematician Yurii Nesterov's work on gradient descent methods is influential in the development of AI technology. Simons Foundation via Wikimedia Commons, CC BY-NC-ND Russian mathematician Yurii Nesterov was recently awarded the Gauss Prize for outstanding mathematical contributions for his “groundbreaking work” on optimisation. The award cited his work on gradient descent methods – and ",
-      "author": "James David Pickering, Assistant Professor in Physical Chemistry, School of Chemistry, University of Leicester",
-      "imageUrl": "https://images.theconversation.com/files/758521/original/file-20260908-50-fmir4o.jpg?ixlib=rb-4.1.1&amp;rect=49%2C0%2C2596%2C1731&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "92fe1d96d56def52",
-      "title": "How to build climate-resilient transport systems",
-      "url": "https://theconversation.com/how-to-build-climate-resilient-transport-systems-290089",
-      "datePublished": "2026-09-14T09:25:43.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Pasha Smith/Shutterstock Extreme weather frequently causes major disruptions in UK transport and energy systems. Heavy snowfall often leads to school closures, roads grinding to a halt, rail services and flights severely disrupted or cancelled and even power cuts. Successive heatwaves cause railway tracks to buckle and overhead lines to sag, resulting in slow or cancelled services and an increased",
-      "author": "Erica E.F. Ballantyne, Senior Lecturer in Operations and Supply Chain Management, University of Sheffield",
-      "imageUrl": "https://images.theconversation.com/files/757833/original/file-20260903-50-8zd1fi.jpg?ixlib=rb-4.1.1&amp;rect=1339%2C0%2C2998%2C1999&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "999ccd4b9c0053e4",
-      "title": "Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin",
-      "url": "https://www.reddit.com/r/politics/comments/1wfyhfs/donald_trump_jrs_bahamas_wedding_was_secretly/",
-      "datePublished": "2026-09-14T09:20:48.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/academicabilities to r/politics [link] [comments]",
-      "author": "/u/academicabilities",
-      "imageUrl": "https://external-preview.redd.it/zAPKhFZgLxbzBIHlJW-QENtUmq4QyQNUlP48VHMGjRE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7dd50429cc9d036a873001dcc66cd419eff2a81d",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "149829565d5e936a",
-      "title": "T-Mobile is giving away the Apple iPhone 17 and iPhone 18 for free — how to qualify",
-      "url": "https://mashable.com/tech/free-apple-iphone-deal",
-      "datePublished": "2026-09-14T09:20:42.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to get free iPhone. Get the Apple iPhone 17 or iPhone 18 for free when you sign up for T-Mobile.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/034PMRNFRmIbsK8iLwKjXAY/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "997330e1877d6419",
-      "title": "International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List",
-      "url": "https://variety.com/lists/international-oscar-submissions-2027/",
-      "datePublished": "2026-09-14T09:20:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed […]",
-      "author": "Pat Saperstein",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "60bd7fee0a9a03c8",
-      "title": "How to watch Villarreal vs. Real Betis online for free",
-      "url": "https://mashable.com/entertainment/villarreal-real-betis-la-liga-2026-live-stream-for-free",
-      "datePublished": "2026-09-14T09:17:09.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch La Liga for free. Live steam Villarreal vs. Real Betis in La Liga for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07bWTetEhEIpVNoY1KdVQby/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "10626e57f9b98bdc",
-      "title": "I tested all of Amazons e-readers, and this is the best Kindle to buy",
-      "url": "https://mashable.com/roundup/best-kindles-2026-hands-on-tested",
-      "datePublished": "2026-09-14T09:03:16.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Mashable tested and reviewed every Amazon Kindle. Compare the base Kindle, Kindle Kids, Paperwhite, Colorsoft, and Scribe.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/roundups/075BHRyIknVFjS6g55iHeyI/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "7ce05988471a08e3",
-      "title": "‘I never pass up a rewatch’: why Valley Girl is my feelgood movie",
-      "url": "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie",
-      "datePublished": "2026-09-14T09:00:53.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The latest in our series of writers explaining their most rewatched comfort films brings us back to 1980s LA As a teenager growing up in the 1990s, I was deeply obsessed with all things 1980s pop culture. Chalk it up to nostalgia for my Care Bears-filled childhood – or a stubborn adolescent desire to separate myself from the Dave Matthews Band-loving, khaki-wearing kids at my high school. (Mission",
-      "author": "Annie Zaleski",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "02debc9b67b8f71a",
-      "title": "Bitter Christmas review: Pedro Almodóvar returns with a cerebral, semi-autobiographical drama",
-      "url": "https://mashable.com/entertainment/bitter-christmas-review",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Who has the right to tell your story? Celebrated Spanish filmmaker Pedro Almodóvar explores this and more in \"Bitter Christmas.\" Review.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03GFIXPxd7Rws03lORkkimD/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "46fecc450c75277a",
-      "title": "Telematrix No. 163: September 14, 2026",
-      "url": "http://www.vulture.com/article/daily-tv-grid-trivia-game-telematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Can you name an Emmy-nominated TV show starring Lisa Kudrow?",
-      "author": "Britina Cheng",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/27e/f0f/cf2b3f4c75404d38a82a8b28d09070e568-telematrix-09-14-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ea70f43829c29597",
-      "title": "The Revolt Puzzle",
-      "url": "http://www.vulture.com/article/daily-crossword-puzzle.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "3-Down, Four Letters: Innovation popularized by Nintendo in the ‘80s",
-      "author": "Stella Zawistowski",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/ce9/c48/bc084015851c87d9477f17306e7c56d867-Crossword-09-01-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "225b2b85271bd251",
-      "title": "Trump’s Rage Erupts as Brutal “Convention” Ratings Humiliate Him Badly",
-      "url": "https://newrepublic.com/article/215360/trump-rage-erupts-brutal-convention-ratings-humiliate-badly",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump raged at a reporter who asked about his “midterm convention” offer to send $5,000 to voters if the GOP holds Congress. He snapped at her repeatedly, called her “the worst,” and even leaned in and glowered menacingly in her face. What makes this significant is her question: Why, she asked, do you need to pay voters to turn out if your economic policies are the smashing success you clai",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/8fb1098b449130ff71ab296718c900b53ad36f5c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "5995b7cc9a3eee2a",
-      "title": "Cinematrix No. 902: September 14, 2026",
-      "url": "http://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Can you name an Oscar-nominated Oscar Isaac or Ayo Edebiri movie?",
-      "author": "Britina Cheng",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/41b/99a/52038a8716c21c1aea4eb6e8bbcc9a83d9-cinematrix-9-13-26.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ff4996173496666d",
-      "title": "Sonos&#8217; New Brand Story Aims to Win Back Trust Two Years After Botched App Update",
-      "url": "https://www.adweek.com/creativity/sonos-new-brand-story-aims-to-win-back-trust-two-years-after-botched-app-update/",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "First campaign under new CMO Colleen DeCourcy is the most significant repositioning in Sonos' history.",
-      "author": "Brittaney Kiefer",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "a8be5a5a7fcd810b",
-      "title": "Samsung Taps Couples Therapy&#8217;s Dr. Orna Guralnik to Ease Phone Switching Fears",
-      "url": "https://www.adweek.com/creativity/samsung-taps-couples-therapys-dr-orna-guralnik-to-ease-phone-switching-fears/",
-      "datePublished": "2026-09-14T09:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Samsung enlists Couples Therapy's Dr. Orna Guralnik and a group of famous duos to address the emotional barriers of phone switching.",
-      "author": "Brittaney Kiefer",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "1288d653bbb24fea",
-      "title": "Vans’ Harris Tweed Loafer Is Too Dapper for the Skate Park",
-      "url": "https://www.highsnobiety.com/p/vans-harris-tweed-loafer-53-shoe/",
-      "datePublished": "2026-09-14T08:56:25.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Vans debuts a Harris Tweed Loafer 53 Shoe featuring jewels, safety pins, & loads of elderly swag. Here's everything on the release.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "b61a87dfa3460503",
-      "title": "Even With Cracked Leather, adidas’ Stan Smith Remains Timeless",
-      "url": "https://www.highsnobiety.com/p/adidas-stan-smith-white-orange/",
-      "datePublished": "2026-09-14T08:53:06.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "adidas' famous Stan Smith sneaker is forever timeless, even with \"aged\" cracked leather uppers.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "e636f087d29df929",
-      "title": "adidas’ Espresso-Flavored Sneaker Belongs in a Barista’s Rotation",
-      "url": "https://www.highsnobiety.com/p/emmi-adidas-tokyo-brown-sneakers/",
-      "datePublished": "2026-09-14T08:52:09.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Japan's emmi cooks up a coffee-like brown suede adidas Tokyo sneaker just in time for the fall season.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "86d5430878d20b24",
-      "title": "Daewon's Latest adidas Is a Smooth Chocolate Affair",
-      "url": "https://www.highsnobiety.com/p/adidas-daewon-glenburn/",
-      "datePublished": "2026-09-14T08:49:21.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Continuing his long-standing partnership with the Three Stripes, Daewon Song puts his stamp on the adidas Originals x Daewon Glenburn.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "56642c99252ce3e6",
-      "title": "Hyun Bin, Lee Min-ho, Jung Woo-sung, Isabelle Huppert Headline Busan Open Talk and Outdoor Stage Greeting Lineup",
-      "url": "https://variety.com/2026/film/festivals/hyun-bin-lee-min-ho-isabelle-huppert-busan-talks-1236860985/",
-      "datePublished": "2026-09-14T08:41:08.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 31st Busan International Film Festival (BIFF) has unveiled the lineup and schedule for three of its fan-facing programs: Open Talk, Outdoor Stage Greeting and Talk-to-Talk. Held at the Busan Cinema Center Roof Theater and the HANMAC Smooooth Lounge, the sessions give audiences a chance to meet directors and cast members from a wide range […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d23febd8527aea52",
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "datePublished": "2026-09-14T08:25:57.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 65 # Comments: 19",
-      "author": "SamuraiLion",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "8ba9e44894271165",
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "datePublished": "2026-09-14T08:25:47.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 91 # Comments: 32",
-      "author": "NKosmatos",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "b6304aa72f68090d",
-      "title": "Polish FM: ‘We Would Defeat Russia Quite Quickly’ if Moscow Attacked NATO",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wfxkyp/polish_fm_we_would_defeat_russia_quite_quickly_if/",
-      "datePublished": "2026-09-14T08:24:51.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/ArgentineBeauty to r/worldnews [link] [comments]",
-      "author": "/u/ArgentineBeauty",
-      "imageUrl": "https://external-preview.redd.it/wm8FwoQIehcVJ0IJQRR8XbOjHOXwcmSs0STtt1haFpI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=989afbf64ab6d3502488359b4b0d394f085bfa8c",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "7a14c092ec9249f2",
-      "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wfxkln/amid_trump_trade_war_canadas_exports_to_china_up/",
-      "datePublished": "2026-09-14T08:24:12.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/Immediate-Link490 to r/worldnews [link] [comments]",
-      "author": "/u/Immediate-Link490",
-      "imageUrl": "https://external-preview.redd.it/zzOd1sROlUstULwbOKLLLAgpcZqbS7r8-RWkMMNyeuk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0f200436f8ce66eeac387a6cbb2a6077831c785a",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "55828abcfc194709",
-      "title": "Nike’s Swaggy Skate Forces Look Good Even on Gloomy Days",
-      "url": "https://www.highsnobiety.com/p/nike-sb-force-58-black-light-iron-ore/",
-      "datePublished": "2026-09-14T08:19:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike SB's Force 58 \"Black/Light Iron Ore\" sneaker may be a gloomy spin but it looks good. Here's everything on the nice grey release.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "264f6a119289d352",
-      "title": "Lee Chang-dong’s Films Head to Netflix Worldwide After ‘Possible Love’ Wins Silver Lion at Venice",
-      "url": "https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/",
-      "datePublished": "2026-09-14T08:16:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Netflix will expand its lineup of Lee Chang-dong films worldwide, following the Silver Lion (Grand Jury Prize) win for “Possible Love” at the Venice Film Festival. The expansion will let viewers everywhere explore titles including “Secret Sunshine” and “Peppermint Candy.” “Possible Love,” Lee’s first film in eight years, opens in South Korean theaters Sept. 23, […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "89093a1bee9b1fe9",
-      "title": "Nike’s Baddest Hiking Sneaker Is Here to Beautify the Trails",
-      "url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-platinum-violet/",
-      "datePublished": "2026-09-14T08:16:10.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's ACG Zegama Hike, its baddest trail runner, expands its collection with the release of a pretty \"Platinum Violet\" colorway.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "3ab1544a667709d5",
-      "title": "Netflix to Stream Lee Chang-dong’s Films Globally as ‘Possible Love’ Awards Campaign Heats Up",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-awards-campaign-1236700399/",
-      "datePublished": "2026-09-14T08:03:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "All six of the Korean auteur’s previous features, including ‘Burning,’ ‘Peppermint Candy’ and ‘Secret Sunshine,’ are rolling out across various territories ahead of the global streaming launch of ‘Possible Love’ on Nov. 6.",
-      "author": "Patrick Brzeski",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "3047b88917b2204c",
-      "title": "Liz Rutgersson Named CEO of Stagwell’s Assembly to Build &#8216;Agency for the Future’",
-      "url": "https://www.adweek.com/agencies/liz-rutgersson-named-ceo-of-stagwells-assembly-to-build-agency-for-the-future/",
-      "datePublished": "2026-09-14T08:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Rutgersson previously held the title of CEO at Dentsu’s iProspect",
-      "author": "Chris Cicchiello",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "b401eeebb1cd3785",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "datePublished": "2026-09-14T07:55:19.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 45 # Comments: 10",
-      "author": "anuj0456",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "6cd2f0cb70182d36",
-      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-      "url": "https://screensize.net/reports/viewport-stats",
-      "datePublished": "2026-09-14T07:35:00.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://screensize.net/reports/viewport-stats Comments URL: https://news.ycombinator.com/item?id=49693226 Points: 25 # Comments: 17",
-      "author": "zenpe",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "4e6133d6b5189435",
-      "title": "Cheetah Chrome, Dead Boys and Rocket From the Tombs Guitarist, Dead at 71",
-      "url": "https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/",
-      "datePublished": "2026-09-14T07:21:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The prolific musician, who also played with Sylvain Sylvain and Ronnie Spector, was remembered as an \"an architect of the punk rock movement\"",
-      "author": "Emily Zemler",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "2eea03440cf22267",
-      "title": "'Marvel’s Wolverine' Voice Actor Reveals Who Inspired His Take on Logan",
-      "url": "https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/",
-      "datePublished": "2026-09-14T07:01:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Liam McIntyre reveals the Wolverine performances that inspired his role as Logan in Insomniac Games’ Marvel’s Wolverine.",
-      "author": "Sam Hill",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mw_previews_telembangcombat_4k_2026.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "4b4ef8ce8154fd3b",
-      "title": "Nutrafol Reframes the Makeover On Red Carpet’s Biggest Night",
-      "url": "https://www.adweek.com/brand-marketing/nutrafol-reframes-the-makeover-on-red-carpets-biggest-night/",
-      "datePublished": "2026-09-14T07:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The brand’s latest campaign rewinds traditional “before and after” stories to focus on the moments where people choose to change.",
-      "author": "Andrea Michelson",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "45f0f1b624de7249",
-      "title": "Korea Box Office: ‘The Odyssey’ Secures Sixth Weekend Crown as ‘Obsession’ Ascends",
-      "url": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-obsession-1236860949/",
-      "datePublished": "2026-09-14T06:38:53.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“The Odyssey” continued its voyage at the summit of the South Korean box office during the weekend of Sept. 11–13. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $3.9 million from 449,474 admissions over the three-day frame across 1,648 screens, capturing 51.4% of the […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "15dfa08fa2edc4ee",
-      "title": "A Bland ‘60 Minutes’ Season Premiere Suggests a Limited Bari Weiss Effect (So Far)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/60-minutes-season-premiere-review-bari-weiss-1236700346/",
-      "datePublished": "2026-09-14T06:29:55.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Led by familiar faces Lesley Stahl, Jon Wertheim and Norah O'Donnell, Sunday night's episode was often mediocre, but not in any shocking or dramatically different ways.",
-      "author": "Daniel Fienberg",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "74908670de71ca9b",
-      "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘The Odyssey’ Crosses $100 Million",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-100-million-1236860945/",
-      "datePublished": "2026-09-14T06:20:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dirty Monkeys’ war comedy-drama “Once Upon a Time in the Middle East” held the number one spot at the mainland China box office for the fifth straight frame, collecting RMB52.9 million ($7.8 million) over the Sept. 11–13 weekend, according to data from Artisan Gateway. Directed by Wen Muye (“Dying to Survive”) and starring Shen Teng, […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "c6aacb90bb807a5a",
-      "title": "Affiliate Firm Howl Quietly Sells Creator Business to Taboola&#8217;s Commerce Firm",
-      "url": "https://www.adweek.com/dealroom/howl-sells-creator-business-taboola-connexity/",
-      "datePublished": "2026-09-14T06:00:31.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The company will return its focus to publishers, which it has struggled to pay consistently in the past.",
-      "author": "Mark Stenberg",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "c5f864347b30e179",
-      "title": "A great time with Uncle Junior from the Sopranos: best podcasts of the week",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/14/a-great-time-with-uncle-junior-from-the-sopranos-best-podcasts-of-the-week",
-      "datePublished": "2026-09-14T06:00:25.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Fans of the show will not want to miss this revealing new series with Dominic Chianese and his son. Plus, a political drama that’s as thrilling as a Bourne novel The Sopranos star Dominic Chianese (95) and his son Dominic Chianese Jr (62) helm this new series – a cosy father-son catchup, and all the better for it. Choice cuts include Chianese Sr’s admission that he thought the show was a spoof at ",
-      "author": "Hannah J Davies and Hollie Richardson",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "855fe1f67fef6752",
-      "title": "End Times Fascism by Naomi Klein and Astra Taylor review – the fightback starts here",
-      "url": "https://www.theguardian.com/books/2026/sep/14/end-times-fascism-by-naomi-klein-and-astra-taylor-review-the-fightback-starts-here",
-      "datePublished": "2026-09-14T06:00:25.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A sharp analysis of the damage wrought by the reckless super-rich, and progressive toolkit for repairing it The more power the radical rightwing nationalists of our age accrue, the greater the risk that their destructive brand of politics becomes normalised. We should not, for instance, regard it as normal that the man in charge of one of the world’s largest nuclear arsenals casually promises “a w",
-      "author": "Daniel Trilling",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "f2ae21b54c30ae66",
-      "title": "Droga5 Creative Mariano Jeger Joins OutFront, Launches IRL Studios",
-      "url": "https://www.adweek.com/agencies/droga5-mariano-jeger-outfront-irl-studios/",
-      "datePublished": "2026-09-14T06:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The move is rooted in a broader thesis, which holds that in-person marketing will grow more valuable as trust online degrades.",
-      "author": "Mark Stenberg",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "cb0f18eed5297a9f",
-      "title": "ZocDoc Says ‘Not Just Any Doctor’ in New Ad Spot",
-      "url": "https://www.adweek.com/brand-marketing/zocdoc-says-not-just-any-doctor-in-new-ad-spot/",
-      "datePublished": "2026-09-14T06:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The \"Ready to Be Seen?\" campaign positions ZocDoc as an ally to patients who want to feel seen — and be seen — by healthcare professionals.",
-      "author": "Andrea Michelson",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "b6f2c06c3dbb6398",
-      "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
-      "url": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
-      "datePublished": "2026-09-14T05:06:55.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Final Fantasy inspired indie RPG from Sandfall Interactive was a surprise smash hit — so what's next for Clair Obscur?",
-      "author": "Polygon Staff",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/clair-obscur-expedition-33-gustave-close-up-2.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "1f182ad771e833c0",
-      "title": "After 'Reacher' Season 4 Ends, Here Are Alan Ritchson's 10 Best Performances to Watch Next",
-      "url": "https://www.polygon.com/alan-ritchson-best-movies-tv-shows-ranked/",
-      "datePublished": "2026-09-14T05:04:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From American Idol to Reacher, these are the performances that turned Alan Ritchson into one of Hollywood's biggest action stars.",
-      "author": "Terry Terrones",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jack-reacher.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "71e5634c94c84732",
-      "title": "Jack Thorne warns some fellow scriptwriters are using AI ‘to cheat’",
-      "url": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
-      "datePublished": "2026-09-14T05:00:26.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Adolescence co-writer criticises government inaction and calls for laws banning secret use of AI to generate scripts Jack Thorne, one of Britain’s most successful screen and stage writers, has warned that some people in his profession are using AI “to cheat”, as he called for laws banning the secret use of the technology to generate scripts. Thorne, who co-wrote the hit Netflix drama Adolescence a",
-      "author": "Michael Savage Media editor",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "13e1d13bc2727571",
-      "title": "Prima Facie review – fiery one-woman play is flattened into a bland movie",
-      "url": "https://www.theguardian.com/film/2026/sep/14/prima-facie-film-review-cynthia-erivo-stars-ntwnfb",
-      "datePublished": "2026-09-14T04:59:01.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Toronto film festival: Cynthia Erivo takes on the role Jodie Comer made famous for a pointless adaptation of a story about rape and retribution that loses the power it once had Suzie Miller’s award-winning 2019 play Prima Facie employs a familiar narrative device: a hotshot London barrister finds herself on the other side of the bar, subject to the very legal tactics she once so ruthlessly employe",
-      "author": "Richard Lawson in Toronto",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "e96799de4203cd8b",
-      "title": "9 Sci-Fi Series on Netflix That Are Perfect from Start to Finish",
-      "url": "https://www.polygon.com/best-sci-fi-shows-netflix-perfect/",
-      "datePublished": "2026-09-14T04:40:14.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Unlike Stranger Things, these Netflix sci-fi shows won't leave you feeling unsatisfied",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mv5bywyxodrhzwqtyza3yi00nzm4lwe4mgutnjhjzdzlmdg1yza5xkeyxkfqcgc-_v1_.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "e8fbf2bf6d850b11",
-      "title": "Trump, 80, Forgets the Disgraceful Video He Just Reposted",
-      "url": "https://www.reddit.com/r/politics/comments/1wft8cw/trump_80_forgets_the_disgraceful_video_he_just/",
-      "datePublished": "2026-09-14T04:18:47.000Z",
-      "category": [
-        "forums"
-      ],
-      "description": "submitted by /u/DyzDaeMar to r/politics [link] [comments]",
-      "author": "/u/DyzDaeMar",
-      "imageUrl": "https://external-preview.redd.it/bArQs1LDbPZIa_HBDrnTH7Cq98B4l-T7shrPqGkh6F4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5af718a1f985ab2b468fab06c4c7795363a6942d",
-      "source": "r/news (multireddit)"
-    },
-    {
-      "id": "0e041a8b7d3ab010",
-      "title": "Zack Snyder’s ‘The Last Photograph’: First Reactions",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/",
-      "datePublished": "2026-09-14T04:10:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The film, Snyder's first indie production, debuted at the Toronto Film Festival.",
-      "author": "Abid Rahman",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "617ff457e284cb58",
-      "title": "‘Rick and Morty’ Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show",
-      "url": "https://www.polygon.com/president-curtis-dan-harmon-leprechauns-interview/",
-      "datePublished": "2026-09-14T04:01:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "‘President Curtis’ delves into O’Doyle’s backstory, and things get very weird.",
-      "author": "Sam Nelson",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/image-2.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "ead7930bbf7c5249",
-      "title": "‘I’ve never been more terrified!’ Carly Rae Jepsen on motherhood, stardom and her horniest album ever",
-      "url": "https://www.theguardian.com/music/2026/sep/14/ive-never-been-more-terrified-carly-rae-jepsen-on-motherhood-stardom-and-her-horniest-album-ever",
-      "datePublished": "2026-09-14T04:00:22.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Call Me Maybe made the singer-songwriter famous – but also confused. Who was she? Who was her music for? Fourteen years later, about to release the double album Day and Night, she finally has some answers Carly Rae Jepsen is as bubbly as ever as she comes down for breakfast at Manhattan’s Hotel Chelsea. She’s one of those pop princesses, like Kylie Minogue, whose voice and demeanour remain unchang",
-      "author": "Juan A Ramírez",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
     }
   ]
 }
