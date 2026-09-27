@@ -1,6 +1,1834 @@
 {
-  "generatedAt": "2026-09-26T22:26:40.399Z",
+  "generatedAt": "2026-09-27T18:05:51.272Z",
   "articles": [
+    {
+      "id": "89304d0b4355782f",
+      "title": "'Forgotten Island's Stars Explain \"Tayo Na!\", the Movie's Biggest Shifting In-Joke",
+      "url": "https://www.polygon.com/forgotten-island-tayo-na-explained/",
+      "datePublished": "2026-09-27T18:00:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Actor Liza Soberano and music star H.E.R. on their Filipino heritage and a complicated phrase that means many things in many contexts.",
+      "author": "Tasha Robinson",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fall.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "240c7871d5bc8863",
+      "title": "Where to Watch the 2026 VMAs Live Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-vmas-2026-live-stream-free-mtv-video-music-awards-1236712799/",
+      "datePublished": "2026-09-27T18:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c6f1dde94675e0c3",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "datePublished": "2026-09-27T17:32:02.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.youtube.com/watch?v=-Nvne3LzBls Comments URL: https://news.ycombinator.com/item?id=49868831 Points: 8 # Comments: 1",
+      "author": "CharlesW",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "7d63108dc75646f4",
+      "title": "How to Watch ‘America’s Funniest Home Videos’ Season 37 Online",
+      "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-americas-funniest-home-videos-online-stream-1235632214/",
+      "datePublished": "2026-09-27T17:05:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The long-running clip show is back, promising fans some serious cash and a lavish vacation package grand prize",
+      "author": "Oscar Hartzog",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "8fd2fc6336a1570a",
+      "title": "Nike’s All-Orange WNBA Forces Are Perfect",
+      "url": "https://www.highsnobiety.com/p/wnba-nike-air-force-1-sneakers-2026/",
+      "datePublished": "2026-09-27T17:02:05.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "The WNBA gets its own all-orange, all-suede Air Force 1 Low Jewel sneaker, a.k.a the perfect league sneaker. Here's everything on the release.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "2a3b7c825b38bef6",
+      "title": "Control Resonant's Completely Ignores The Most Interesting Character",
+      "url": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
+      "datePublished": "2026-09-27T17:00:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Control Resonant takes the next big step in the series, but it leaves the Oldest House behind — and along with it, the first game's scary aura.",
+      "author": "Paulo Kawanishi",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/controlresonant_feature_lead2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "0ac2d4114adc3408",
+      "title": "King Of Dragon Pass Creator Wants You To Get The Crew Together",
+      "url": "https://kotaku.com/king-of-dragon-pass-creator-wants-you-to-get-the-crew-together-2000733582",
+      "datePublished": "2026-09-27T17:00:09.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "In Thousand Hells: The Underworld Heists, breaking into a world of ever shifting nightmares is only half of challenge, the other is getting out alive",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/09/ss_8ad5c9ab448b43bcc65350898e50ddefcb5c9ad4.1920x1080-1-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "db03390a9ddd74cb",
+      "title": "Watch Stephen Wilson Jr. Sing ‘Hunger Strike’ With Eddie Vedder",
+      "url": "https://www.rollingstone.com/music/music-country/eddie-vedder-stephen-wilson-jr-hunger-strike-ohana-1235632520/",
+      "datePublished": "2026-09-27T16:52:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Pearl Jam frontman joined the grunge-country artist at Ohana Fest to duet on the Temple of the Dog classic",
+      "author": "Joseph Hudak",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6afbf6920ceafd21",
+      "title": "Chris Rock Says Infidelity and Struggling to ‘Make It’ Aren’t Just Hollywood Problems: ‘If You Got No Love, You’re Broke as F—k’",
+      "url": "https://variety.com/2026/film/news/chris-rock-infidelity-hollywood-misty-green-nyff-1236876867/",
+      "datePublished": "2026-09-27T16:52:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Chris Rock’s new movie “Misty Green” centers on a fictional actress (Rosalind Eleazar) mounting a Hollywood comeback after years in the throes of a fading career. Misty’s journey pokes fun at some of the trappings of trying to “make it” in the entertainment industry, a pursuit that Rock himself is rejecting after his decades-spanning career […]",
+      "author": "Antonio Ferme",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "66af25621bdfb88a",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "datePublished": "2026-09-27T16:50:58.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github Comments URL: https://news.ycombinator.com/item?id=49868404 Points: 7 # Comments: 1",
+      "author": "birdculture",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "33a627e033d234f7",
+      "title": "Brittany Howard Protests ICE at Ohana Festival, Urges Americans to Protect Each Other",
+      "url": "https://www.rollingstone.com/music/music-news/alabama-shakes-protest-against-ice-ohana-fest-performance-1235632485/",
+      "datePublished": "2026-09-27T16:46:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Alabama Shakes bandleader wore an \"ICE OUT\" pin during the group's set at the Orange County fest and delivered a message of unity",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "0b7c8b6d717655d3",
+      "title": "Samsung smart fridges stop cooling after faulty update",
+      "url": "https://mashable.com/tech/samsung-smart-fridge-update-stops-cooling",
+      "datePublished": "2026-09-27T16:46:01.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Samsung says a test update mistakenly reached some smart fridges in South Korea. It’s offering free repairs as owners report spoiled food.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06eP9g7Z75zv2dtizQmuveR/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "9a818e211aa16678",
+      "title": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
+      "url": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+      "datePublished": "2026-09-27T16:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways.",
+      "author": "staff@engadget.com (Filipe Espósito)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-the-iphone-duo-could-be-beneficial-for-samsungs-galaxy-z-fold-8/l-intro-1790259728.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "08de6fb318c32ece",
+      "title": "Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: “So Sweet — and Sexy”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-billy-crudup-menopause-zurich-housewife-film-1236712830/",
+      "datePublished": "2026-09-27T16:38:02.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Zurich's Golden Eye recipient also charted her 10 years of unsuccessful auditions before getting her big break in 'Mulholland Drive': \"My agent told me, 'Honey, you're too intense. You're freaking people out.'\"",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "64a14095906f0956",
+      "title": "Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games",
+      "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
+      "datePublished": "2026-09-27T16:31:42.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A CD Projekt Red dev told Polygon that while a Geralt-inspired skin is coming to Diablo 4, don't expect Diablo characters in The Witcher 3 Remastered",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "8884274c1b64da53",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "datePublished": "2026-09-27T16:30:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "\"AI is the devil and I its maker.\"",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "0085c4558ce4bfb2",
+      "title": "Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I’m Asked’",
+      "url": "https://variety.com/2026/tv/news/adam-brody-calls-for-free-palestine-political-question-1236876872/",
+      "datePublished": "2026-09-27T16:28:22.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I’m asked,” the actor told GQ. “And it’s true. I’m not wearing a pin, so I’m not inviting a certain question, and perhaps I should. […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "a6d4b89038f1db18",
+      "title": "Israeli Americans Protest Outside ‘NAZA’ New York Premiere by Screening Oct. 7 Attacks Footage",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-doc-new-york-premiere-1236712821/",
+      "datePublished": "2026-09-27T16:23:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Israeli-American Council (IAC) co-chair Tal Shuster said of the Israel–Gaza war documentary, \"We're not saying, don't show the film. We're saying: show all the facts.\"",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "bc31f6575014bded",
+      "title": "Jason Newsted Remembers Cliff Burton 40 Years After Legendary Metallica Bassist’s Passing",
+      "url": "https://consequence.net/2026/09/jason-newsted-remembers-cliff-burton/",
+      "datePublished": "2026-09-27T16:19:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jason Newsted speaks of Cliff Burton's brilliance in this interview with Heavy Consequence. Jason Newsted Remembers Cliff Burton 40 Years After Legendary Metallica Bassist’s Passing Spencer Kaufman",
+      "author": "Spencer Kaufman",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "4aa8cdc749d349a2",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "datePublished": "2026-09-27T16:19:46.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 102 # Comments: 60",
+      "author": "zzzeek",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "741f7d09f37761d2",
+      "title": "‘Avengers: Endgame Encore’ Scores Massive $86 Million Globally, Brad Pitt’s ‘Heart of the Beast’ Launches to $50 Million Worldwide",
+      "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861/",
+      "datePublished": "2026-09-27T16:16:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Avengers: Endgame” returned to theaters and assembled a massive $86 million globally, including $26 million in North America and $60 million overseas. Disney and Marvel’s 2019 blockbuster was already the second-highest-grossing movie in box office history with $2.79 billion; this weekend’s haul brings the movie’s staggering tally to $2.88 billion. It’s only $39 million behind […]",
+      "author": "Rebecca Rubin",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "dab5b52e75666e16",
+      "title": "How to use Android's Desktop mode to turn your phone into a tiny PC",
+      "url": "https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/",
+      "datePublished": "2026-09-27T16:15:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "You can plug recent Pixel phones into a monitor to get a desktop-style interface.",
+      "author": "staff@engadget.com (Antony Terence)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-androids-desktop-mode-to-turn-your-phone-into-a-tiny-pc/l-intro-1790259325.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f42a84a71530923a",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "datePublished": "2026-09-27T16:02:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "author": "Kirsten Korosec",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "72acab79fb88de34",
+      "title": "Xbox Almost Spoiled the Best Time of Year for Games",
+      "url": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
+      "datePublished": "2026-09-27T16:00:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Xbox layoffs and Halo move to Activision sounded a bum note, but fall game season always brings joy",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/ace-combat-8.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "9442be974983c3b8",
+      "title": "Abby And Lev’s Voice Actors Join John Goodman In HBO’s Third Season Of The Last Of Us",
+      "url": "https://kotaku.com/abby-and-levs-voice-actors-join-john-goodman-in-hbos-third-season-of-the-last-of-us-2000737425",
+      "datePublished": "2026-09-27T16:00:15.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "While they won’t be reprising their characters from the game, Laura Bailey and Ian Alexander join the rapidly growing cast for the award winning television adaptation",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/09/levabbyfred.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "7e2c3291b0cf22fb",
+      "title": "How to Stream the VMAs Live Online",
+      "url": "https://variety.com/2026/shopping/news/how-to-stream-vmas-live-online-free-1236876095/",
+      "datePublished": "2026-09-27T16:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The MTV Video Music Awards return Sunday night with one of the show’s biggest lineups in years, including Madonna’s first VMA performance in more than two decades, a Dolly Parton tribute from Kacey Musgraves and the world premiere of a new Taylor Swift music video. The 2026 MTV VMAs air live Sunday, Sept. 27 at […]",
+      "author": "Atingley4",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "177469b2c033d274",
+      "title": "Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest",
+      "url": "https://consequence.net/2026/09/robert-del-naja-arrested-at-pro-palestine-protest/",
+      "datePublished": "2026-09-27T15:54:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The trip-hop musician was also arrested at a similar protest in April. Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "6352c31fe11c6c9f",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "datePublished": "2026-09-27T15:51:28.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 37 # Comm",
+      "author": "hp6",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "541ad243a1bfd5a7",
+      "title": "How to use Spotify's Running Mode on iOS and Android",
+      "url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "datePublished": "2026-09-27T15:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Maximize your stride with Spotify's AI-powered running features.",
+      "author": "staff@engadget.com (Yoni Yardeni)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "3d10bdaa1747c670",
+      "title": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
+      "url": "https://www.polygon.com/avengers-endgame-encore-box-office/",
+      "datePublished": "2026-09-27T15:42:23.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/steve-and-peggy-avengers-endgame.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "6434ba8e2f22e547",
+      "title": "Anna Kendrick Is “Over the Moon” About Directing ‘The Seven Husbands of Evelyn Hugo’",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anna-kendrick-seven-husbands-evelyn-hugo-film-babies-zurich-1236712816/",
+      "datePublished": "2026-09-27T15:39:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The 'Babies' actress covered George Clooney, 'Twilight' (\"what the f*** am I doing here?\") and 'Pitch Perfect's \"revisionist history\" in a career-spanning conversation at the Zurich Film Festival.",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "10c11fd78ff653e6",
+      "title": "Sabrina Carpenter to Play Ginger Rogers in Fred Astaire Biopic",
+      "url": "https://pitchfork.com/story/sabrina-carpenter-to-play-ginger-rogers-in-fred-astaire-biopic/",
+      "datePublished": "2026-09-27T15:37:52.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "She’ll star opposite Tom Holland and Margaret Qualley in the still-untitled Paul King film",
+      "author": "Hattie Lindert",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "33b5d3cf05a78575",
+      "title": "Box Office: ‘Avengers: Endgame Encore’ Returns to No. 1 With $26 Million, ‘Primetime’ Scores Impressive $19 Million Debut",
+      "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/",
+      "datePublished": "2026-09-27T15:35:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Avengers: Endgame Encore,” a re-release of Disney and Marvel’s 2019 blockbuster (with extra footage!), emerged victorious at the domestic box office over several new releases. “Avengers: Endgame Encore” generated $26 million from 3,060 North American theaters over the weekend, a sizable haul for a movie that’s been available to watch online for years. It was […]",
+      "author": "Rebecca Rubin",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c523e4870857e946",
+      "title": "PostmarketOS is rebranding as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "datePublished": "2026-09-27T15:31:15.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://nura.eco/blog/2026/09/27/nura-rename/ Comments URL: https://news.ycombinator.com/item?id=49867553 Points: 81 # Comments: 9",
+      "author": "HotGarbage",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a6bfd79602f752ad",
+      "title": "Jon Watts reportedly set to direct the next Star Wars film",
+      "url": "https://mashable.com/entertainment/jon-watts-to-direct-star-wars-film",
+      "datePublished": "2026-09-27T15:28:26.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "THR reports Jon Watts will direct Star Wars: Episode X, written by Simon Kinberg. The film is still in development at Disney.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04HwOE3XmsB8dL6I8MDnaPy/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "f94c0a1e56c738b9",
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "datePublished": "2026-09-27T15:26:40.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html Comments URL: https://news.ycombinator.com/item?id=49867486 Points: 147 # Comments: 39",
+      "author": "pxx",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "5ff7e157cf6ed791",
+      "title": "How to improve your router's security in 10 minutes",
+      "url": "https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/",
+      "datePublished": "2026-09-27T15:15:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Most internet routers are solid out of the box, but that doesn't mean they can't be made more secure. Often, all you need to do is tweak a few settings.",
+      "author": "staff@engadget.com (Ben Stegner)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-improve-your-routers-security-in-10-minutes/l-intro-1790246428.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "6410338c0711ddda",
+      "title": "‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’",
+      "url": "https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/",
+      "datePublished": "2026-09-27T15:12:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Godzilla Minus One” made franchise history in 2024 when it won Best Visual Effects at the 96th Academy Awards, becoming the first Godzilla film to win an Oscar. Now, after Takashi Yamazaki’s highly anticipated sequel, “Godzilla Minus Zero,” premiered to rave reviews at the New York Film Festival, some fans are already calling for a […]",
+      "author": "Antonio Ferme",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "25676f82f1d251bd",
+      "title": "Anna Kendrick ‘Over the Moon’ About Directing ‘The Seven Husbands of Evelyn Hugo,’ Compares ‘Pitch Perfect’ Friendships to the Avengers",
+      "url": "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812/",
+      "datePublished": "2026-09-27T15:12:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Anna Kendrick, who is at the Zurich Film Festival for the European premiere of Lauren Miller Rogen’s “Babies,” spoke briefly about her next directorial project, “The Seven Husbands of Evelyn Hugo.” Back in June, it was announced that Kendrick would direct the Netflix film, adapted from Taylor Jenkins Reid’s best-selling novel. “Obviously, over the moon […]",
+      "author": "Rafa Sales Ross",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "fb1db54334dc5afc",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "datePublished": "2026-09-27T15:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "author": "Aisha Malik",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "1996c0346ecd80af",
+      "title": "How to watch Norway vs. Portugal online for free",
+      "url": "https://mashable.com/entertainment/norway-portugal-nations-league-2026-live-stream-for-free",
+      "datePublished": "2026-09-27T15:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Nations League for free. Live steam Norway vs. Portugal in Nations League for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01jtgO6qF4zXoZzWqCUsCy8/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "81aafee115547b80",
+      "title": "Dallas Cowboys vs. Baltimore Ravens: Where to Watch the First NFL Game in Rio de Janeiro",
+      "url": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-cowboys-vs-ravens-rio-de-janeiro-2026-1235631198/",
+      "datePublished": "2026-09-27T15:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The NFL continues its global push with an international game at Maracanã Stadium",
+      "author": "Jonathan Zavaleta",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "d3d80a5fdc5d9de8",
+      "title": "‘Superman’ Director James Gunn Wants You to Know Singer/Songwriter Nouela",
+      "url": "https://www.rollingstone.com/music/music-news/james-gunn-superman-dc-studios-nouela-1235632086/",
+      "datePublished": "2026-09-27T15:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Gunn, co-CEO of DC Studios, writes about one of his favorite artists: 'The magnificence of art isn’t measured by the number of people who experience it.'",
+      "author": "Brian Hiattt",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "69a76c3f9471d9d3",
+      "title": "Ween Announce Live Boxset, Boognish Provides, From 1990s “Chocolate and Cheese” Tour",
+      "url": "https://consequence.net/2026/09/ween-announce-boxset-boognish-provides/",
+      "datePublished": "2026-09-27T14:55:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The collection will feature entire sets of seven concerts on a 14xCD edition and selections from the shows on a 2xLP edition. Ween Announce Live Boxset, Boognish Provides, From 1990s “Chocolate and Cheese” Tour Travis Bland",
+      "author": "Travis Bland",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "11ce41cfa0e2601a",
+      "title": "Here’s What Went Down at Olivia Rodrigo’s Unraveled Tour Opener",
+      "url": "https://pitchfork.com/story/heres-what-went-down-at-olivia-rodrigos-unraveled-tour-opener/",
+      "datePublished": "2026-09-27T14:54:35.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A melting dress, a field of pink flowers, and some Sour throwbacks came together at the Hartford, Connecticut show",
+      "author": "Hattie Lindert",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "b9995e163582a987",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "datePublished": "2026-09-27T14:45:07.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 274 # Comments: 232",
+      "author": "jandeboevrie",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "3246f794c1f12ef4",
+      "title": "Why you should avoid holding down your PC's power button",
+      "url": "https://www.engadget.com/2267392/why-important-reboot-pc-menu-not-power-button/",
+      "datePublished": "2026-09-27T14:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There are often times when your PC hangs and you need to perform a hard shutdown, but there are a number of reasons why doing it regularly could cause issues.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-you-should-avoid-holding-down-your-pcs-power-button/l-intro-1790245006.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "522664bb7c6899ab",
+      "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
+      "url": "https://www.polygon.com/physint-budget-controversy/",
+      "datePublished": "2026-09-27T14:43:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/physint.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "c219fe8f6b6ac4b1",
+      "title": "10 Tells of a Slop UI",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "datePublished": "2026-09-27T14:41:26.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop Comments URL: https://news.ycombinator.com/item?id=49867038 Points: 246 # Comments: 175",
+      "author": "theanonymousone",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "54e917d53aa8f031",
+      "title": "Salomon's Whimsical GORE-TEX XT-6 Sneaker Is Still Super Sturdy",
+      "url": "https://www.highsnobiety.com/p/salomon-gore-tex-xt-6-sneaker/",
+      "datePublished": "2026-09-27T14:34:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "OFFSPRING added a level of wearable whimsy to Salomon's GORE-TEX XT-6 sneaker.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "b38278b846f39b46",
+      "title": "SNL Weekend Update returns with Xi, Netanyahu, and an anxious Dario Amodei",
+      "url": "https://mashable.com/entertainment/snl-weekend-update-trump-visit",
+      "datePublished": "2026-09-27T14:31:21.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Colin Jost and Michael Che tackle Xi, Netanyahu, and Gen Z's love life, plus surprise visits from Tucker Carlson and a jittery Dario Amodei.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02dMghBbHbz1U92R6dnlGwk/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "bc5da742d3122588",
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "datePublished": "2026-09-27T14:30:55.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html Comments URL: https://news.ycombinator.com/item?id=49866951 Points: 91 # Comments: 33",
+      "author": "danso",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "76bec23cc8dd7df5",
+      "title": "A24’s ‘Primetime’ Opens to Impressive $19.2 Million, Proving Robert Pattinson’s Box Office Drawing Power",
+      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-opening-robert-pattinson-star-power-1235218868/",
+      "datePublished": "2026-09-27T14:27:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Pattinson's road to commercial viability has been bumpy at times, but with \"The Drama\" and \"The Odyssey,” he's having one hell of a 2026.",
+      "author": "Brent Lang",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "e67b66eaae67e4d7",
+      "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
+      "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
+      "datePublished": "2026-09-27T14:15:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Don't let an AI bot potentially crash your TV.",
+      "author": "staff@engadget.com (Kari Paul)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-letting-claude-clean-your-tvs-bloatware-isnt-the-best-idea/l-intro-1790197913.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "1651a35362821e71",
+      "title": "Florence Road Land Top Slot at Ohana After Gear Stolen: ‘It Means a Lot for a Little Irish Band’",
+      "url": "https://www.rollingstone.com/music/music-news/florence-road-ohana-festival-performance-gear-stolen-1235632448/",
+      "datePublished": "2026-09-27T14:09:59.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "After having to cancel their Friday performance, fest organizers were able to squeeze the band in right before Tyler Childers' Saturday headlining set",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "4205ae6ac8842531",
+      "title": "SNLs new cast members crash a K-Pop competition",
+      "url": "https://mashable.com/entertainment/snl-dream-academy-sketch-katseye",
+      "datePublished": "2026-09-27T14:01:34.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Grace Reiter, Saidah Belo-Osagie debut on 'SNL', including a song with musical guest Katseye.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/03lyJZ21tJTvvojA05SYqwa/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "7ad73e1fec18195e",
+      "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
+      "url": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
+      "datePublished": "2026-09-27T14:00:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why.",
+      "author": "Ford James",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wardogs-playtest-reactions.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "66f5addbf5cc494c",
+      "title": "WNBA Playoffs 2026: Where to Watch Post-Season Women’s Basketball Games Live Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-wnba-playoffs-2026-basketball-live-online-free-1236710073/",
+      "datePublished": "2026-09-27T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Women's basketball fans have plenty of options to catch games during the playoffs — here's how.",
+      "author": "Rudie Obias",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "57caa029200f9adf",
+      "title": "How Trump Became Mob Boss of the United States",
+      "url": "https://www.rollingstone.com/politics/political-commentary/trump-mob-boss-united-states-1235631736/",
+      "datePublished": "2026-09-27T14:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The most corrupt president in American history has been preparing his entire life to co-opt the government for personal gain",
+      "author": "Ryan Bort",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "aa722c7bc06457e4",
+      "title": "How Brazilian Cinema Survived Fascism",
+      "url": "",
+      "datePublished": "2026-09-27T13:46:11.877Z",
+      "category": [
+        "society"
+      ],
+      "description": "When writer-director Kleber Mendonça Filho was on a press junket with his sensational genre-twisting, furiously satirical 2019 film, , Brazilian cinema was in a state of crisis. Jair Bolsonaro’s oppressive right-wing government targeted the national cinema for destruction, aggressively slashing budgets, halting funding, canceling projects, and leaving thousands of films at various stages of develo",
+      "author": "Eileen Jones",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "c5e4959df3b116c6",
+      "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
+      "url": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
+      "datePublished": "2026-09-27T13:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.",
+      "author": "staff@engadget.com (Calvin Wankhede)",
+      "imageUrl": "https://www.engadget.com/img/gallery/gemini-live-vs-chatgpt-voice-which-ai-offers-a-more-natural-conversation/l-intro-1790190080.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "72d2ddfc687afcca",
+      "title": "Star Wars Episode 10 Has Found Its Director",
+      "url": "https://www.polygon.com/star-wars-episode-10-director/",
+      "datePublished": "2026-09-27T13:43:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jon Watts has come on board to direct Simon Kinberg's Star Wars movie, which is expected to be Star Wars: Episode 10",
+      "author": "Tomas Franzese",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/epmikkglpgvelwdwdsgfkb.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "79f73d2f591f50ed",
+      "title": "SNL kicks off Season 52 with Trump crushing hard on Mamdani",
+      "url": "https://mashable.com/entertainment/trump-mamdani-snl-cold-open-ramy-youssef",
+      "datePublished": "2026-09-27T13:34:01.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "'SNL' kicks off Season 52 with Trump crushing hard on Mamdani",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/02aeclXjBEKwl7XLB5c37kd/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "00c7b74fbc13eb3e",
+      "title": "Ten Lines of Code That Changed My World",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "datePublished": "2026-09-27T13:33:03.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://pixelambacht.nl/2026/ten-lines-of-code/ Comments URL: https://news.ycombinator.com/item?id=49866534 Points: 70 # Comments: 18",
+      "author": "dimonomid",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "01a77d84d6a1957a",
+      "title": "‘Star Wars’ Selects Director Jon Watts to Helm Episode X in ‘Skywalker Saga’",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/star-wars-director-jon-watts-episode-x-skywalker-saga-1235632455/",
+      "datePublished": "2026-09-27T13:31:24.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Spider-Man series director and Skeleton Crew co-creator will reportedly guide first film in Simon Kinberg-penned trilogy",
+      "author": "Daniel Kreps",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "9ebfd72d3c08c2ed",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "datePublished": "2026-09-27T13:30:11.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/ Comments URL: https://news.ycombinator.com/item?id=49866515 Points: 74 # Comments: 36",
+      "author": "surprisetalk",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "964b7c5246072d83",
+      "title": "Why it's important to not put your PC on the floor",
+      "url": "https://www.engadget.com/2267888/why-its-important-to-not-put-pc-floor/",
+      "datePublished": "2026-09-27T13:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "If you're not going to put it on your desk, at least do these things.",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-its-important-to-not-put-your-pc-on-the-floor/l-intro-1790181446.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "eac00be405bcc8c2",
+      "title": "Where to Watch the Chargers vs. Bills Game Live Online",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chargers-vs-bills-game-live-nfl-streams-2026-1236712793/",
+      "datePublished": "2026-09-27T13:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The NFL Week 3 game is set for Sunday, Sept. 27 at the Buffalo Bills' new $2.1 billion Highmark Stadium.",
+      "author": "Erin Lassner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "46c4adec8720cfc9",
+      "title": "Humanoid robots are getting even creepier (this one can cry on command)",
+      "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
+      "datePublished": "2026-09-27T13:15:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation.",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "6a0c6df964a0c9a2",
+      "title": "Naomi Watts Recalls Being Told She ‘Freaked People Out’ Early in Her Career: ‘Yeah, No S—. I Was Desperate, Behind on My Rent and Getting Evicted’",
+      "url": "https://variety.com/2026/film/awards/naomi-watts-mullholland-drive-early-career-menopause-1236876797/",
+      "datePublished": "2026-09-27T13:14:13.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Naomi Watts waited a long time to become a star. “It was a grind. That 10 years before I met David, I became so locked up and I felt worthless. My agent pulled me aside and she said: ‘We need to have a heart to heart. Honey, you are too intense. You are freaking people […]",
+      "author": "Marta Balaga",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "f9a18332b26878da",
+      "title": "Control Resonant Has a Secret Weapon in the GOTY Race",
+      "url": "https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/",
+      "datePublished": "2026-09-27T13:00:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Remedy Entertainment has a good chance of a Game of the Year nomination at The Game Awards thanks to its underdog status",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/control-resonant.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "5394b83274aa8d55",
+      "title": "Rapper and actor Eve looks back: ‘I was the only girl in the boardroom in major label meetings – that Philly girl had to come out’",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/eve-looks-back-interview-musician-actor-rapper",
+      "datePublished": "2026-09-27T13:00:05.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Grammy-winning artist on ​d​estroying egos in school, the dealers who looked out for her, and learning from early failure Born Eve Jihan Jeffers in Philadelphia in 1978, rapper Eve released her debut album, Let There Be Eve … Ruff Ryders’ First Lady, in 1999; it entered the Billboard 200 at No 1. She followed its success with the platinum-selling Scorpion, which went on to win a Grammy for the",
+      "author": "Harriet Gibsone",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "ee13ff37ad4f71c0",
+      "title": "Kyle MacLachlan Is Owning the Times He Was ‘Really an Ass’",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/kyle-maclachlan-memoir-dune-david-lynch-interview-1235631193/",
+      "datePublished": "2026-09-27T13:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As he prepares to release a new memoir, the Twin Peaks legend reflects on his long career, his friendship with David Lynch, mistakes of the past, and finding his “happy place” on TikTok",
+      "author": "Maria Fontoura",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "05c3ee25c6d5b9e0",
+      "title": "How to use the Live Text feature on your iPhone",
+      "url": "https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/",
+      "datePublished": "2026-09-27T12:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-the-live-text-feature-on-your-iphone/l-intro-1790186990.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "838c764bd9805d10",
+      "title": "Target is hosting a huge Pokémon 30th Anniversary event: How to claim free promo cards this weekend",
+      "url": "https://mashable.com/life/target-pokemon-30th-anniversary-event-free-promo-card-how-to-claim",
+      "datePublished": "2026-09-27T12:39:41.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Target is hosting a Pokémon 30th Anniversary event on Sept. 27 from 12 to 4 p.m. Claim free promo cards and take part in free activities.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07zwamulchzi2k6dBLVnueW/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4949d45fa03ddd99",
+      "title": "Who Killed Asylum?",
+      "url": "",
+      "datePublished": "2026-09-27T12:30:00.141Z",
+      "category": [
+        "society"
+      ],
+      "description": "Asylum as we know it is basically dead. The immigration system has been so systematically hollowed out that, for the vast majority of the world’s poor and displaced, it might as well not exist anymore. A brief list of what’s gone wrong: First, asylum approval rates have to historic lows, falling below 20 percent in 2025, compared to 55.5 percent in 2012.plummeted Second, the process is slower than",
+      "author": "Levi Vonk",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "2d7e1d6d7c1e95cf",
+      "title": "iPhone Duo vs Microsoft Surface Duo: One name, two very different devices",
+      "url": "https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/",
+      "datePublished": "2026-09-27T12:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A brief history of \"Duo\" foldables.",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/iphone-duo-vs-microsoft-surface-duo-one-name-two-very-different-devices/l-intro-1789917060.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "d5f8a7a4a38e96ad",
+      "title": "How to use Android apps on your Windows PC (and why you might want to)",
+      "url": "https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/",
+      "datePublished": "2026-09-27T12:15:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "With the right software, you can run Android apps on your Windows PC. Here's why you may want to and how to get it set up on your own computer.",
+      "author": "staff@engadget.com (Max Miller)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-android-apps-on-your-windows-pc-and-why-you-might-want-to/l-intro-1789398732.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "bb7d55d766b722a1",
+      "title": "The GTA Series is a Game Preservation Nightmare",
+      "url": "https://www.polygon.com/gta-game-preservation-classic-games-availability/",
+      "datePublished": "2026-09-27T12:00:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Rockstar Games doesn't seem to care about making classic Grand Theft Auto games available to play on PS5 and other current platforms",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_duval_07.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "4a004a4086151e58",
+      "title": "‘Eminem’s Lose Yourself is my anthem for getting the kids out of the house’: Kimberly Wyatt’s honest playlist",
+      "url": "https://www.theguardian.com/music/2026/sep/27/kimberly-wyatt-pussycat-dolls-honest-playlist-whitney-houston-eminem",
+      "datePublished": "2026-09-27T12:00:04.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Pussycat Doll went roller skating to the Beach Boys and is ‘completely over’ Gangnam Style. But what song makes her cry every time? The first song I fell in love with When I learned to drive and got my first car, I felt this real freedom. I’d put the windows down, blare out Ghetto Supastar (That Is What You Are) by Pras, featuring Ol’ Dirty Bastard and Mýa, and sing at the top of my lungs. The",
+      "author": "As told to Rich Pelley",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "1679fc1e856e7fb4",
+      "title": "The United Arab Emirates Is Devastating Sudan for Profit",
+      "url": "",
+      "datePublished": "2026-09-27T12:00:00.020Z",
+      "category": [
+        "society"
+      ],
+      "description": "At one time or another, Sudanese governments have hosted, armed, or tolerated rebels and opposition groups from all of the country’s neighbors, from Egypt and Libya to Uganda and Ethiopia. Sudan’s neighbors have repaid the favor, and a range of outside actors are now involved in the Sudanese civil war. Key supporters of the Rapid Support Forces (RSF) include Chad, Ethiopia, Uganda, Kenya, and Sout",
+      "author": "Husam Mahjoub",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "7dcc57e44ef12fb5",
+      "title": "Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’",
+      "url": "https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/",
+      "datePublished": "2026-09-27T11:54:24.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or […]",
+      "author": "Marta Balaga",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "2cc0ed588c1d3766",
+      "title": "We Can’t Blame the Supreme Court for Congress’s Problems",
+      "url": "",
+      "datePublished": "2026-09-27T11:30:00.049Z",
+      "category": [
+        "society"
+      ],
+      "description": "Almost everyone on the Left seems to have lost faith in the Supreme Court of the United States. This would have been improbable in 1954, after the decision, or in 1973, after , or even in 1992, after the court upheld the core holding of in . But after over twenty years of the conservative John Roberts serving as chief justice, including over half a decade of him leading a court with a 6–3 conserva",
+      "author": "Harry Blain",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "2ef4799c01748a7b",
+      "title": "Tomi Adeyemi on the film of her hit novel Children of Blood and Bone: ‘I don’t plan to watch it’",
+      "url": "https://www.theguardian.com/books/2026/sep/27/tomi-adeyemi-on-the-film-of-her-hit-novel-children-of-blood-and-bone-i-dont-plan-to-watch-it",
+      "datePublished": "2026-09-27T11:00:02.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Her debut earned a record-breaking YA book deal – then came her fallout with Hollywood. The author talks about the pressures of success and why she is pictured on the cover of her new novel There is a photograph of Tomi Adeyemi staring out from the cover of her new novel, The Siren. It is an arresting image: her face fills the frame, unsoftened by a smile, her piercing gaze fixed directly on the v",
+      "author": "Emma Loffhagen",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "d0670276d278cebf",
+      "title": "In Italy’s Financial Capital, Socialism Is Back in the Air",
+      "url": "",
+      "datePublished": "2026-09-27T11:00:00.115Z",
+      "category": [
+        "society"
+      ],
+      "description": "One in twelve people living in Milan is a millionaire. A by the consultancy Henley &amp; Partners ranks Italy’s second-largest city and financial capital as the world leader for millionaires per resident, well ahead of New York City, where the figure is one in twenty-two. A growing number come from abroad, drawn not just by the vibrancy of Italy’s fashion hub but also generous tax breaks for wealt",
+      "author": "Jacopo Custodi",
+      "imageUrl": "",
+      "source": "Jacobin"
+    },
+    {
+      "id": "a119acb89b9f8974",
+      "title": "John Turturro on Joining the Oscar Race — and ‘Severance’ Season 3",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-turturro-oscar-pickpocket-new-york-severance-zurich-1236712804/",
+      "datePublished": "2026-09-27T10:39:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Zurich Golden Eye winner sat down for a masterclass session in Switzerland, where he spoke about the long-overdue buzz for his latest performance in 'The Only Living Pickpocket in New York.'",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "71ac5a164a1de7a9",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "datePublished": "2026-09-27T10:26:25.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 91 # Comments: 96",
+      "author": "yu3zhou4",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "61e5438d8d9937d9",
+      "title": "Beyond Frontman Doc ‘Because of You Ka Kui’ to Open U.K.’s Odyssey Film Festival, Lands Local Distribution (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/beyond-frontman-doc-because-of-you-ka-kui-odyssey-fest-1236876790/",
+      "datePublished": "2026-09-27T10:17:20.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Because of You Ka Kui,” a documentary on the late Beyond frontman Wong Ka Kui, will open the sixth Odyssey Film Festival in the U.K., with NGO U.K.-China Film Collab also picking up the Hong Kong film for local distribution. Discussions began in March at FilMart in Hong Kong, which U.K.-China Film Collab attended with […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "09d806e3101d2f91",
+      "title": "“D’Angelo in Starlight,” by Ishion Hutchinson",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/dangelo-in-starlight-ishion-hutchinson-poem",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "“Good God, the devil is up to his old tricks.”",
+      "author": "Ishion Hutchinson",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "ee85e965f412fe91",
+      "title": "Fiction by Aleksandr Solzhenitsyn, in English for the First Time",
+      "url": "https://www.newyorker.com/books/this-week-in-fiction/aleksandr-solzhenitsyn-10-05-26",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "A conversation with Aleksandr Solzhenitsyn’s son Ignat Solzhenitsyn.",
+      "author": "Deborah Treisman",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "8af041d42aee03ba",
+      "title": "“Weeping Willow, Nantucket,” by Stephanie Burt",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/weeping-willow-nantucket-stephanie-burt-poem",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "“They can’t get off the island either.”",
+      "author": "Stephanie Burt",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "3e4b7b6773c49c5a",
+      "title": "“Narrow Escape,” by Aleksandr Solzhenitsyn",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/narrow-escape-fiction-aleksandr-solzhenitsyn",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The police lieutenant appeared to be writing down exactly what Gleb was telling him, but relying upon completely different words.",
+      "author": "Aleksandr Solzhenitsyn",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "257fcfb9ce783e81",
+      "title": "The President vs. the Press",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/the-president-vs-the-press",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Donald Trump’s behavior cannot be called unexpected at this point. What was noteworthy last week, however, was the way that the media responded.",
+      "author": "Jelani Cobb",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "4a33ab5254870836",
+      "title": "The Worst Possible Way to End the Trump Era",
+      "url": "https://newrepublic.com/post/215852/oust-donald-trump-military-coup",
+      "datePublished": "2026-09-27T10:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "One of my many cataloged memories of the Trump era is from the run-up to the 2016 election, when one of my colleagues related to me what one of his sources in Brazil, fretful about Donald Trump’s rise, told him. “It’s OK for the world for Brazil to occasionally be a basket case nation,” he said. “But the thought of the U.S. becoming one is really disturbing.” This week, Trump addressed the U.N. Ge",
+      "author": "Jason Linkins",
+      "imageUrl": "https://images.newrepublic.com/002c634c2f39b39ac0eb2ca27a420874c177e365.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "07bc9c2cf07feaf3",
+      "title": "A Humble Court Classic Becomes the Literal Jewel in the adidas Crown",
+      "url": "https://www.highsnobiety.com/p/adidas-superstar-jewel/",
+      "datePublished": "2026-09-27T09:15:00.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Tapping into one of the most prevalent hardware trends in the scene right now, the Three Stripes elevates its shell-toe titan with the adidas Superstar Jewel.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "06f70011aafe6426",
+      "title": "Can SpaceXs Starship actually loop Earth six times? Watch it live.",
+      "url": "https://mashable.com/science/spacex-starship-livestream-september-2026",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "During Starship's 14th test, SpaceX will attempt to put the spacecraft in orbit for the first time, circling the world six times.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/025ruFyURCclnLjkhzPTvs8/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ebb91abff2c07a05",
+      "title": "Protect your business data with a $40 VPN during this Flash Sale",
+      "url": "https://mashable.com/tech/sept-27-adguard-vpn-ad-blocker-family-security-suite",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Protect business data and online activity with AdGuard VPN + Ad Blocker Family Security Suite for $39.97 (reg. $439.39) through Sept. 29 at 11:59 p.m. PT.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02nlQF2oTQrPrLAk201CZb5/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c1fb13e7d533f70b",
+      "title": "This document scanner app is just $25 during September’s Flash Sale",
+      "url": "https://mashable.com/tech/sept-27-iscanner-app-lifetime-subscription",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get a lifetime iScanner subscription for $24.97 (reg. $199.90) through Sept. 29 at 11:59 p.m. PT and scan, edit, sign, and manage documents from your mobile device.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06c4few8Yhi1hDyo3zCooig/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d06bea0466640fc6",
+      "title": "How to watch Raiders vs. Saints in the NFL online for free",
+      "url": "https://mashable.com/entertainment/raiders-saints-nfl-2026-live-stream-for-free",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06nTCGNHjKCRa13h6WkvVhU/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "21f2e7306e3c62b2",
+      "title": "How to watch Ravens vs. Cowboys in the NFL online for free",
+      "url": "https://mashable.com/entertainment/ravens-cowboys-nfl-2026-live-stream-for-free",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01mtOATUe8A27KTwXlkP7U2/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "55f38ab27e34be4c",
+      "title": "Wild Horse Nine review: Is John Malkovich at the center of a meta puzzle?",
+      "url": "https://mashable.com/entertainment/wild-horse-nine-movie-review",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Martin McDonagh reteams with Sam Rockwell for another dark comedy about charismatic killers in \"Wild Horse Nine.\" Steve Buscemi, Tom Waits, and Parker Posey co-star. Review.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/047bKiFSYMGBBMWiUgkaM6t/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "23b3aead2cf22716",
+      "title": "‘I’m an everythingist’: How Es Devlin became the go-to for Beyoncé gigs, fashion runways and the Olympics",
+      "url": "https://www.theguardian.com/stage/2026/sep/27/stage-designer-es-devlin-design-museum-london-lehman-trilogy",
+      "datePublished": "2026-09-27T09:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "The Londoner is the set designer big names turn to for eye-popping spectacle. As a new retrospective opens, she gives the Guardian a glimpse at her studio Four years ago, the V&A East Storehouse in east London got in touch with Es Devlin. The museum’s curators wanted to invite the British artist and designer to respond to a 100-year-old theatrical backdrop by the Russian artist and designer Natali",
+      "author": "Dale Berning Sawa; photographs by Kate Peters",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "2eb5a41438fe8081",
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "datePublished": "2026-09-27T08:59:59.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/ Comments URL: https://news.ycombinator.com/item?id=49864743 Points: 47 # Comments: 18",
+      "author": "ingve",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9e52d8fc2279b013",
+      "title": "The 2026-2027 NHL season is here: How to watch hockey live this season",
+      "url": "https://mashable.com/entertainment/how-to-watch-nhl-2026-hockey-season",
+      "datePublished": "2026-09-27T08:49:16.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NHL 2026-2027 season has arrived. Here's how to watch every hockey game this season, including the best streaming deals.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/078FMmzHzUrdgzMVnKDlLBg/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b283e57eb2da1fba",
+      "title": "How to watch Patriots vs. Jaguars in the NFL online for free",
+      "url": "https://mashable.com/entertainment/patriots-jaguars-nfl-2026-live-stream-for-free",
+      "datePublished": "2026-09-27T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/059GYZUf7EeSvtulmKdkCyi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2af831138653aa82",
+      "title": "How to watch Bengals vs. Steelers in the NFL online for free",
+      "url": "https://mashable.com/entertainment/bengals-steelers-nfl-2026-live-stream-for-free",
+      "datePublished": "2026-09-27T08:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07LcbOa3uRj9viXOl9Ehq4I/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e954370cb1e526af",
+      "title": "Hints of ‘Sex and the City’ and ‘Narcos’: A Look at Literary Works Being Pitched for Screen Adaptations at Iberseries & Platino Industria",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/book-screen-adaptation-pitches-iberseries-platino-industria-1236696290/",
+      "datePublished": "2026-09-27T08:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Among the featured books are also the memoirs of a Medellín drug cartel founder and Che Guevara’s first wife, plus a graphic novel by the creator of the opening title design for 'Only Murders in the Building.'",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "3558fb01e96c58ff",
+      "title": "‘SNL’: Watch Katseye Perform ‘Animal,’ ‘Hootie Frutti’",
+      "url": "https://www.rollingstone.com/music/music-news/snl-watch-katseye-perform-animal-hootie-frutti-wild-1235632299/",
+      "datePublished": "2026-09-27T06:59:11.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Both songs are from the Los Angeles-based girl group's latest EP, Wild",
+      "author": "William Vaillancourt",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "d0ebf282bb578f3a",
+      "title": "Jalen Brunson takes a laid-back and belated victory lap on the season premiere of Saturday Night Live",
+      "url": "https://www.avclub.com/saturay-night-live-recap-season-52-episode-1",
+      "datePublished": "2026-09-27T06:27:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "",
+      "author": "Jesse Hassenger",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/27022614/Jalen-Brunson-SNL-Lead.jpg",
+      "source": "The A.V. Club"
+    },
+    {
+      "id": "422f82198929fce3",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "datePublished": "2026-09-27T06:19:33.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 566 # Comments: 524",
+      "author": "papergirl",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "3314e89478d0f16d",
+      "title": "There Weren’t Many, But Here Were the Best Moments of SNL’s Season 52 Premiere",
+      "url": "https://consequence.net/2026/09/snl-season-52-premiere-best-moments/",
+      "datePublished": "2026-09-27T06:02:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jalen Brunson hosted a mostly forgettable episode featuring a very pedestrian KATSEYE. There Weren’t Many, But Here Were the Best Moments of SNL’s Season 52 Premiere Alex Young",
+      "author": "Alex Young",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "16b90c71d2917c36",
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "datePublished": "2026-09-27T05:26:15.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://reasonable.io/blog/tla-tutorial/ Comments URL: https://news.ycombinator.com/item?id=49863600 Points: 96 # Comments: 47",
+      "author": "matt_d",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ee8249b9302f6a97",
+      "title": "Nike’s Colorful Retro Runner Is Screaming Serious Vintage Track Energy",
+      "url": "https://www.highsnobiety.com/p/nike-acg-ldv-hyper-royal/",
+      "datePublished": "2026-09-27T05:08:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike’s ACG LDV returns in a fresh blue and yellow colorway, bringing a retro running silhouette a more unexpected look with pops of color throughout.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "878dfc1e563408d5",
+      "title": "Hurdle hints and answers for September 27, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-september-27-2026",
+      "datePublished": "2026-09-27T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06dvHNXeE788QeUsOz5kTT1/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b9bc033b07f527c0",
+      "title": "Moon phase today: What the Moon will look like on September 27, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-sept-27-2026",
+      "datePublished": "2026-09-27T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for September 27, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06iknvnaswoyGYFTydTSpYi/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ff9b68379d121919",
+      "title": "Jalen Brunson Brings the New York Knicks to the ‘Saturday Night Live’ Season 52 Premiere",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jalen-brunson-snl-season-52-premiere-knicks-players-1236712688/",
+      "datePublished": "2026-09-27T03:49:43.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Karl-Anthony Towns, Josh Hart, OG Anunoby and Mikal Bridges showed up to support the NBA Finals MVP's first hosting stint.",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "43f29e25d3df5d4e",
+      "title": "NYT Connections Sports Edition today: Hints and answers for September 27, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-september-27-2026",
+      "datePublished": "2026-09-27T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07dhFjMuEkoPKiCjYIcOR97/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3d768caf7219b803",
+      "title": "NYT Pips hints, answers for September 27, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-september-27-2026",
+      "datePublished": "2026-09-27T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03IQWxeMuKRhbiAzQJY4w6e/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "891242f0b153f14b",
+      "title": "NYT Connections hints today: Meanings for each word for Sept. 27, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-september-27-2026",
+      "datePublished": "2026-09-27T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1203.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03OyNP1nWVUpfBIIXEWj1US/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "73037efeef31663c",
+      "title": "NYT Connections hints today: Clues, answers for September 27, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-september-27-2026",
+      "datePublished": "2026-09-27T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/008oPuiRLnWwRmveyRGE4yO/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c85124a3c4de980b",
+      "title": "NYT Strands hints, answers for September 27, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-september-27-2026",
+      "datePublished": "2026-09-27T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05sZnNSBIBz3bV5hmMu4M2Y/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "21c7b9203bd2c012",
+      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "datePublished": "2026-09-27T01:40:30.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
+      "author": "Connie Loizos",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "b09c672e4408b8f8",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "datePublished": "2026-09-27T01:30:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "author": "Jagmeet Singh",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "c3d137999e2a1cea",
+      "title": "Wordle today: Answer, hints for September 27, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-september-27-2026",
+      "datePublished": "2026-09-27T01:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1925 on September 27 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02uWA12bD7HNO4vlYzQJO9F/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "52c34df979b25311",
+      "title": "NAZA film-makers address threats at documentary’s New York City premiere",
+      "url": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
+      "datePublished": "2026-09-27T00:48:09.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA, the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza, defended their findings at the film’s North American premiere in New York on Saturday, amid protests in Israel and escalating threats from Israeli officials to stri",
+      "author": "Adrian Horton",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "509bdb11596ec298",
+      "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
+      "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+      "datePublished": "2026-09-27T00:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time.",
+      "author": "staff@engadget.com (Filipe Espósito)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-we-wont-know-how-visible-the-iphone-duos-crease-is-for-a-long-time/l-intro-1790182526.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "920565963db75bf2",
+      "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
+      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
+      "datePublished": "2026-09-27T00:15:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
+      "author": "David Ehrlich",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "5a3f99b1bead2551",
+      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "datePublished": "2026-09-27T00:00:49.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One, the most recent reboot featuring the 70-year-old kaiju – the ",
+      "author": "Jesse Hassenger",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
+    },
+    {
+      "id": "63cb8d8bb9ccf6a9",
+      "title": "How powerful of a power bank do you need to safely charge a laptop?",
+      "url": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
+      "datePublished": "2026-09-27T00:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected.",
+      "author": "staff@engadget.com (Thomas Godwin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-powerful-of-a-power-bank-do-you-need-to-safely-charge-a-laptop/l-intro-1790180023.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "613090987f685b34",
+      "title": "Your old GPU could be worth more than you think",
+      "url": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+      "datePublished": "2026-09-26T23:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Your old GPU could be a goldmine thanks to the RAMaggedon.",
+      "author": "staff@engadget.com (Jack Peachey)",
+      "imageUrl": "https://www.engadget.com/img/gallery/your-old-gpu-could-be-worth-more-than-you-think/l-intro-1789937270.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "4eee1bddac19d29c",
+      "title": "Why your iPhone hates printer cables",
+      "url": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+      "datePublished": "2026-09-26T23:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-your-iphone-hates-printer-cables/l-intro-1790179049.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "44c54e48c05aef4d",
+      "title": "How to factory reset your Google Home Mini",
+      "url": "https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/",
+      "datePublished": "2026-09-26T23:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it.",
+      "author": "staff@engadget.com (Gabriela Vătu)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-factory-reset-your-google-home-mini/l-intro-1790177732.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "65e6b25a8c9e86d6",
+      "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+      "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+      "datePublished": "2026-09-26T22:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?",
+      "author": "staff@engadget.com (Will Shanklin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-iphone-17-pro-whats-new/l-intro-1789752997.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "411dd63103375dab",
+      "title": "How high is too high for speakers in your home sound system?",
+      "url": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
+      "datePublished": "2026-09-26T22:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Too much height makes dialogue and fine details sound less direct.",
+      "author": "staff@engadget.com (Thomas Godwin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-high-is-too-high-for-speakers-in-your-home-sound-system/l-intro-1789920049.jpg",
+      "source": "Engadget"
+    },
     {
       "id": "0b0ff3f404aa67c9",
       "title": "‘SNL U.K.’ Mocks Donald Trump and Andy Burnham’s First Meeting, Harvey Weinstein, Sam Altman and More in Wild Weekend Update",
@@ -291,6 +2119,19 @@
       "author": "Anthony Ha",
       "imageUrl": "",
       "source": "TechCrunch"
+    },
+    {
+      "id": "f6824243c7fb1862",
+      "title": "Ina Garten Won’t Change Her Life Story for a Biopic",
+      "url": "http://www.vulture.com/article/ina-garten-biopic-movie-rumors.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-26T20:23:10.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“It’s my story. I get to keep it.”",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/320/4d6/ef83495f01d95bccf3f5b6f7e49247c9c1-ina-garten.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "a167157d6272a8b9",
@@ -1762,6 +3603,20 @@
       "source": "Mashable"
     },
     {
+      "id": "6ea691e13aab3ecf",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "datePublished": "2026-09-26T14:34:49.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 331 # Comments: 136",
+      "author": "chmaynard",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "c7d14108a2bb5745",
       "title": "Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026",
       "url": "https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/",
@@ -1787,6 +3642,20 @@
       "author": "staff@engadget.com (Giancarlo Valdes)",
       "imageUrl": "https://www.engadget.com/img/gallery/is-your-roku-tv-talking-to-you-heres-why-and-how-to-turn-it-off/l-intro-1790101844.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "30c61fdcf4d74ce8",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "datePublished": "2026-09-26T14:25:16.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://fakecloud.dev/ Comments URL: https://news.ycombinator.com/item?id=49856885 Points: 55 # Comments: 35",
+      "author": "theanonymousone",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "307c14b7727bbb41",
@@ -2710,6 +4579,19 @@
       "source": "Vulture"
     },
     {
+      "id": "4ff40a5fad682466",
+      "title": "Cinematrix No. 914: September 26, 2026",
+      "url": "http://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix-914.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-09-26T09:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Can you name a Jennifer Garner movie that made $100 million?",
+      "author": "Britina Cheng",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/73c/bfe/e95b0ff5587bae9a2e67273888eb188f42-cinematrix-09-26-2026.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "7030c45c411932b8",
       "title": "New Balance’s Clean-Cut Skate Shoe Just Got a Nice Update",
       "url": "https://www.highsnobiety.com/p/new-balance-numeric-brandon-westgate-508/",
@@ -2764,6 +4646,20 @@
       "author": "Georg Szalai",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "22fb81d30b15e749",
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "datePublished": "2026-09-26T07:50:24.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://mitxela.com/projects/flipflip Comments URL: https://news.ycombinator.com/item?id=49854219 Points: 293 # Comments: 19",
+      "author": "blutack",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "b040c9209129b456",
@@ -2850,6 +4746,19 @@
       "author": "Lily Ford",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "7cf38572454d993a",
+      "title": "Kylie Minogue brings the party to AFL grand final with 20 minutes of dizzying, sparkling joy",
+      "url": "https://www.theguardian.com/music/2026/sep/26/kylie-minogue-brings-the-party-to-afl-grand-final-with-20-minutes-of-dizzying-sparkling-joy",
+      "datePublished": "2026-09-26T06:34:15.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "Australia’s pop goddess does what she does best, shifting through five decades of hits while taking flight above MCG Brisbane roar back to seal three-peat and break Fremantle hearts in AFL grand final classic If you were watching the AFL grand final broadcast, you might have noticed crew trying to clear water from the stage as the minutes ticked down towards the pre-game entertainment. You might h",
+      "author": "Cassie Tongue",
+      "imageUrl": "",
+      "source": "The Guardian (Culture)"
     },
     {
       "id": "c4b71b13accad61e",
@@ -4836,6 +6745,19 @@
       "source": "Consequence"
     },
     {
+      "id": "292f12dbfdf43a97",
+      "title": "10 Years Ago, The 'That's Why I Love Nestle Crunch' Meme Began",
+      "url": "https://knowyourmeme.com/memes/thats-why-i-love-nestle-crunch",
+      "datePublished": "2026-09-25T18:32:50.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "That's Why I Love Nestle Crunch refers to video edits of Nestle Crunch's 1980's commercial which typically replaces a bite into the chocolate bar with a brief surprise ending.",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/029/660/Screen_Shot_2019-05-10_at_12.56.24_PM.jpg",
+      "source": "Know Your Meme"
+    },
+    {
       "id": "62eb267dffa0d17e",
       "title": "The Separation Of The Friend Group Visualized In This Series Of Memes On TikTok, Reels",
       "url": "https://knowyourmeme.com/memes/when-the-friend-group-is-separated-so-everyone-is-experiencing-their-own-arc",
@@ -4847,1894 +6769,6 @@
       "author": "",
       "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/522/wtfgis.jpg",
       "source": "Know Your Meme"
-    },
-    {
-      "id": "9e0fa9b5a25c9251",
-      "title": "Merritt Wever Was Ready to Play Someone ‘A Little Rotten’ in ‘Primetime’",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/merritt-wever-primetime-predator-interview-1235629888/",
-      "datePublished": "2026-09-25T18:19:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The actor talks about the “warped” world of Lance Oppenheim’s take on To Catch a Predator, and how her manipulative TV-producer character left a bad taste in her mouth",
-      "author": "CT Jones",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "a27fd12ad9560261",
-      "title": "Pope Leo Throws Shade at Trump Over His Petty Media Ban",
-      "url": "https://newrepublic.com/post/215881/pope-leo-criticize-trump-white-house-media-ban",
-      "datePublished": "2026-09-25T18:19:08.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Pope Leo XIV made a point to express his support for the free press, firing a stray at President Trump—whose ongoing White House ban on MS NOW, CNN, and Politico is still being legally contested. “I’m just wondering if you had a word for some of our colleagues at CNN who are having difficulties with the White House,” a reporter asked the pope on Friday while en route to France. “I am very happy th",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/c828ac58434662f2f6a4b4c623daf257cd840940.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "40bcab1d83bc213d",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "datePublished": "2026-09-25T18:18:06.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://mouse.dev/blog/muse-special/ Comments URL: https://news.ycombinator.com/item?id=49848095 Points: 110 # Comments: 46",
-      "author": "Aeroi",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "3bb19f710b73db31",
-      "title": "Todd Rundgren Says Taylor Swift “Ruined Music,” Calls Her “Apotheosis of Mediocrity”",
-      "url": "https://consequence.net/2026/09/todd-rundgren-taylor-swift-ruined-music/",
-      "datePublished": "2026-09-25T18:15:32.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Swift doesn’t do anything particularly great except grow hair,\" Rundgren added. Todd Rundgren Says Taylor Swift “Ruined Music,” Calls Her “Apotheosis of Mediocrity” Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "e421b9a0885f45a4",
-      "title": "I hunted down the top early October Prime Day MacBook deals: Save $600 on on the M5 Pro",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-macbook-deals-2026",
-      "datePublished": "2026-09-25T18:13:19.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "We found the best early October Prime Day MacBook deals. Grab Apple's M5 Max-powered Pros for $600 off ahead of Prime Big Deal Days.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06KDZv4EDSWOYRvj4g3L8Je/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "8ac4d92a6fa78344",
-      "title": "Ari Emanuel on Donald Trump, Elon Musk, and Mixing Business with Politics",
-      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/ari-emanuel-on-donald-trump-elon-musk-and-mixing-business-with-politics",
-      "datePublished": "2026-09-25T18:11:57.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The entertainment agent and executive talks with David Remnick about his dealings with the President, the tech mogul, and Mohammed bin Salman, and operating within “shades of gray.”",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "1f5f16d0d1de82ae",
-      "title": "Disgaea Dev CEO Says Company Is Having ‘Discussions’ With Sony About The End Of Physical Discs: ‘I Think That They’re Hearing A Lot Of The Feedback From Customers’",
-      "url": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194",
-      "datePublished": "2026-09-25T18:11:16.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "'It's possible that the discussion may change in the future'",
-      "author": "Rebekah Valentine",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-box-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "6ef2efb51c1dfb1b",
-      "title": "The New York Film Festival, Week One: Better Late Than Never",
-      "url": "https://www.newyorker.com/culture/the-front-row/the-new-york-film-festival-week-one-better-late-than-never",
-      "datePublished": "2026-09-25T18:09:44.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "This year’s prime offerings include the festival début of an overlooked great director and startling new work by acclaimed filmmakers.",
-      "author": "Richard Brody",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "dab53622bf94d0e6",
-      "title": "Min Jin Lee on “American Hagwon,” Her First Novel After the Phenomenon of “Pachinko”",
-      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/min-jin-lee-on-american-hagwon-her-first-novel-after-the-phenomenon-of-pachinko",
-      "datePublished": "2026-09-25T18:07:29.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The author talks with David Remnick about leaving corporate law to become a novelist, and making Korean culture and experiences legible to readers around the globe.",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "123dc67b1b69079b",
-      "title": "See U2’s 50th-Anniversary Performance at Their Old High School",
-      "url": "https://www.rollingstone.com/music/music-news/u2-dublin-high-school-50th-anniversary-1235631893/",
-      "datePublished": "2026-09-25T18:06:25.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Irish superstars returned to their Dublin roots, just after announcing new album Carnaval De Luz",
-      "author": "Christian Hoard",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "fb1c0c2ade9e4332",
-      "title": "Marvel Studios releases \"Silence Your Phones\" promo for all the good that'll do",
-      "url": "https://www.avclub.com/marvel-studios-releases-silence-your-phones-promo-avengers-endgame-encore",
-      "datePublished": "2026-09-25T18:05:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The superhero-festooned promo will screen before showings of Avengers Endgame: Encore .",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/uploads/2022/06/20151421/avengersendgame_poster_lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "b8147d37558cd9c5",
-      "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-      "url": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/",
-      "datePublished": "2026-09-25T18:03:51.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "7a2517b210263393",
-      "title": "Three Decades Ago, He Made a Documentary About Then-Boyfriend Isaac Mizrahi — Now, Douglas Keeve Is Looking Back at ‘Unzipped’",
-      "url": "https://www.indiewire.com/features/interviews/isaac-mizrahi-documentary-unzipped-interview-1235218716/",
-      "datePublished": "2026-09-25T18:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "As Keeve tells IndieWire, his relationship with then-rising fashion mogul Mizrahi fell apart after he made the 1995 fashion-world doc. But the film isn't what split them in two.",
-      "author": "Ryan Lattanzio",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "feae6c4b44dab652",
-      "title": "Trump Quietly Killed AI Safeguard After Accepting Millions",
-      "url": "https://newrepublic.com/post/215879/trump-killed-ai-safeguard-donations",
-      "datePublished": "2026-09-25T17:50:01.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "President Trump scuttled a major AI guardrail after a series of tech executives donated to his political operation. The Lever reports that in September 2024, the Biden administration began the process of implementing a rule that required AI companies to report their experiments to regulators at the federal government. At the time, officials said that the rule was aimed at preventing “dangerous acc",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/57cf69b9cdfbcc2d0473a359cb4c4126d59c62f3.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "1fc2183124c30c76",
-      "title": "Does the Sanctity of a Limited Series Emmy Mean Nothing?",
-      "url": "http://www.vulture.com/article/beast-in-me-season-two-limited-series-emmy-lies.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T17:47:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "For too long, we’ve watched and done nothing as a small group of TV shows have committed unrepentant category fraud. Enough.",
-      "author": "Kathryn VanArendonk",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/19a/723/86996c14433fc7b9d05ed5d422ef779142-beastinme-alt.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "aca540375030dbf8",
-      "title": "All Things Go, CBGB, Global Citizen 2026 Festivals Canceled",
-      "url": "https://pitchfork.com/story/all-things-go-festival-2026-canceled/",
-      "datePublished": "2026-09-25T17:42:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The New York City events were scrapped due to severe weather conditions",
-      "author": "Kiana Mickles",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "029675ccc99105aa",
-      "title": "Saudi Arabia’s Yemen Strategy Has Fallen to Pieces",
-      "url": "",
-      "datePublished": "2026-09-25T17:37:26.925Z",
-      "category": [
-        "society"
-      ],
-      "description": "Over the past few weeks, Yemen’s Ansar Allah movement, also known as the Huthis, has launched an offensive and made big territorial gains. The latest turn in the Yemeni civil war could have major implications for the world economy, as it involves one of its most important trade routes through the Red Sea. It certainly poses a big challenge for Yemen’s neighbor Saudi Arabia. Helen Lackner is a lead",
-      "author": "Helen Lackner",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "03914d4acd9a42f2",
-      "title": "RuneScape: Dragonwilds Devs Admit Switch 2 Port Looks Bad, Promise Improvements, And Plan To Update Eshop With Accurate Screenshots",
-      "url": "https://kotaku.com/runescape-dragonwilds-devs-admit-switch-2-port-looks-bad-promise-improvements-and-plan-to-update-eshop-with-accurate-screenshots-2000737184",
-      "datePublished": "2026-09-25T17:30:46.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Jagex has warned players that it will take some time to overhaul and improve the survival game on Nintendo's console",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/Runescapeee-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "483f16612c3d515d",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "datePublished": "2026-09-25T17:30:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "author": "Tim De Chant",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "b043d9d03d29d7a8",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "datePublished": "2026-09-25T17:29:46.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "author": "Zack Whittaker",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "68c0d1315425c4de",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "datePublished": "2026-09-25T17:24:36.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "author": "Tim Fernholz",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "38a987111a2440d7",
-      "title": "Apple's HomePod mini 2 will reportedly come in new colors, but feature a similar design",
-      "url": "https://www.engadget.com/2269120/apples-homepod-mini-2-will-reportedly-come-in-new-colors-but-feature-a-similar-design/",
-      "datePublished": "2026-09-25T17:24:09.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "It's been six years since the original model.",
-      "author": "staff@engadget.com (Lawrence Bonk)",
-      "imageUrl": "https://www.engadget.com/img/gallery/apples-homepod-mini-2-will-reportedly-come-in-new-colors-but-feature-a-similar-design/l-intro-1790356996.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "a8f00774afeaaa8d",
-      "title": "Saturday Night Live adds 2 new writers ahead of season 52 premiere",
-      "url": "https://www.avclub.com/snl-season-52-new-writers",
-      "datePublished": "2026-09-25T17:23:38.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The new season kicks off this weekend, hosted by Jalen Brunson.",
-      "author": "Olivia Singh",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/07162403/MixCollage-07-Jan-2026-04-21-PM-9272.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "9c9a05e85066b896",
-      "title": "Olivia Rodrigo Set to Launch Her Biggest Tour Yet With “The Unraveled Tour”",
-      "url": "https://consequence.net/2026/09/olivia-rodrigo-unraveled-tour-kickoff/",
-      "datePublished": "2026-09-25T17:21:48.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 59-date outing kicks off this weekend: here's how to find last-minute tickets and deals. Olivia Rodrigo Set to Launch Her Biggest Tour Yet With “The Unraveled Tour” Alex Krinsky",
-      "author": "Alex Krinsky",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "7aa9a13b89e3e723",
-      "title": "Brandi Glanville Got a Perforated Eardrum and Crooked Boob on Special Forces",
-      "url": "http://www.vulture.com/article/brandi-glanville-special-forces-elimination.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T17:19:28.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The former Bravo star lasted only 14 hours on the show.",
-      "author": "Jason P. Frank",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/6cb/db2/f732ed40d8962ae58a574596ae68408d37-specialforces.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "83a60da705ce46d3",
-      "title": "NAZA trailer takes to Tel Aviv rooftops for unprecedented view of mass killing",
-      "url": "https://www.avclub.com/naza-trailer-released",
-      "datePublished": "2026-09-25T17:18:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The latest from half of No Other Land's Oscar-winning filmmaking team premieres at the New York Film Festival on September 30",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25131039/NAZA-lead-e1790356238320.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "ea86cdd3489b97d0",
-      "title": "Russian Plot to Infiltrate Secret Service Exposed",
-      "url": "https://newrepublic.com/post/215876/russia-infiltrate-secret-service",
-      "datePublished": "2026-09-25T17:04:09.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A software company contracted by the U.S. government claimed it had no ties to Russia. That does not seem to be the case. Oxygen Forensics CEO Lee Reiber and Russian national Oleg Sergeyevich Davydov were arrested and charged by the Department of Justice with conspiracy to commit wire fraud earlier this week. Reiber allegedly advertised that his company, which provides forensic and archival servic",
-      "author": "Ellie Quinlan Houghtaling",
-      "imageUrl": "https://images.newrepublic.com/f75dcb55645d4ab2a3d34915d5eba70def5171b6.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "de413a552742c0e3",
-      "title": "Ticker: Kara Swisher Confirms CNN Exit After Paramount-WBD Merger Is Complete",
-      "url": "https://www.adweek.com/tvnewser/ticker-kara-swisher-confirms-cnn-exit-after-paramount-wbd-merger-is-complete/",
-      "datePublished": "2026-09-25T17:02:29.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Dateline celebrates the premiere of its 35th season by lighting up the Empire State Building.",
-      "author": "mmwachiro",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "aa0b6ab369430b73",
-      "title": "State of the Art: An 85-Year-Old Artist Made Burberry Fashion Week's Most Fun Show",
-      "url": "https://www.highsnobiety.com/p/burberry-ss27/",
-      "datePublished": "2026-09-25T17:01:28.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Burberry continued its strategy of centering legendary British artists with its Spring/Summer 2027 show, featuring prints and embroidery by Celia Birtwell.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "0a2af0da8ae1fa46",
-      "title": "Stream On This Week: A Different World Returns, Pulp Rocks, and FKA twigs Teams Up With Hiro Murai",
-      "url": "https://consequence.net/2026/09/stream-on-different-world-pulp-youth/",
-      "datePublished": "2026-09-25T17:00:37.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here are the best movies and TV shows to stream the weekend of September 25th. Stream On This Week: A Different World Returns, Pulp Rocks, and FKA twigs Teams Up With Hiro Murai Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "5ef5b2d7b4027c11",
-      "title": "Tesla employees accuse supervisors of using racist slurs. The company doubled down in court.",
-      "url": "https://mashable.com/tech/tesla-factory-supervisor-lawsuit-racist-slurs-n-word",
-      "datePublished": "2026-09-25T17:00:07.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Tesla defends flagship factory staff over allegedly racist behavior, including the use of slurs and Nazi imagery against Black workers.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00n0npgpKkdmwaZaMbqYlmA/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a20de88b79400317",
-      "title": "It’s time for Netflix to slay its Monster",
-      "url": "https://www.avclub.com/its-time-for-netflix-to-slay-ryan-murphys-monster",
-      "datePublished": "2026-09-25T17:00:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A glib telling of The Lizzie Borden Story only reminds us of the futility of Ryan Murphy's salacious true-crime series.",
-      "author": "Saloni Gajjar",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/24172347/ella-beatty.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "b0d746f4edc610cc",
-      "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder",
-      "url": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071",
-      "datePublished": "2026-09-25T17:00:02.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The bans came after modder Noffletoff was credibly accused of participating in graphic discussions of illegal content",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2024/07/2535f786fb4aea9c51067a4d845be727.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "b8b8fbce6ca82fed",
-      "title": "Keychron Thunderbolt 5 Dock review: Unusually sensible",
-      "url": "https://www.engadget.com/2269074/keychron-thunderbolt-5-dock-review/",
-      "datePublished": "2026-09-25T17:00:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A company that's best known for keyboards makes a strong entry into the high-end dock world.",
-      "author": "staff@engadget.com (James Trew)",
-      "imageUrl": "https://www.engadget.com/img/gallery/keychron-thunderbolt-5-dock-review-unusually-sensible/l-intro-1790354775.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "024d12bf588b06dd",
-      "title": "Stanley Kubrick’s Five Best Films, Ranked with TCM Host Ben Mankiewicz",
-      "url": "https://www.indiewire.com/features/podcast/stanley-kubrick-best-movies-ranked-with-tcm-ben-mankiewicz-1235218691/",
-      "datePublished": "2026-09-25T17:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With his \"The Plot Thickens\" podcast focused on Kubrick this season, Mankiewicz joins IndieWire's own podcast \"Screen Talk\" to rank his favorites alongside co-hosts Anne Thompson and Ryan Lattanzio.",
-      "author": "Ryan Lattanzio",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "3af09f2242559e32",
-      "title": "Creators That Convert: 4 Business Leaders on Driving Full-Funnel Marketing Results",
-      "url": "https://www.adweek.com/brand-marketing/creators-that-convert-4-business-leaders-on-driving-full-funnel-marketing-results/",
-      "datePublished": "2026-09-25T16:54:53.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Why creator content should be treated as a core paid media asset.",
-      "author": "Eva Kis",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "630e6ce1362ddd2a",
-      "title": "We're aware of Meta's push to sex-meme its AI mascot, and now you are, too",
-      "url": "https://www.avclub.com/jolly-ai-agent-subject-of-sexy-memes-meta",
-      "datePublished": "2026-09-25T16:50:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Employees at the tech giant are posting scintillating memes to promote Jolly, the face of its AI agent, Muse.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25124816/jolly-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "f747198e7c690662",
-      "title": "2020 Karen Video About 'Playing Games' Becomes A Meme With Difficult Game Enjoyers On TikTok",
-      "url": "https://knowyourmeme.com/memes/you-play-games-we-dont-play-games",
-      "datePublished": "2026-09-25T16:48:12.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "You Play Games, We Don't Play Games, or, I Play Games Where You Get Fucked To Death, refers to a viral Karen video of a 56-year-old woman named Lena Hernandez making racist remarks at an Asian man. At one point, she says, \"You play games, we don't play games.\" He asks what kind of game she's playing and she responds, \"I play games where you get fucked to death.\" The video went viral in June 2020 a",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/521/karencover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "bfe7f4fa9318f263",
-      "title": "U2 Return to Their Dublin High School for 50th Anniversary Concert",
-      "url": "https://consequence.net/2026/09/u2-50th-anniversary-mount-temple-dublin-concert/",
-      "datePublished": "2026-09-25T16:45:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "They first performed together at Mount Temple Comprehensive School more than five decades ago. U2 Return to Their Dublin High School for 50th Anniversary Concert Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "a0b58cadefec762c",
-      "title": "2026 Jingle Ball Lineups Boast Olivia Rodrigo, SOMBR, KATSEYE, and More",
-      "url": "https://consequence.net/2026/09/jingle-ball-2026-lineups-iheartradio-olivia-rodrigo-sombr-katseye/",
-      "datePublished": "2026-09-25T16:40:23.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Hilary Duff, RAYE, OneRepublic, Ludacris, Alex Warren, Tove Lo, Sienna Spiro, Stella Lefty, and more will play select dates of the annual holiday concert series. 2026 Jingle Ball Lineups Boast Olivia Rodrigo, SOMBR, KATSEYE, and More Paolo Ragusa",
-      "author": "Paolo Ragusa",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "1d7bc12fbb4b3b46",
-      "title": "Resident Evil turns video game frustration into its best running joke",
-      "url": "https://mashable.com/entertainment/resident-evil-padlock-joke-game-logic",
-      "datePublished": "2026-09-25T16:39:46.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Forget the Easter eggs. Zach Cregger found a clever way to recreate the frustration of actually playing \"Resident Evil.\"",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02VB1qHH2HxoM0C9j5htXZg/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "0806f72cb897632f",
-      "title": "We found rare October Prime Day TV deals on TCL, LG, and Samsung: Save up to $1,000",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-tv-deals-2026",
-      "datePublished": "2026-09-25T16:28:02.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The best early October Prime Day TV deals include QLED and OLED models from TCL, LG, Hisense, Samsung, and more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05Kxuq6sYzoZxmB6A57kaqq/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "168e4012189baf32",
-      "title": "Todd Rundgren: Taylor Swift Ruined Music",
-      "url": "https://pitchfork.com/story/todd-rundgren-taylor-swift-ruined-music/",
-      "datePublished": "2026-09-25T16:27:36.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In a recent interview, the rock legend said Swift “doesn’t do anything particularly great except grow hair. She’s not a great singer. She’s not a great songwriter. She’s not a great dancer.”",
-      "author": "Alex Suskind",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "1527c2f37bbb1fa3",
-      "title": "Three Weeks In, Dudamel Is Killing It",
-      "url": "http://www.vulture.com/article/three-weeks-in-dudamel-is-killing-it.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T16:25:49.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Last night at the Philharmonic, a detailed and vigorous Mahler Fifth.",
-      "author": "Justin Davidson",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/128/7bd/21d20866d4e8da6f49265adf5e1fa8e481-Week1-Brandon-Patoc-0168.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "0b56502f85c2d19b",
-      "title": "Amazon has the Lego Disney Princess Advent Calendar on sale for $10 off",
-      "url": "https://mashable.com/life/sept-25-lego-disney-princess-advent-calendar",
-      "datePublished": "2026-09-25T16:19:54.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Lego Disney Advent Calendar is on sale at Amazon for $35, down from the list price of $44.99. That's a 22% discount.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04sjH1aR2MWhE4b2Tjp0MiE/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "794c162566b6335b",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "datePublished": "2026-09-25T16:16:52.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "author": "Sarah Perez",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "05d32f2aed83106b",
-      "title": "A darker Mary Poppins TV series is in the works",
-      "url": "https://www.avclub.com/mary-poppins-tv-show",
-      "datePublished": "2026-09-25T16:13:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The new show will reportedly be more similar to the book series, rather than the whimsical 1964 musical fantasy movie.",
-      "author": "Olivia Singh",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25121033/mary-poppins-julie-andrews-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "c47d3d11da40dd70",
-      "title": "The Gilded Age is dropping an album",
-      "url": "https://www.avclub.com/the-gilded-age-christmas-album",
-      "datePublished": "2026-09-25T16:06:51.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The cast full of musical theater veterans is releasing a Christmas album in November.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/28133821/carrie-coon-merritt-wever-copy-12.jpeg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "27c8a3d73b4bbb7a",
-      "title": "Greed and Economic Desperation Are Fueling Sudan’s Civil War",
-      "url": "",
-      "datePublished": "2026-09-25T16:02:43.367Z",
-      "category": [
-        "society"
-      ],
-      "description": "I used to pass the biscuit factory in Soba without going in. People I knew went in for a twelve-hour shift on a line that smelled of sugar and oil. In 2021, the number that stuck was 1,500 pounds for the shift. In Haj Yousif, where Iqbal lived, the rent for a single room was 30,000 pounds a month. You had to work twenty factory days just to cover rent. Meanwhile, the Rapid Support Forces were offe",
-      "author": "Ahmed Ismat Ahmed",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "5e80fea40446acd6",
-      "title": "Supreme Court Hands Trump Huge Win in Quest to Make Voting Harder",
-      "url": "https://newrepublic.com/post/215878/supreme-court-donald-trump-win-voting-verification",
-      "datePublished": "2026-09-25T16:01:18.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Supreme Court just brought Donald Trump’s immigration database back to life. The nation’s highest judiciary sided with the Justice Department Friday, undermining a lower court’s ruling that stopped state officials from using sensitive personal data such as Social Security numbers to perform citizenship background checks. The ruling effectively revives the Homeland Security Department’s redesig",
-      "author": "Ellie Quinlan Houghtaling",
-      "imageUrl": "https://images.newrepublic.com/a2105986fe92c4407b185bea3a259b50e29257a0.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "0d929081a9ef58f9",
-      "title": "Ace Combat 8: Wings Of Theve Reviews Love The Story As Much As The Dogfighting",
-      "url": "https://kotaku.com/ace-combat-8-wings-of-thieve-review-roundup-2000737168",
-      "datePublished": "2026-09-25T16:00:44.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "'Talk to me, Rex'",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/Acecombat8-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "b0d051e370a3b62b",
-      "title": "What Mark Duplass Watches (and Plays) With His Daughters",
-      "url": "http://www.vulture.com/article/mark-duplass-daughters-family-movies.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T16:00:25.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“I thought, ‘I’m going to keep this sacred and it’s going to be like our church. I can make them watch Tarkovsky,’ but that definitely didn’t happen.",
-      "author": "Mark Duplass",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b6f/462/19f12a4c7c3a2398f94e071c08eb8964c9-mark-parenting.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "69a7d88056035fdd",
-      "title": "5 Big Awards-Season Story Lines to Follow During the New York Film Festival",
-      "url": "http://www.vulture.com/article/new-york-film-festival-2026-movies-lineup-questions-oscars.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T16:00:25.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "With less than one week left to draft in the Movies Fantasy League.",
-      "author": "Joe Reid",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/822/59e/dd0b2a76a44bb32dd508f33df194f31c10-mfl-papertiger.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "3139d6f366fa1b51",
-      "title": "The problem with how theme parks approach movies is a tale of two Fast & Furious rides",
-      "url": "https://www.avclub.com/fast-and-furious-supercharged-hollywood-drift-theme-park-rides-universal-problems",
-      "datePublished": "2026-09-25T16:00:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Fast & Furious: Supercharged stars most of the cast. Fast & Furious: Hollywood Drift simply goes fast. There's a very clear winner.",
-      "author": "Garret Martin",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25094813/hollywood-drift-2squared.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "0fc9c86402b397c8",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "datePublished": "2026-09-25T16:00:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear",
-      "author": "Theresa Loconsolo",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "e1bb95305cf7d0cf",
-      "title": "How to watch Turkey vs. France online for free",
-      "url": "https://mashable.com/entertainment/turkey-france-nations-league-2026-live-stream-for-free",
-      "datePublished": "2026-09-25T16:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Nations League for free. Live steam Turkey vs. France in Nations League for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06lZiMWshMnjA913zFUlknx/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a6dc7a627cca2969",
-      "title": "Shop the best early Prime Day deals on Pokémon, including 30th Celebration trading cards for under market price",
-      "url": "https://mashable.com/life/best-early-amazon-october-prime-day-pokemon-deals-2026",
-      "datePublished": "2026-09-25T15:59:37.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early Prime Day Pokémon deals on TCG cards, Switch games, Lego, books, and more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07k1vVc1CHrn7qOZaalHbks/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "066b079084bc64e1",
-      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "datePublished": "2026-09-25T15:52:13.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "author": "Zack Whittaker",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "ef33b8cf9b798c4a",
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "datePublished": "2026-09-25T15:48:14.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The latest unauthorized agent swarms were discovered by researchers.",
-      "author": "Tim Fernholz",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "7d47d84ab9b6c05a",
-      "title": "Arsenal’s Mikel Arteta uses ‘desirable difficulties’ to prepare his players – is this a good coaching strategy?",
-      "url": "https://theconversation.com/arsenals-mikel-arteta-uses-desirable-difficulties-to-prepare-his-players-is-this-a-good-coaching-strategy-292813",
-      "datePublished": "2026-09-25T15:47:04.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Mikel Arteta talks to Arsenal player Noni Madueke during their Champions League victory over Napoli on September 9 2026. ErreRoberto/Shutterstock The former England rugby union coach, Sir Clive Woodward, once shared an anecdote about an unexpectedly delayed diving contest, after an interloper in fancy dress had jumped in the pool. Woodward described how some competitors became overly anxious, ill-",
-      "author": "David Turner, Senior Lecturer in Sports Coaching, Anglia Ruskin University",
-      "imageUrl": "https://images.theconversation.com/files/762001/original/file-20260924-50-4bjgb9.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2833%2C1888&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "2acf571f41338d0c",
-      "title": "BBC climate thriller The Rapture isn’t so far-fetched",
-      "url": "https://theconversation.com/bbc-climate-thriller-the-rapture-isnt-so-far-fetched-291702",
-      "datePublished": "2026-09-25T15:46:25.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Amid an unending heatwave in contemporary Wales – and increasingly violent weather around the world – a psychological thriller unfolds. Two years after an accident that killed her husband and paralysed her from the waist down, Gabrielle Fox returns to work as a psychologist at an adolescent internment unit. One patient, 16-year-old Bethany, is accused of murdering her mother by stabbing her severa",
-      "author": "Gracia Ramirez, Senior Lecturer, BA (Hons) Film and Screen Studies, London College of Communication, University of the Arts London",
-      "imageUrl": "https://counter.theconversation.com/content/291702/count.gif",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "8bb52ca83f377c83",
-      "title": "20+ of the best early Prime Day deals on trading cards: Pokémon TCG, Magic: The Gathering, One Piece, and more",
-      "url": "https://mashable.com/life/best-early-amazon-october-prime-day-trading-card-deals-2026",
-      "datePublished": "2026-09-25T15:40:55.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early Prime Day trading card deals on Pokémon TCG, Magic, One Piece, Disney Lorcana, and more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05qICjYn5NNlLzTOJH5a9Rc/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a8f06da5cb116390",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "datePublished": "2026-09-25T15:40:03.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "author": "Connie Loizos",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "c5683c416fe93f69",
-      "title": "Ed Sheeran Forced to Cancel Concerts at Robert Kraft’s Stadium",
-      "url": "https://newrepublic.com/post/215874/ed-sheeran-cancel-concerts-robert-kraft-stadium",
-      "datePublished": "2026-09-25T15:31:37.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Ed Sheeran has had his upcoming weekend shows at billionaire Robert Kraft’s Gillette Stadium due to inclement weather—a fitting, ironic end to an embarrassing saga for the British singer. The cancellation was announced Friday morning as a massive nor’easter is anticipated to hit the East Coast over the weekend. “Due to the severe weather forecast throughout the weekend, the tour has made the diffi",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/934d76ea00bb74e270335b0091c4f8cabeea6af4.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "2cefa4e1c5a54981",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "datePublished": "2026-09-25T15:31:02.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?id=49845998 Points: 118 # Comments: 119",
-      "author": "ibobev",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "5e8bd66ca873dc86",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "datePublished": "2026-09-25T15:29:25.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 375 # Comments: 689",
-      "author": "cramer4next",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ae6aa4c79a448b39",
-      "title": "A24’s ‘Primetime’ Earns $2.7 Million in Previews as Robert Pattinson’s Creepy Chris Hansen Scores at the Box Office",
-      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/",
-      "datePublished": "2026-09-25T15:27:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Avengers: Endgame Encore\" earns a mighty $3.8 million as it returns to theaters.",
-      "author": "Brent Lang",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "e4ebc941adcedcbb",
-      "title": "The best early October Prime Day gaming deals: I found PS5, Nintendo Switch, and Xbox deals worth grabbing now",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-gaming-deals-2026",
-      "datePublished": "2026-09-25T15:26:22.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early October Prime Day gaming deals on PS5, Switch, Xbox, monitors, headsets, keyboards, mice, and more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/005uDDnhUuGGHqcLUNb2Kj5/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "2ed387387c504283",
-      "title": "Starlink satellites are becoming a barometer for Earth’s atmosphere",
-      "url": "https://mashable.com/science/starlink-satellites-planetary-barometer",
-      "datePublished": "2026-09-25T15:25:43.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "An astronomer is using Starlink and other satellites to track changes in Earth’s upper atmosphere with a daily satellite drag index.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Kl2OaQtAdmgOPGAKCoMmp/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "509ed3fce69e4936",
-      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-      "datePublished": "2026-09-25T15:24:50.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-      "author": "Sean O'Kane",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "18636125b966cde3",
-      "title": "Yaga trailer brings mystery and a thirsty Carrie-Anne Moss to AMC+",
-      "url": "https://www.avclub.com/yaga-trailer-carrie-anne-moss-amc",
-      "datePublished": "2026-09-25T15:22:46.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Kat Sandler's mystery series premieres on the streamer with two episodes on Friday, October 23.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25111405/yaga-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "1419d21e984b052e",
-      "title": "Why far-right protesters target non-political groups like lifeboat volunteers",
-      "url": "https://theconversation.com/why-far-right-protesters-target-non-political-groups-like-lifeboat-volunteers-292909",
-      "datePublished": "2026-09-25T15:21:22.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Penny Hicks/Shutterstock On September 6 2026, two Royal National Lifeboat Institution (RNLI) lifeboats brought around 120 migrants ashore at Portsmouth. They were met by a protest, where far-right demonstrators verbally abused lifeboat crew. The crew’s names, addresses and photographs were later circulated online. The protest in the Eastney area of the city was organised by Patriot Platform, a far",
-      "author": "David Pritchard, Senior Lecturer in Criminology and Social Policy, University of Portsmouth",
-      "imageUrl": "https://images.theconversation.com/files/762268/original/file-20260925-50-6nv78k.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5472%2C3648&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "3354bbc9cf7c8a5a",
-      "title": "SNL Hires Two New Writers for Season 52",
-      "url": "http://www.vulture.com/article/snl-writer-season-52-bam-alston-chase-rosenberg.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T15:20:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Bam Alston and Chase Rosenberg join a staff that, with a couple of exceptions, remains mostly unchanged from last year.",
-      "author": "Hershal Pandya",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/99b/c81/253a8c18e814892a4474596d96a50551a6-new-snl.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "a4f770a1c7e53841",
-      "title": "“Where Are the Cameras?”: Trump, 80, Is Confused About Own Media Ban",
-      "url": "https://newrepublic.com/post/215871/donald-trump-80-confused-media-ban",
-      "datePublished": "2026-09-25T15:19:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The president apparently did not realize that he’d lose the spotlight when he decided to ban news outlets from the White House. MS NOW’s Jonathan Lemire told Morning Joe Friday that Donald Trump was confused by the lack of cameras at the executive mansion the night before, despite the fact that he had banned MS NOW, CNN, and Politico, sparking a press pool–wide protest as a result. Trump did not c",
-      "author": "Ellie Quinlan Houghtaling",
-      "imageUrl": "https://images.newrepublic.com/6649174cd4011776aaddf715293d1fe503257574.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "63f55d07aad7495c",
-      "title": "Microsofts new Surface laptops get rid of Copilot+ PC branding",
-      "url": "https://mashable.com/tech/microsoft-surface-pcs-shed-copilot-plus-pc-branding",
-      "datePublished": "2026-09-25T15:13:41.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "After killing its Copilot mascot Pico, Microsoft is now sunsetting the Copilot+ PC brand.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01kjuJPX7JgFSuojzDlyLCU/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "e5acecd44e1257d4",
-      "title": "GOG’s Big Fall Sale Includes A Bunch Of Great PC Games For $15 Or Less",
-      "url": "https://kotaku.com/gogs-big-fall-sale-includes-a-bunch-of-great-pc-games-for-15-or-less-2000737166",
-      "datePublished": "2026-09-25T15:11:40.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Control, Doom, Mafia, Just Cause, The Witcher, and much more are currently on sale for the next two weeks",
-      "author": "Zack Zwiezen",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/GOg-sale2026-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "f885ebb8d70fc327",
-      "title": "Alfa Romeo Made Literal Yacht-Tier Luna Rossa Cars",
-      "url": "https://www.highsnobiety.com/p/alfa-romeo-luna-rossa-cars/",
-      "datePublished": "2026-09-25T15:09:05.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Alfa Romeo's partnership with Luna Rossa yielded four beautiful cars designed to the degree of America's Cup yachts.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "6c45e128834fd4c9",
-      "title": "I found 13 early October Prime Day earbuds deals that are worth buying from Bose, Apple, Beats, and more",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-earbuds-deals-2026",
-      "datePublished": "2026-09-25T15:07:29.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Early October Prime Day deals on earbuds are live from Bose, Apple, Beats, Soundcore, Baseus, and more",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00dciVSvVKdQecy9XOHkmul/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "08b8c1c5cb474ae8",
-      "title": "Did a Harvard Professor Influence the Unabomber?",
-      "url": "http://www.vulture.com/article/netflix-unabomber-movie-interview-director-janus-metz-pedersen.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T15:05:50.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "An interview with the director of a new Netflix movie about Ted Kaczynski who believes there’s a link.",
-      "author": "Rachel Corbett",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/465/028/e12d98c14e791dfd806792d933deb01b5b-unabomber.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "a5c74a5c42036d0b",
-      "title": "Jimmy Kimmel: ‘The only thing more unwelcome in the Oval Office than CNN is a salad’",
-      "url": "https://www.theguardian.com/culture/2026/sep/25/jimmy-kimmel-recap-trump-white-house-media-ban",
-      "datePublished": "2026-09-25T15:00:49.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Late night hosts discussed the overturning of Trump’s White House media ban and Xi Jinping’s visit On Thursday’s late night shows, hosts discussed Donald Trump’s visit by Xi Jinping, reports of China gifting two giant pandas to the US and news that the White House had lifted their press ban. Continue reading...",
-      "author": "Guardian staff",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "06055923b9e10ce2",
-      "title": "Well, Ed Sheeran's shows at Gillette Stadium have been canceled anyway",
-      "url": "https://www.avclub.com/ed-sheeran-gillette-stadium-canceled",
-      "datePublished": "2026-09-25T15:00:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "After major controversy, Sheeran's performances at the Robert Kraft-owned venue have ultimately been canceled due to inclement weather.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/12215843/sheeran-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "697419be06c25a0d",
-      "title": "The Shopper Awards: These Are The Best Pants of the Year (So Far)",
-      "url": "https://www.highsnobiety.com/p/the-hs-shoppers-favourite-pants/",
-      "datePublished": "2026-09-25T15:00:14.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The Shopper Awards celebrate the most-clicked products from Highsnobiety's Shopper newsletter. This edition is all about the year's best pants.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "caa53e812bef1eea",
-      "title": "Always a joker: Magda Szubanski reveals Heath Ledger asked to play her stalker on Kath and Kim",
-      "url": "https://www.theguardian.com/culture/2026/sep/26/magda-szubanski-memoir-reveals-heath-ledger-kiss-kath-and-kim-stalker-role",
-      "datePublished": "2026-09-25T15:00:10.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In her new memoir, I Can’t Tell You But I Will, Szubanski recalls how Ledger enjoyed their improvised kiss so much that he asked to be on the sitcom It was the pash that stopped the nation. At the 2006 Australian Film Institute awards, Heath Ledger was being interviewed by a TV journalist when a screech made everyone jump. Magda Szubanski, who was wandering the red carpet in character as her grace",
-      "author": "Sian Cain",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "ea045461c148d974",
-      "title": "Adam Driver and Miles Teller are no match for bad luck in stellar New York neo-noir Paper Tiger",
-      "url": "https://www.avclub.com/paper-tiger-review-james-gray-adam-driver-miles-teller-neo-noir-scarlett-johansson",
-      "datePublished": "2026-09-25T15:00:02.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "James Gray returns to Brighton Beach for a polluted tale of corrupted brothers, which Adam Driver and Miles Teller excel at in Paper Tiger.",
-      "author": "Monica Castillo",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25100115/paper-tiger-squared-e1790344902927.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "6c0af3a44940d77c",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "datePublished": "2026-09-25T15:00:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-      "author": "TechCrunch Events",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "01e329f7248851d9",
-      "title": "Brad Pitt and David Ayer Had None of Your Typical Film Set Comforts on the Survival Thriller ‘Heart of the Beast’",
-      "url": "https://www.indiewire.com/features/podcast/heart-of-the-beast-director-david-ayer-interview-brad-pitt-1235218183/",
-      "datePublished": "2026-09-25T15:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ayer tells IndieWire's Filmmaker Toolkit podcast about the challenges of telling an adventure story about a man and his dog, where the project's stripped-down nature makes every decision exponentially more important.",
-      "author": "Jim Hemphill",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "92bad3f57ddaa48d",
-      "title": "You Want to See the Slimy, Voyeuristic Movie About the Slimy, Voyeuristic Show. You See How This Looks, Right?",
-      "url": "https://slate.com/culture/2026/09/primetime-movie-chris-hansen-robert-pattinson-a24-to-catch-a-predator.html?via=rss",
-      "datePublished": "2026-09-25T14:59:54.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Robert Pattinson’s latest is a sleazy movie about a sleazy show. It could be just as much of a sensation.",
-      "author": "Sam Adams",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "e94725e0bda011d1",
-      "title": "Who Is 'Barf Simmons'?",
-      "url": "https://knowyourmeme.com/videos/440611-barf-simmons-barf-symptons",
-      "datePublished": "2026-09-25T14:58:24.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Barf Simmons, sometimes known as Barf Symptons is a series of memes using a creepy aesthetic based around a blue, elongated version of the character Bart Simpson from The Simpsons.",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/news_feeds/icons/mobile/000/095/980/0ac.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "153fd7e669e160d2",
-      "title": "IShowSpeed's 'Ronaldo Day' Clip Becomes A Powerful Brainrot Meme",
-      "url": "https://knowyourmeme.com/memes/happy-day-ronaldo-day",
-      "datePublished": "2026-09-25T14:56:52.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Happy Day, Ronaldo Day is a series of memes, including brainrot edits, based on a viral video clip of streamer IShowSpeed skating and singing, \"Happy day, Ronaldo day,\" then getting body-checked into the wall by a hockey player. The clip comes from a video uploaded to IShowSpeed's YouTube channel in 2024, in which he learns to play hockey with NHL player Cole Caufield. The clip went viral in 2026 ",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/520/ronaldodaycover.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "062581ad0a46f74b",
-      "title": "The FDA’s Overton Window Problem",
-      "url": "https://newrepublic.com/post/215869/fda-overton-mifepristone-vaccines",
-      "datePublished": "2026-09-25T14:48:45.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free. Inside Washington The FDA’s Overton window problem On Thursday, Republican Senator Susan Collins, a self-described abortion rights supporter, asked not a single question about abortion during the hearing for Food and Drug Administration co",
-      "author": "Emma Janssen, The New Republic Staff",
-      "imageUrl": "https://images.newrepublic.com/4842bbb64fd104ee1ac22baf3609ccce6518bbd9.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "7501b8729307a432",
-      "title": "Trump’s Justice Department Gives Up on Desegregation",
-      "url": "https://newrepublic.com/post/215867/trump-justice-department-gives-desegregation",
-      "datePublished": "2026-09-25T14:47:51.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "President Trump’s Department of Justice doesn’t think desegregation is worth the effort. The DOJ on Thursday announced it has dropped more than 50 school desegregation cases. As The New York Times reports, that brings the total to 57 dropped cases since Trump was reelected. Nearly 80 percent of the cases took place in the Southern states of Alabama, Mississippi, South Carolina, Georgia, and Louisi",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/b966840796a399ea18ef1ac93c99154064d475de.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "08a61409342948ef",
-      "title": "Avengers: Endgame Now Has More Robert Downey Jr.",
-      "url": "http://www.vulture.com/article/avengers-endgame-extra-scenes.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T14:47:37.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The rereleased movie will come with four new minutes, aiming to smooth the transition between Endgame and Doomsday.",
-      "author": "Jason P. Frank",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/e51/c6a/cb37f7740fdf5898127e81a5a4e9e10623-avengers-endgame.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "1411b1965f1fed7d",
-      "title": "PC Gaming Grows Over 200 Percent In Four Years In Japan As Global Hits Break Through",
-      "url": "https://kotaku.com/pc-gaming-grows-over-200-percent-in-four-years-in-japan-as-global-hits-break-through-2000736037",
-      "datePublished": "2026-09-25T14:45:37.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "A new report shows how streamer-friendly global hits have propelled Japanese gaming",
-      "author": "Alicia Haddick",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/apex-hero-medium-about-lore-1280x720.jpeg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "9a4182dcd370f87c",
-      "title": "Remastered 9 To 5  brings Dolly Parton back into our lives (for one week)",
-      "url": "https://www.avclub.com/9-to-5-remaster-theatrical-rerelease-announced",
-      "datePublished": "2026-09-25T14:40:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Disney announced net proceeds from all U.S. ticket sales will be donated to the Dollywood Foundation on Friday.",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25103537/9to5-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "2967d9ea45a6c37f",
-      "title": "I’ll Have What Xi’s Having",
-      "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/ill-have-what-xis-having",
-      "datePublished": "2026-09-25T14:38:27.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "When Donald met Jinping.",
-      "author": "Barry Blitt",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "7209fce666e30411",
-      "title": "Blue Croc Leather Boots Never Looked This Rugged",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-      "datePublished": "2026-09-25T14:36:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "c3047140cb5059b5",
-      "title": "David Ellison attends same dinner at White House that CNN was barred from",
-      "url": "https://www.avclub.com/david-ellison-white-house-state-dinner-cnn",
-      "datePublished": "2026-09-25T14:31:33.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "MS NOW was also denied access to the state dinner welcoming Xi Jinping.",
-      "author": "Drew Gillis",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/12103827/MixCollage-12-Jan-2026-10-37-AM-8133.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "607616466d71f851",
-      "title": "A Union Feud Shouldn’t Sink California’s Billionaire Tax",
-      "url": "",
-      "datePublished": "2026-09-25T14:30:52.902Z",
-      "category": [
-        "society"
-      ],
-      "description": "America’s already threadbare welfare state is on the brink of total collapse. Over the next ten years, national funding for Medicaid, whose benefits 81 million Americans rely upon, will be cut by about . States that expanded Medicaid access under the Affordable Care Act will be hit especially hard. More immediately, in just a few days, on October 1, and again on January 1, various new requirements",
-      "author": "Christie Offenbacher",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "88351a4a7db5208e",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "datePublished": "2026-09-25T14:28:07.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon. I've spent endless hours playing this game as a child so building this was a ton of fun. I open sourced everything in case you want to hack on it yourself here:",
-      "author": "pancomplex",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "6c1dc49d3827f152",
-      "title": "You Just Paid for This Deranged “Love Me” Ad by Trump",
-      "url": "https://newrepublic.com/post/215866/taxpayer-funds-you-paid-deranged-love-me-campaign-ad-trump",
-      "datePublished": "2026-09-25T14:26:51.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "You’re paying for Trump’s newest “Love Me” campaign ad. The president unveiled yet another hype video on Wednesday set to JMSN’s hit song “Love Me.” The ad goes full Red Scare, playing audio from Trump in which he proclaims that “together we will defeat communism, Marxism, and socialism in America. America will never be a communist country.” The ad then flashes pro-Trump claims like “Largest Tax C",
-      "author": "Malcolm Ferguson",
-      "imageUrl": "https://images.newrepublic.com/f5931c0368fabaa25d4ccca28079072915c9da89.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "acd4dbe8b94cefdf",
-      "title": "Congress Must Act to Support Cinemas Tax Credit and Keep Movies on Main Street",
-      "url": "https://www.indiewire.com/news/analysis/congress-tax-credit-cinema-theater-upgrades-op-ed-1235218635/",
-      "datePublished": "2026-09-25T14:24:01.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In an op-ed, four independent exhibitors push for the passage of the SCREEN Act, a tax break for movie theater reinvestment.",
-      "author": "Brent Lang",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "1e87f22ea21c7c5b",
-      "title": "A Vanillaware Veteran Is Making A 2D Multimedia Fantasy IP With An All-New Studio",
-      "url": "https://kotaku.com/a-vanillaware-veteran-is-making-a-2d-multimedia-fantasy-ip-with-an-all-new-studio-2000737147",
-      "datePublished": "2026-09-25T14:15:43.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The Ignisphere Project, led by a new action RPG named Dawngazer, has ambitions to be more than just a video game",
-      "author": "Alicia Haddick",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/09/Screenshot-2026-09-25-at-16.34.01-1280x717.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "37e575b1d01ef8e6",
-      "title": "What is trauma-informed care – and how do schools do it?",
-      "url": "https://theconversation.com/what-is-trauma-informed-care-and-how-do-schools-do-it-287733",
-      "datePublished": "2026-09-25T14:15:14.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "DGLimages/Shutterstock Trauma-informed approaches have become increasingly prominent within education policy and guidance, although the term is not always explicitly used. Trauma-informed practice is the recognition and understanding that trauma – an event, series of events, or set of circumstances that is experienced by a person as harmful or life-threatening – can impact a person’s wellbeing. Th",
-      "author": "Sarah Ward, Lecturer in Education, Mental Health and Wellbeing, Edge Hill University",
-      "imageUrl": "https://images.theconversation.com/files/758255/original/file-20260907-50-c65u4t.jpg?ixlib=rb-4.1.1&amp;rect=231%2C284%2C4563%2C3042&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "9a2813986ec08563",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "datePublished": "2026-09-25T14:15:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "author": "TechCrunch Events",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "fd64e7bda3637573",
-      "title": "Daily Cartoon: Friday, September 25th",
-      "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-september-25th-campaign-spam",
-      "datePublished": "2026-09-25T14:10:14.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A drawing that riffs on the latest news and happenings.",
-      "author": "Trevor Spaulding",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "719caa3bc7f8ec0c",
-      "title": "All 53 DreamWorks Animation Movies, Ranked",
-      "url": "http://www.vulture.com/article/best-dreamworks-animation-movies-ranked.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T14:10:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Like onions, these films have layers.",
-      "author": "James Grebey",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/3d6/bfe/3aa22bbdaed53073e71de778ed0a18d2f8-dreamworks-ranking.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "6df7deb6ff42f6d4",
-      "title": "11 New Albums You Should Listen to Now: Tinashe, Gilla Band, and More",
-      "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-tinashe-gilla-band-and-more/",
-      "datePublished": "2026-09-25T14:09:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Stream new releases from Tinashe, Gilla Band, Julia Jacklin, and M83",
-      "author": "Nina Corcoran, Walden Green, Hattie Lindert",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "8102fe8d39131012",
-      "title": "Move Over, Taylor Swift. The Brands Are About to Spice Up the VMAs",
-      "url": "https://www.adweek.com/convergent-tv/move-over-taylor-swift-the-brands-are-about-to-spice-up-the-vmas/",
-      "datePublished": "2026-09-25T14:08:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "The 2026 VMAs will have Bacardi, Spotify, and Dunkin' creating moments you donut want to miss.",
-      "author": "Bill Bradley",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "d1c1d864aa34d916",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "datePublished": "2026-09-25T14:07:08.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 77 # Comments: 65",
-      "author": "sbulaev",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "248adbd3bfb4233d",
-      "title": "Our favorite early Prime Day deals on iPads: Live deals on the iPad Air and iPad Pro",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-ipad-deals-2026",
-      "datePublished": "2026-09-25T14:06:26.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Ahead of Amazon's October Prime Day, iPads are already on sale. Find deals on the iPad Air and iPad Pro.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07BoKgFl9FWCW1lnDpePSWK/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "9d9476050fd70fe7",
-      "title": "Trump Complains About Own Media Ban as Outlets Blocked From Event",
-      "url": "https://newrepublic.com/post/215863/donald-trump-whines-media-ban-outlets-barred-state-dinner",
-      "datePublished": "2026-09-25T14:05:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In the topsy-turvy MAGA world, some of America’s most prominent media outlets are choosing not to cover Donald Trump. In reality, they’re still under the Trump administration’s ban. The president claimed on Truth Social Thursday afternoon that MS NOW and CNN “refused to cover” the arrival of Chinese President Xi Jinping at the White House. “The event was magnificent—Actually made for Television bu",
-      "author": "Ellie Quinlan Houghtaling",
-      "imageUrl": "https://images.newrepublic.com/1391e972dab1dc06864d84961b039f590cda1d17.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "f2d2f422f5a3ea71",
-      "title": "How scapegoating happens – and what we can do to stop it",
-      "url": "https://theconversation.com/how-scapegoating-happens-and-what-we-can-do-to-stop-it-289916",
-      "datePublished": "2026-09-25T14:01:43.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "The tragic death of Jason Arday has provoked strong feelings across academia and beyond. The former University of Cambridge professor was found dead nine days after resigning from his post amid allegations of plagiarism and doubts over his life story. At the time of his resignation, he issued a statement saying: “I no longer wish to feel as though I am living under a constant spotlight, where ever",
-      "author": "Fay Bound-Alberti, Professor in Modern History and UKRI Future Leaders Fellow, King's College London",
-      "imageUrl": "https://images.theconversation.com/files/756531/original/file-20260827-50-o91q4n.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "7c36538968d16790",
-      "title": "Dark Matter Recap: Remembrance of Jasons Past",
-      "url": "http://www.vulture.com/article/dark-matter-recap-season-2-episode-5-apple-tv.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T14:00:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "We get a slice of life from an NPC Jason in the most introspective and emotional episode Dark Matter has ever attempted.",
-      "author": "Scott Tobias",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/dd6/597/8b4b074308d8953b3f932e6ec39a23b8eb-dark-mater-4.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "6a99569d4fcc3efc",
-      "title": "The Best Holiday Gift Is a Gilded Age Christmas Album",
-      "url": "http://www.vulture.com/article/the-gilded-age-christmas-album-announcement.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T14:00:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Let’s make the Yuletide gay.",
-      "author": "Jason P. Frank",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/f17/01b/e15cfddb3ac1ece569df6f5c790004e8d6-gildedage.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "140cfa301e8cf844",
-      "title": "Outlander: Blood of My Blood Recap: Choosing Sides",
-      "url": "http://www.vulture.com/article/outlander-blood-of-my-blood-recap-season-2-episode-2-starz.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T14:00:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Surprising alliances are made and broken, and it’s starting to feel like an episode of The Real Housewives of Castle Leoch.",
-      "author": "Maggie Fremont",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/a14/1b5/b85bc42108e430ba406372cf0a8cad31e9-bmb-ep2.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7f2a933c6fd808d0",
-      "title": "Ace Combat 8: Wings of Theve review – brilliant aerial combat game fulfils the Top Gun fantasy",
-      "url": "https://www.theguardian.com/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
-      "datePublished": "2026-09-25T14:00:08.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "PlayStation 5, Xbox, PC (version played); Bandai Namco The game generates blood-pumping moments as you twist, turn and weave through the skies, while your locked-on missiles speed away to obliterate an enemy plane The core appeal of any Ace Combat game lies in the moment when the beautiful clouds part, the sunlight glints off your perfectly rendered state-of-the-art fighter jet, and guitar-shreddi",
-      "author": "Patrick Lum",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "6588bead64748aed",
-      "title": "War review: HBO and Skys delicious legal drama is your next TV obsession",
-      "url": "https://mashable.com/entertainment/war-review-hbo",
-      "datePublished": "2026-09-25T14:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Dominic West and Sienna Miller lead \"War,\" the story of a high-profile divorce and the lawyers working the case.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01w2eQx6wSPf0SfPBlzw2vx/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "68dafecb4e005c97",
-      "title": "‘The Gilded Age’ Musical Is Finally Happening — as a Christmas Album",
-      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-christmas-album-cast-musical-episode-hbo-1235218372/",
-      "datePublished": "2026-09-25T14:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"Voices of The Gilded Age: The Christmas Album\" puts the HBO series' cast of Broadway stars to proper use, with Audra McDonald, Carrie Coon, Christine Baranski, Kelli O'Hara, Morgan Spector, and more performing a slew of holiday classics and two new songs.",
-      "author": "Ben Travers",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "7f4ab49602396e2d",
-      "title": "How to watch Italy vs. Belgium online for free",
-      "url": "https://mashable.com/entertainment/italy-belgium-nations-league-2026-live-stream-for-free",
-      "datePublished": "2026-09-25T14:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Nations League for free. Live steam Italy vs. Belgium in Nations League for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02kGpsr6BL5a2s7rLql4IsS/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "dd895a9ffaf34c0e",
-      "title": "Once rejected as ‘too outlandish’, Zandra Rhodes’ archive is helping to shape fashion’s future",
-      "url": "https://theconversation.com/once-rejected-as-too-outlandish-zandra-rhodes-archive-is-helping-to-shape-fashions-future-291208",
-      "datePublished": "2026-09-25T13:57:27.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "As a student in the 1960s, Zandra Rhodes would often visit the costume court of the Victoria and Albert Museum in London to study the Elizabethan doublets. She went on to incorporate elements of Tudor costume into many of her couture collections. Now things have come full circle. As an icon of British fashion – and a dame – Rhodes’ collections are providing inspiration for a new generation of stud",
-      "author": "Katharine Short, Archives and Special Collections Manager, De Montfort University",
-      "imageUrl": "https://counter.theconversation.com/content/291208/count.gif",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "5d50301700570e2a",
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "datePublished": "2026-09-25T13:55:37.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 210 # Comments: 96",
-      "author": "sunils34",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "206b7c263bff9b62",
-      "title": "AI is creating jobs as well as erasing them – but how rewarding are they?",
-      "url": "https://theconversation.com/ai-is-creating-jobs-as-well-as-erasing-them-but-how-rewarding-are-they-292848",
-      "datePublished": "2026-09-25T13:52:38.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "rudall30/Shutterstock Don’t believe the hype about AI taking over all forms of work. Most of the evidence to date suggests large-scale job losses are limited. But what is changing is the way work is organised. One area of increased employment is in people “cleaning up” after large language models (LLMs), or quality controlling them. The sales pitch is that these AI systems can program code, write ",
-      "author": "Akhil Bhardwaj, Associate Professor (Strategy and Organisation), School of Management, University of Bath",
-      "imageUrl": "https://images.theconversation.com/files/762106/original/file-20260924-50-8yg5tv.jpg?ixlib=rb-4.1.1&amp;rect=0%2C288%2C2564%2C1709&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "805d3cb12cb8b413",
-      "title": "The Uprising: the real medieval revolt that inspired Andrew Garfield’s new film",
-      "url": "https://theconversation.com/the-uprising-the-real-medieval-revolt-that-inspired-andrew-garfields-new-film-289109",
-      "datePublished": "2026-09-25T13:52:35.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "The Uprising, a medieval drama directed by Paul Greengrass and starring Andrew Garfield, is set to hit cinemas this autumn. The film draws its inspiration from the Peasants’ Revolt of 1381 in England. The studio’s synopsis presents the uprising as a “rebellion against the tyranny of King Richard II”, with Garfield leading “an army of the people to face the king’s might in a fight for justice and s",
-      "author": "Alex Brown, Associate Professor of Medieval History, Durham University",
-      "imageUrl": "https://images.theconversation.com/files/752529/original/file-20260806-50-gtbzav.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "922fcc23636461e6",
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "datePublished": "2026-09-25T13:49:06.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand Comments URL: https://news.ycombinator.com/item?id=49844663 Points: 94 # Comments: 319",
-      "author": "MC995",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "4b229b303afede76",
-      "title": "Russia’s new jet-powered drones mark latest evolution in air war above Ukraine",
-      "url": "https://theconversation.com/russias-new-jet-powered-drones-mark-latest-evolution-in-air-war-above-ukraine-292190",
-      "datePublished": "2026-09-25T13:48:00.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "Ukraine has been using its fighter jets to shoot down Russian Geran-5 drones. Mike Seaman / Shutterstock The air war between Russia and Ukraine has evolved constantly since the start of the conflict. The latest example is Russia’s deployment of a new type of long-range, jet-powered drone, which is having a significant effect on Ukraine’s ability to defend its cities against aerial attack. In an in",
-      "author": "Marina Miron, Postdoctoral Researcher, War Studies Department, King's College London",
-      "imageUrl": "https://images.theconversation.com/files/762282/original/file-20260925-58-ghidhu.jpg?ixlib=rb-4.1.1&amp;rect=401%2C500%2C4644%2C3096&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "97e5c0902e4c27b5",
-      "title": "The best early October Prime Day deals on hair tools, skincare, and red light masks",
-      "url": "https://mashable.com/life/best-early-amazon-october-prime-day-beauty-deals-2026",
-      "datePublished": "2026-09-25T13:47:47.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early Amazon Prime Day beauty deals on blow-dryer brushes, skincare, and red light tools right now.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/004uo0XlvEm6TewUvrK9BCn/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "507fede0334adae4",
-      "title": "What happens when you analyze your favorite college football team like the CIA?",
-      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-      "datePublished": "2026-09-25T13:47:21.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia Comments URL: https://news.ycombinator.com/item?id=49844642 Points: 35 # Comments: 20",
-      "author": "adam",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "8e90c360421723b1",
-      "title": "The Great British Baking Show Season-Premiere Recap: Here Comes the Judge",
-      "url": "http://www.vulture.com/article/great-british-baking-show-recap-bake-off-cake-week-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-09-25T13:47:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Nigella Lawson enters the tent with confidence, expertise, and a delightful way of describing flavors.",
-      "author": "Brian Moylan",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/ef6/72b/73110c50b7db3c222728b5e07ce4d760af-bakeoff-14-e1.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "f8bee350e04b6904",
-      "title": "Netflix is making a Sesame Street movie, which is nice",
-      "url": "https://www.avclub.com/sesame-street-movie-announced-netflix",
-      "datePublished": "2026-09-25T13:45:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The beloved series' latest film is a co-production by Sesame Workshop and Rideback, the latter having produced the live-action Lilo & Stitch .",
-      "author": "Jarrod Jones",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/25094133/street-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "d8566cfc779b340e",
-      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "url": "https://hackeratlas.com/",
-      "datePublished": "2026-09-25T13:37:54.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "I built a tool to explore HN topics and how they change over time. Currently covers 2024 to today. Is it useful? What's missing? Comments URL: https://news.ycombinator.com/item?id=49844497 Points: 4 # Comments: 0",
-      "author": "andrearitossa",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "872c4ffea2c29a2d",
-      "title": "Rockstar’s massive $400 GTA 6 box comes with Oakleys, a hat, and a map of Leonida — where to preorder",
-      "url": "https://mashable.com/entertainment/gta-6-collectors-box-vice-city-collection-preorder",
-      "datePublished": "2026-09-25T13:33:16.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Rockstar's $400 GTA 6 Collector's Box is available for preorder. Here is where to grab the Vice City Collection and what is included.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05hhmwMwxHK5HJQh7jH66xY/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "c8d66888242affc1",
-      "title": "The First Walmart Union Contract in North America",
-      "url": "",
-      "datePublished": "2026-09-25T13:32:35.147Z",
-      "category": [
-        "society"
-      ],
-      "description": "Eight hundred workers at a Walmart distribution center in Mississauga, Ontario, succeeded where others have not: they are now working under a two-year contract with North America’s largest logistics giant. The landmark collective bargaining agreement went into effect on July 1, nearly two years after workers won union , joining Unifor Local 252, motivated by low wages and unsafe working conditions",
-      "author": "Kari Thompson",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "d3e1e51a32f98248",
-      "title": "See All Stories",
-      "url": "https://www.service95.com/stories",
-      "datePublished": "2026-09-25T13:20:22.167Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "38d02b91f435e42f",
-      "title": "72 Hours In Glasgow: Scotland’s Charismatic Cultural Hub",
-      "url": "https://www.service95.com/72-hours-in-glasgow",
-      "datePublished": "2026-09-25T13:20:22.167Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "086ef70049408693",
-      "title": "Service95 Partnerships",
-      "url": "https://www.service95.com/tag/service95-partnerships",
-      "datePublished": "2026-09-25T13:20:22.167Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "47482828c50423dc",
-      "title": "Latin Music Revenue Is Booming — And Outpacing the Overall U.S. Market (Again)",
-      "url": "https://www.rollingstone.com/music/music-latin/latin-music-revenue-2026-growth-outpacing-u-s-market-1235631280/",
-      "datePublished": "2026-09-25T13:15:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "An RIAA report shows that Latin music made more than $542.2 million in the first half of 2026",
-      "author": "Julyssa Lopez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "5fc45860aeabd456",
-      "title": "Taylor Swift: The Life of a Showgirl: The Encore review – flashes of humanity and bafflingly vindictive love songs",
-      "url": "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
-      "datePublished": "2026-09-25T13:13:33.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "(Republic) This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lows One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive. When Taylor Swift announced an expanded edition of last ye",
-      "author": "Laura Snapes",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "c9b04bf736c10226",
-      "title": "David Ellison Dines With Trump and Xi as CNN Banned From White House",
-      "url": "https://newrepublic.com/post/215857/david-ellison-dines-trump-xi-cnn-banned-white-house",
-      "datePublished": "2026-09-25T13:12:38.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The soon-to-be owner of CNN ate with President Trump Thursday night at the White House’s state dinner with Chinese President Xi Jinping while Trump still barred the broadcast network from the premises. Paramount Skydance CEO David Ellison was among the guests at the event, reports Deadline, as he awaits a judge’s approval of a settlement in Paramount’s merger with CNN’s parent company, Warner Bros",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/01c8637e93fc3fe975acde480d6ce75097474ad5.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "f56025c4aa5a6c05",
-      "title": "Shakira Confirms Alejandro Sanz for Madrid Residency’s Second Weekend, Teases Maluma Appearance",
-      "url": "https://consequence.net/2026/09/shakira-madrid-residency-second-weekend-alejandro-sanz-maluma/",
-      "datePublished": "2026-09-25T13:12:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Spaniard is expected Friday night, while her fellow Colombian superstar's appearance date remains under wraps. Shakira Confirms Alejandro Sanz for Madrid Residency’s Second Weekend, Teases Maluma Appearance Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "c033d99274fa7a89",
-      "title": "Moon phase today: What the Moon will look like on September 25, 2026",
-      "url": "https://mashable.com/science/moon-phase-today-sept-25-2026",
-      "datePublished": "2026-09-25T13:08:52.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "See the Moon phase expected for September 25, 2026 as well as when the next Full Moon is expected.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/052BzHMnYfyMKCWLgrniols/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d05182bdd9ef7f63",
-      "title": "LISTEN: The Delicate Art of Releasing a Hit Streaming Series",
-      "url": "https://variety.com/2026/tv/news/strictly-business-luminate-wallenstein-streaming-series-1236875398/",
-      "datePublished": "2026-09-25T13:01:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "If you’re a streaming service lucky enough to have a hit series on your hands, congratulations — now the hard part begins. Keeping that series on the air, let alone growing its audience over time, can be a daunting task. But there are data patterns worth taking note of that can be helpful for programmers, […]",
-      "author": "Cynthia Littleton",
-      "imageUrl": "",
-      "source": "Variety"
     }
   ]
 }
