@@ -1,6 +1,822 @@
 {
-  "generatedAt": "2026-10-02T01:21:28.355Z",
+  "generatedAt": "2026-10-02T08:02:35.414Z",
   "articles": [
+    {
+      "id": "0f3f5b108a639604",
+      "title": "The Way I Work…",
+      "url": "https://www.service95.com/tag/the-way-i-work",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "3320a126492390e2",
+      "title": "Behind The Scenes At KNWLS’s London Fashion Week Return",
+      "url": "https://www.service95.com/video-interview-knwls",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "889a0438db811b65",
+      "title": "7 Vinyls To Listen To Now, According To Berlin’s SEVEN Record Store",
+      "url": "https://www.service95.com/seven-berlin-playlist",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "bb00513b68e1a4e3",
+      "title": "British Jazz Pioneers Ezra Collective On Community, Rituals & Connection",
+      "url": "https://www.service95.com/backstage-with-ezra-collective",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "e142a35051ddb3ed",
+      "title": "We Need To Talk About The Weather",
+      "url": "https://www.service95.com/we-need-to-talk-about-the-weather",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "864d322442ac8b7a",
+      "title": "On bell hooks, Love & The Path To Real Connection",
+      "url": "https://www.service95.com/bell-hooks-love-connection-essay",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "47e091701c915bfc",
+      "title": "I Didn’t Cause My Anxious Attachment, But I Will Be The One To Address It",
+      "url": "https://www.service95.com/anxious-attachment-essay",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "3772feabc1b9e319",
+      "title": "Find your next read",
+      "url": "https://www.service95.com/tag/the-reading-list",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "7a0e32eb6f4656b0",
+      "title": "Sex & Relationships",
+      "url": "https://www.service95.com/tag/sex",
+      "datePublished": "2026-10-02T08:02:32.377Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "2e8c3a9444f35069",
+      "title": "European Countries Coordinate Response to US Pressure Over Oil Reserves",
+      "url": "https://mezha.net/eng/news/04c9a4eb_european_countries_coordinate/",
+      "datePublished": "2026-10-02T08:01:40.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "A diesel export threat has turned fuel stocks into a diplomatic bargaining point, but Europe’s response may depend on a wider international forum. France, Germany, the United Kingdom, Italy and Ireland, together with the European Commission, discussed a joint response to U.S. pressure to use strategic oil reserves. According to three European officials, Washington threatened […] European Countries",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/european-countries-coordinate-response.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "0961a4f4203a64c8",
+      "title": "ATESH Says Russia Raised Black Sea Fleet Readiness Ahead of Crimean Bridge Anniversary",
+      "url": "https://mezha.net/eng/news/04c9a4eb_atesh_says_russia/",
+      "datePublished": "2026-10-02T08:01:31.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "A date tied to a major bridge strike is prompting new claims about Russian naval preparations, but the reported alert remains unverified. The ATESH partisan movement said that the Russian Black Sea Fleet command had placed its forces on heightened combat alert. According to the movement, military units were ordered to patrol the waters more […] ATESH Says Russia Raised Black Sea Fleet Readiness Ah",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/atesh-says-russia-raised.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "6edd0ca833a72d2f",
+      "title": "Russian Forces Strike Kramatorsk Passenger Bus with FPV Drone, Injuring Two",
+      "url": "https://mezha.net/eng/news/04c9a4eb_russian_forces_strike/",
+      "datePublished": "2026-10-02T08:01:22.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "The morning commute in Kramatorsk was interrupted by a drone attack, with passengers still inside when the strike hit. Russian forces attacked a passenger bus in Kramatorsk with an FPV drone on the morning of October 2. Passengers were on board at the time of the strike. This is reported by the Kramatorsk City Council […] Russian Forces Strike Kramatorsk Passenger Bus with FPV Drone, Injuring Two ",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/russian-forces-strike-kramatorsk.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "50532d73c4963dc4",
+      "title": "31 Years Later, the Definitive Sci-Fi Cyberpunk Movie Is Free to Stream on YouTube",
+      "url": "https://www.polygon.com/ghost-in-the-shell-streaming-free-youtube-october-2026/",
+      "datePublished": "2026-10-02T08:00:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ghost in the Shell still defines cyberpunk sci-fi, and you can experience it now on YouTube.",
+      "author": "Ryan Epps",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ghost-in-the-shell-newport-city.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "131d0bed091b6de8",
+      "title": "Court Orders 1643 Pokrovsky Church Returned to State Ownership in Ternopil Region",
+      "url": "https://mezha.net/eng/news/f40c5dac_court_orders_1643/",
+      "datePublished": "2026-10-02T07:46:55.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "A disputed 2018 property registration lies at the center of the case, involving a wooden landmark built without iron nails. A commercial court has ruled that the 1643 Church of the Intercession in the village of Staryi Pochaiv, Ternopil region, must be returned to state ownership. The ruling, issued in response to a lawsuit by […] Court Orders 1643 Pokrovsky Church Returned to State Ownership in T",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/court-orders-1643-pokrovsky.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "4c62f23ccaa8fe33",
+      "title": "Ukrainians in Denmark protest Fayard’s servicing of Russian LNG tankers",
+      "url": "https://mezha.net/eng/news/f40c5dac_ukrainians_in_denmark/",
+      "datePublished": "2026-10-02T07:46:46.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "The dispute centers on a specialized Arctic vessel, with organizers pointing to its earlier voyages and a striking estimate of cargo value. The Association of Ukrainians in Denmark held a protest in central Copenhagen against Fayard A/S servicing tankers carrying Russian liquefied natural gas from the Arctic. This was reported by the Association of Ukrainians […] Ukrainians in Denmark protest Faya",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/ukrainians-in-denmark-protest.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "afc8652c6058b32b",
+      "title": "Russian FPV Drones Damage Ukrnafta Fuel Complex in Dnipropetrovsk Region",
+      "url": "https://mezha.net/eng/news/f40c5dac_russian_fpv_drones/",
+      "datePublished": "2026-10-02T07:46:35.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Two strikes hit the same site, and the energy company is still working out the scale of the damage and what repairs will require. Russian drones damaged an Ukrnafta gas station in the Dnipropetrovsk region. No employees or visitors were injured. This was reported by Bohdan Kukura, Chairman of the Board of JSC Ukrnafta, on […] Russian FPV Drones Damage Ukrnafta Fuel Complex in Dnipropetrovsk Region",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/russian-fpv-drones-damage.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "9f3f24e051f30779",
+      "title": "Finland will lend €50 million to World Bank fund for Ukraine’s reconstruction",
+      "url": "https://mezha.net/eng/news/f40c5dac_finland_will_lend/",
+      "datePublished": "2026-10-02T07:46:23.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Ukraine’s recovery faces a decade-long funding challenge, while international partners are looking for ways to unlock more affordable financing. Finland will provide a €50 million loan to the International Development Association (IDA), a member of the World Bank Group. The funding will support Ukraine’s reconstruction under the SPUR 2.0 program. As reported by the online […] Finland will lend €50",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.net/eng/kd_image_generate/f40c5dac_finland_will_lend/3727843.jpg?ver=2.0.15",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "1197cf6077a07561",
+      "title": "Gold Versus Debt: What the Growth of Europe’s Gold Reserves Really Means",
+      "url": "https://mezha.net/eng/news/8dd8253c_gold_versus_debt-_what/",
+      "datePublished": "2026-10-02T07:42:04.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "The apparent balance-sheet comfort hides a legal and institutional divide that leaves Europe’s governments facing a much harder financial challenge. Europe is simultaneously valuing its gold more highly and accumulating public debt. But these are not two sides of the same balance sheet: gold belongs to central banks, while debt belongs to governments. The financial […] Gold Versus Debt: What the G",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/zoloto-proti-borgu-shcho.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "8f01b1479c91977c",
+      "title": "Kazakhstan Detains Ukrainian Grandmother Who Could Face Extradition to Russia",
+      "url": "https://mezha.net/eng/news/47f2dd1a_kazakhstan_detains_ukrainian/",
+      "datePublished": "2026-10-02T07:31:36.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "A family effort to reunite a boy with his father has taken a sharply different turn after a cross-border trip ended in custody. Kazakhstan has detained Ukrainian citizen Liubov Rozhanska. She flew to Astana from Istanbul to collect her grandson. She is being held in the capital’s pretrial detention center, and a court hearing in […] Kazakhstan Detains Ukrainian Grandmother Who Could Face Extraditi",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/kazakhstan-detains-ukrainian-grandmother.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "81ebcb0b7b417b73",
+      "title": "Ukraine Raises Official Dollar Rate to 44.83 Hryvnias as Euro Falls",
+      "url": "https://mezha.net/eng/news/47f2dd1a_ukraine_raises_official/",
+      "datePublished": "2026-10-02T07:31:27.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Currency quotes diverged on Friday, and the gap between official benchmarks and the rates offered by banks and exchange offices adds another wrinkle. For Friday, October 2, 2026, the National Bank of Ukraine set the dollar exchange rate at UAH 44.83. That is 15 kopecks higher than the previous day. The euro fell by 2 […] Ukraine Raises Official Dollar Rate to 44.83 Hryvnias as Euro Falls first app",
+      "author": "Solod Serhii",
+      "imageUrl": "https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/10/02/ukraine-raises-official-dollar.webp",
+      "source": "Mezha (Eng)"
+    },
+    {
+      "id": "7c530d8daf0c46af",
+      "title": "Evidence of the very real trauma of war in Ukraine",
+      "url": "https://theconversation.com/evidence-of-the-very-real-trauma-of-war-in-ukraine-293381",
+      "datePublished": "2026-10-02T07:05:32.000Z",
+      "category": [
+        "society"
+      ],
+      "description": "Overnight on Wednesday, which marked 1,680 days since Vladimir Putin launched his full-scale invasion of Ukraine, Russia unleashed a heavy barrage of strikes against energy infrastructure in Kyiv and other major cities. As weather forecasters predict freezing overnight temperatures in coming days, many suspect this is the beginning of a campaign to knock out Ukraine’s grid and leave people in the ",
+      "author": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
+      "imageUrl": "https://counter.theconversation.com/content/293381/count.gif",
+      "source": "The Conversation (UK)"
+    },
+    {
+      "id": "ad572fd67b3e4a90",
+      "title": "Early Prime Day steal: Clip this Amazon coupon to score $900 off the Dreame A3 AWD Pro 3500 robot lawn mower",
+      "url": "https://mashable.com/tech/oct-1-early-prime-day-dreame-robot-lawn-mower-deal",
+      "datePublished": "2026-10-02T07:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get the best robot lawn mower deal at Amazon. Save $900 on the Dreame Robot Lawn Mower with an Amazon coupon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06d17depyWm7fjxTvLbkB3L/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d070209a56cb75b9",
+      "title": "Alexander Skarsgård Embraces His Magnetism in the Rolling Stones’ Video for ‘Mr. Charm’",
+      "url": "https://www.rollingstone.com/music/music-news/alexander-skarsgard-the-rolling-stones-mr-charm-music-video-1235635756/",
+      "datePublished": "2026-10-02T06:49:13.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The track comes off the rock band's latest album, Foreign Tongues",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "42d879fe603c3849",
+      "title": "Ben Affleck Says He Used AI for ‘Lots Of Things’ in His New Movie ‘Animal’",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/ben-affleck-ai-animal-movie-netflix-1235635750/",
+      "datePublished": "2026-10-02T06:20:54.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"And in fact, I thought it was a good example because it’s a very human movie\"",
+      "author": "Emily Zemler",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "9448eab15c1bed26",
+      "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+      "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
+      "datePublished": "2026-10-02T06:15:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Michael De Luca and Pamela Abdy’s term as chiefs of Warner Bros. is coming to an end. Multiple sources told Variety that De Luca and Abdy will not be part of David Ellison’s management team after the merger between Paramount Skydance and Warner Bros. Discovery closes. The landmark $110 billion pact is expected to be […]",
+      "author": "Angelique Jackson",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "19c25cfe71ad393e",
+      "title": "How to watch France vs. Italy online for free",
+      "url": "https://mashable.com/entertainment/france-italy-nations-league-2026-live-stream-for-free",
+      "datePublished": "2026-10-02T06:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Nations League for free. Live steam France vs. Italy in Nations League for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0152xQopRYUvNrWwcs5lo06/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "aad64d2939cdf2cc",
+      "title": "‘Cameron Winter at Carnegie Hall’ Review: Paul Thomas Anderson Directs a Rapturous Solo Concert Movie Built Around the Songs — and Haunting Sound — of Cameron Winter",
+      "url": "https://variety.com/2026/film/reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236897129/",
+      "datePublished": "2026-10-02T05:51:46.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The slow rolling piano echo through the hall like a rhapsody from the deep. The sound is rich, lustrous, bottom-heavy, grand. And that voice! Winter sings in a low baritone (and occasionally a high one) of astonishing power, the notes hanging there in a suspended quaver so bold it’s hypnotic.",
+      "author": "Owen Gleiberman",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "4c736d4740f3f8eb",
+      "title": "Buffy Meets Hannibal In the Cult Classic Detective Series Streaming Free on YouTube",
+      "url": "https://www.polygon.com/izombie-streaming-free-youtube-october-2026/",
+      "datePublished": "2026-10-02T05:45:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "iZombie is free to stream on YouTube, making now the perfect time to revisit this creative twist on the zombie genre.",
+      "author": "Maria Loreto",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/zmb509a_0633b.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "6a1adf8c8e92deb0",
+      "title": "‘American Horror Story: 13’ Jeffrey Dahmer Actor on That ‘Coven’ Cliffhanger and Sharing the Serial Killer With Co-Star Evan Peters",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/ahs-13-jeffrey-dahmer-return-seth-gabel-cliffhanger-1236717562/",
+      "datePublished": "2026-10-02T05:31:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Seth Gabel returns as the notorious Dahmer in the new season of Ryan Murphy's horror franchise, reuniting him with Peters, who took on the role in the first season of 'Monster.'",
+      "author": "Jackie Strause",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "7dbd7e5afa509e2a",
+      "title": "US tells France and Germany to release diesel stocks or face US export ban",
+      "url": "https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/",
+      "datePublished": "2026-10-02T05:22:20.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/ Comments URL: https://news.ycombinator.com/item?id=49930086 Points: 44 # Comments: 32",
+      "author": "geox",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ecfcfba62a4d0edc",
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "datePublished": "2026-10-02T05:12:58.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 55 # Comments: 8",
+      "author": "pietroppeter",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e78772ea17120ca8",
+      "title": "Building reliable (and fast) directory sync",
+      "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+      "datePublished": "2026-10-02T04:45:36.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync Comments URL: https://news.ycombinator.com/item?id=49929925 Points: 5 # Comments: 0",
+      "author": "jamilbk",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "dce72c4a327f1b34",
+      "title": "Ben Affleck’s ‘Animals’ Cast Wants Him to Run for Office: ‘Maybe They Hate Me’",
+      "url": "https://variety.com/2026/politics/columns/ben-afflecks-why-wont-run-poiltical-office-animals-1236897296/",
+      "datePublished": "2026-10-02T04:38:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ben Affleck plays a Brentwood businessman running for Los Angeles mayor in the new thriller “Animals.” The Oscar winner, who directed and co-wrote the film, is also a longtime political activist who has supported the presidential campaigns of Barack Obama, Hillary Clinton, Joe Biden and Kamala Harris. Now, his “Animals” cast would like him to […]",
+      "author": "Marcmalkin",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "d975b34c25127f9d",
+      "title": "Noah Kahan Delivers Heartache and Hope on New ‘Hunger Games’ Single",
+      "url": "https://www.rollingstone.com/music/music-news/noah-kahan-hunger-games-song-draw-you-out-1235635660/",
+      "datePublished": "2026-10-02T04:22:32.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"Draw You Out\" will appear on the soundtrack for The Hunger Games: Sunrise on the Reaping",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "f35dc2ea974f70da",
+      "title": "Kelly Clarkson Loves AI, But Says AI Artists Shouldn’t Be “Competing With Humans” on Music Charts",
+      "url": "https://www.hollywoodreporter.com/music/music-news/kelly-clarkson-ai-artists-shouldnt-be-music-charts-humans-1236720709/",
+      "datePublished": "2026-10-02T04:22:28.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"We can’t lose human. We can’t lose what that is. But there could be an appetite for both,\" she said of the controversial technology.",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "c45edab82540be51",
+      "title": "Drake and Don Toliver’s “Choosin’ Texas” Remix Is Officially Here",
+      "url": "https://pitchfork.com/story/drake-and-don-tolivers-choosin-texas-remix-is-officially-here/",
+      "datePublished": "2026-10-02T04:10:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "”Solar Eclipse” arrives alongside other FOMO tracks “Quebec,” “Classic PT2,” and “Cold Shoulder”",
+      "author": "Walden Green",
+      "imageUrl": "",
+      "source": "Pitchfork"
+    },
+    {
+      "id": "5d8b50bbcc3d6a3d",
+      "title": "‘The Cat in the Hat’ Soundtrack Is Going to Rule, Thanks to Hilary Duff",
+      "url": "https://www.rollingstone.com/music/music-news/hilary-duff-catastrophe-cat-in-the-hat-1235635219/",
+      "datePublished": "2026-10-02T04:03:57.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Duff said she hoped \"CATastrophe\" would be \"something you'd turn all the way up in the car.\" Mission accomplished",
+      "author": "Angie Martoccio",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "a5e06fc847f7bb0a",
+      "title": "KATSEYE Enlist DJ Pedro Sampaio for Brazilian Funk Remix of “HOOTIE FRUTTI”: Watch",
+      "url": "https://consequence.net/2026/10/katseye-pedro-sampaio-hootie-frutti-remix/",
+      "datePublished": "2026-10-02T04:00:05.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Brazilian producer debuted his funk-heavy rework during his Rock in Rio set in September. KATSEYE Enlist DJ Pedro Sampaio for Brazilian Funk Remix of “HOOTIE FRUTTI”: Watch Pedro Camacho",
+      "author": "Pedro Camacho",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "3cc1452648e33eec",
+      "title": "Hurdle hints and answers for October 2, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-october-2-2026",
+      "datePublished": "2026-10-02T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04Sorxbp2hmXlDzLAfn6G5I/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "927bfe168fe33d6a",
+      "title": "Ken Urker, Gypsy-Rose Blanchard’s Partner, Dies at 34",
+      "url": "https://variety.com/2026/tv/news/ken-urker-dead-gypsy-rose-blanchard-partner-1236897303/",
+      "datePublished": "2026-10-02T03:52:01.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ken Urker, the partner of Gypsy-Rose Blanchard and father of their child, was found dead Thursday in Raceland, Louisiana. He was 34. Captain Brennan Matherne of the Lafourche Parish Sheriff’s Department said in a statement to Variety, “We responded to a residence at 107 Double H Drive, Lot 4, in Raceland today after receiving a […]",
+      "author": "Pat Saperstein",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6d8b3eacbb0d62bb",
+      "title": "Ben Affleck Explains His Approach to Using AI Ethically on New Movie ‘Animals’: “It’s Not About Making Fake People or Replacing Anybody, Ever”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613/",
+      "datePublished": "2026-10-02T03:35:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"I wouldn't use something that trains on or has learned from any work that is copywritten, or that is an intelligence created by a peer of mine or somebody that I look up to,\" the actor-director emphasized.",
+      "author": "Kirsten Chuba",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "d8e61cae3f382196",
+      "title": "Ken Urker, the Father of Gypsy-Rose Blanchard’s Daughter, Dies at 34",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ken-urker-dead-father-gypsy-rose-blanchard-daughter-1236720726/",
+      "datePublished": "2026-10-02T03:15:14.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Urker also appeared in Lifetime's 'Gypsy Rose: Life After Lockup' with Blanchard.",
+      "author": "Carly Thomas",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ef05aea17ef0559f",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "datePublished": "2026-10-02T03:11:20.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 195 # Comments: 98",
+      "author": "Kuyawa",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "46e894b67011f5f9",
+      "title": "Donna Langley on Landing Hollywood’s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan",
+      "url": "https://www.hollywoodreporter.com/business/business-news/donna-langley-nbcu-taylor-sheridan-christopher-nolan-1236720688/",
+      "datePublished": "2026-10-02T02:34:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "\"With disruption and instability, it's a moment to look around the marketplace and see if there's a competitive advantage,“ said the NBCUniversal Entertainment chairman.",
+      "author": "Mia Galuppo",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "b825d7e13f150325",
+      "title": "War Series-Premiere Recap: The Tipping Point",
+      "url": "http://www.vulture.com/article/war-season-1-episode-1-hbo-premiere.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-02T02:01:49.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A tech mogul and movie star’s marriage comes to an acrimonious end, kicking off HBO’s delicious legal drama.",
+      "author": "Rafaela Bassili",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/829/ff1/55ff567d75ef6df56afc04fb8469e91888-dominic-west-sienna-miller.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "ef91a58513e03b23",
+      "title": "Yes, It’s Tough to Be a Playwright: creation stories",
+      "url": "http://www.vulture.com/article/yes-its-tough-to-be-a-playwright-creation-stories.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-02T02:00:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mfoniso Udofia’s play spends a lot of its time agonizing over whether it should be one—which doesn’t make for great theater.",
+      "author": "Sara Holdren",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/e9c/f70/245131023863b41c4ede948ba1444fab07-creation-stories-lede.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "1b069c1668239641",
+      "title": "War stars Dominic West and Sienna Miller on episode 1s red carpet gone wrong",
+      "url": "https://mashable.com/entertainment/war-dominic-west-sienna-miller-interview-red-carpet-divorce",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Dominic West and Sienna Miller take us inside \"War\" episode 1's shocking divorce serving on the red carpet.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/videos/04R4ItVmVnNm6yp8mQXphX8/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5130b819f46b5ebd",
+      "title": "From Cathcarts and Sons to Taylor and Byrne, heres your guide to Wars rival law firms",
+      "url": "https://mashable.com/entertainment/war-cathcarts-and-sons-taylor-and-byrne",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "HBO's \"War\" introduces two fictional law firms, Cathcarts & Sons and Taylor & Byrne. Here's what you need to know about both.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05Jn5YedEUBaRPLJSXeUx5f/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4f198869570dc970",
+      "title": "Archie Renaux breaks down Wars game-changing mole twist",
+      "url": "https://mashable.com/entertainment/war-johnny-mole-explainer",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"War\" star Archie Renaux explains why Johnny Warren chooses to be a mole for Cathcarts & Sons.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01E6FcgjEDZvK1NcL1qTNdg/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "326b4aa572cd45f6",
+      "title": "Yes, Wars shocking episode 1 ending was inspired by Olivia Wildes custody serving",
+      "url": "https://mashable.com/entertainment/war-episode-1-ending-olivia-wilde-jason-sudeikis",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "\"War\" ends its first episode with a shocking incident drawn from Olivia Wilde's custody serving at CinemaCon.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06MTRUi1AQYMgpLAJoyY3Op/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "4f15a77325443ffc",
+      "title": "NYT Connections hints today: Meanings for each word for Oct. 2, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-2-2026",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1209.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05DnLFiJWeM47fxvvnX5DfP/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "32d43d2bcc0ec2d3",
+      "title": "NYT Connections hints today: Clues, answers for October 2, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-2-2026",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07La8ZUB3QvoEPbBtCkGj3R/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8dee7bb91bab43c8",
+      "title": "NYT Strands hints, answers for October 2, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-2-2026",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/073QUb9bXZqsCWMHc1UsCgB/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2f037c99e66a8f1a",
+      "title": "Wordle today: Answer, hints for October 2, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-october-2-2026",
+      "datePublished": "2026-10-02T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1931 on October 2 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01HhgSE6RCNjFjk2t2anV0J/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "04514bbe0c596130",
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "datePublished": "2026-10-02T01:56:52.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 113 # Comments: 63",
+      "author": "danielfoster",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a7c447891f556dd7",
+      "title": "Turnstile Promise Not to Trash SNL Set in New Promo",
+      "url": "https://consequence.net/2026/10/turnstile-snl-debut-promo/",
+      "datePublished": "2026-10-02T01:40:59.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Baltimore group will be the first hardcore act to perform on SNL in over four decades. Turnstile Promise Not to Trash SNL Set in New Promo Karan Singh",
+      "author": "Karan Singh",
+      "imageUrl": "",
+      "source": "Consequence"
+    },
+    {
+      "id": "997330e1877d6419",
+      "title": "International Oscar Submissions: Cuba, Denmark, Vietnam, Italy, France and More Join the List",
+      "url": "https://variety.com/lists/international-oscar-submissions-2027/",
+      "datePublished": "2026-10-02T01:33:39.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed […]",
+      "author": "Pat Saperstein",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "36b2ef84bd9a44fa",
+      "title": "Oscars: Pakistan Selects Documentary ‘Hanging by a Wire’ for International Feature Race (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/oscars-pakistan-hanging-by-a-wire-international-feature-1236897231/",
+      "datePublished": "2026-10-02T01:24:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mohammed Ali Naqvi’s documentary thriller “Hanging by a Wire” has been selected as Pakistan’s submission for the international feature film Oscar at the 99th Academy Awards, marking the first time a documentary has represented the country in the category. The Pakistan Academy Selection Committee made the selection, calling it a historic milestone for Pakistani documentary […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "194d716a879ac443",
+      "title": "‘Big Brother’ Reveals Season 28 Winner: See Who Won the Game (and America’s Favorite Houseguest)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/big-brother-season-28-winner-america-favorite-houseguest-1236720612/",
+      "datePublished": "2026-10-02T01:22:25.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "At the top of the finale episode, Rick Devens, Drew Campbell and Taylor Brown were still in contention to win the show.",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "151c0d26ba193c29",
+      "title": "Fast & Furious Will See You Again on Television",
+      "url": "http://www.vulture.com/article/fast-and-furious-tv-show.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-02T01:19:21.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "A new series is coming to Peacock in 2028.",
+      "author": "Alejandra Gularte",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/d65/7b4/0cb4146249068d3df2e49a43de3e4902d5-fast-and-furious.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
     {
       "id": "abde894858af0855",
       "title": "'Digger' Ending Explained: A Spoiler-Filled Breakdown of Tom Cruise's Wild New Movie",
@@ -13,6 +829,19 @@
       "author": "Jake Kleinman",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/tom-cruise-digger-071326-1-fd14b1785e454df2b4935c684a18d1f7.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "2e8dbf6f51ecf92b",
+      "title": "The Real Housewives of Orange County Recap: Blasts From the Past",
+      "url": "http://www.vulture.com/article/real-housewives-of-orange-county-recap-rhoc-season-20-episode-13-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-02T01:00:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "It takes a drove of ex-Housewives to descend on the OC cast to breathe the slightest bit of life into the season.",
+      "author": "Louis Peitzman",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/bf5/b54/1589cd69cb4c055199fe080e5e2f89bd7e-rhoc-ep-13.1x.rsocial.w1200.png",
+      "source": "Vulture"
     },
     {
       "id": "c088dda7af7c6dde",
@@ -502,6 +1331,20 @@
       "author": "staff@engadget.com (Ian Carlos Campbell)",
       "imageUrl": "https://www.engadget.com/img/gallery/chatgpt-can-now-help-you-virtually-try-on-clothes/l-intro-1790893360.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "c69dce2def450a54",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "datePublished": "2026-10-01T22:23:38.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.frogandtoad.ai/ Comments URL: https://news.ycombinator.com/item?id=49927760 Points: 131 # Comments: 28",
+      "author": "supermdguy",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "93a2b12d5143633c",
@@ -3401,6 +4244,21 @@
       "source": "Engadget"
     },
     {
+      "id": "e7c00239dc990d48",
+      "title": "How to watch Denmark vs. Portugal online for free",
+      "url": "https://mashable.com/entertainment/denmark-portugal-nations-league-2026-live-stream-for-free",
+      "datePublished": "2026-10-01T16:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Nations League for free. Live steam Denmark vs. Portugal in Nations League for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01nRrtYERtX1Eas9hADmU9f/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
       "id": "df3661c55178bff3",
       "title": "Reddit will block Old Reddit for users who don’t use it for six months",
       "url": "https://mashable.com/tech/old-reddit-access-six-month-usage-requirement",
@@ -5499,6 +6357,21 @@
       "source": "Mashable"
     },
     {
+      "id": "6ac542fdb89fea3f",
+      "title": "T-Mobile is giving away the Motorola Razr+ for free — how to claim now",
+      "url": "https://mashable.com/tech/oct-1-free-motorola-razr-deal",
+      "datePublished": "2026-10-01T11:16:42.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to get the Motorola Razr+ for free. Get the new Motorola Razr+ for free with T-Mobile when you activate a new line on an Experience Beyond plan.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01UcFescUBgUuDNcv9ensmN/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
       "id": "51488cce0b95461f",
       "title": "The 2026 MacBook Air is $150 off ahead of Prime Day and comes with free bonuses",
       "url": "https://mashable.com/tech/oct-1-early-prime-day-apple-macbook-air-13-inch-deal",
@@ -5840,908 +6713,6 @@
       "author": "Eli Grober",
       "imageUrl": "",
       "source": "The New Yorker"
-    },
-    {
-      "id": "67c868ca38dfa3a6",
-      "title": "Tom Cruise-a-Palooza",
-      "url": "https://www.newyorker.com/podcast/critics-at-large/tom-cruise-a-palooza",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Iconic roles and death-defying stunts have made Tom Cruise’s name synonymous with movie magic. In “Digger,” he breaks his action streak to show us something new—for better or for worse.",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "c6ab4ac7b99c06af",
-      "title": "Colm Tóibín Reads Tobias Wolff",
-      "url": "https://www.newyorker.com/podcast/fiction/colm-toibin-reads-tobias-wolff",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The author joins Deborah Treisman to read and discuss “Awaiting Orders,” which was published in The New Yorker in 2005.",
-      "author": "",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "6f44d931dd38e226",
-      "title": "How the “Cornell Seven” Rape Case Became a National Scandal",
-      "url": "https://www.newyorker.com/news/the-lede/how-the-cornell-seven-rape-case-became-a-national-scandal",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The dismal responses from both the D.A. and the university reveal a larger pattern of institutional carelessness.",
-      "author": "Jessica Winter",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "b825a28aa9d0f69a",
-      "title": "Zoe Kazan’s Heady and Bighearted “East of Eden”",
-      "url": "https://www.newyorker.com/magazine/2026/10/12/east-of-eden-tv-review-netflix",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "While Christopher Abbott and Mike Faist duke it out as John Steinbeck’s Trask brothers, Florence Pugh’s Cathy is a gothic villain you can’t help but root for.",
-      "author": "Inkoo Kang",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "f3a3e8bafcefbb66",
-      "title": "The Bleak Future of HBO’s Lanterns",
-      "url": "https://newrepublic.com/article/215979/bleak-future-hbo-lanterns",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Some cultural objects seem to tell the future. They may strike us as urgent or novel or strange when they first appear, but, in retrospect, we understand them to be prescient, to have seen something long before the rest of us. Moby-Dick seems to have gotten the message about literary modernism about six decades early; Zadie Smith’s White Teeth is one of the best novels about the post-9/11 global o",
-      "author": "Phillip Maciak",
-      "imageUrl": "https://images.newrepublic.com/044db7e2c3b2254928e18120cc0260dce2c13a39.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "4078e592057d04d0",
-      "title": "Blue-State Governors Are Rolling Over for Trump’s FBI  ",
-      "url": "https://newrepublic.com/article/215999/blue-state-governors-aiding-fbi",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In a survey of every Democratic governor in America, not a single state leader told The New Republic that they would move to dismantle state and local police participation in the FBI task forces carrying out investigations into political speech and organizing. Of 24 governors contacted, only two gave The New Republic extensive answers about Trump’s executive order criminalizing speech and protest,",
-      "author": "Daniel Boguslaw",
-      "imageUrl": "https://images.newrepublic.com/7113544b4d472d26d3e230ba9c906405a3527551.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "3fa75fe679bfb19b",
-      "title": "America Has Turned on Trump. But Has It Really Said No to Fascism?",
-      "url": "https://newrepublic.com/article/216048/trump-poll-approval-america-fascism",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Recent polling by Strength in Numbers and Verasight paints a dismal picture for Donald Trump and the GOP as they head into the midterms. Trump’s approval rating has fallen to the mid-to-low 30s, driven mostly by plummeting approval with Republicans. In years past, Trump’s approval ratings with Republicans hovered in the high 80s or low 90s. Today, it stands at closer to 70 percent. These numbers a",
-      "author": "Brynn Tannehill",
-      "imageUrl": "https://images.newrepublic.com/c7ba13563268597ceae461c8dee27595643a2e5c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "9b818fcbf7d5297f",
-      "title": "Liberals Must Fight The New York Times’ Monopoly Too  ",
-      "url": "https://newrepublic.com/article/216035/liberals-new-york-times-monopoly",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The New York Times has a massive, almost hegemonic influence on the political discourse among liberals in America. That’s a bold statement, and not one I can easily prove. But I think that’s the reality. The Times’ Nikole Hannah-Jones’s piece on her struggles to find a racially diverse and academically strong school for her child single-handedly created a weeks-long debate about the state of K-12 ",
-      "author": "Perry Bacon",
-      "imageUrl": "https://images.newrepublic.com/3f4bdf21b4ee623b473de6aecf76949d7defca7d.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "0ac3f9f5f50384e7",
-      "title": "Zendaya Goes Full Action Star In On&#8217;s Latest Push for Younger Women",
-      "url": "https://www.adweek.com/creativity/zendaya-goes-full-action-star-in-ons-latest-push-for-younger-women/",
-      "datePublished": "2026-10-01T10:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "On and Zendaya have released their second co-designed collection as the sportswear brand continues its mission to win over younger women and challenge giants like Nike.",
-      "author": "Brittaney Kiefer",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "6cc721fc4f6820ae",
-      "title": "Dakota Johnson keeps a straight face while promoting third SNL hosting appearance",
-      "url": "https://mashable.com/entertainment/dakota-johnson-ashley-padilla-snl-promo",
-      "datePublished": "2026-10-01T09:53:50.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Dakota Johnson appeared alongside \"SNL\" cast member Ashley Padilla to promote her third time hosting this weekend.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/05WfV8IubtgcnqUedNzoRi6/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "9bf87fa2d4a1be5a",
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "datePublished": "2026-10-01T09:48:18.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate Comments URL: https://news.ycombinator.com/item?id=49919680 Points: 0 # Comments: 0",
-      "author": "truemetricsIngo",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "a64059d81ed6d065",
-      "title": "Jimmy Kimmels monologue gets interrupted by a baseball bat-wielding Robert De Niro",
-      "url": "https://mashable.com/entertainment/jimmy-kimmel-robert-de-niro-fcc-chairman",
-      "datePublished": "2026-10-01T09:47:48.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Jimmy Kimmel's monologue was interrupted by Robert De Niro, in character as the FCC chairman.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/videos/07bbah0Td6ADgKV6PJrGgzN/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "dc97f4bfdb4df05f",
-      "title": "The Fire TV Stick 4K Max is almost half off right now — this $40 off deal is worth grabbing ahead of Prime Day",
-      "url": "https://mashable.com/tech/oct-1-early-prime-day-fire-stick-4k-max-deal",
-      "datePublished": "2026-10-01T09:47:21.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best streaming deal at Amazon. Save 47% on the Amazon Fire Stick 4K Max.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07skMQthyZPEbfeoy358Nu0/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "f2e5439945b06f7c",
-      "title": "Early Prime Day deal: We recommend the Jackery Explorer 2000 v2 power station at $100 off",
-      "url": "https://mashable.com/tech/oct-1-early-prime-day-jackery-explorer-2000-v2-power-station-deal",
-      "datePublished": "2026-10-01T09:44:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Find the best power station deal. Save 10% on the Jackery Explorer 2000 v2 at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01gZ9jBhgtbtQu1sanR6M4g/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "e24c3d4116995ae5",
-      "title": "I found the Nespresso Vertuo Pop+ for over $50 off at Amazon — shop this $129 early Prime Day deal",
-      "url": "https://mashable.com/tech/oct-1-early-prime-day-nespresso-coffee-machine-deal",
-      "datePublished": "2026-10-01T09:37:18.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the best coffee machine deal. Save 28% on the Nespresso Vertuo Pop+ at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06eckRvMc86xDcgPBgbfIJf/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "0755c374b682aca7",
-      "title": "65-inch TVs are getting the Prime Day treatment: Shop our top deals on TCL, Hisense, Samsung, and more",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-65-inch-tv-deals-2026",
-      "datePublished": "2026-10-01T09:28:04.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Early Prime Day deals are already live on 65-inch TVs. Save on TCL, Hisense, Samsung, and more ahead of the sale.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03odt7Oi948sDtjehVAzotq/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "969558a3f26ab3b3",
-      "title": "Google's first Gemini 4 model is 'Argon'",
-      "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/",
-      "datePublished": "2026-10-01T09:26:30.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing.",
-      "author": "staff@engadget.com (Mariella Moon)",
-      "imageUrl": "https://www.engadget.com/img/gallery/googles-first-gemini-4-model-is-argon/l-intro-1790846363.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "aac7bd4972d3b096",
-      "title": "The best early October Prime Day kitchen deals: We found live Ninja and Keurig deals worth grabbing",
-      "url": "https://mashable.com/life/best-early-october-prime-day-kitchen-deals-2026",
-      "datePublished": "2026-10-01T09:25:46.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Skip takeout and save on cookware, air fryers, and coffee makers. Shop the best early Amazon Prime Day kitchen deals live right now.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06KvRv2f4fXanmyUnHENsQ9/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "889d6cbfbadd9416",
-      "title": "Women are turning to testosterone, but what does the science actually say?",
-      "url": "https://theconversation.com/women-are-turning-to-testosterone-but-what-does-the-science-actually-say-292447",
-      "datePublished": "2026-10-01T09:18:07.000Z",
-      "category": [
-        "society"
-      ],
-      "description": "A recent BBC report described women posing as men to get hold of testosterone gel, hoping to improve their menopause symptoms, because female testosterone products are not easily available to them. But why is the appetite for this predominantly male hormone exploding and are there risks involved? Testosterone is usually thought of as the defining male hormone. It is linked to puberty, muscle devel",
-      "author": "Daniel Kelly, Senior Lecturer in Biochemistry, Sheffield Hallam University",
-      "imageUrl": "https://images.theconversation.com/files/761959/original/file-20260924-50-dkti1s.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-      "source": "The Conversation (UK)"
-    },
-    {
-      "id": "9fd5429a3a7f1528",
-      "title": "Ive spotted 8 on-sale Echo devices that come with $30 in free Amazon credits ahead of October Prime Day",
-      "url": "https://mashable.com/tech/prime-big-deal-days-october-prime-day-echo-devices-free-credits",
-      "datePublished": "2026-10-01T09:05:03.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Select Echo devices are on sale and also come with $30 in free Amazon credits.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/051iZo6vXNfsWoTvsRiCC4k/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "41120326c3bf8cd0",
-      "title": "‘A saving gesture’: the art exhibition spotlighting US prisoners’ creations",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/01/michigan-grand-rapids-art-museum-julie-green-gary-tyler-ray-materson",
-      "datePublished": "2026-10-01T09:00:34.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A trio of shows at Michigan’s Grand Rapids Art Museum humanizes people who are incarcerated and celebrates the resilience of creativity With nearly 2 million people behind bars, America is the global leader in incarceration. When you look at it per capita, we have the highest rate of incarceration of any independent democracy and rank fourth overall in the world, just behind El Salvador, Cuba and ",
-      "author": "Veronica Esposito",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "01f8ba4fdfce80b7",
-      "title": "Publishers Hit the AI Jackpot",
-      "url": "http://www.vulture.com/article/publishers-hit-the-ai-jackpot.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T09:00:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The industry stands to gain the most from Anthropic’s $1.5 billion copyright settlement. Many writers aren’t happy about it.",
-      "author": "Emma Alpern",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/824/600/0e5678b0e90adc4322c2773ce96f084a86-anthropic-lawsuit.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ad91df5dec0c4d75",
-      "title": "Where Did Tony Soprano Get His Crosswords? The Gridspotters Know.",
-      "url": "http://www.vulture.com/article/crossword-puzzle-sleuths-movies-tv-gridspotting.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T09:00:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A small group of crossword sleuths is tracking down every puzzle you’ve seen onscreen.",
-      "author": "Emily Palmer Heller",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/868/680/f615e05487b7727eebfb4f3bd0ecb6b1ab-the-freshman-lobbycard2.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "64a00bfb1fb40d48",
-      "title": "The Only Living Pickpocket in New York review: John Turturro gets the movie he deserves",
-      "url": "https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Noah Segan writes/directs a crime thriller you won't want to miss. Giancarlo Esposito, Steve Buscemi, and Tatiana Maslany co-star.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04n8Uxo5PGKaDOzlWr5GgSX/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "a8e8728b18c04eea",
-      "title": "The best early October Prime Day deals on beauty: Shop hair tools, skincare, and red light masks",
-      "url": "https://mashable.com/life/best-early-october-prime-day-beauty-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early Amazon Prime Day beauty deals on blow-dryer brushes, skincare, and red light tools right now.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01Uk5yGznr45aqmKfIUROti/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "7a8f8c82fc80d161",
-      "title": "25+ home improvement deals to shop before October Prime Day: Im tracking deals on power tools, yard care, and more",
-      "url": "https://mashable.com/life/best-early-october-prime-day-home-improvement-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The best early October Prime Day home improvement deals include outdoor power equipment, smart home devices, and tools.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07gVaHORg1If57Tif6AOLsd/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "57fd68abb30c975c",
-      "title": "The best early Walmart Fall Deals to shop before the sale officially starts: We found live deals on Apple, Ninja, and more",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-walmart-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Walmart's Fall Deals event runs Oct. 5–11, 2026, starting at 12 a.m. ET. You don't need Walmart+ to shop.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04toToaMjayI2zAQm5gQroZ/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "3bf8c8c2dfa1ab98",
-      "title": "Early Prime Day deals on speakers are live: Score huge discounts on Beats, Bose, JBL, and more",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-speaker-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Early Prime Day deals are already live on speakers. Save on Beats, Bose, and more ahead of the sale.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02fQbmDZzybID7CUkXDL0VA/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "db345e1514eb7460",
-      "title": "We picked the best early Prime Day robot vacuum deals: Save on Roborock, Eufy, Dreame, and more",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-robot-vacuum-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Shop the best early Prime Day robot vacuum deals at Amazon.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00azbS8poipnX5XxMHVnF8r/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "6aa6a3e98b60d16f",
-      "title": "The best early Prime Day outdoor deals: Anker power stations, Igloo coolers, and LifeStraws are our top picks",
-      "url": "https://mashable.com/life/best-early-october-prime-day-outdoor-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Early October Prime Day outdoor deals include portable power stations from Jackery, Igloo coolers, the LifeStraw and more.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07fQN8tv7LAwoezduzDIY74/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "d1b8719b62ae7c76",
-      "title": "I found 10+ early October Prime Day earbuds deals that are worth buying: Shop Bose, Apple, Beats, and more",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-earbuds-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Early October Prime Day deals on earbuds are live from Bose, Apple, Beats, Soundcore, Baseus, and more",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00q1UYGDbk7K462pvXdS7eg/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "bd7c8c212412f56a",
-      "title": "We found the best early Prime Day Apple Watch deal — shop the Apple Watch Series 11 for $50 off",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-apple-watch-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Ahead of Prime Big Deal Days, we rounded up the best savings on Apple Watches. Shop the Series 11 and save $50.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07FuTuHvrITEzFnGh0dMN8c/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "bbf84db15278a81c",
-      "title": "I tracked down the top early October Prime Day MacBook deals: Save up to $500 ahead of the sale",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-macbook-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "We found the best early October Prime Day MacBook deals. Grab Apple's M5 Pro-powered MacBook Pro for $500 off ahead of Prime Big Deal Days.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06kFmQK1VbXHppqGCvArsf3/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "d872218864982d2d",
-      "title": "We found 10+ early Prime Day deals for under $25 to add to your cart",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-under-25-deals-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Save big with the best early Prime Day deals under $25 at Amazon. Find top-rated steals ahead of October Prime Big Deal Days.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03F9j0FrL1Ejy7SvVYQsopL/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "d96d3e01a5fcc47b",
-      "title": "Get a lifetime Adobe Acrobat replacement for Mac — 42% off",
-      "url": "https://mashable.com/tech/oct-1-pdf-expert-premium-plan-lifetime",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get a lifetime PDF Expert Premium subscription for Mac for $79.99 (reg. $139.99) and edit, sign, and convert PDFs without a monthly fee.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05NUp9AdFAXdJxKgVIikH1v/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "75a4815d4830a634",
-      "title": "$49.97 gets you Microsoft Word, Excel, PowerPoint, and more for life",
-      "url": "https://mashable.com/tech/oct-1-microsoft-office-2024-professional-plus",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get Microsoft Office 2024 Professional Plus for Windows for $49.97 through Oct. 4, with a perpetual device-linked license and no recurring subscription fees.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02QWfE0mao5WN9vt9DLrN5i/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "700868e4005b927a",
-      "title": "Get real linguists behind your language lessons with a lifetime of Babbel",
-      "url": "https://mashable.com/life/oct-1-babbel-language-learning-lifetime-subscription-all-languages",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get lifetime Babbel access to all 14 languages for $159 through Oct. 6 with StackSocial code LEARN and learn with lessons developed by 100+ expert linguists.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01ytBSV0lyEBZisPq9POEUK/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "c741216063e4f645",
-      "title": "Whats new to streaming this week? (Oct. 2, 2026)",
-      "url": "https://mashable.com/entertainment/new-to-streaming-oct-2-2026",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "What’s new to streaming for the week of October 2, 2026, on Netflix, Prime Video, Paramount+, and more? We've got you covered.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05N4bxsooUpP4W6qndZfIPN/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "ac0e84b61ff4b68f",
-      "title": "Kids dont need chatbots. Teach them this about AI instead.",
-      "url": "https://mashable.com/life/ai-in-schools-how-to-use-ai",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Students don't need to learn how to prompt ChatGPT and Gemini to get the right AI education.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04CxuEME3w6iKvDUTvm9mUL/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "92b4715a5122fd4c",
-      "title": "How to cancel your Amazon Prime membership",
-      "url": "https://mashable.com/article/how-to-cancel-amazon-prime",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Whether you want to call it quits after a trial or you're just fed up with Amazon, here's a step-by-step guide to canceling Prime.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05dYRl0vorSJZVnkSzvcxe0/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "46fecc450c75277a",
-      "title": "Telematrix No. 168: October 1, 2026",
-      "url": "http://www.vulture.com/article/daily-tv-grid-trivia-game-telematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Can you name a Will Forte or Will Sharpe TV show with 3+ seasons?",
-      "author": "Britina Cheng",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/3fa/237/a89e5495de343f8920075ee03393e6727a-telematrix-10-01-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "a0e3abec40128051",
-      "title": "Trump TV Ads Backfire as New Poll Shows He’s Shockingly Toxic for GOP",
-      "url": "https://newrepublic.com/article/216058/trump-tv-ads-backfire-new-poll-shows-he-shockingly-toxic-gop",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Donald Trump has been running propaganda ads starring, well, himself as a way to help the GOP in the midterms. The ads are government-funded, and one official even suggested that the payment scheme is partly designed to get media attention to the ads, amplifying them further. It’s appallingly corrupt and potentially illegal. But, amusingly, they’re backfiring: A new Quinnipiac poll shows that Trum",
-      "author": "The Daily Blast With Greg Sargent",
-      "imageUrl": "https://images.newrepublic.com/8fb1098b449130ff71ab296718c900b53ad36f5c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "085a3cae826ffacc",
-      "title": "Megan Fox Is the ED Treatment In New Ro Sparks Campaign",
-      "url": "https://www.adweek.com/brand-marketing/megan-fox-is-the-ed-treatment-in-new-ro-sparks-campaign/",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Erectile dysfunction ads are not usually sexy by nature, but Ro is looking to change that with some help from Megan Fox. In the first-ever celebrity campaign for Ro’s compounded […]",
-      "author": "Andrea Michelson",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "5995b7cc9a3eee2a",
-      "title": "Cinematrix No. 919: October 1, 2026",
-      "url": "http://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Can you name an Elizabeth Olsen movie that begins with a vowel?",
-      "author": "Britina Cheng",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/a1b/721/a01ab90fa2811a34a0eb1f1367a46f0fb3-cinematrix-10-01-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "ea70f43829c29597",
-      "title": "The Predator Puzzle",
-      "url": "http://www.vulture.com/article/daily-crossword-puzzle.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "1-Across, Nine Letters: Psychological thriller that has Chris Hansen crashing out”",
-      "author": "Malaika Handa",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/4bd/40a/4d1a49bb2e5aa741e25327a742480f397c-Crossword-09-30-2026.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "2907b6cddbd4c536",
-      "title": "Salomon Takes Its Chunky Trail Shoe up Space Mountain",
-      "url": "https://www.highsnobiety.com/p/salomon-xt-4-sneaker-gray/",
-      "datePublished": "2026-10-01T08:32:59.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Salomon's extra chunky XT-4 sneaker is looking to take the XT-6's fashion throne.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "64d64bfa401f81f0",
-      "title": "Books For Libras Who Gravitate Towards Quiet Justice & Well-Measured Words",
-      "url": "https://www.service95.com/libra-book-recommendations",
-      "datePublished": "2026-10-01T08:26:47.937Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "2bbb606bf1d8a036",
-      "title": "The Unexpected Joy Of Travelling With Strangers",
-      "url": "https://www.service95.com/unexpected-joy-travelling-with-strangers",
-      "datePublished": "2026-10-01T08:26:47.937Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "38065a3f75d73826",
-      "title": "The Latest From Book Club",
-      "url": "https://www.service95.com/book-club",
-      "datePublished": "2026-10-01T08:26:47.937Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "2b3d26cfda1bfa01",
-      "title": "The Culture List",
-      "url": "https://www.service95.com/tag/the-culture-list",
-      "datePublished": "2026-10-01T08:26:47.937Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "893a15a6cc158f43",
-      "title": "The Travel List",
-      "url": "https://www.service95.com/tag/the-travel-list",
-      "datePublished": "2026-10-01T08:26:47.937Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "7650b803e5955cc1",
-      "title": "J Balvin's New Nike Drop Is Lurking Under the Surface",
-      "url": "https://www.highsnobiety.com/p/j-balvins-nike-air-jordan-4-amazonas/",
-      "datePublished": "2026-10-01T08:22:46.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "The Colombian star reunites with Jordan Brand for the J Balvin x Air Jordan 4 Amazonas.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "984f65224d5ca93f",
-      "title": "What if Nike’s Shattered Backboard Sneaker 3.0 Was a Dunk?",
-      "url": "https://www.highsnobiety.com/p/nike-dunk-low-campfire-orange-sneaker/",
-      "datePublished": "2026-10-01T08:21:16.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's \"Campfire Orange\" Dunk Low sneaker is basically a slimmed-down iteration of the Shattered Backboard 3.0 AJ 1.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "de7ae7d49be34fd7",
-      "title": "This Hybrid Jordan Tank Is More Than Prepped for Winter",
-      "url": "https://www.highsnobiety.com/p/nike-jordan-spizike-low-utility-spruce-fog/",
-      "datePublished": "2026-10-01T08:19:14.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Re-engineering the low-top variation with a gorped-out, weather-ready spin, Jordan Brand introduces the Jordan Spizike Low Utility Spruce Fog.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "077ea5dbe14814d2",
-      "title": "Nike Takes Its Air Max 97 to Clark Atlanta University",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-97-yardrunners-clark-atlanta-university/",
-      "datePublished": "2026-10-01T08:17:08.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's Clark Atlanta University Air Max 97 sneaker gears up for homecoming season.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "1eee8ca087bc4850",
-      "title": "Nike’s Weirdest Toe Shoe Gets a Luxe Lavender Upgrade",
-      "url": "https://www.highsnobiety.com/p/nikes-weirdest-toe-shoe-gets-a-luxe-lavender-upgrade/",
-      "datePublished": "2026-10-01T08:15:31.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's towel-like Air Rift sneaker adds a bit of royalness to the split toe shoe army.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "7d76fca8e7e7e2bb",
-      "title": "Three NFL Wives Who Sacked the Stereotype and Ran Their Own Brand Plays",
-      "url": "https://www.adweek.com/brand-marketing/three-nfl-wives-who-sacked-the-stereotype-and-ran-their-own-brand-plays/",
-      "datePublished": "2026-10-01T08:08:13.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Pro-athlete spouses are rejecting the influencer label to become founders and brand builders in their own right",
-      "author": "Robert Klara",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "105f62ceffb5c722",
-      "title": "A Softer Margiela Still Calls for Tough Accessories",
-      "url": "https://www.highsnobiety.com/p/maison-margiela-ss27/",
-      "datePublished": "2026-10-01T08:01:24.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "We delved into the details of Maison Margiela Spring/Summer 2026 during a private re-see of Glenn Martens' lighter, brighter, vacation-ready collection.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "a729f5376919bdac",
-      "title": "East of Eden Series-Premiere Recap: Meet the Trasks",
-      "url": "http://www.vulture.com/article/east-of-eden-recap-episode-1-brothers-netflix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-01T08:00:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Zoe Kazan’s adaptation of John Steinbeck’s East of Eden begins with a clear realignment of focus: Florence Pugh’s Cathy Ames front and center.",
-      "author": "Roxana Hadadi",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/37f/9af/b5e67a632323a1aeaa40d92e675ab73184-East-of-Eden-n-S1-E1-00-12-17-08RX.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "12d02f59877a6884",
-      "title": "30+ of the best Anker deals live before Prime Day: We love these deals on power banks, speakers, earbuds, and more",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-anker-deals-2026",
-      "datePublished": "2026-10-01T08:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Save big ahead of Prime Big Deal Days with early Anker sales on top-rated power banks, robot vacuums, and Bluetooth speakers.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01hX5KXmH6T1p0trBWOrE7d/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "cf28256b3f965dbe",
-      "title": "Everything you need to know about October Prime Day, according to someone who covers it every year",
-      "url": "https://mashable.com/tech/prime-big-deal-days-october-prime-day-2026-everything-to-know",
-      "datePublished": "2026-10-01T08:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Amazon's Prime Big Deal Days sale (aka October Prime Day) runs from Oct. 6 to 7. Here's what shoppers need to know ahead of time, according to our deals experts.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06n5J1puiEDk3iR6BnzNCBh/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "5978b640e45b0ef0",
-      "title": "Michael Kassan Invests in $80M Startup OptimizeGEO",
-      "url": "https://www.adweek.com/dealroom/michael-kassan-invests-in-80m-startup-optimizegeo/",
-      "datePublished": "2026-10-01T07:48:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "With the rise of AI search, \"there may not actually be a search page,\" Kassan said",
-      "author": "Trishla Ostwal",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "a6c1b56387099ffe",
-      "title": "The Seven Best Nike Sneaker Releases This Week",
-      "url": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-1/",
-      "datePublished": "2026-10-01T07:47:43.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "This week of our Nike release round-up is both a showcase of revamped archival classics, and a glimpse at what's next in sports footwear.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "5c66feebd3f59130",
-      "title": "This Bottega-fied ASICS Runner Is Woven to Perfection",
-      "url": "https://www.highsnobiety.com/p/above-the-cloud-asics-gel-sd-lyte-black/",
-      "datePublished": "2026-10-01T07:47:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Sydney’s Above The Clouds reunites with the Japanese sportswear The duo introduces the Above The Clouds x ASICS GEL-SD Lyte.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
     }
   ]
 }
