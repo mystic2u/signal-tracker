@@ -1,6 +1,251 @@
 {
-  "generatedAt": "2026-10-18T20:14:04.563Z",
+  "generatedAt": "2026-10-18T22:50:58.005Z",
   "articles": [
+    {
+      "id": "eeb343366ec2c2ff",
+      "title": "Starlink has two $55 plans that are wildly different — here's how",
+      "url": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/",
+      "datePublished": "2026-10-18T22:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It's a trade-off between download speeds and data caps.",
+      "author": "staff@engadget.com (Giancarlo Valdes)",
+      "imageUrl": "https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "5ad78aeab6456549",
+      "title": "Router and modem or gateway: What's actually in your home network?",
+      "url": "https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/",
+      "datePublished": "2026-10-18T22:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A gateway pulls double duty, but a modem and router combo can give you a lot more flexibility and power.",
+      "author": "staff@engadget.com (Roger Fingas)",
+      "imageUrl": "https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "4bd7f8caffae3cc4",
+      "title": "MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’",
+      "url": "https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308",
+      "datePublished": "2026-10-18T22:24:42.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "Mr. Wonderful inversely appeared uninterested in the foam orb, not seeing how it could distinguish itself among other, more popular balls",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/10/ball2-1280x790.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "88ed658d50cd96e2",
+      "title": "Jesse Eisenberg Reveals TV Show Details as ‘The Debut’ Closes a Star-Studded London Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-tv-show-debut-london-film-festival-julianne-1236734918/",
+      "datePublished": "2026-10-18T22:24:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Eisenberg and lead actress Julianne Moore gushed over one another ahead of the well-received screening — and the filmmaker also told THR what his upcoming TV series is about.",
+      "author": "Lily Ford",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f1813724e2a6cbbd",
+      "title": "‘Glee’ Reunion: Chris Colfer Joins Darren Criss Onstage to Perform ‘Baby It’s Cold Outside’ During London Concert",
+      "url": "https://variety.com/2026/tv/news/glee-reunion-chris-colfer-darren-criss-perform-duet-1236916050/",
+      "datePublished": "2026-10-18T22:15:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Darren Criss’ one-night-only concert at the Royal Albert Hall in London became a “Glee” reunion when the singer surprised audiences by bringing out Chris Colfer and performing “Baby It’s Cold Outside” as an homage to their characters on the hit show, Kurt Hummel and Blaine Anderson. Criss began the song solo, telling the audience he’d […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "bd122a0b1ca4302c",
+      "title": "63 Years Later, the Stellar Action Comic Strip Most America Never Heard of Deserves Another Shot",
+      "url": "https://www.polygon.com/modesty-blaise-retrospective/",
+      "datePublished": "2026-10-18T22:00:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "One of the best spy capers of the 20th century was exclusive to UK newspapers",
+      "author": "Thomas Hindmarch",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modesty-blaise-willie-garvin-mister-sun-1985.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "9b877fc9cc0f0187",
+      "title": "What is Apple's Image Playground app for and how do you use it?",
+      "url": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
+      "datePublished": "2026-10-18T22:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Apple's image generation tool got some noteworthy updates this fall.",
+      "author": "staff@engadget.com (Erin Carson)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "43568d8a8ad476b0",
+      "title": "Keep your projects organized with Microsoft Project 2024 for $39.97",
+      "url": "https://mashable.com/tech/oct-18-microsoft-project-professional-2024-lifetime-license-for-windows",
+      "datePublished": "2026-10-18T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Get Microsoft Project Professional 2024 for Windows for $39.97 with a lifetime license, Gantt charts, automated scheduling, and resource management tools.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05HcjM1mZxiKowunj7unvZS/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "57aea870f9fcb411",
+      "title": "Edit, sign, and convert PDFs with this $79.99 lifetime Mac app",
+      "url": "https://mashable.com/tech/oct-18-pdf-expert-premium-plan-lifetime",
+      "datePublished": "2026-10-18T22:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Save $60 on PDF Expert for Mac with a lifetime subscription for $79.99, including tools to edit, sign, annotate, merge, and convert PDF files.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03vUAmWVQRxPAdZ2BywJMrY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6f2aca72a3fc4402",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "datePublished": "2026-10-18T21:36:10.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, oth",
+      "author": "zoozla",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9a550a27a7f4b937",
+      "title": "Léa Seydoux Became Fearless After the Controversies of ‘Blue Is the Warmest Color’ — She’s Doing It Again with ‘Gentle Monster’",
+      "url": "https://www.indiewire.com/awards/consider-this/lea-seydoux-blue-is-the-warmest-color-gentle-monster-1235222558/",
+      "datePublished": "2026-10-18T21:23:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Marie Kreutzer's \"Gentle Monster\" is yet another example of how Seydoux explores the dark side of the human psyche. It could land her an Oscar nomination.",
+      "author": "Anne Thompson",
+      "imageUrl": "",
+      "source": "IndieWire"
+    },
+    {
+      "id": "d2bbffc6feaeca36",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "datePublished": "2026-10-18T21:00:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "author": "Connie Loizos",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "b2ffd252eef2601b",
+      "title": "Video Game Decomp Hub Closes Due To AI: ‘The Community Aspect Of Decompilation Has Been Broken’",
+      "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+      "datePublished": "2026-10-18T20:51:52.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "An integral step towards mods, ports and patches, the popular decomp.dev decided the platform has been rendered obsolete by 'drive-by contributions'",
+      "author": "Zack Kotzer",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/10/neuroman2.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "a5bb32320853f4db",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "datePublished": "2026-10-18T20:48:14.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 104 # Comments: 43",
+      "author": "allinonai",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e732de753bace41a",
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+      "url": "https://github.com/Netflix/vmaf",
+      "datePublished": "2026-10-18T20:43:40.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 10 # Comments: 3",
+      "author": "tosh",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "391c29eeefec63e0",
+      "title": "Julianne Moore Says ‘The Debut’ Is ‘One of the Best Scripts I’ve Ever Read’ as Jesse Eisenberg’s Musical Comedy Closes London Film Festival on a High Note",
+      "url": "https://variety.com/2026/film/festivals/julianne-moore-jesse-eisenberg-the-debut-london-premiere-1236915637/",
+      "datePublished": "2026-10-18T20:40:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“The Debut” ended London Film Festival on a high note Sunday night as director Jesse Eisenberg and star Julianne Moore gushed over each other to a packed audience at the Royal Festival Hall. “I mean, this movie stars my favorite person, Julianne Moore,” Eisenberg began as the duo came onstage to introduce the musical comedy. […]",
+      "author": "Ellise Shafer",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "cef1d05c75250eda",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "datePublished": "2026-10-18T20:37:40.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "author": "Anthony Ha",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "2bcdc546eac92754",
+      "title": "After five years, Inscryption is finally coming to mobile",
+      "url": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/",
+      "datePublished": "2026-10-18T20:27:30.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The studio celebrated Inscryption's five-year anniversary with a Twitch stream.",
+      "author": "staff@engadget.com (Cheyenne MacDonald)",
+      "imageUrl": "https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg",
+      "source": "Engadget"
+    },
     {
       "id": "3a0477ffb5c763f8",
       "title": "Dua’s List: The World’s Best Bookshops To Get Lost In",
@@ -286,6 +531,19 @@
       "source": "Variety"
     },
     {
+      "id": "12b648cd1a0ffd92",
+      "title": "A Lot of People Saw Everything",
+      "url": "http://www.vulture.com/article/you-can-see-everything-breaks-documentary-box-office-record.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-18T19:04:31.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "But more people saw Street Fighter.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/dce/273/1de6af7f6e8869793212b447e3640883d7-everything-box-office.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "c9a32103961d4236",
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
       "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
@@ -310,6 +568,19 @@
       "author": "Terry Terrones",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mv5bnjlimmjkmditymm5ms00mgjlltlmmtctzme2nda1mgzimwq1xkeyxkfqcgc-_v1_.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "1a7c68aa69a475ab",
+      "title": "Glutathione-Enhanced NAD+ Supplements - RHYTHM NMN Features 500 mg of Setria Glutathione (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/glutathione-enhanced-nad-supplements",
+      "datePublished": "2026-10-18T18:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) The Rhythm Line has introduced glutathione-enhanced NAD+ Supplements through RHYTHM NMN, a cardiologist-formulated product that combines multiple ingredients to support energy and cellular health....",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644703/644703_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "21f4d1160768fcc0",
@@ -354,6 +625,19 @@
       "source": "Hacker News"
     },
     {
+      "id": "e4b5c4cffb5acae9",
+      "title": "‘Musk’ TikTok Ad Account Temporarily Suspended Ahead of Documentary’s Wide Release",
+      "url": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/",
+      "datePublished": "2026-10-18T18:36:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "TikTok temporarily suspended the “Musk” advertisement account on Friday ahead of the documentary’s wide release, Variety can confirm. The ad account’s ability to advertise on the platform was then restored on Sunday “after an error,” per a spokesperson for the company. Directed by Alex Gibney, “Musk” seeks to make sense of Elon Musk, the world’s […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
       "id": "961af28d9fa897c1",
       "title": "Here's how the Slate truck gets software updates without built-in infotainment",
       "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
@@ -393,6 +677,19 @@
       "author": "Jason Maxey",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "12ff97edb7f8e2b2",
+      "title": "Protein-Retaining Haircare Systems - Xtressé Uses Peptides to Strengthen Hair With Every Wash (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/protein-retaining-haircare-systems",
+      "datePublished": "2026-10-18T18:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Xtressé has introduced new protein-retaining haircare systems that use specialized peptides to help strengthen strands and minimize protein loss during washing. Developed with dermatologist-led...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644694/644694_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "52793da960d40f48",
@@ -556,6 +853,32 @@
       "source": "Variety"
     },
     {
+      "id": "fd7a3d75eed80437",
+      "title": "Holiday Variety Soda Packs - Olipop Brings Back Its 15-Can Costco Holiday Pack With A New Pomegranat (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/holiday-variety-soda-packs",
+      "datePublished": "2026-10-18T17:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Olipop is bringing its Costco holiday case back as the Winter Variety Pack, and this year's change is the addition of Pomegranate Sparkle after last year's mix included Crisp Apple instead. The...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644660/644660_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "64e510b4907b5d77",
+      "title": "Budget Tough-Screen Phones - Samsung Galaxy F70 5G Adds Gorilla Glass Victus And Optical Stabilisati (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/budget-tough-screen-phones",
+      "datePublished": "2026-10-18T17:30:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Samsung is bringing the Galaxy F70 5G to India as a lower-cost mid-range phone with Corning Gorilla Glass Victus, giving budget-minded smartphone buyers tougher screen protection than the price...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644655/644655_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "d722b98b3c12a714",
       "title": "Betty McGuire, Actress on Broadway and ‘Growing Pains,’ Dies at 100",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856/",
@@ -581,6 +904,19 @@
       "author": "ambigious7777",
       "imageUrl": "",
       "source": "Hacker News"
+    },
+    {
+      "id": "c7938c7efe3621f7",
+      "title": "Big-Memory Detachable PCs - OneXPlayer Super X Pro Targets High-End Gaming And AI Workloads (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/big-memory-detachable-pcs",
+      "datePublished": "2026-10-18T17:10:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) OneXPlayer has launched the Super X Pro worldwide, expanding its detachable PC range with a new model built around AMD’s Gorgon Halo platform. It offers up to 160GB of memory allocated to...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644648/644648_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "95156f06ef847193",
@@ -676,6 +1012,19 @@
       "source": "Highsnobiety"
     },
     {
+      "id": "89591c5601c2a660",
+      "title": "Speaker-Equipped TV Remotes - Apple Adds A Built-In Speaker And Precision Finding To Its New Siri Re (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/speaker-equipped-tv-remotes",
+      "datePublished": "2026-10-18T16:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Apple has updated its Siri Remote with a built-in speaker that lets users make it ring when it goes missing. Owners can trigger the sound through Siri or the Find My app, making it easier to locate...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644632/644632_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "bc803c91773648a6",
       "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
       "url": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
@@ -757,6 +1106,19 @@
       "source": "TechCrunch"
     },
     {
+      "id": "108ec713b0807aba",
+      "title": "Bottled Protein Shakes - CNP Brings Its 40g PRO-40 Formula To A Ready-To-Drink Milk-Based Shake (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/bottled-protein-shakes",
+      "datePublished": "2026-10-18T16:30:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) CNP is expanding its protein lineup with a ready-to-drink version of PRO-40, turning the product into a no-mixing option for people who want a bottle instead of a scoop. The half-liter drink uses a...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644631/644631_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "632eb2f33c5d9af5",
       "title": "The Intel 8087 chip: floating-point addition and subtraction",
       "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
@@ -809,6 +1171,19 @@
       "author": "Tomas Franzese",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mr_11021r.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "00bc3047b7176841",
+      "title": "pen-Source Humanoid Robots - RoboParty Launches RP1 With Customizable Hardware and Software (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/pen-source-humanoid-robots",
+      "datePublished": "2026-10-18T16:10:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) RoboParty has introduced open-source humanoid robots through its RP1 platform, giving researchers direct access to both physical components and underlying software. Unlike closed robotic systems,...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644624/644624_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "4f21f10df7a6c59d",
@@ -1245,6 +1620,20 @@
       "author": "Anna Marie de la Fuente",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "e5e3293dcc13ecd0",
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "url": "https://ranet3.com/",
+      "datePublished": "2026-10-18T14:31:52.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;) especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4/v6 addresses very easily for all my devices behind the router ios/android app soon^{TM} Comments URL: https://news.ycombinator.com/item?id",
+      "author": "StepBroBD",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "a4e9d8b03f10b126",
@@ -2651,6 +3040,20 @@
       "source": "Trend Hunter"
     },
     {
+      "id": "66eb35d524c072b5",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "datePublished": "2026-10-18T01:38:08.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 78 # Comments: 55",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "ce1b0325d988dd2d",
       "title": "‘Dirty Dancing’ Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby’s Next Chapter",
       "url": "https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/",
@@ -2757,6 +3160,20 @@
       "author": "staff@engadget.com (Adnan Ahmed)",
       "imageUrl": "https://www.engadget.com/img/gallery/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support/l-intro-1791837850.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "f39dc488c7796e78",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "datePublished": "2026-10-17T23:26:35.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 69 # Comments: 24",
+      "author": "mdp2021",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "25e004d5415a44a4",
@@ -6333,424 +6750,6 @@
       "author": "",
       "imageUrl": "",
       "source": "Service95"
-    },
-    {
-      "id": "61ce0168a1eae092",
-      "title": "70 Years, Three Adaptations, One Novel: What Retellings Of ‘East Of Eden’ Can Teach Us",
-      "url": "https://www.service95.com/east-of-eden-adaptations-essay",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "c5d4e297f89dfd36",
-      "title": "15 Standout Events From This Year’s London Literature Festival",
-      "url": "https://www.service95.com/london-literature-festival-team-picks",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "7ed420491f3f4372",
-      "title": "What We’re Reading This October",
-      "url": "https://www.service95.com/best-new-books-october",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "38d02b91f435e42f",
-      "title": "72 Hours In Glasgow: Scotland’s Charismatic Cultural Hub",
-      "url": "https://www.service95.com/72-hours-in-glasgow",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "b0684a75f980e62f",
-      "title": "Authors Of The Estate: A Lesson In Reclaiming Your Narrative",
-      "url": "https://www.service95.com/authors-of-the-estate-interview",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "dc645798ca9da64e",
-      "title": "Could a Scuba Diver Actually Get Swallowed by a Whale—and Live? A Whale Biologist Weighs In.",
-      "url": "https://slate.com/culture/2026/10/whalefall-movie-true-story-sperm-whale-size-giant-squid-how-realistic.html?via=rss",
-      "datePublished": "2026-10-16T19:18:19.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Everything you want to know about Whalefall and its real-life possibilities.",
-      "author": "Nadira Goffe",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "7a8ad7cb7a90f93b",
-      "title": "Selma Blair’s Rep Speaks Out After Actress’ Arrest and Plane Incident: ‘Selma Did Not Intend to Harm Anyone’",
-      "url": "https://variety.com/2026/film/news/selma-blair-rep-speaks-out-arrest-plane-incident-1236909381/",
-      "datePublished": "2026-10-16T19:15:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Selma Blair’s spokesperson has spoken out after the actress was charged with second-degree assault following a violent incident on a Delta flight on Sunday. “Since Sunday night, the public account of what happened to Selma aboard a flight to New York has been built almost entirely on a police statement and a decade-old headline,” her […]",
-      "author": "Ethan Shanfeld",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d30948fe929d57b0",
-      "title": "Patented Botanical Acne Skincare - Hi-TECH Beauty Labs Seeks $5 Million for Its SkinKick Technology (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/patented-botanical-acne-skincare",
-      "datePublished": "2026-10-16T19:10:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Hi-TECH Beauty Labs uses patented 'B3 Technology®' in 'SkinKick®,' a botanical skin-care approach for people with problem skin that avoids benzoyl peroxide and retinol. The 100% natural formula...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644199/644199_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "eba2b592c086ae57",
-      "title": "Josh Brolin Talks the Personal Side of ‘Whalefall’ and the “Undeniable” Script for ‘Sicario 3’",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/josh-brolin-whalefall-sicario-3-1236733418/",
-      "datePublished": "2026-10-16T19:05:59.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The actor also talks about passing on 'Lanterns' (he's watched it and loves it) and reflects on the cancelation of 'Outer Range': \"you had gold.\"",
-      "author": "Brian Davids",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "9a7394432446bffe",
-      "title": "Claude writes about 90% of Claude Code's code",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "datePublished": "2026-10-16T19:04:47.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 5 # Comments: 0",
-      "author": "pretext",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ee809a7fe1daaf2f",
-      "title": "Anthony Scaramucci Weighs in on Katie Zacharia Breaking His Record",
-      "url": "https://newrepublic.com/post/216749/anthony-scaramucci-katie-zacharia-breaks-record-fired-white-house-press-sec",
-      "datePublished": "2026-10-16T19:01:53.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Katie Zacharia’s tenure as White House press secretary only lasted five days before President Trump fired her Friday, breaking the record for shortest duration in the role. Anthony Scaramucci, who only served for 11 days as White House communications director, had a charitable take on the firing, posting on X, “Records are made to be broken. But I take no pleasure in other people’s pain,” in respo",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/8d25397e74c954914d7be7e683fe466e42760acc.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "7f14563d8df61b18",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "datePublished": "2026-10-16T19:01:17.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 60 # Comments: 8",
-      "author": "speckx",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "e256e35117fd66c4",
-      "title": "Ready Or Not: The Kotaku Review",
-      "url": "https://kotaku.com/ready-or-not-the-kotaku-review-2000710149",
-      "datePublished": "2026-10-16T19:00:20.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "It's useless to moralize: the sick thrill is the point",
-      "author": "Astrid Anne Rose",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/07/image-15-1280x718.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "4778a80a4f64e623",
-      "title": "Street Fighter Is Trash, But Sometimes It’s Inspired Trash",
-      "url": "http://www.vulture.com/article/movie-review-street-fighter-is-inspired-trash.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-16T19:00:11.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Kitao Sakurai’s fighting-game reboot is overstuffed and gleefully ridiculous and features some truly ingenious casting choices.",
-      "author": "Alison Willmore",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/805/20f/c20dec09e2563a75f47899532aa836889e-streetfighter-review.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7a6a342eb9583796",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "datePublished": "2026-10-16T18:55:59.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 84 # Comments: 15",
-      "author": "ahlCVA",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "362ca747eb117d27",
-      "title": "C++26: The New Debugging Header",
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "datePublished": "2026-10-16T18:52:39.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 40 # Comments: 2",
-      "author": "jandeboevrie",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "9bfabaffab4b0656",
-      "title": "Every DC Studios Movie and TV Show in Coming Through 2028 (and Beyond)",
-      "url": "https://www.polygon.com/dc-movies-tv-shows-dcu-release-calendar-james-gunn/",
-      "datePublished": "2026-10-16T18:52:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Warner Bros. new DCU has a 10-year plan under James Gunn. Here's what next for DC movies and TV shows after Superman and Supergirl.",
-      "author": "Michael McWhertor",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688599/LuciaPham_210623_ecl1087_DC.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "2d7b531c7ed1587d",
-      "title": "Gasoline Muscle Sedans - Dodge Combines Twin-Turbo Power With Switchable All-Wheel Drive (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/gasoline-muscle-sedans",
-      "datePublished": "2026-10-16T18:50:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Dodge is bringing gasoline power to the redesigned Charger with the 2026 Charger Sixpack, a twin-turbo inline-six model for muscle-car buyers who still want engine sound and straight-line punch. It...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644196/644196_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "30be303575f979d2",
-      "title": "How to get the DLC weapons in Fire Emblem Fortune's Weave",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-dlc-weapons-how-to-get/",
-      "datePublished": "2026-10-16T18:47:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Fire Emblem Fortune's Weave's DLC weapons are powerful, if fragile, additions to your armory. Here's how to get Fortune's Weave's DLC weapons",
-      "author": "Josh Broadwell",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fortunes-weave-classic-fire-emblem.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "bc0dcb964d852b80",
-      "title": "Nike’s All-Grey Air Max Is Practically Battle-Ready",
-      "url": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura/",
-      "datePublished": "2026-10-16T18:46:48.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Nike's Air Max Moto 2K sneaker gets a Cordura update, resulting in a version that's equally stylish & rugged.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "c4f3e262b3a3fb9b",
-      "title": "Austin Abrams and Josh Brolin Debut ‘Whalefall,’ ‘Clayface’ Arrives and This Week’s Best Events",
-      "url": "https://www.hollywoodreporter.com/gallery/whalefall-clayface-red-capet-events-1236727214/",
-      "datePublished": "2026-10-16T18:45:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Inside this week's biggest Hollywood premieres, parties and openings.",
-      "author": "Kirsten Chuba",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "08af95cf6c0749ef",
-      "title": "Billy Evans: What we know about Elizabeth Holmes husband featured in You Can See Everything",
-      "url": "https://mashable.com/tech/billy-evans-elizabeth-holmes-you-can-see-everything",
-      "datePublished": "2026-10-16T18:43:28.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Elizabeth Holmes is the star of 'You Can See Everything,' but her husband Billy Evans draws plenty of attention too.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00FDJKyWZno3CiutSBaGGyk/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "e0ae637e1b1a7e73",
-      "title": "Sophia Stel’s Pop Ambitions Are Stronger Than Her Nerves",
-      "url": "https://www.rollingstone.com/music/music-features/sophia-stel-greatest-album-interview-1235643788/",
-      "datePublished": "2026-10-16T18:42:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The singer-producer spent years worrying her music wasn’t good enough to release. Her debut album makes a bold introduction for an artist still learning to enjoy the attention",
-      "author": "Jeff Ihaza",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "f2b917d54c747baa",
-      "title": "Kate Berlant on Her HBO Special ‘Parmesan,’ the Joke That Made a Man Flip Her Off and Her Next Project With John Early",
-      "url": "https://variety.com/2026/tv/news/kate-berlant-hbo-special-parmesan-1236913499/",
-      "datePublished": "2026-10-16T18:39:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "There’s a throughline in Kate Berlant’s new HBO special “Parmesan,” and it’s not cheese. “My addiction? My phone,” the comedian says at the beginning of the hour. With slapstick style and performative haughtiness, Berlant yearns for a time before cellphones in the special, out Oct. 16. Chronicling the hyper-niche behaviors that define our online existence, […]",
-      "author": "Ethan Shanfeld",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "65c0483911b06040",
-      "title": "Diddy Moved to New Prison Days After Being Hospitalized for Alleged Head Injury",
-      "url": "https://variety.com/2026/music/news/diddy-moved-to-new-prison-hospitalized-alleged-head-injury-1236914289/",
-      "datePublished": "2026-10-16T18:38:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Sean ‘Diddy’ Combs has been transferred from his New Jersey prison to a new one in Pennsylvania, officials and his spokesperson confirmed on Friday, days after he was hospitalized for an alleged head injury. Combs, 56, was serving out his 50-month sentence at FCI Fort Dix in New Jersey when he was rushed to the […]",
-      "author": "Corbin Bolies",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "fc895510de3f6dc5",
-      "title": "PSA: The Dyson Airwrap i.d. is $195 off at Best Buy in this better-than-Black Friday clearance deal",
-      "url": "https://mashable.com/tech/oct-16-dyson-airwrap-id-deal",
-      "datePublished": "2026-10-16T18:34:16.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The Dyson Airwrap i.d. Multi-Styler for Curly + Coily Hair is on clearance at Best Buy for only $454.99, a rare 30% savings. This is better than its Black Friday price.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00VRs9heKHrNnscMxl4ceC2/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "0342f39befa10261",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "datePublished": "2026-10-16T18:32:35.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 32 # Comments: 5",
-      "author": "Anon84",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "0988f3df63c1ac6c",
-      "title": "14 Years Ago, Geoff Keighley Was Named The 'Dorito Pope'",
-      "url": "https://knowyourmeme.com/memes/dorito-pope",
-      "datePublished": "2026-10-16T18:31:38.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Dorito Pope is a nickname given to gaming journalist Geoff Keighley following an interview between Keighley and LevelSave.com in October 2012. The effusive amount of product placement for Mountain Dew and Doritos during the interview led to large amounts of criticism and led to it becoming a notorious example criticizing the state of gaming journalism at the time.",
-      "author": "",
-      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/015/589/Dorito_Pope_Banner.jpg",
-      "source": "Know Your Meme"
-    },
-    {
-      "id": "dbbd28d24dc76c3b",
-      "title": "Katie Zacharia, Trump’s Press Secretary, Is Out After Five Days",
-      "url": "https://variety.com/2026/politics/news/katie-zacharia-trump-press-secretary-out-1236914253/",
-      "datePublished": "2026-10-16T18:31:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "White House Press Secretary Katie Zacharia is out after just five days on the job. President Trump told reporters Friday that he would talk to Zacharia about a new role. “I said, ‘When I get back we’re going to talk,'” Trump said, “because I don’t think that Katie should be made to suffer like she’s […]",
-      "author": "Gmaddaus",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "38296a99fb543c54",
-      "title": "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn’t Get Ripped Off By AI",
-      "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
-      "datePublished": "2026-10-16T18:30:00.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Drunken Goddess Reflux will have a closed beta instead",
-      "author": "Ethan Gach",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/10/something-fun-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "7d336185765c7f08",
-      "title": "How Cher Honors Costume Designer Bob Mackie in New Campaign for Moncler’s Re/Icons Collection",
-      "url": "https://www.hollywoodreporter.com/lifestyle/style/moncler-collection-cher-jennie-blackpink-grace-jones-2026-1236733731/",
-      "datePublished": "2026-10-16T18:27:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The legendary entertainer joins Blackpink superstar Jennie and trend-setter Grace Jones as icons in the new campaign for the luxury fashion house.",
-      "author": "Chris Gardner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
     }
   ]
 }
