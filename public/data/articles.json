@@ -1,6 +1,767 @@
 {
-  "generatedAt": "2026-10-18T22:50:58.005Z",
+  "generatedAt": "2026-10-19T05:50:37.237Z",
   "articles": [
+    {
+      "id": "61ce0168a1eae092",
+      "title": "70 Years, Three Adaptations, One Novel: What Retellings Of ‘East Of Eden’ Can Teach Us",
+      "url": "https://www.service95.com/east-of-eden-adaptations-essay",
+      "datePublished": "2026-10-19T05:50:34.187Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "c5d4e297f89dfd36",
+      "title": "15 Standout Events From This Year’s London Literature Festival",
+      "url": "https://www.service95.com/london-literature-festival-team-picks",
+      "datePublished": "2026-10-19T05:50:34.187Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "7ed420491f3f4372",
+      "title": "What We’re Reading This October",
+      "url": "https://www.service95.com/best-new-books-october",
+      "datePublished": "2026-10-19T05:50:34.187Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "38d02b91f435e42f",
+      "title": "72 Hours In Glasgow: Scotland’s Charismatic Cultural Hub",
+      "url": "https://www.service95.com/72-hours-in-glasgow",
+      "datePublished": "2026-10-19T05:50:34.187Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "b0684a75f980e62f",
+      "title": "Authors Of The Estate: A Lesson In Reclaiming Your Narrative",
+      "url": "https://www.service95.com/authors-of-the-estate-interview",
+      "datePublished": "2026-10-19T05:50:34.187Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "3c101876f0c531ba",
+      "title": "Tiger Shroff Shooting: Mumbai Police Deploy 15 Teams as Film Bodies Say Gangsters Want to ‘Terrorize’ Bollywood",
+      "url": "https://variety.com/2026/film/news/tiger-shroff-shooting-1236916181/",
+      "datePublished": "2026-10-19T05:48:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Mumbai Police have put 15 teams on the hunt for the gunmen who fired on Bollywood action star Tiger Shroff’s car on Sunday evening, and two film industry bodies have accused the authorities of leaving the industry exposed. No one had been arrested as of Monday morning. Police have opened a case against three unidentified […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c875e80c9abbccf4",
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "datePublished": "2026-10-19T04:41:46.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50148452 Points: 62 # Comments: 17",
+      "author": "theanonymousone",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e71e72d6e2e6024e",
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "datePublished": "2026-10-19T04:40:18.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action Comments URL: https://news.ycombinator.com/item?id=50148441 Points: 8 # Comments: 0",
+      "author": "greyface-",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9ce9b16cd98843e7",
+      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+      "url": "https://github.com/strot-ai/Project-STROT",
+      "datePublished": "2026-10-19T04:32:07.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/strot-ai/Project-STROT Comments URL: https://news.ycombinator.com/item?id=50148396 Points: 22 # Comments: 6",
+      "author": "solohunter001",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "32a1f2e2db51f353",
+      "title": "Show HN: Yila – A Codex for Scientific Research",
+      "url": "https://yila.ai",
+      "datePublished": "2026-10-19T04:24:57.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://yila.ai Comments URL: https://news.ycombinator.com/item?id=50148356 Points: 3 # Comments: 0",
+      "author": "blacktechnology",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a857aaa20a4ba1a1",
+      "title": "The Best 'Peanuts' Great Pumpkin Comic Strip Came Out 2 Years Before the Famous TV Special",
+      "url": "https://www.polygon.com/peanuts-best-great-pumpkin-comic-strip-linus/",
+      "datePublished": "2026-10-19T04:00:26.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Besides the famous Halloween special It's the Great Pumpkin, Charlie Brown, this is the best Great Pumpkin comic strip",
+      "author": "Brian VanHooker",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-vimeo-itsthegreatpumpkincharliebrownvideosmoviesonvimeo-22-55.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "707e51f68a590aad",
+      "title": "Other Desert Cities Has Dried Up and Blown Away",
+      "url": "http://www.vulture.com/article/other-desert-cities-dreyfus-janney-harris-rabe.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-19T04:00:04.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Nuanced performances from Julia Louis-Dreyfus, Allison Janney, and Ed Harris can’t cover for a dated, predictable play.",
+      "author": "Sara Holdren",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/0ad/237/f73fc113564ae7d907f4186ec21c6c8155-other-desert-cities-janney-louis-dreyfus.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "c3b875c7a3a863e8",
+      "title": "‘Other Desert Cities’ Broadway Review: Julia Louis-Dreyfus, Ed Harris and Allison Janney Lead a Resounding Family Drama",
+      "url": "https://variety.com/2026/legit/reviews/other-desert-cities-broadway-review-1236915150/",
+      "datePublished": "2026-10-19T04:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Families are interesting. They all come with their own unique histories, prejudices and mysteries. Jon Robin Baitz’s Pulitzer Prize-nominated play “Other Desert Cities,” set in the years following the Sept. 11 terrorist attacks, explores harmful ideologies, grief, depression, memory and how secrets can wrap themselves around a family, slowly choking it from the inside out. […]",
+      "author": "Aramide Tinubu",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "dc8d7bbd2cdc3c1d",
+      "title": "‘Other Desert Cities’ Theater Review: Julia Louis-Dreyfus, Ed Harris and Allison Janney Fail to Make a Once-Timely Play Relevant Again",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/other-desert-cities-theater-review-julia-louis-dreyfus-1236734079/",
+      "datePublished": "2026-10-19T04:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Lily Rabe and Joe Keery also star in the Broadway revival of Jon Robin Baitz’s lauded 2011 play about politics, family and regret.",
+      "author": "Richard Lawson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "95297fbbf9d6290a",
+      "title": "Six Key Points That Explain ‘You Can See Everything’",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-key-points-1236735112/",
+      "datePublished": "2026-10-19T03:09:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Now that you’ve seen something, let us explain the other things.",
+      "author": "Steven Zeitchik",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f46bbc73386f858b",
+      "title": "Thank You, Apu Has Come Again",
+      "url": "http://www.vulture.com/article/simpsons-new-apu.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-19T03:06:56.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Sunil Malhotra will now voice Apu, and Janina Gavankar will play his wife Manjula.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/0cf/cdf/2c83898a3484ab2e34a2ff34e7ca06c0c6-new-apu.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "cda0ff8c4b28bf28",
+      "title": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
+      "url": "https://www.polygon.com/calvin-hobbes-halloween/",
+      "datePublished": "2026-10-19T03:00:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "This Calvin and Hobbes comic strip is a spine-shatteringly good time that has nothing to do with Halloween",
+      "author": "Thomas Hindmarch",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-treasure-everywhere.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "195e609a4ea4a9bc",
+      "title": "Pokémon Officially Returns to Galar in 2027 for New Release",
+      "url": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/",
+      "datePublished": "2026-10-19T02:51:19.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Pokémon Tales: The Misadventures of Sirfetch’d & Pichu is coming to Disney Plus, as is the classic Pokémon anime, in a new streaming deal.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/poke-mon-tales_-the-misadventures-of-sirfetch-d-pichu-_-teaser-trailer-0-11-screenshot.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "5a36d82678906e21",
+      "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+      "url": "https://www.polygon.com/best-nes-games/",
+      "datePublished": "2026-10-19T02:34:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
+      "author": "Jason Venter",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6823649/nes-classic-trailer-screencap_1920.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "21e87db586967e2e",
+      "title": "9 Best DLCs That Were Even Better Than the Base Game ",
+      "url": "https://www.polygon.com/best-dlcs-video-games/",
+      "datePublished": "2026-10-19T02:24:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they built off.",
+      "author": "Rebecca Corgan",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23377462/The_Witcher_3_Wild_Hunt_Hearts_of_Stone_Nobody_puts_Geralt_in_a_corner_RGB.jpeg",
+      "source": "Polygon"
+    },
+    {
+      "id": "f1da12db0251eb46",
+      "title": "10 Near-Perfect PS4 Games Nobody Played",
+      "url": "https://www.polygon.com/best-underrated-ps4-games/",
+      "datePublished": "2026-10-19T02:01:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way.",
+      "author": "Jason Venter",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/anthony-rlvi1td5bm4-unsplash.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "ce2de30f63f2b0e8",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "datePublished": "2026-10-19T02:01:16.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 40 # Comments: 17",
+      "author": "iheatuchriswogu",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "2b70a9200bdae79c",
+      "title": "NYT Connections Sports Edition today: Hints and answers for October 19, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04ya0sMfUoG5f5tCibIVNhD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "124149c317106053",
+      "title": "NYT Pips hints, answers for October 19, 2026",
+      "url": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06QWmxpvt6k9x8YJmbQSZWP/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c5f79f05c400a841",
+      "title": "NYT Connections hints today: Meanings for each word for Oct. 19, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1226.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03dbPGtNgk41szsLiMYrdDh/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ab7a2034073c7521",
+      "title": "NYT Connections hints today: Clues, answers for October 19, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01hDUfqRhHa0boqfaM9kjg4/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "905d485b05d295bc",
+      "title": "NYT Strands hints, answers for October 19, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0223ZcoxkxRPzGXnUySCZQh/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "205a13fbab243628",
+      "title": "Wordle today: Answer, hints for October 19, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1948 on October 19 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05H3WVyi7b78CoDFaChqVvS/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "05b89d8daba9a493",
+      "title": "Hurdle hints and answers for October 19, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-october-19-2026",
+      "datePublished": "2026-10-19T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02WVQnWsNRHYNI4ugi3pZ5s/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "ad13e7210076fd7a",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "datePublished": "2026-10-19T01:55:03.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=50147455 Points: 67 # Comments: 22",
+      "author": "anigbrowl",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ac38962e8471dc4c",
+      "title": "Resident Evil Director Is Already Thinking Sequels",
+      "url": "https://www.polygon.com/resident-evil-2026-sequel-zach-cregger/",
+      "datePublished": "2026-10-19T01:43:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Weapons and Resident Evil movie director Zach Cregger already has an idea for Resident Evil 2, despite the movie intending to be a one-off.",
+      "author": "Michael McWhertor",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/10-resident-evil.JPG",
+      "source": "Polygon"
+    },
+    {
+      "id": "b117396b364d5900",
+      "title": "High-Fidelity Portable Players - Sony Introduces Walkman Models With Improved Sound Processing (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/high-fidelity-portable-players",
+      "datePublished": "2026-10-19T01:30:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Sony has introduced three high-fidelity portable players that deliver more detailed audio through upgraded internal components and digital processing. The NW-WM1ZM3, NW-WM1AM3, and NW-ZX900 feature...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644873/644873_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "201768701960baba",
+      "title": "Integrated Dry Cleaning Payroll - Magnoli Adds Payroll Processing to Its Management Platform (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/integrated-dry-cleaning-payroll",
+      "datePublished": "2026-10-19T01:10:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Magnoli Technologies is introducing integrated dry cleaning payroll to help business owners manage employee payments without switching between software platforms. The new capability connects...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644864/644864_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "674d302e0a177b59",
+      "title": "Personalized Breast Health Apps - Know Your Lemons Creates Custom Screening Plans (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/personalized-breast-health-apps",
+      "datePublished": "2026-10-19T00:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) The Know Your Lemons Foundation has expanded its Personalized Breast Health Apps approach with new features that help women better understand their breast cancer risks and screening needs. Its...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644855/644855_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "ca886b8ac7d8f873",
+      "title": "Victoria’s Secret Fashion Show: See Red Carpet and Backstage Photos of Models, Megan Thee Stallion and Kobe Bryant’s Daughter",
+      "url": "https://www.hollywoodreporter.com/gallery/victorias-secret-fashion-show-2026-red-carpet-backstage-photos-models-1236735003/",
+      "datePublished": "2026-10-19T00:48:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The fashion brand brought its iconic runway show to Sony Pictures Studios in L.A. where stars Nicole Kidman, Tate McRae, Victoria Monét, Tinashe, Law Roach and Dylan Sprouse watched models like Gigi Hadid, Anok Yai, Alex Consani, Adriana Lima and Alessandra Ambrosio strut their stuff.",
+      "author": "Chris Gardner",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f8a650deb0d308c7",
+      "title": "Inde Navarrette on Meeting Pamela Anderson, Hosting ‘SNL’ and X-Men Stunt Training",
+      "url": "https://variety.com/2026/film/news/inde-navarrette-hosting-snl-x-men-stunt-training-1236916105/",
+      "datePublished": "2026-10-19T00:40:41.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Obsession” star Inde Navarrette had quite the busy weekend, going from the Academy Museum Gala on Saturday to the Newport Beach Film Festival on Sunday. Navarrette attended the festival, which runs until Thursday in Newport Beach, as one of Variety’s 10 Actors to Watch, who were celebrated during the festival’s Honor Brunch. While speaking with […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "19612efa5a0199e6",
+      "title": "Sanity's Edge – A voice BBS from 1994",
+      "url": "https://sanitys-edge.shouden.us",
+      "datePublished": "2026-10-19T00:30:34.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://sanitys-edge.shouden.us Comments URL: https://news.ycombinator.com/item?id=50146966 Points: 17 # Comments: 0",
+      "author": "indigodaddy",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "4181872cab9e0549",
+      "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+      "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+      "datePublished": "2026-10-19T00:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
+      "author": "staff@engadget.com (Deven McClure)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "66e004966b8058a9",
+      "title": "‘The Simpsons’ Surprise: Apu Is Heard for the First Time in Nearly a Decade, as Sunil Malhotra Takes Over for Hank Azaria (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/the-simpsons-apu-new-voice-sunil-malhotra-hank-azaria-1236915177/",
+      "datePublished": "2026-10-19T00:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "SPOILER ALERT: This article contains major spoilers for the Oct. 18 episode of “The Simpsons,” “The Revengening,” which aired Sunday night on Fox. “The Simpsons” has pulled off its own October surprise: Apu Nahasapeemapetilon is back. The fan favorite character finally spoke again for the first time in nearly a decade on Sunday night’s episode, […]",
+      "author": "Michael Schneider",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "fdaabb91245daa59",
+      "title": "Convertible Wireless Microphones - Elgato Combines A Clip-On Wireless Mic And Handheld Recording Gri (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/convertible-wireless-microphones",
+      "datePublished": "2026-10-19T00:30:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Elgato's Wave Go gives interviewers and mobile creators one microphone they can clip to a shirt or lock into a Smart Handle for handheld use, while keeping the same receiver on a phone. The tiny...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644850/644850_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "ecea82a3f5a282e1",
+      "title": "AI-Powered Pathology Tools - Aignostics Launches HETA Clinical for Cancer Tissue Analysis (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/ai-powered-pathology-tools",
+      "datePublished": "2026-10-19T00:10:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Aignostics has introduced new AI-powered pathology tools that automate several steps involved in examining cancer tissue samples. Its HETA Clinical platform analyzes digital tissue slides across...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644816/644816_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "34788ea0c3098eb3",
+      "title": "“Less Red Carpet, More Love of Cinema”: The Warsaw Film Festival Wants to Be a Destination for Discovery",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-wiff-focus-on-cinema-love-discovery-1236733189/",
+      "datePublished": "2026-10-19T00:03:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Festival director Joanna Szymańska-Szcześniak and program director Bartek Pulcyn see more room for growth without the glitz and glam: \"Our focus is firmly on the quality of the films.\"",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "add6b88a5f28345e",
+      "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+      "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "datePublished": "2026-10-19T00:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
+      "author": "staff@engadget.com (Jack Peachey)",
+      "imageUrl": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "380b857d8832053e",
+      "title": "Video-Capable ePaper Displays - E Ink Kaleido 4 Supports Video Playback at 18 FPS (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/video-capable-epaper-displays",
+      "datePublished": "2026-10-18T23:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) E Ink has introduced video-capable ePaper displays through its Kaleido 4 technology, expanding what electronic paper screens can accomplish beyond traditional reading. New processing algorithms...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644806/644806_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "da8e706a5361b0e8",
+      "title": "Katseye Says They’re ‘So Proud’ of Sophia Ahead of Her Return to the Group: ‘She’s Our Sister’",
+      "url": "https://variety.com/2026/music/news/katseye-sophia-return-1236916064/",
+      "datePublished": "2026-10-18T23:47:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Katseye is excited to welcome Sophia Laforteza back to the group after a brief hiatus. Members Lara Raj, Daniela Avanzini, Megan Skiendiel and Yoonchae Jeung shared their support for their “sister” on the carpet at the Victoria’s Secret Fashion Show on Sunday. “We are so happy that she’s coming back,” Raj told E! News, speaking […]",
+      "author": "Mya Copeland",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e0b87c0a3c83edc3",
+      "title": "Why you should never point a laser pointer at a security camera",
+      "url": "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/",
+      "datePublished": "2026-10-18T23:45:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done.",
+      "author": "staff@engadget.com (Beatriz Valero de Urquia)",
+      "imageUrl": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f681e08d87cf0016",
+      "title": "Taika Waititi Confirms His ‘Star Wars’ Movie Has Been Put ‘on Ice’ Indefinitely",
+      "url": "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
+      "datePublished": "2026-10-18T23:39:01.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Taika Waititi’s “Star Wars” movie, which has been in development since 2020, is officially on hold, the director confirmed while promoting his latest film “Klara and the Sun.” “I hate to break this to you, but we’re going to actually put it on ice and we’re working on a different thing together,” Waititi told Inverse […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "bb0c25ea36bd958e",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "datePublished": "2026-10-18T23:37:57.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 122 # Comments: 31",
+      "author": "Eric_Gullichsen",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "976eac77c06e3ce9",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "datePublished": "2026-10-18T23:37:54.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 45 # Comments: 39",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "eaac4411f59b1a2b",
+      "title": "How to use Google's SynthID AI detection website",
+      "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "datePublished": "2026-10-18T23:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "author": "staff@engadget.com (Robin Bea)",
+      "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "6016547b0033195c",
+      "title": "International Wi-Fi-Only Tablets - Vivo Pad FE Appears In International Certifications Ahead Of Glob (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/international-wi-fi-only-tablets",
+      "datePublished": "2026-10-18T23:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Vivo is moving the Pad FE toward markets outside China with a Wi-Fi-only tablet under model number VP2601. The Pad FE name is now tied to that hardware in the UAE, and the same model has also...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644792/644792_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "a89fe97cdf9e7071",
+      "title": "Jason Sudeikis Hopes to Continue ‘Ted Lasso’ for Season 5, Says Coverage of Split From Olivia Wilde Missed a ‘Million Little Things’: ‘It’s Always More Complicated’",
+      "url": "https://variety.com/2026/tv/news/jason-sudeikis-wants-ted-lasso-season-5-olivia-wilde-split-1236916062/",
+      "datePublished": "2026-10-18T23:17:40.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Jason Sudeikis opened up on a recent episode of “Talk Easy with Sam Fragoso,” discussing his hopes for “Ted Lasso” Season 5, how the show “saved” him from “self-harm” and what the public got wrong about his closely followed 2020 split from ex Olivia Wilde. Sudeikis and Fragoso talked “Ted Lasso” up top, as the […]",
+      "author": "Payton Turkeltaub",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "bf7cd25ea2b0611c",
+      "title": "Here Are the Best Podcasts About Songwriting",
+      "url": "https://www.rollingstone.com/music/music-features/best-songwriting-podcasts-music-industry-1235644396/",
+      "datePublished": "2026-10-18T23:12:39.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Seven essential shows highlighting creators and collaborators dive deep into how inspiration becomes a finished recording",
+      "author": "Shirley Halperin",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "c07ebf61753c7d3e",
+      "title": "Adam Scott's Criminally Overlooked 2026 Thriller Is Finally on Streaming",
+      "url": "https://www.polygon.com/hokum-streaming-on-hulu/",
+      "datePublished": "2026-10-18T23:00:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "What not to do on your trip to rural Ireland",
+      "author": "Thomas Hindmarch",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdhoku_ec011.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "7300c7742fa2f2a5",
+      "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
+      "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
+      "datePublished": "2026-10-18T23:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.",
+      "author": "staff@engadget.com (Luke James)",
+      "imageUrl": "https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "f10d7af054975a94",
+      "title": "Stable Canned Creatine Drinks - True Protein Brings Creatine To A Ready-To-Drink Can (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/stable-canned-creatine-drinks",
+      "datePublished": "2026-10-18T22:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) True Protein is bringing creatine drinks closer to shelf-stable convenience with Liquid Creatine, a canned formula built around TLC technology. The process keeps creatine mixed into water without...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644781/644781_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
     {
       "id": "eeb343366ec2c2ff",
       "title": "Starlink has two $55 plans that are wildly different — here's how",
@@ -54,6 +815,19 @@
       "author": "Lily Ford",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "ecf9a6a3f9a38464",
+      "title": "Recyclable Barrier Packaging Films - Innovia Films Introduces Propafilm CHBM as Aluminum Alternative (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/recyclable-barrier-packaging-films",
+      "datePublished": "2026-10-18T22:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Innovia Films has introduced recyclable barrier packaging films designed to replace traditional aluminum foil while maintaining protection against oxygen and moisture. Its new Propafilm CHBM uses...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644779/644779_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "f1813724e2a6cbbd",
@@ -126,6 +900,19 @@
       "source": "Mashable"
     },
     {
+      "id": "5a3ab5599df9d10b",
+      "title": "Rear-Hinged Concept Coupes - Alfa Romeo Unveils Cuorerosso Coupe Concept With Hybrid And Electric Po (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/rear-hinged-concept-coupes",
+      "datePublished": "2026-10-18T21:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Alfa Romeo's Cuorerosso is a 2+2 coupe concept that compresses the brand's chapter into one car for Alfisti. It defines that future as multi-energy instead of fully electric, pairing the design...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644750/644750_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "6f2aca72a3fc4402",
       "title": "Show HN: WhatsApp MCP running free on Cloudflare",
       "url": "https://github.com/finereli/whatsapp-mcp",
@@ -153,6 +940,33 @@
       "source": "IndieWire"
     },
     {
+      "id": "0471988ad1313854",
+      "title": "Vintage Audio Retrofit Boards - Sprout Adds Bluetooth And USB-C To Classic iPods Without Changing Th (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/vintage-audio-retrofit-boards",
+      "datePublished": "2026-10-18T21:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Certain Things created Sprout as a drop-in board for owners of older iPod 3rd-generation, 4th-generation and mini players, adding Bluetooth so they can use AirPods and keep noise cancellation...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644749/644749_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "3b923dd363ed79d2",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "datePublished": "2026-10-18T21:09:12.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 95 # Comments: 71",
+      "author": "amrrs",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "d2bbffc6feaeca36",
       "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
       "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
@@ -177,6 +991,19 @@
       "author": "Zack Kotzer",
       "imageUrl": "https://kotaku.com/app/uploads/2026/10/neuroman2.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "57dc86a53780659f",
+      "title": "Caffeinated Protein Beverages - Beyond Meat Adds 160mg of Caffeine to Beyond Immerse (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/caffeinated-protein-beverages",
+      "datePublished": "2026-10-18T20:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Beyond Meat has introduced caffeinated protein beverages through its new Beyond Immerse Protein + Energy lineup, combining nutritional ingredients with an energy boost in a single sparkling drink....",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644748/644748_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "a5bb32320853f4db",
@@ -245,6 +1072,19 @@
       "author": "staff@engadget.com (Cheyenne MacDonald)",
       "imageUrl": "https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "a3204927d94598f2",
+      "title": "Mid-Engined Hypercar Concepts - Porsche Mission S Concept Previews A New Gas-Powered Flagship Family (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/mid-engined-hypercar-concepts",
+      "datePublished": "2026-10-18T20:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Porsche's Mission S sketches a gasoline-powered model family above the 911, giving drivers a clearer look at the brand's planned replacement for the 918 Spyder. Rather than a standalone showcase,...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644716/644716_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "3a0477ffb5c763f8",
@@ -411,6 +1251,19 @@
       "source": "Highsnobiety"
     },
     {
+      "id": "332f3af5f1b51f08",
+      "title": "Milestone-Based Travel Rewards - Southwest Introduces Benefits Before Tier Upgrades (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/milestone-based-travel-rewards",
+      "datePublished": "2026-10-18T19:50:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Southwest Airlines is introducing milestone-based travel rewards through its expanded Rapid Rewards program, allowing members to access benefits before reaching a new loyalty tier. Rather than...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644715/644715_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "5a7dcbe00cf190bc",
       "title": "The Most Compelling Lovecraft Video Game Is About Hundreds Of Adorable Penguins",
       "url": "https://kotaku.com/the-most-compelling-lovecraft-video-game-is-about-hundreds-of-adorable-penguins-2000747293",
@@ -516,6 +1369,19 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/06zSfGNuuxkGWoylPtr2Ovq/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "0cfe221a0d8f1594",
+      "title": "Retro-Futuristic Sports Car Concepts - Alpine Reimagines the A310 With Contemporary Styling (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/trends/retro-futuristic-sports-car-concepts",
+      "datePublished": "2026-10-18T19:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Alpine has unveiled retro-futuristic sports car concepts through its A310 VISION, a one-off vehicle that transforms the original A310's distinctive styling into a contemporary design. Built around...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644714/644714_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "6661545a402ddfe1",
@@ -2075,6 +2941,20 @@
       "author": "staff@engadget.com (Husain Parvez)",
       "imageUrl": "https://www.engadget.com/img/gallery/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead/l-intro-1791896475.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "160998fa7ad9ee66",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "datePublished": "2026-10-18T12:11:13.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 44 # Comments: 5",
+      "author": "verdagon",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "bc36d9a03f4046db",
@@ -5880,876 +6760,6 @@
       "author": "",
       "imageUrl": "",
       "source": "Highsnobiety"
-    },
-    {
-      "id": "0c808724af20d6f2",
-      "title": "adidas’ Chocolate Retro Sneaker Is an Italian Dessert",
-      "url": "https://www.highsnobiety.com/p/adidas-italia-60s-dark-brown/",
-      "datePublished": "2026-10-16T21:20:26.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "adidas introduces a dark-brown Italia 60s sneaker, resulting in a delicious & extremely luxe take on the retro model.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "66c32c8555194efd",
-      "title": "The Hollywood Reporter, Animation Is Film Festival Partner on Live Animation Roundtable With Bill Hader, Travis Knight, More",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-hader-travis-knight-live-animation-roundtable-1236733998/",
-      "datePublished": "2026-10-16T21:18:44.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Other participants at the Sunday event in Los Angeles include 'Tangles' director Leah Nelson, 'Hexed' co-director Fawn Veerasunthorn, 'In Waves' director Phuong Mai Nguyen, 'Iron Boy' director Louis Clichy and 'Forgotten Island' co-director Joel Crawford.",
-      "author": "Scott Roxborough",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "a7decb42f7bbbed7",
-      "title": "Timothy Busfield Indictment on Child Sex Abuse Charges Thrown Out by Judge",
-      "url": "https://variety.com/2026/tv/news/timothy-busfield-indictment-child-sex-abuse-dismissed-1236914433/",
-      "datePublished": "2026-10-16T21:16:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A New Mexico judge on Friday threw out an indictment against actor Timothy Busfield, finding that prosecutors failed to act in an impartial manner during the grand jury proceedings. Busfield was indicted in February on charges of groping a 7-year-old boy on the set of “The Cleaning Lady,” a Fox show on which he worked […]",
-      "author": "Gmaddaus",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "9191caf2efe9e4bd",
-      "title": "Selma Blair's team releases lengthy, surprisingly wide-ranging statement about her plane arrest",
-      "url": "https://www.avclub.com/selma-blairs-team-releases-statement-about-plane-arrest",
-      "datePublished": "2026-10-16T21:15:28.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Selma Blair's team releases lengthy, surprisingly wide-ranging statement about her plane arrest.",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/13095051/MixCollage-13-Oct-2026-09-49-AM-1723.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "2322c3ba999c0c13",
-      "title": "Francis Lawrence, Paramount Team for ‘Red Rising’ Movie Adaptation (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/red-rising-movie-francis-lawrence-1236733658/",
-      "datePublished": "2026-10-16T21:11:30.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Justin Rhodes will pen the script based on Pierce Brown's best-selling sci-fi novel.",
-      "author": "Borys Kit",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "6338d7b202352168",
-      "title": "Spicy Shakshuka Cooking Sauces - Shooka Sauce Adds Harissa Heat to Its Tomato-Led Shakshuka Base (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/spicy-shakshuka-cooking-sauces",
-      "datePublished": "2026-10-16T21:10:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Shooka Sauce is expanding its shakshuka range with 'Spicy Harissa and Chili Pepper,' a starter for home cooks who want a hotter skillet without losing the original's tomato-led base. The new...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644213/644213_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "e06c7afeb771d515",
-      "title": "Why harnesses matter for energy (and token) efficiency",
-      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-      "datePublished": "2026-10-16T21:01:23.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 16 # Comments: 3",
-      "author": "ccgibson",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "be7b5acbce90020a",
-      "title": "Kingdom Hearts’ Opening Is Still Incredible",
-      "url": "https://kotaku.com/kingdom-hearts-tutorial-dive-into-stained-glass-snow-white-2000746856",
-      "datePublished": "2026-10-16T21:00:28.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Sora’s adventure begins with an ominous, terrifying nightmare",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/10/khsora-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "2c4b568f50ca7e66",
-      "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
-      "url": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
-      "datePublished": "2026-10-16T21:00:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Resident Evil 2 on Switch 2 runs smoothly and looks great, thanks in part to HDR's effects on colors and lighting",
-      "author": "Josh Broadwell",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/resident-evil-2-switch-2.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "00e4a8c7a1c6e9f7",
-      "title": "9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked ",
-      "url": "https://www.polygon.com/best-zelda-likes-nobody-plays-ranked/",
-      "datePublished": "2026-10-16T21:00:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From a yoyo adventure to a game where you die every minute, these nine overlooked single-player Zelda-likes are ranked by weirdness.",
-      "author": "Rebecca Corgan",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/04/ss_04ac7db623d3e88751134eb87f5c465c392fa108.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "e44d0185366c4917",
-      "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (October 16-18)",
-      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-october-16-18/",
-      "datePublished": "2026-10-16T21:00:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "On this weekend's streaming and VOD movie column, there's the most recent take on Dracula and a horror movie about the plushy star of a kids' TV show.",
-      "author": "Maria Loreto",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screenshot-2026-10-15-at-2-46-01-pm.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "b6a2be772ccadbb7",
-      "title": "Babe, Wake Up, ALO is in Its Berlin Era",
-      "url": "https://www.highsnobiety.com/p/alo-berlin-store-opening/",
-      "datePublished": "2026-10-16T20:55:43.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Celebrating the opening of its new flagship store in the German capital, the Beverly Hills-based brand kicked off its latest era with an evening that translated good clothes into even better vibes.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "8df6ad1a45cef73c",
-      "title": "Martha Plimpton Loved Playing Faye’s Gruesome Final Moments",
-      "url": "http://www.vulture.com/article/martha-plimpton-east-of-eden-faye-kate-interview.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-16T20:53:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“When you see yourself in the mirror and go, ‘Man, this is good,’ you know it’s going to be a lot of fun,” says the East of Eden actress.",
-      "author": "Roxana Hadadi",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/ce4/689/f7bc54b620b80228bf704683edb881e1fa-martha-eastofeden.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "e6ce8123a0658246",
-      "title": "Brooklyn Punk Duo Venus Twins Tell Us How They Ended Up in Olivia Rodrigo’s New Music Video",
-      "url": "https://www.rollingstone.com/music/music-features/venus-twins-olivia-rodrigo-chappell-roan-expectations-video-1235643173/",
-      "datePublished": "2026-10-16T20:51:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The real-life identical twins show up as part of a Family Feud-style scene in the new \"Expectations\" video co-starring Chappell Roan",
-      "author": "Simon Vozick-Levinson",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "a440d33cee21caae",
-      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
-      "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
-      "datePublished": "2026-10-16T20:50:28.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
-      "author": "staff@engadget.com (Ian Carlos Campbell)",
-      "imageUrl": "https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "3be191126295fcc8",
-      "title": "Physician Practice Finance Software - Treso Has Rasied $3.75M for a Free Finance Hub for Clinics (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/physician-practice-finance-software",
-      "datePublished": "2026-10-16T20:50:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Treso is building a financial operating system for independent physician practices that integrates banking, accounting, and receivables workflows, giving clinics a single place to track what they...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644210/644210_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "46e3b053348e3d9b",
-      "title": "London Film Festival’s Surprise Movie Is… ‘I Play Rocky’",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-surprise-movie-i-play-rocky-ippolito-1236733561/",
-      "datePublished": "2026-10-16T20:47:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Filmmaker Peter Farrelly surprised attendees by joining LFF director Kristy Matheson on stage at Royal Festival Hall.",
-      "author": "Georg Szalai",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "97e708353c08c798",
-      "title": "Michael Forest, Actor in Roger Corman Movies and ‘Star Trek,’ Dies at 97",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987/",
-      "datePublished": "2026-10-16T20:47:48.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "He starred in ‘Beast From Haunted Cave,’ ‘Ski Troop Attack’ and ‘Atlas’ for the B-movie maven but also did lots of Shakespeare on the stage and films overseas.",
-      "author": "Mike Barnes",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "387a954a0f43c53f",
-      "title": "Fourth Wing has cast its Violet and Xaden, and fans have thoughts",
-      "url": "https://mashable.com/life/fourth-wing-cast-prime-video-tv-show-online-reactions",
-      "datePublished": "2026-10-16T20:40:43.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Prime Video's adaptation of \"Fourth Wing\" has reportedly cast Esther McGregor as Violet and Emilio Sakraya as Xaden. Here's how fans are reacting online.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06XJbC6BRSm0QfLdea6Bd7a/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "6f0571091862db96",
-      "title": "At $50 Off, the Base iPad Is Back Down to Its Prime Day Price",
-      "url": "https://consequence.net/2026/10/base-ipad-drops-to-399-amazon/",
-      "datePublished": "2026-10-16T20:40:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 11-inch iPad is discounted back to $399 for a limited time. At $50 Off, the Base iPad Is Back Down to Its Prime Day Price Eddie Fu",
-      "author": "Eddie Fu",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "b0ab5e7ee5897795",
-      "title": "Selma Blair Issues First Statement Since Plane Incident: ‘Did Not Intend to Harm Anyone’",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/selma-blair-first-statement-plane-incident-1235644142/",
-      "datePublished": "2026-10-16T20:38:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“There was no attempt to open the door of the aircraft,” actress’ rep says in statement, reiterating that Blair suffered a “medical emergency” aboard plane",
-      "author": "Daniel Kreps",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "70d10452e1ce4ca4",
-      "title": "I never authorized an integration that scans my secrets",
-      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "datePublished": "2026-10-16T20:33:41.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 112 # Comments: 62",
-      "author": "trvrprkr",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2fc77f3847839c6a",
-      "title": "‘I Play Rocky’ Surprise Screens at London Film Festival",
-      "url": "https://variety.com/2026/film/festivals/i-play-rocky-surprise-movie-london-film-festival-1236914385/",
-      "datePublished": "2026-10-16T20:32:24.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "London Film Festival’s surprise film on Friday night was “I Play Rocky,” Peter Farrelly’s biographical drama about the beginnings of Sylvester Stallone’s beloved boxing franchise. Farrelly was on hand to introduce the movie and shouted out his star, newcomer Anthony Ippolito, who has already earned praise for his portrayal of Stallone. “I could do a […]",
-      "author": "Ellise Shafer",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "d44355edcc1006e5",
-      "title": "Early Reviews Of You Can See Everything Are Stressing Me Out",
-      "url": "https://kotaku.com/early-reviews-of-you-can-see-everything-are-stressing-me-out-2000746815",
-      "datePublished": "2026-10-16T20:30:50.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "I've never been more scared to see a movie that's not a horror film",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/10/elizabeth-holmes-1280x953.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "c59d3f4014b5190a",
-      "title": "Who The Hell Was That In The Street Fighter Movie Because It Wasn’t Cammy",
-      "url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
-      "datePublished": "2026-10-16T20:30:04.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Mel Jarnson plays Cammy, or at the very least, someone going by that name",
-      "author": "Kenneth Shepard",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/10/cammy-1280x720.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "2de9e5257ce2ca16",
-      "title": "Guest-List Invitation Apps - Apple Invites Adds Manual RSVPs And A Bigger Home Screen Widget (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/guest-list-invitation-apps",
-      "datePublished": "2026-10-16T20:30:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Apple updated Apple Invites so hosts can add people by hand and record replies when confirmations happen outside the app. The event-planning app also now works with the extra-large Home Screen...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644209/644209_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "cabb3df8fce10e39",
-      "title": "After Writing Behind the Scenes, Niko Rubio Is Ready For the Spotlight",
-      "url": "https://www.rollingstone.com/music/music-features/niko-rubio-late-night-swim-1235644062/",
-      "datePublished": "2026-10-16T20:29:49.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The singer-songwriter found her voice with late night swim, her new album that dives into heartbreak and Hollywood",
-      "author": "Sophie Miller",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "4834db7b7b07f9f7",
-      "title": "Elon Musk and Trump Were Both in on Ukraine Starlink Shutoff",
-      "url": "https://newrepublic.com/post/216758/elon-musk-trump-ukraine-starlink-restrictions",
-      "datePublished": "2026-10-16T20:26:05.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Tech CEO Elon Musk reportedly approached President Trump on slowing down his Starlink communications service in Ukraine earlier this week, contradicting both Musk’s statement that it was Trump’s idea and Trump’s statement that he has no idea who did it. The Telegraph, citing four anonymous sources, reports that Musk proposed slowing down Starshield, the military-grade version of Musk’s Starlink sa",
-      "author": "Hafiz Rashid",
-      "imageUrl": "https://images.newrepublic.com/1d58c4308c0381cac626f9f708dd7d34df28d3c0.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "59dc536baf58b1d2",
-      "title": "The Best Horror Movies of 2026 (So Far), Ranked: ‘Obsession,’ ‘Resident Evil,’ ‘Backrooms’ and More",
-      "url": "https://variety.com/lists/best-horror-movies-2026-ranked/",
-      "datePublished": "2026-10-16T20:23:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "2026 has already been a wild year for horror, from low-budget box office hits (“Backrooms,” “Obsession”) to sequels the world could have lived without (“Scream 7,” “The Strangers – Chapter 3”). In a year loaded with scary movies, many of them were good-to-great, a welcome surprise that kept multiplexes busy. Below are the year’s standouts, […]",
-      "author": "William Earl",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "8b9044b4bc8ff8fe",
-      "title": "Nicolas Cage and Antonio Banderas are your new True Detectives",
-      "url": "https://www.avclub.com/nicolas-cage-antonio-banderas-cast-true-detective-season-five",
-      "datePublished": "2026-10-16T20:22:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "For True Detective's latest case, HBO is bringing back the odd-couple movie star pairings with Nicolas Cage and Antonio Banderas.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/23062919/nic-cage-spider-noir.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "e2bfc65dc3130fde",
-      "title": "The Diplomat Recap: Is She Your Wife, Or Is She The President?",
-      "url": "http://www.vulture.com/article/the-diplomat-recap-season-4-episode-5-netflix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-16T20:22:10.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Kate has to build a working relationship with the new PM — just as she reaches her absolute lowest point.",
-      "author": "Sophie Brookover",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/424/74a/09223da97d3470e5440aa92c15fee9366a-DIPLO-405-Unit-04330R2C2.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "8d0a8fd6a45c285e",
-      "title": "Exclusive Fragrance Revivals - Bath &amp; Body Works Brings Pink Suede to Ulta (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/exclusive-fragrance-revivals",
-      "datePublished": "2026-10-16T20:10:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Bath & Body Works is embracing exclusive fragrance revivals by reintroducing its Pink Suede scent through Ulta Beauty. Returning to stores for the first time since 2023, the fragrance offers...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644207/644207_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "893c73b87e875b8b",
-      "title": "Teachers are reaching their breaking point in the ChatGPT classroom",
-      "url": "https://mashable.com/life/teachers-tiktok-reddit-students-ai-classroom",
-      "datePublished": "2026-10-16T20:08:13.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Teachers are venting on TikTok and Reddit about student learning, AI homework, and the growing demands of the classroom.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00TEhYxoS2iL9eMDRXvsnTw/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "f07bd3df9ec26e70",
-      "title": "Selma Blair Speaks Out on Plane Arrest: “Did Not Intend to Harm Anyone”",
-      "url": "https://www.hollywoodreporter.com/news/general-news/selma-blair-rep-statement-plane-arrest-assault-1236733957/",
-      "datePublished": "2026-10-16T20:06:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The actress, who's lined up a number of gigs as her MS is in remission and she comes back from a 2024 social media scandal, pleaded not guilty after she allegedly assaulted two flight attendants on her trip from L.A. to New York earlier this week.",
-      "author": "Hilary Lewis",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "13e446fb9bfe849a",
-      "title": "Antonio Banderas and Nicolas Cage Confirmed for True Detective Season 5",
-      "url": "https://consequence.net/2026/10/true-detective-season-5-antonio-banderas/",
-      "datePublished": "2026-10-16T20:04:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The new season, set in Jamaica Bay, New York, will go into production in 2027. Antonio Banderas and Nicolas Cage Confirmed for True Detective Season 5 Liz Shannon Miller",
-      "author": "Liz Shannon Miller",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "38741d9798a16850",
-      "title": "Trump DHS Is Building Deranged Case Against Ilhan Omar",
-      "url": "https://newrepublic.com/post/216754/donald-trump-department-homeland-security-ilhan-omar-rico",
-      "datePublished": "2026-10-16T20:04:09.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Homeland Security Secretary Markwayne Mullin revealed Friday that the Trump administration is hoping to bring a criminal conspiracy case against Minnesota Representative Ilhan Omar. Appearing on Real America’s Voice, Mullin discussed his agency’s plan to go after the Democratic lawmaker after her home in Washington was raided Monday, just three weeks before November’s midterm elections. The federa",
-      "author": "Edith Olmsted",
-      "imageUrl": "https://images.newrepublic.com/6b32136231baed7239fc74072ee70b302671e388.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "fb976ee58e3604cd",
-      "title": "How Should Video Game Ownership Work In An All-Digital Future?",
-      "url": "https://kotaku.com/how-should-video-game-ownership-work-in-an-all-digital-future-2000746817",
-      "datePublished": "2026-10-16T20:00:33.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "Legislative pressure could force companies to change how digital game licenses work",
-      "author": "Ethan Gach",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/10/GettyImages-2295116957-1-1280x853.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "666d1366e1de0d69",
-      "title": "8 New TV Shows to Watch This Weekend on Netflix, Disney, and Hulu (October 16-18)",
-      "url": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-16-18/",
-      "datePublished": "2026-10-16T20:00:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "In this weekend's TV column, we highlight major releases, among them, the end of an era for Marvel streaming and a prequel to a horror icon.",
-      "author": "Maria Loreto",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/nup_207980_01941_rf.JPG",
-      "source": "Polygon"
-    },
-    {
-      "id": "6a49634eeedad97a",
-      "title": "MapQuest lets you track Flock cameras",
-      "url": "https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras",
-      "datePublished": "2026-10-16T19:52:57.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "MapQuest adds new surveillance layer, documenting locations of surveillance cameras in your area.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01MJ6zF3OpPaYLZwE1f7Yds/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "564d422aa714b819",
-      "title": "Great Menswear Can Come From Cleveland, Too",
-      "url": "https://www.highsnobiety.com/p/william-frederick-interview/",
-      "datePublished": "2026-10-16T19:51:33.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "William Frederick founder William McNicol talks making gorgeous garments in Detroit & his desire to escape menswear's cliched \"natural fiber\" orbit.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "e4973d3bfb690919",
-      "title": "Dual-Screen Selfie Phones - Acer Brings A Flagship-Style Camera Feature To A More Accessible Phone (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/dual-screen-selfie-phones",
-      "datePublished": "2026-10-16T19:50:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Acer's Sospiro A70 adds a rear display that lets selfie shooters frame themselves with the main camera instead of the front one. Sold by Senwa Global under the Acer name across Latin America, the...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644204/644204_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "30e325407cd8ce9a",
-      "title": "7 Movies Finished by Second Directors: From ‘Batman 2’ to ‘Spartacus’",
-      "url": "https://variety.com/lists/movies-finished-by-second-director-justice-league-batman-2/",
-      "datePublished": "2026-10-16T19:49:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Hollywood is a business of people. Yesterday, the industry got a reminder of that when Warner Bros. and DC Studios announced that Steven Soderbergh will help director Matt Reeves finish production on “The Batman Part II” while Reeves deals with a family matter. “Just to be clear, I am not leaving ‘The Batman Part II,'” […]",
-      "author": "Jack Dunn",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "a83694c0eebf5f27",
-      "title": "Zelenskiy Smiles as Entire EU Summit Laughs at Trump",
-      "url": "https://newrepublic.com/post/216751/zelenskiy-smiles-eu-summit-laughs-trump-scapegoat",
-      "datePublished": "2026-10-16T19:49:17.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Ukrainian President Volodymyr Zelenskiy knows how to get the European Union laughing—at Donald Trump. EU leaders met in Brussels for the conclusion of the European Council summit Friday, where they closed ranks around Ukraine in its ongoing war with Vladimir Putin’s Russia. During one press conference, Zelenskiy was asked if he felt Trump was making him a “scapegoat” before America’s November midt",
-      "author": "Sophie Jager",
-      "imageUrl": "https://images.newrepublic.com/80fd3e418791bfb843ba9f28514d8ee80b39001b.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "da209750fa6fd8ba",
-      "title": "New York’s Plaza Hotel to Close in 2027 for at Least Four Years",
-      "url": "https://www.hollywoodreporter.com/lifestyle/real-estate/new-york-plaza-hotel-close-2027-four-years-renovations-1236733620/",
-      "datePublished": "2026-10-16T19:47:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The historic hotel next to Central Park, featured in 'Home Alone 2: Lost in New York' and 'Eloise at the Plaza,' is shutting down for renovations.",
-      "author": "Lexi Carson",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "d0a00342ca12db38",
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "datePublished": "2026-10-16T19:47:13.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 69 # Comments: 13",
-      "author": "gmays",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "4bfc144b7050237c",
-      "title": "The New <em>Sense and Sensibility </em>Is a Different Kind of Jane Austen Movie. I Loved It.",
-      "url": "https://slate.com/culture/2026/10/sense-and-sensibility-2026-movie-jane-austen-daisy-edgar-jones.html?via=rss",
-      "datePublished": "2026-10-16T19:45:39.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Ang Lee’s 1995 movie is a classic. The new 2026 adaptation is a ball.",
-      "author": "Rebecca Onion",
-      "imageUrl": "",
-      "source": "Slate (Culture)"
-    },
-    {
-      "id": "050801934044bfb0",
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "datePublished": "2026-10-16T19:40:00.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "author": "Tim De Chant",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "1c63eeff273a920a",
-      "title": "The Fatal Flaw of 911",
-      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-      "datePublished": "2026-10-16T19:33:00.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 39 # Comments: 53",
-      "author": "plunge",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "ce8c571d84244bb5",
-      "title": "Kal Penn says there's still enough stupid in the chamber for Harold & Kumar 4",
-      "url": "https://www.avclub.com/harold-and-kumar-four-script-complete-kal-penn",
-      "datePublished": "2026-10-16T19:31:55.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Both Kal Penn and John Cho have formally signed on to the sequel but are still awaiting Lionsgate to green light them up.",
-      "author": "Matt Schimkowitz",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/06/17162923/harold-kumar-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "4033816d220f1ff6",
-      "title": "Castlevania‘s Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep",
-      "url": "https://kotaku.com/the-belmonts-curse-soundtrack-needs-a-little-more-blood-and-tears-2000746787",
-      "datePublished": "2026-10-16T19:30:48.000Z",
-      "category": [
-        "internet-culture"
-      ],
-      "description": "The Belmont's Curse version of \"Bloody Tars\" is more restrained than it should be",
-      "author": "Ash Parrish",
-      "imageUrl": "https://kotaku.com/app/uploads/2026/07/Belmont-1280x716.jpg",
-      "source": "Kotaku"
-    },
-    {
-      "id": "9438e51ef1e1b879",
-      "title": "‘True Detective’ Season 5: Antonio Banderas Joins Nicolas Cage as Series Set to Film in 2027",
-      "url": "https://variety.com/2026/tv/news/true-detective-season-5-antonio-banderas-nicolas-cage-1236914353/",
-      "datePublished": "2026-10-16T19:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Antonio Banderas has joined Nicolas Cage in “True Detective” Season 5. The duo will headline the next installment of the HBO anthology series, which is set to begin production in 2027. The new season hails from showrunner Issa López, who helmed the Alaska-set fourth season, “Night Country,” starring Jodie Foster and Kali Reis. Season 5 […]",
-      "author": "Ethan Shanfeld",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "5af515f9a4db0cce",
-      "title": "‘True Detective’ Season 5 Officially Casts Nicolas Cage — and Antonio Banderas",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/true-detective-season-5-nicolas-cage-antonio-banderas-1236733868/",
-      "datePublished": "2026-10-16T19:30:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The new season of the HBO series is set to begin filming in 2027.",
-      "author": "Rick Porter",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "45df7d1388106e9d",
-      "title": "Run Club Knitwear Layers - District Vision Adds a Donegal Yarn Cardigan and Merino Quarter-Zip (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/run-club-knitwear-layers",
-      "datePublished": "2026-10-16T19:30:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) District Vision is expanding into knitwear with a merino wool quarter-zip sweater and a wool cardigan, adding a softer layer to its run-focused lineup for before and after training. Known for...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/644/644200/644200_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "c5e7892c77102f46",
-      "title": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
-      "url": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
-      "datePublished": "2026-10-16T19:24:23.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A ‘family’ of criminals attempt to steal the Mona Lisa from the Louvre in pulpy and forgettable thriller In the last half-decade Stanley Tucci has been a source of near-inexhaustible on- screen delight, whether making friends with nonnas in his delightful cooking shows or smartly judged supporting turns in Conclave and The Devil Wears Prada 2. He is an actor well placed for a star vehicle of his o",
-      "author": "Owen Myers",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "38065a3f75d73826",
-      "title": "The Latest From Book Club",
-      "url": "https://www.service95.com/book-club",
-      "datePublished": "2026-10-16T19:24:05.731Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "7a0e32eb6f4656b0",
-      "title": "Sex & Relationships",
-      "url": "https://www.service95.com/tag/sex",
-      "datePublished": "2026-10-16T19:24:05.731Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "2b3d26cfda1bfa01",
-      "title": "The Culture List",
-      "url": "https://www.service95.com/tag/the-culture-list",
-      "datePublished": "2026-10-16T19:24:05.731Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "893a15a6cc158f43",
-      "title": "The Travel List",
-      "url": "https://www.service95.com/tag/the-travel-list",
-      "datePublished": "2026-10-16T19:24:05.731Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "3772feabc1b9e319",
-      "title": "The Reading List",
-      "url": "https://www.service95.com/tag/the-reading-list",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "d3e1e51a32f98248",
-      "title": "See All Stories",
-      "url": "https://www.service95.com/stories",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "ab111fc5ad9cddd8",
-      "title": "72 Hours In Beijing: Charting The City’s Hutongs, Home Cooking And Jazz Cafes",
-      "url": "https://www.service95.com/72-hours-in-beijing",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "086ef70049408693",
-      "title": "Service95 Partnerships",
-      "url": "https://www.service95.com/tag/service95-partnerships",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "450088a59870dcf0",
-      "title": "Bars Where You Can Still Party Like It’s The 1990s, With Mert Alas",
-      "url": "https://www.service95.com/mert-alas-bar-guide",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "79966df90ab421e1",
-      "title": "Dua & Kazuo Ishiguro Discuss His 2021 Novel ‘Klara And The Sun’",
-      "url": "https://www.service95.com/dua-lipa-kazuo-ishiguro-book-club-interview",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "37fc577de1a9d034",
-      "title": "7 Authors Explore Their Favourite Ishiguro Novel",
-      "url": "https://www.service95.com/authors-favourite-ishiguro-novels",
-      "datePublished": "2026-10-16T19:24:05.730Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
     }
   ]
 }
