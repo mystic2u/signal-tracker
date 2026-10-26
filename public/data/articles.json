@@ -1,6 +1,281 @@
 {
-  "generatedAt": "2026-10-25T23:54:04.125Z",
+  "generatedAt": "2026-10-26T03:38:32.241Z",
   "articles": [
+    {
+      "id": "2fd5e175b6bdb17e",
+      "title": "‘Moon Knight’ Star May Calamawy Fronts ‘Night Feeds,’ Opener of New Tokyo Horror Festival Yami (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/moon-knight-star-tokyo-horror-fest-yami-opener-night-feeds-1236930653/",
+      "datePublished": "2026-10-26T03:29:36.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Night Feeds,” a psychological horror short from Rana Roy starring May Calamawy (“Moon Knight”), will open the first edition of the Yami International Film Festival, Tokyo’s new showcase for horror and darker genre fare. “Breeder,” from Alex Goyette, will close the festival, which runs Nov. 20–26 at Human Trust Cinema Shibuya. The event is run […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "ae12bca150e876be",
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "datePublished": "2026-10-26T03:04:08.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 7 # Comments: 1",
+      "author": "gverrilla",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "52d7fc87cce48658",
+      "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
+      "url": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+      "datePublished": "2026-10-26T02:44:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
+      "author": "Oli Welsh",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "37afac5d07fd725b",
+      "title": "‘Obsession’ And ‘Backrooms’ Win Big at Fangoria Chainsaw Awards",
+      "url": "https://variety.com/2026/awards/news/obsession-backrooms-win-fangoria-chainsaw-awards-1236919175/",
+      "datePublished": "2026-10-26T02:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“Obsession” led this year’s Fangoria Chainsaw Awards with the most amount of wins, taking home five awards including Best Director for Curry Barker and Best Lead Performance for Inde Navarrette. Celebrating achievements in horror film, television and gaming, the fan-voted awards premiered Sunday on Shudder and were hosted by Devon Sawa (“Final Destination,” “Chucky”). Among […]",
+      "author": "Tanya Fedak",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e910f92234f01cbe",
+      "title": "NYT Connections hints today: Meanings for each word for Oct. 26, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-26-2026",
+      "datePublished": "2026-10-26T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1233.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/050VvDL2cFwkG4aYhtWZhOa/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c7143554be5fb644",
+      "title": "NYT Connections hints today: Clues, answers for October 26, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-26-2026",
+      "datePublished": "2026-10-26T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04mE2Y7D2cHsGgvfJ65q3h9/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "c1df10b0df56c605",
+      "title": "NYT Strands hints, answers for October 26, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-26-2026",
+      "datePublished": "2026-10-26T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/004VdNRwlzUuzwtF57wjU3W/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "a50df2e715adb728",
+      "title": "Wordle today: Answer, hints for October 26, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-october-26-2026",
+      "datePublished": "2026-10-26T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1955 on October 26 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05vLfi9R2yIL23R0Ag0dPVu/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "0fe639e321946d77",
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "datePublished": "2026-10-26T01:47:46.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 43 # Comments: 6",
+      "author": "Betelbuddy",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "ba7ccac6f9244da1",
+      "title": "iPhone Duo Teardown",
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "datePublished": "2026-10-26T01:23:24.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 54 # Comments: 19",
+      "author": "kripy",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "1be89c5a4c442705",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "datePublished": "2026-10-26T01:10:00.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "author": "Aisha Malik",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "13363bfcb83df7cf",
+      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "url": "https://rainbowsay.ai/",
+      "datePublished": "2026-10-26T01:08:13.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://rainbowsay.ai/ Comments URL: https://news.ycombinator.com/item?id=50237773 Points: 4 # Comments: 0",
+      "author": "gigapotential",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "6adc91551f3b5ea5",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "datePublished": "2026-10-26T01:03:39.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 36 # Comments: 9",
+      "author": "textlanes33",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "e28857efa5d8b005",
+      "title": "The Real Housewives of Potomac Recap: A Friend to All is a Friend to None",
+      "url": "http://www.vulture.com/article/real-housewives-of-potomac-recap-season-11-episode-3-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-26T01:00:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Robyn’s return has completely disrupted the cast’s power dynamics — and the fallout is already spilling into the podcast world.",
+      "author": "Shamira Ibrahim",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/645/db6/02e640f4e60af05a6ad6b0a12f27ab2cd1-Real-Housewives-of-Potomac.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "5248cfa423a31d48",
+      "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+      "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+      "datePublished": "2026-10-26T00:56:40.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+      "author": "Ari Notis",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero-slow-motion-walk.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "cac1d49905e0e9b6",
+      "title": "Lula’s Upset Is a Win for the Rule of Law and a Blow to Trump ",
+      "url": "https://newrepublic.com/article/217122/lula-upset-win-blow-trump",
+      "datePublished": "2026-10-26T00:24:55.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "President Luiz Inácio Lula da Silva’s surprising victory over far-right, Trump-aligned Flávio Bolsonaro shouldn’t just be celebrated by left-leaning Brazilians. It’s a win for democracy, the environment, and the rule of law that will reverberate globally, since it happened in the world’s seventh-largest country by population. It’s also an important defeat for global villains: the Trump administrat",
+      "author": "Perry Bacon",
+      "imageUrl": "https://images.newrepublic.com/140aa306f145ee599ec072327c3ab4a5bf7382b0.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
+      "source": "The New Republic"
+    },
+    {
+      "id": "017c93b66d790751",
+      "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+      "url": "https://www.polygon.com/phantom-blade-zero-review/",
+      "datePublished": "2026-10-26T00:00:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Phantom Blade Zero, developed by S-Game, prioritizes the visual spectacle it brings from Wuxia movies to create a great action game.",
+      "author": "Paulo Kawanishi",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantombladezero_review_lead.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "b2be9c91b1c77e69",
+      "title": "Can you run regular Ethernet cables outside?",
+      "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "datePublished": "2026-10-26T00:00:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Just because you can do something doesn't mean you should.",
+      "author": "staff@engadget.com (Thomas Godwin)",
+      "imageUrl": "https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "9b434a38e31230c8",
+      "title": "From ‘Hoop Dreams’ to ‘Flee’: The 20 Documentaries That Deserved a Best Picture Oscar Nomination",
+      "url": "https://variety.com/lists/documentaries-best-picture-oscar-nominations-snubs/",
+      "datePublished": "2026-10-25T23:55:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In nearly a century of Oscars, not a single documentary has been nominated for best picture. But that shouldn’t be the case. While a documentary can win its own Oscar, reshape the cultural conversation and become one of the defining films of its era, these nonfiction feature films have been excluded from the top category […]",
+      "author": "Clayton Davis",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "82dace83258b7323",
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "datePublished": "2026-10-25T23:52:05.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 40 # Comments: 15",
+      "author": "westurner",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "c8924dc9318bc618",
       "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
@@ -43,6 +318,20 @@
       "source": "Engadget"
     },
     {
+      "id": "3be5a846bb100a06",
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "datePublished": "2026-10-25T23:27:30.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 75 # Comments: 37",
+      "author": "bpierre",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "512441a5266220cf",
       "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
       "url": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
@@ -54,6 +343,19 @@
       "author": "Sam Hill",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/bill-skarsgard-welcome-to-derry.jpeg",
       "source": "Polygon"
+    },
+    {
+      "id": "47930c8eaf75f3a1",
+      "title": "Cole Escola Is Guarding Their Miss Piggy Script Like Their Life Depends On It",
+      "url": "http://www.vulture.com/article/cole-escola-miss-piggy-movie-details.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-25T23:15:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“What do you think I am, crazy? I am not dying this year.”",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/6b7/e5c/d811aba83a370e4e0432556a68b669cc21-cole-escola.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "1f2d8ce72071dacd",
@@ -120,6 +422,19 @@
       "author": "Zack Kotzer",
       "imageUrl": "https://kotaku.com/app/uploads/2026/10/werewolfthelastwarrior.jpg",
       "source": "Kotaku"
+    },
+    {
+      "id": "b863d7381214db50",
+      "title": "Anthropic Sued for Training Claude on Elvis Presley Songs",
+      "url": "http://www.vulture.com/article/anthropic-elvis-lawsuit.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-25T22:57:50.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Whoa, momma. They trapped me in a training model, momma.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/f0f/f4b/2739a1fd8572f07240cbd5278b98429338-elvis-presley.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "c0932d211ef51152",
@@ -406,6 +721,19 @@
       "source": "The A.V. Club"
     },
     {
+      "id": "cf0bb7531a28798d",
+      "title": "Turbine Factory Expansions - Mitsubishi Power Invests $490 Million to Expand Its Savannah Factory (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/innovation/mitsubishi-power",
+      "datePublished": "2026-10-25T20:40:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Mitsubishi Power Americas plans to expand its Savannah Machinery Works facility, a U.S. manufacturing and service center for advanced-class gas turbines, steam turbines and power generation...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647833/647833_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "27bbc3c05afbffd3",
       "title": "The State of Context Engineering",
       "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
@@ -458,6 +786,19 @@
       "author": "Anthony Ha",
       "imageUrl": "",
       "source": "TechCrunch"
+    },
+    {
+      "id": "a41b6db02e40ebe7",
+      "title": "EV Charging Credit Facilities - Energea Commits Up to $20 Million to Finance EV Charging Stations (TrendHunter.com)",
+      "url": "http://www.trendhunter.com/innovation/energea-commits",
+      "datePublished": "2026-10-25T20:20:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Energea expanded its U.S. portfolio beyond solar to include EV charging, committing up to $20 million through Energea Portfolio 4 USA LP to finance new charging stations. The first transaction is a...",
+      "author": "",
+      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647834/647834_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "45570ae60b76ee54",
@@ -2931,6 +3272,19 @@
       "source": "Mashable"
     },
     {
+      "id": "5995b7cc9a3eee2a",
+      "title": "Cinematrix No. 943: October 25, 2026",
+      "url": "http://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-25T09:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Can you name a Mahershala Ali or John Cho movie with 3+ words in the title?",
+      "author": "Britina Cheng",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/819/6a4/0db29cb33b6bf04788aae83f3fce078d82-cinematrix-10-25-2026.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "a0f5d59737f2e43d",
       "title": "Budget Grooming Gifts - Happy Nuts Offers Four Men’s Body-Care Gifts Under $20 (TrendHunter.com)",
       "url": "http://www.trendhunter.com/trends/budget-grooming-gifts",
@@ -3332,6 +3686,20 @@
       ],
       "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 311 # Comments: 110",
       "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a9e08b18c9f802a3",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "datePublished": "2026-10-25T01:30:13.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 20",
+      "author": "Gcarter08",
       "imageUrl": "",
       "source": "Hacker News"
     },
@@ -6344,389 +6712,6 @@
       "author": "Doreen St. Félix",
       "imageUrl": "",
       "source": "The New Yorker"
-    },
-    {
-      "id": "67a936be6c4825e3",
-      "title": "Gina Hinojosa’s Populism for Democrats",
-      "url": "https://www.newyorker.com/news/the-lede/gina-hinojosas-populism-for-democrats",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "A candidate’s search for common ground raises hopes in Texas.",
-      "author": "Stephania Taladrid",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "7ca4b35273788de6",
-      "title": "For Bob Iger, That’s the Way It Is",
-      "url": "https://www.newyorker.com/magazine/2026/11/02/for-bob-iger-thats-the-way-it-is",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The former Ithaca weatherman became Disney’s C.E.O. Now he’s just like everyone else—retired and co-owning the Los Angeles Lakers with Josh Kushner, by way of Karlie Kloss.",
-      "author": "Ben McGrath",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "d4cd9e3dec82712c",
-      "title": "When the Term “Heat Wave” Is No Longer Enough  ",
-      "url": "https://newrepublic.com/article/217073/heat-storms-reuters-climate-reporting",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In a landmark piece of climate journalism, Reuters has just published a groundbreaking investigation arguing that the term “heat waves” no longer adequately captures what is happening on the planet. A better term is “heat storms,” wrote Maurice Tamman, a veteran investigative journalist who was the lead reporter on the “Age of Heat Storms” project. “Supersized heatwaves used to be rare,” Tamman wr",
-      "author": "Mark Hertsgaard",
-      "imageUrl": "https://images.newrepublic.com/e806f2f2db13a6668ef42baa78a24aae44b12664.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "fa0cbca6800714c7",
-      "title": "Make Susan Collins Pay for Her Big Abortion Lie",
-      "url": "https://newrepublic.com/post/217070/susan-collins-big-abortion-lie",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "In a few short weeks, we’re going to learn whether and how the first half of President Donald Trump’s disastrous second term yields enough of a backlash to return Democrats to power in the House and Senate. At the moment, retaking the lower chamber seems like a done deal. Those are the words of Charlie Cook, anyway. The founder of the Cook Political Report is less bullish about the Democrats’ chan",
-      "author": "Jason Linkins",
-      "imageUrl": "https://images.newrepublic.com/491b12d012e63f5c5fbfe619dbebbd898c7ca288.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
-      "source": "The New Republic"
-    },
-    {
-      "id": "8acda1e9f09f4448",
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "datePublished": "2026-10-24T09:58:27.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 84 # Comments: 40",
-      "author": "fragebogen",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "bd89921c940c5dd0",
-      "title": "Luxurious Après-Ski Liness - Loro Piana's Holiday 2026 Collection Embraced Cozy Mountain Elegance (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/loro-pianas-holiday-2026-collection",
-      "datePublished": "2026-10-24T09:56:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Après-ski dressing is getting the Loro Piana treatment. The Italian luxury house has unveiled its Fall/Winter 2026 Holiday Collection, bringing a decidedly sophisticated approach to mountain...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647021/647021_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "6252a2c19dbe293c",
-      "title": "I Don't Understand Quantum Physics",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "datePublished": "2026-10-24T09:53:26.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 17 # Comments: 7",
-      "author": "rramadass",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "18cb023bda6ea0b6",
-      "title": "Rice Decarbonization Funding - CarbonFarm Raises €7M to Cut Rice Methane with Better Water Use (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/innovation/rice-methane",
-      "datePublished": "2026-10-24T09:36:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) CarbonFarm, a digital MRV provider and project developer focused on rice decarburization, closed an oversubscribed €7 million Series A led by Colam Impact, with participation from Proparco, Suma...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/646/646992/646992_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "bafda31244356796",
-      "title": "Nature Disclosure Standards - ISSB Opens Nature-Related Disclosure Proposals for Investor Feedback (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/innovation/disclosure-proposals",
-      "datePublished": "2026-10-24T09:16:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) The International Sustainability Standards Board (ISSB) opened a feedback period on its nature-related disclosures proposals, running until Feb. 19, 2027. The proposals help companies provide...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/646/646993/646993_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "fec27ca86f633752",
-      "title": "Sony WH-1000XM4C vs Bose QuietComfort (2nd gen): The battle of the mid-range headphones",
-      "url": "https://mashable.com/comparison/sony-wh-1000xm4c-vs-bose-quietcomfort-2nd-gen",
-      "datePublished": "2026-10-24T09:15:25.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Bose and Sony both released mid-range headphones this fall, so Mashable's headphones expert tested both against each other to determine which is the better buy.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/comparisons/45.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "c5c067dfc8968362",
-      "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
-      "url": "https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/",
-      "datePublished": "2026-10-24T09:05:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Final Fantasy 14 community gets a green thumb and waters plants for players who couldn't log in during this week's security debacle",
-      "author": "Willa Rowe",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2849754/ffxiv_pub_patch2.3_15.1403627489.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "0a509a5644fb3747",
-      "title": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
-      "datePublished": "2026-10-24T09:00:29.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection Two years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer from América Castillo, a museum curator in San Francisco: would he consider an exhibition of his private art collection? “I loved it,” said R",
-      "author": "Soo Youn",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "9b0106aa51e84a4a",
-      "title": "7 Hilarious ‘Far Side’ Comics With the Worst Puns",
-      "url": "https://www.polygon.com/best-far-side-comics-with-terrible-puns/",
-      "datePublished": "2026-10-24T09:00:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Some of Gary Larson's best Far Side comic strips featured a purposefully bad bit of word play, which was further proof of Larson's genius",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-23-at-11-53-50-am-1.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "ac2d1760f6c0b1c7",
-      "title": "Is Boox worth it? I tried Booktoks new favorite e-reader brand.",
-      "url": "https://mashable.com/tech/is-boox-e-reader-worth-it-versus-kindle-kobo",
-      "datePublished": "2026-10-24T09:00:01.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Boox are the new buzzy e-readers that BookTok loves, but are they worth the money? We put them head-to-head with Kindles and Kobos.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/031ZwR1Rl2wJ1kWZHRJMSca/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "d1bfaf5d25c710df",
-      "title": "China is coming for the moon. NASAs answer: a faster, leaner plan",
-      "url": "https://mashable.com/science/nasa-artemis-iv-moon-landing-2028-plan",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "NASA says a faster, simpler plan can still land astronauts on the moon's surface in 2028 as China closes in on its own landing.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01fvpI7ckvgs9OqYfEhIf3M/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "60d04a6a5035ddfe",
-      "title": "The DJI Mini 3 drone is $50 off this weekend: Where to buy for $369",
-      "url": "https://mashable.com/tech/oct-24-october-prime-day-dji-mini-3-drone-amazon-deal",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get the bestDJI drone deal. The DJI Mini 3 drone is on sale for $369 at Amazon, saving you $50.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02Gi6o6jmTFZfkLIfua7pxt/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "5ba769b31b55ee91",
-      "title": "Pokémon teases an adorable new holiday plush collection: How to buy Pikachu tree, Clodsire sleigh, and more",
-      "url": "https://mashable.com/life/pokemon-center-holiday-plush-collection-how-to-buy",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Pokémon Center's new holiday plush collection features Pikachu as a Christmas tree, riding a Clodsire sleigh, and snacking on Tangela cookies.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06DwZCrVfOZeCWr805T4zkI/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "7e63637b79740987",
-      "title": "How to watch Texas A&M vs. Alabama online for free",
-      "url": "https://mashable.com/entertainment/texas-am-alabama-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Texas A&M vs. Alabama in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00wYVlLet0suZOCaFdlWg6w/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "430109fa4f099396",
-      "title": "How to watch Iowa vs. Minnesota online for free",
-      "url": "https://mashable.com/entertainment/iowa-minnesota-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Iowa vs. Minnesota in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02sUEUt24BQN1l6sIuEQeis/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "59a4aafc9dd8dc2b",
-      "title": "How to watch New Dakota State vs. New Mexico online for free",
-      "url": "https://mashable.com/entertainment/north-dakota-state-new-mexico-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream New Dakota State vs. New Mexico in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02Bc1wQo7j4eR0Z78he4d4e/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "e94beff80c6f385f",
-      "title": "How to watch Tennessee vs. South Carolina online for free",
-      "url": "https://mashable.com/entertainment/tennessee-south-carolina-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Tennessee vs. South Carolina in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06afr3H4qgtZI0ZSPiZoD3X/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "e6fa8d2b10560667",
-      "title": "How to watch Virginia Tech vs. Clemson online for free",
-      "url": "https://mashable.com/entertainment/virginia-tech-clemson-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Virginia Tech vs. Clemson in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06I2wGRAXPH2AdeGyA6WlMp/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "29edca765d473781",
-      "title": "How to watch USC vs. Wisconsin online for free",
-      "url": "https://mashable.com/entertainment/usc-wisconsin-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream USC vs. Wisconsin in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05FGmrV6FJFGeYo1Rjp3CAh/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "e41b48cf84d174b9",
-      "title": "How to watch Ole Miss vs. Texas online for free",
-      "url": "https://mashable.com/entertainment/ole-miss-texas-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Ole Miss vs. Texas in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02TMiTIn9bvcqs79g2DYIbe/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "fbbac95d61f9af17",
-      "title": "How to watch the Houston vs. Utah online for free",
-      "url": "https://mashable.com/entertainment/houston-utah-college-football-2026-live-stream-for-free",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch college football for free. Live stream Houston vs. Utah in 2026 without cable.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06X0NWNfsVBCcToW3yhBY5K/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "dba6f31e5281be9a",
-      "title": "Get Windows 11 Pro for just $9.97 before November rolls in",
-      "url": "https://mashable.com/tech/oct-24-microsoft-windows-11-pro",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get Microsoft Windows 11 Pro for $9.97 through Nov. 1, with a lifetime license for one compatible PC, BitLocker, Hyper-V, and no recurring fees",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/078isSj11sJ4jjlB3cE9lkp/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "37b9cf51972de872",
-      "title": "Get ChatGPT, Claude, and Gemini in one lifetime AI toolkit for $99.99",
-      "url": "https://mashable.com/tech/oct-24-1minai-advanced-business-plan-lifetime-subscription",
-      "datePublished": "2026-10-24T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get lifetime 1min.AI Advanced Business access for $99.99, with 4 million monthly credits and writing, image, audio, video, and collab tools.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/04lpt0mxXTLGeNElMLejjV7/hero-image.jpg",
-      "source": "Mashable"
     }
   ]
 }
