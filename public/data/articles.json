@@ -1,6 +1,371 @@
 {
-  "generatedAt": "2026-10-26T03:38:32.241Z",
+  "generatedAt": "2026-10-26T09:50:43.063Z",
   "articles": [
+    {
+      "id": "1fab884d126db17c",
+      "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+      "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+      "datePublished": "2026-10-26T09:31:44.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.",
+      "author": "staff@engadget.com (Steve Dent)",
+      "imageUrl": "https://www.engadget.com/img/gallery/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793006964.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "0cc4e807f5102f67",
+      "title": "Nike’s Cream Soda Recovery Shoe Is Ready to Pop",
+      "url": "https://www.highsnobiety.com/p/nike-first-sight-shadow-sneaker-cream/",
+      "datePublished": "2026-10-26T09:10:01.000Z",
+      "category": [
+        "internet-culture",
+        "fashion"
+      ],
+      "description": "Nike's cream-coated First Sight Shadow is a lace-free sneaker built for the moments we don't see.",
+      "author": "",
+      "imageUrl": "",
+      "source": "Highsnobiety"
+    },
+    {
+      "id": "9730e9c50dcdcc98",
+      "title": "How to watch PSG vs. Lyon online for free",
+      "url": "https://mashable.com/entertainment/psg-lyon-ligue-1-2026-live-stream-for-free",
+      "datePublished": "2026-10-26T09:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Ligue 1 for free. Live stream PSG vs. Lyon in Ligue 1 for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06XXtD05m3ENhyi9v2Jg8LM/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "8fc3e37a0cb0b789",
+      "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+      "url": "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949/",
+      "datePublished": "2026-10-26T08:53:16.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Who knew that one of this year’s giddiest celebrations of filmmaking would be a movie where the stunt dummies are obvious, the dinosaur costumes are obviously homemade and you can literally see the strings on special effects shots? That’s the joy of “VelociPastor 2,” the long-awaited sequel to 2017’s “The VelociPastor.” The first film was […]",
+      "author": "William Earl",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1c46105f3c5460da",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "datePublished": "2026-10-26T08:46:09.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 56 # Comments: 7",
+      "author": "theanonymousone",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a9be2dcbc0db9d91",
+      "title": "Animated Movie ‘Apple Cadabra – I Shrunk Myself’ Boarded by Epsilon Film (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/apple-cadabra-i-shrunk-epsilon-film-1236931009/",
+      "datePublished": "2026-10-26T08:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Epsilon Film has acquired worldwide rights to “Apple Cadabra – I Shrunk Myself,” an animated family adventure movie based on “Petronella Applesauce,” one of Germany’s most successful children’s book series. Epsilon Film will launch international sales on “Apple Cadabra – I Shrunk Myself” at the American Film Market, which runs Nov. 10-15 in Los Angeles, […]",
+      "author": "Leo Barraclough",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "1b35f8190e81acb3",
+      "title": "Beloved Bugs Bunny and Daffy Duck Voice Eric Bauza Passes Away at 46",
+      "url": "https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/",
+      "datePublished": "2026-10-26T08:28:40.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Voice actor Eric Bauza, known for voicing Bugs Bunny, Daffy Duck, and hundreds of other characters, has passed at age 46.",
+      "author": "Brian VanHooker",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/eric-bauza-road-runner-picture-from-instagram.png",
+      "source": "Polygon"
+    },
+    {
+      "id": "c7468d4a3c693074",
+      "title": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
+      "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
+      "datePublished": "2026-10-26T08:11:53.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Anthropic is reportedly being sued for allegedly training its AI model Claude on Elvis Presley's music without permission.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07kEeziWBaFd09y3OTuBR1T/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "129d883730a1d79f",
+      "title": "10 Best 'Star Trek: Original Series' Episodes of All Time, Ranked",
+      "url": "https://www.polygon.com/best-star-trek-original-series-episodes-ranked/",
+      "datePublished": "2026-10-26T08:00:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "From iconic villains to heartbreaking sacrifices, these 10 episodes show why the original Star Trek remains essential television.",
+      "author": "Terry Terrones",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/star-trek-the-original-series.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "cad73f6199434b8a",
+      "title": "‘All About the Money’ Doc Maker Explains How She Updated Her Film on Fergie Chambers – and Her Concerns About That U.S. Extradition Request",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/all-about-the-money-doc-fergie-chambers-us-extradition-request-1236735194/",
+      "datePublished": "2026-10-26T08:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Irish director Sinéad O’Shea is gearing up for much debate as the film comes into U.K. and Irish cinemas on Oct. 30 after its BFI London Film Festival run and before screening at DOC NYC in November.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9daf257e72a31e74",
+      "title": "Tokyo Film Festival to Reassess Its Global Standing Ahead of 40th Edition, Says Director Hisamatsu Takeo",
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-reassess-global-standing-40th-edition-1236930996/",
+      "datePublished": "2026-10-26T07:28:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Tokyo International Film Festival will review its 39th edition once it wraps and reassess where it stands on the international circuit before its 40th anniversary next year, festival director Hisamatsu Takeo says. “I believe the direction we establish through that process will also help define TIFF’s course for the next decade, leading up to […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e4339f306c9709a4",
+      "title": "Star Flops and Slowing Investment Help Explain China’s Thin Festival Presence, Says Tokyo Programming Director",
+      "url": "https://variety.com/2026/film/festivals/star-flops-dent-china-festival-presence-tokyo-ichiyama-shozo-1236930989/",
+      "datePublished": "2026-10-26T07:00:42.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Star-driven flops at the Chinese box office, slowing investment and a reportedly more complicated censorship process have a bearing on China’s low profile at international festivals this year, according to Ichiyama Shozo, programming director of the Tokyo International Film Festival. “In the past, casting a star in the leading role could guarantee a certain degree […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "e8dcfa98258d0949",
+      "title": "Anime’s Pay Divide Runs Between Studios That Take Risks and Those That Don’t, Says Tokyo Festival Advisor",
+      "url": "https://variety.com/2026/film/festivals/anime-pay-divide-studios-appetite-risk-tokyo-advisor-1236930984/",
+      "datePublished": "2026-10-26T06:42:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Japan’s anime industry is in better shape overall, but gaps in pay and conditions are opening up largely between studios prepared to put their own capital on the line and those that are not, according to Fujitsu Ryota, programming advisor for the Tokyo International Film Festival’s Animation section. “Given the high level of creativity demonstrated […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "aa20f8fdb43c36ae",
+      "title": "Family Dramas Dominate Tokyo Festival’s Asian Lineup Amid ‘Geopolitical Volatility’",
+      "url": "https://variety.com/2026/film/festivals/family-dramas-tokyo-festival-asian-lineup-1236930979/",
+      "datePublished": "2026-10-26T06:30:26.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Family relationships run through the Asian films that Tokyo International Film Festival programmer Ishizaka Kenji has picked for this year’s edition. “While it is hard to pinpoint an exact catalyst for this surge in family-driven drama, what is undeniable is that amidst today’s geopolitical volatility, these filmmakers share an instinctive urge to reexamine the smallest […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "8ebdd87bc0ab25a4",
+      "title": "Tokyo Festival’s Women’s Empowerment Lineup Follows Those Who ‘Fall Through the Cracks’",
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-womens-empowerment-section-belonging-shimizu-yu-1236930973/",
+      "datePublished": "2026-10-26T06:14:29.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "People pushed to move, or left without anywhere to belong, through no fault of their own form the through-line of this year’s Women’s Empowerment section at the Tokyo International Film Festival, according to programmer Shimizu Yu, who also oversees the festival’s Youth strand. Now in its third year, the seven-film section includes Manuela Martelli’s “The […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "60eaffdf74b4ee15",
+      "title": "The result of the C++26 DIS ballot",
+      "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "datePublished": "2026-10-26T06:11:52.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://train-it.eu/blog/cpp26-contracts-the-ballot-result/ Comments URL: https://news.ycombinator.com/item?id=50239748 Points: 46 # Comments: 37",
+      "author": "uasi",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "9d142b8ff970e1cc",
+      "title": "Ted Sarandos Swoops Into Seoul as Netflix Celebrates 10 Years in Korea",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ted-sarandos-seoul-netflix-10-years-korea-1236739801/",
+      "datePublished": "2026-10-26T06:05:45.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The streaming gaint's co-CEO joined stars from ‘Squid Game,’ ‘KPop Demon Hunters’ and other Korean hits for a two-day fan festival, while previewing buzzy upcoming titles like ‘Possible Love,’ ‘Tantara’ and ‘Solo Leveling.’",
+      "author": "Patrick Brzeski",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "aa9fc42bbe951346",
+      "title": "‘Saiyaara’ Star Ahaan Panday and Sharvari’s Ali Abbas Zafar Romantic Action-Drama for Yash Raj Films Unveils Title (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/saiyaara-star-ahaan-panday-sharvari-ali-abbas-zafar-film-title-1236930643/",
+      "datePublished": "2026-10-26T05:30:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ali Abbas Zafar’s romantic action-drama pairing “Saiyaara” breakout Ahaan Panday with Sharvari will be called “Beparwah,” Yash Raj Films revealed Monday. The title reveal came exactly five months before the film opens worldwide in theaters on March 26, 2027, the Good Friday holiday. Aditya Chopra produces. “Beparwah” is the first time Panday and Sharvari have […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "9cf27f71e6cfb7b7",
+      "title": "Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: “Complete and Total Loser”",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/donald-trump-attacks-bill-maher-truth-social-post-loser-1236739778/",
+      "datePublished": "2026-10-26T05:02:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Truth Social post comes just days after the two had dinner at the White House.",
+      "author": "Kimberly Nordyke",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "cd7f34633491ca8d",
+      "title": "Hurdle hints and answers for October 26, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-october-26-2026",
+      "datePublished": "2026-10-26T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03X9k6NRBlDmYwnXqwSkF05/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b56e928b3921fb39",
+      "title": "Moon phase today: What the Moon will look like on October 26, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-oct-26-2026",
+      "datePublished": "2026-10-26T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for October 26, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06DGnAk32q238E6g4XluQo6/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e29071a90013186c",
+      "title": "John Oliver Issues Urgent Warning Ahead of Midterms About the Republican Party’s Nazi Ties",
+      "url": "https://variety.com/2026/tv/news/john-oliver-urgent-warning-midterm-elections-republicans-nazi-ties-1236930940/",
+      "datePublished": "2026-10-26T04:21:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "John Oliver returned to the “Last Week Tonight” desk after a two-week absence and focused the entirety of Sunday night’s episode on a “worrying trend that’s been on the rise” amongst the Republican Party ahead of the Nov. 3 midterm elections — their apparent affinity for Nazis. There is Peter Oberacker, a Republican candidate for […]",
+      "author": "Marlow Stern",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "33befcf227566bff",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "datePublished": "2026-10-26T04:14:35.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 11 # Comments: 1",
+      "author": "yazeedaloyoun",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "b7a9dc427d827abb",
+      "title": "Korea Box Office: Anime Phenomenon ‘Chiikawa’ Remains Unstoppable as Yeon Sang-ho Thriller ‘Paradise Lost’ Debuts",
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-chiikawa-paradise-lost-1236930928/",
+      "datePublished": "2026-10-26T04:07:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Japanese animated sensation “Chiikawa the Movie: The Secret of the Mermaid Island” maintained a commanding grip on the South Korean box office over the weekend of Oct. 23–25, capturing nearly 45% of nationwide ticket revenue in its fourth frame. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Toho-distributed […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "ab194c4b381244ff",
+      "title": "Eric Bauza, the Modern Voice of Bugs Bunny, Daffy Duck and Other Iconic Characters, Dies at 46",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/eric-bauza-dead-voice-bugs-bunny-daffy-duck-looney-tunes-1236739767/",
+      "datePublished": "2026-10-26T04:05:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In addition to multiple roles in the Looney Tunes films and shows including 'Coyote vs. Acme,' the Emmy-winning actor also voiced roles in 'Forgotten Island,' 'Muppet Babies' and 'Teenage Mutant Ninja Turtles,' among others.",
+      "author": "Kimberly Nordyke",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "094da9ed96965c94",
+      "title": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
+      "url": "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
+      "datePublished": "2026-10-26T03:54:20.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The actor’s family said he passed ‘suddenly’",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/10/IMG_1307.jpeg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "79133f51c7f52529",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "datePublished": "2026-10-26T03:31:11.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 109 # Comments: 49",
+      "author": "Austin_Conlon",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "2fd5e175b6bdb17e",
       "title": "‘Moon Knight’ Star May Calamawy Fronts ‘Night Feeds,’ Opener of New Tokyo Horror Festival Yami (EXCLUSIVE)",
@@ -13,6 +378,48 @@
       "author": "Naman Ramachandran",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "38d74fada3547575",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "datePublished": "2026-10-26T03:29:05.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 133 # Comments: 30",
+      "author": "vardhan1237",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a2181227bfa360bf",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "datePublished": "2026-10-26T03:23:57.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 229 # Comments: 36",
+      "author": "davidbarker",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "581b05bb31174b25",
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "datePublished": "2026-10-26T03:12:05.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 58 # Comments: 23",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "ae12bca150e876be",
@@ -40,6 +447,19 @@
       "author": "Oli Welsh",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/snes-classics-2.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "9a3280ade0c59500",
+      "title": "Who's really been keeping Alex from having it all on Youth?",
+      "url": "https://www.avclub.com/youth-recap-season-1-episode-7-last-night-on-earth",
+      "datePublished": "2026-10-26T02:30:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In Youth's penultimate episode (for the season), Alex finds a way to burst her own bubble.",
+      "author": "Danette Chavez",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/25212654/MixCollage-25-Oct-2026-07-26-PM-1156.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "37afac5d07fd725b",
@@ -210,6 +630,20 @@
       "source": "Polygon"
     },
     {
+      "id": "4f4f2f5f980868cb",
+      "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+      "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+      "datePublished": "2026-10-26T00:30:00.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How locked in do you want to be?",
+      "author": "staff@engadget.com (Christine Persaud)",
+      "imageUrl": "https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg",
+      "source": "Engadget"
+    },
+    {
       "id": "cac1d49905e0e9b6",
       "title": "Lula’s Upset Is a Win for the Rule of Law and a Blow to Trump ",
       "url": "https://newrepublic.com/article/217122/lula-upset-win-blow-trump",
@@ -221,6 +655,20 @@
       "author": "Perry Bacon",
       "imageUrl": "https://images.newrepublic.com/140aa306f145ee599ec072327c3ab4a5bf7382b0.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
       "source": "The New Republic"
+    },
+    {
+      "id": "97641e483a4e5660",
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "datePublished": "2026-10-26T00:15:17.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 112 # Comments: 23",
+      "author": "davikr",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "017c93b66d790751",
@@ -477,6 +925,19 @@
       "author": "staff@engadget.com (Roger Fingas)",
       "imageUrl": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead/l-intro-1792679877.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "aaa803bd60ce022e",
+      "title": "Holland Taylor ditched Two And A Half Men because she wasn't paid enough",
+      "url": "https://www.avclub.com/holland-taylor-two-and-a-half-men-contract",
+      "datePublished": "2026-10-25T22:14:44.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In a new interview, Holland Taylor said that she wasn't paid \"very well\" during her time on Two And A Half Men , despite earning four Emmy nominations for her work on the show.",
+      "author": "Olivia Singh",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/25181029/two-and-a-half-men-evelyn-lead.jpg",
+      "source": "The A.V. Club"
     },
     {
       "id": "bd3f1657e06f166c",
@@ -6259,459 +6720,6 @@
       "author": "Joseph Hudak",
       "imageUrl": "",
       "source": "Rolling Stone"
-    },
-    {
-      "id": "c29e0fc67779653d",
-      "title": "Quentin Tarantino Surprises Fans with an Early Look at ‘The Further Mis-Adventures of Cliff Booth’",
-      "url": "https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/",
-      "datePublished": "2026-10-24T13:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tarantino introduced the first 17 minutes of his upcoming collaboration with David Fincher after an AFI Fest screening of \"Once Upon a Time...in Hollywood.\"",
-      "author": "Jim Hemphill",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "e432495254f4d6ce",
-      "title": "On-Demand Golf Courses - TruGolf E6 Adds More Than 15,000 Courses With On-Demand Streaming (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/on-demand-golf-courses",
-      "datePublished": "2026-10-24T12:56:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) TruGolf is giving simulator golfers a much bigger world to play in, expanding its E6 software library to more than 15,000 real-world golf courses. The catalogue has grown by 50% in less than a...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647031/647031_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "eae87db9e32e3fa3",
-      "title": "Morelia Film Festival Prizes: ‘Six Months in a Pink and Blue Building,’ an ‘Expression of Pure, Unbound Beauty,’ Wins Top ‘Ojo’ Award",
-      "url": "https://variety.com/2026/film/global/morelia-film-festival-prizes-pink-and-blue-building-1236929888/",
-      "datePublished": "2026-10-24T12:52:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Bruno Santamaría Razo’s fiction debut “Six Months in a Pink and Blue Building”(“Seis meses en el edificio rosa con azul”) has clinched the top Ojo award at the 24th Morelia Film Festival (FICM), which wraps Oct. 25. Hailed by Variety as a “lush, poetic film rooted in memories,” it became the first Mexican feature to […]",
-      "author": "Anna Marie de la Fuente",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "12c17037d59fb0f0",
-      "title": "Israel’s Rogue State Behavior Is Somehow Only Worsening",
-      "url": "https://jacobin.com/2026/10/israel-gaza-iran-crimes-settlers",
-      "datePublished": "2026-10-24T12:47:09.493Z",
-      "category": [
-        "society"
-      ],
-      "description": "I t is not a novel point that Israel like a , or that its behavior toward the United States often more closely the of an adversary than that of an ally. But it’s still worth periodically noting just how extreme its misbehavior on the world stage is, given that it is underwritten by the US taxpayers, even as of it to be.actsrogue stateresemblesbehaviormajoritiesAmericansdon’t want Let’s just keep i",
-      "author": "Branko Marcetic",
-      "imageUrl": "",
-      "source": "Jacobin"
-    },
-    {
-      "id": "58d56d4b4f187bb3",
-      "title": "How to improve your PC's airflow for better cooling",
-      "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
-      "datePublished": "2026-10-24T12:45:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Here's how to think about your PC's fans.",
-      "author": "staff@engadget.com (Robin Bea)",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "47717d61aefcdba0",
-      "title": "Nike's Rich Caramel Runner Is Perfected in Japan",
-      "url": "https://www.highsnobiety.com/p/nike-zoom-skylon-11-beams-exclusive/",
-      "datePublished": "2026-10-24T12:43:00.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "Partnering with Tokyo's legendary retail institution for an earth-toned exclusive, the Swoosh offers up the Nike Zoom Skylon 11 Parachute Beige/Baroque Brown.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "8c3980e22880fae7",
-      "title": "Concert-Themed LEGO Sets - LEGO Ideas Puts Daft Punk Atop the Alive 2007 Pyramid in a New Set (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/concert-themed-lego-sets",
-      "datePublished": "2026-10-24T12:36:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) LEGO is turning a fan-designed idea into a 'Daft Punk Concert' set, with the duo placed atop the Alive 2007 pyramid. The build moves beyond a standard music-themed model by centering the robots'...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647029/647029_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "28de82fbf07fcb02",
-      "title": "How long is too long for an HDMI cable?",
-      "url": "https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length/",
-      "datePublished": "2026-10-24T12:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.",
-      "author": "staff@engadget.com (Husain Parvez)",
-      "imageUrl": "https://www.engadget.com/img/gallery/how-long-is-too-long-for-an-hdmi-cable/l-intro-1792426463.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "ce4caddf2235d778",
-      "title": "AI-Powered Autonomous Driving Systems - Volvo and NVIDIA Develop Safer Automated Driving (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/ai-powered-autonomous-driving-systems",
-      "datePublished": "2026-10-24T12:16:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Volvo Cars is advancing AI-powered autonomous driving systems through an expanded partnership with NVIDIA, combining intelligent vehicle navigation with its established safety engineering. The...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647026/647026_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "eadce15a7237694f",
-      "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
-      "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
-      "datePublished": "2026-10-24T12:15:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.",
-      "author": "staff@engadget.com (Luke James)",
-      "imageUrl": "https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "30471a19e1459bf8",
-      "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
-      "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
-      "datePublished": "2026-10-24T12:00:32.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse “It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.” Earlier this month, David Ellison, Skydance’s chief exec",
-      "author": "Mark Sweney",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "e5e699267200147d",
-      "title": "Engadget review recap: iPhone Duo, Rivian R2 and more",
-      "url": "https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/",
-      "datePublished": "2026-10-24T12:00:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "A roundup of recent reviews from Engadget.",
-      "author": "staff@engadget.com (Billy Steele)",
-      "imageUrl": "https://www.engadget.com/img/gallery/engadget-review-recap-iphone-duo-rivian-r2-and-more/l-intro-1792768704.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "07718d146390ab4d",
-      "title": "Cymatic Champagne Sculptures - Iris van Herpen Transforms Vineyard Sounds Into Sculptures And Champa (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/cymatic-champagne-sculptures",
-      "datePublished": "2026-10-24T11:56:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Maison Perrier-Jouët has partnered with Dutch designer Iris van Herpen on a collection that transforms vineyard sounds into visual forms. Titled Symphonic Bloom and Symphonic Life, the project...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647024/647024_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "04f91fb6bf774fdf",
-      "title": "Natural Capital Investing - Mirova Passes $1 Billion Raised for Its Natural Capital Platform (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/innovation/natural-capital-platform",
-      "datePublished": "2026-10-24T11:36:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Mirova's natural capital platform has raised more than $1 billion and supported more than 70 projects spanning carbon solutions, regenerative agriculture, and ecosystem restoration, according to...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647009/647009_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "7329aaf168d32640",
-      "title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
-      "url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
-      "datePublished": "2026-10-24T11:30:00.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.",
-      "author": "staff@engadget.com (Kris Holt)",
-      "imageUrl": "https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "f4645825baf72936",
-      "title": "Indigenous-Inspired Outdoor Lines - Arc'teryx's Walk Gently Line Celebrates Salish Winter Traditions (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/arcteryxs-walk-gently-line",
-      "datePublished": "2026-10-24T11:16:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Arc'teryx is bringing Indigenous heritage to the forefront of technical outerwear with its latest Walk Gently collection. Designed by Cole Sparrow-Crawford, a member of the Musqueam Nation, the...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647033/647033_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "22c9ba0e7edcc2d4",
-      "title": "Whoops, Xbox's big Netflix dreams got pushed into the garbage along with all those fired execs",
-      "url": "https://www.avclub.com/netflix-layoffs-killed-xbox-streaming-show-dreams",
-      "datePublished": "2026-10-24T11:00:58.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Whoops, Xbox's big Netflix dreams got pushed into the garbage along with all those fired execs",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/04162329/halo-show-lead2.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "d67a2af4e1ec6455",
-      "title": "Our Lingering Questions About You Can See Everything ",
-      "url": "http://www.vulture.com/article/you-can-see-everything-discussion-elizabeth-holmes-nathan-fielder.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-24T11:00:15.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Elizabeth Holmes’s dad drops a personal revelation about his daughter that goes unexplored. Our critics discuss.",
-      "author": "",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/1a2/f03/cbe2202914737a16a102e2f0ae97f239b6-Holmes-2.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "ac579493e1955c9b",
-      "title": "Cordless Mood Lamps - Noahstrong’s Cordless Touch Lamp Offers 256 Lighting Setups (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/cordless-mood-lamps",
-      "datePublished": "2026-10-24T10:56:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) From a soft bedside glow to colourful ambient lighting, Noahstrong’s Touch Lamp gives bedrooms and small spaces an easy way to change the mood. Its 256 lighting combinations bring together...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647020/647020_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "000984af5b78ce9e",
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "datePublished": "2026-10-24T10:51:35.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 34 # Comments: 7",
-      "author": "t20n",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "d332fd6a954f2498",
-      "title": "Medical Center-Standard Retail Clinics - CVS MinuteClinic Expands Its Primary Care Standards (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/medical-center-standard-retail-clinics",
-      "datePublished": "2026-10-24T10:36:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) CVS Health is advancing medical center-standard retail clinics through MinuteClinic's first evaluation under Joint Commission Medical Center standards. This development reflects the company's shift...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647013/647013_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "cd02b3bc9ee5b103",
-      "title": "Culture, Legacy & Magritte: Curator Bernard Lagrange On The Enduring Impact Of An Artist",
-      "url": "https://www.service95.com/magritte-london-exhibition",
-      "datePublished": "2026-10-24T10:27:23.013Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "9214e63c08247dd9",
-      "title": "The Haircare Edit: Products That Make Styling A Breeze",
-      "url": "https://www.service95.com/wishlist-haircare-edit",
-      "datePublished": "2026-10-24T10:27:23.013Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "1512692c2d9a1c6a",
-      "title": "El Gouna Film Festival Takeaways: CineGouna Takes Center Stage, Arab TV Seeks New Talent and Egyptian Filmmakers Push Boundaries",
-      "url": "https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/",
-      "datePublished": "2026-10-24T10:23:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Egypt’s El Gouna Film Festival wrapped its ninth edition Friday after nine days of screenings, industry activity and a closing night that spread its top prizes across the Middle East and beyond. Mohammed Hammad’s “Safe Exit,” a psychological drama about a young Coptic security guard in Cairo confronting trauma rooted in religious violence, won the […]",
-      "author": "Leo Barraclough",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "c763d1d4d2ac7e2e",
-      "title": "Meta is delaying its controversial new business terms amid scraping concerns",
-      "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
-      "datePublished": "2026-10-24T10:18:15.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
-      "author": "staff@engadget.com (Mariella Moon)",
-      "imageUrl": "https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "39b822e8525389e0",
-      "title": "Swiss Functional Drinks - PEAQ Adds A Limited-Edition Passion Fruit Drink To Its Unsweetened Range (TrendHunter.com)",
-      "url": "http://www.trendhunter.com/trends/swiss-functional-drinks",
-      "datePublished": "2026-10-24T10:16:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) PEAQ is adding a limited-edition passion fruit flavour to its range of functional drinks. Like the brand’s existing options, it contains no sugar or sweeteners and is made with lightly carbonated...",
-      "author": "",
-      "imageUrl": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647012/647012_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "a785229c1275ff56",
-      "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
-      "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
-      "datePublished": "2026-10-24T10:13:19.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Nintendo's Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
-      "author": "Patricia Hernandez",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/super-mario-odyssey-trailer.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "a740de360f21c5dc",
-      "title": "The Seven Best Nike Sneaker Releases This Week",
-      "url": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-4/",
-      "datePublished": "2026-10-24T10:07:01.000Z",
-      "category": [
-        "internet-culture",
-        "fashion"
-      ],
-      "description": "This week, Nike is injecting a little weird into the familiar favourites, and we are here for it.",
-      "author": "",
-      "imageUrl": "",
-      "source": "Highsnobiety"
-    },
-    {
-      "id": "f1013b697f644d07",
-      "title": "The Onion's first video game is a fun, free snack",
-      "url": "https://www.avclub.com/game-theory-onion-voting-simulator-3d-comedy-games",
-      "datePublished": "2026-10-24T10:00:30.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Onion ’s first video game is a fun, free snack.",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/23154838/onion-voting-simulator-badge-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "ec364b9dab187526",
-      "title": "13 Years Later, 'Adventure Time's Scariest Episode Is Still a 10-Minute Masterpiece",
-      "url": "https://www.polygon.com/adventure-time-scariest-episode-simon-and-marcy/",
-      "datePublished": "2026-10-24T10:00:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Simon and Marcy remains the pinnacle of Adventure Time storytelling, and a must-watch for your Halloween Countdown",
-      "author": "Jake Kleinman",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4190327/adventuretime.png",
-      "source": "Polygon"
-    },
-    {
-      "id": "7ea8e4ac6377693f",
-      "title": "UFC 333 Livestream: Here’s How to Watch  Volkanovski vs. Evloev Online for Free",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-ufc-333-volkanovski-vs-evloev-live-online-free-1236917590/",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "After Natalia Silva defended Wang Cong in an unanimous decision to win the UFC Women’s Flyweight Championship during UFC 332 in early October, the Ultimate Fighting Championship travels from Salt Lake City to Abu Dhabi for UFC 333. For the main event, Australian Alexander Volkanovski (28-4-0) defends his UFC Featherweight Championship belt against Russian fighter […]",
-      "author": "Rudie Obias",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "0b6fa676fbc1b6aa",
-      "title": "The Great Schlep",
-      "url": "https://www.newyorker.com/news/the-lede/the-great-schlep",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Tens of thousands of Israelis living abroad are flying back to cast votes in what many describe as the most pivotal election in the country’s history.",
-      "author": "Daniel Brook",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "3114b1ec19574fa4",
-      "title": "A Mother on Trial",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/a-mother-on-trial",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Nakira Griner said that her toddler fell down the stairs. A jury convicted her of murder. What really happened that day?",
-      "author": "Anja Aronowsky Cronberg",
-      "imageUrl": "",
-      "source": "The New Yorker"
-    },
-    {
-      "id": "435696bd30349d08",
-      "title": "The Great, Cynical Fun of “The Traitors”",
-      "url": "https://www.newyorker.com/culture/critics-notebook/the-great-cynical-fun-of-the-traitors",
-      "datePublished": "2026-10-24T10:00:00.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The series, which has been remade in dozens of countries, is derivative of other reality-competition shows. What’s different is the mood: it is both quaint and greasy, and perfectly in tune with our culture of incentivized fraud.",
-      "author": "Doreen St. Félix",
-      "imageUrl": "",
-      "source": "The New Yorker"
     }
   ]
 }
