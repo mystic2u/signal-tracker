@@ -1,6 +1,506 @@
 {
-  "generatedAt": "2026-10-31T00:29:44.204Z",
+  "generatedAt": "2026-10-31T06:43:37.969Z",
   "articles": [
+    {
+      "id": "d609369b05a59aca",
+      "title": "Ozu Shapes Mishima Yukiko’s Tokyo Competition Title ‘Two Cigarettes, Three Nights’",
+      "url": "https://variety.com/2026/film/festivals/ozu-mishima-yukiko-two-cigarettes-three-nights-1236935944/",
+      "datePublished": "2026-10-31T06:40:15.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Known for her dark relationship dramas, including the 2017 multiple-award-winner “Dear Etranger,” Mishima Yukiko has taken a different approach with her latest film, “Two Cigarettes, Three Nights,” which is in competition at the 39th Tokyo International Film Festival. Based on a 2014 novel by Chihaya Akane, it stars Matsuoka Mayu as Kanna, a picture book […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c9d990b7c1995842",
+      "title": "Sourav Ganguly’s ‘Bigg Boss Bangla’ Among Highlights as Indian Media Giant JioStar Revenues Climb 10%",
+      "url": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-highlight-jiostar-revenue-rises-1236935940/",
+      "datePublished": "2026-10-31T06:20:09.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "91ccb551bc7a65bf",
+      "title": "Tools Hacker News keeps asking for",
+      "url": "https://stillunbuilt.shiptiffin.app/",
+      "datePublished": "2026-10-31T05:44:01.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://stillunbuilt.shiptiffin.app/ Comments URL: https://news.ycombinator.com/item?id=50313508 Points: 11 # Comments: 3",
+      "author": "bilater",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "792bcd42b368e8a1",
+      "title": "How to watch Barcelona vs. Deportivo Alavés online for free",
+      "url": "https://mashable.com/entertainment/barcelona-deportivo-alaves-la-liga-2026-live-stream-for-free",
+      "datePublished": "2026-10-31T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch La Liga for free. Live stream Barcelona vs. Deportivo Alavés in La Liga for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06RUIUAOY9h77p7RJ8PqVgD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "2dfcf09d76af0ec9",
+      "title": "How to watch Bayern Munich vs. Borussia Dortmund online for free",
+      "url": "https://mashable.com/entertainment/bayern-munich-borussia-dortmund-bundesliga-2026-live-stream-for-free",
+      "datePublished": "2026-10-31T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch Bundesliga for free. Live stream Bayern Munich vs. Borussia Dortmund in the Bundesliga for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06p7Xx30NcVmGplsQ3cbeuY/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "42f65b5fd30c366f",
+      "title": "How Keanu Reeves Landed in Stop-Motion Samurai Epic ‘Hidari’ – and Why S.S. Rajamouli Wanted to Know How It Was Made",
+      "url": "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
+      "datePublished": "2026-10-31T04:38:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Keanu Reeves joined Japanese stop-motion feature “Hidari” after watching the project’s pilot film, with his team getting back to the filmmakers about a week after the screening was arranged to set up a Zoom call, director Kawamura Masashi said at the Tokyo International Film Festival, where he also updated the film’s fundraising push. Kawamura, who […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "07d9ce0328108c56",
+      "title": "Georgia’s ‘Guria’ Wins Best Film at Asia Pacific Screen Awards as Thailand’s Sompot Chidgasornpongse Takes Director Prize",
+      "url": "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/",
+      "datePublished": "2026-10-31T04:25:38.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Georgian filmmaker Levan Koguashvili’s “Guria” was named best film at the 19th Asia Pacific Screen Awards, handed out Oct. 30 at The Star Gold Coast in Queensland, Australia. Koguashvili shared the prize with fellow producers Olena Yershova and Boris Frumin. The film was made across seven countries: Georgia, Switzerland, Luxembourg, Bulgaria, Türkiye, Norway and Saudi […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "f95b91c9a43348ba",
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "datePublished": "2026-10-31T04:16:50.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "The money behind the money is thrilled, mostly.",
+      "author": "Connie Loizos",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "c42120584d6d76c0",
+      "title": "Ranbir Kapoor, Yash Light Up Gold House’s Diwali Event as Group Launches South Asian Shorts Fund",
+      "url": "https://variety.com/2026/film/news/ranbir-kapoor-yash-gold-house-diwali-event-1236935927/",
+      "datePublished": "2026-10-31T04:09:21.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Ranbir Kapoor and Yash, stars of the epic adaptation “Ramayana: Rise of a Legend,” opened Gold House’s largest Gold Diwali to date at The Majestic Downtown in Los Angeles, alongside filmmakers Nitesh Tiwari and Namit Malhotra, a week before the film’s release. Gold House, which works to back and celebrate the Asian Pacific community, staged […]",
+      "author": "Naman Ramachandran",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6d9ee597993bf7ff",
+      "title": "Hurdle hints and answers for October 31, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-october-31-2026",
+      "datePublished": "2026-10-31T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/016sUzCUEQrQcyde9eEjtWm/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "302cf3bff14e6601",
+      "title": "Moon phase today: What the Moon will look like on October 31, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-oct-31-2026",
+      "datePublished": "2026-10-31T04:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for October 31, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07y71b58fWxC4q3v8UNxyql/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b112e6ada6a05cfb",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "datePublished": "2026-10-31T03:22:44.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 133 # Comments: 100",
+      "author": "timr",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "d85424d434ce3597",
+      "title": "Bill Maher Fact-Checks Kid Rock After He Compares Abdul El-Sayed to 9/11 Hijackers on ‘Real Time’",
+      "url": "https://variety.com/2026/tv/news/kid-rock-abdul-el-sayed-9-11-hijackers-real-time-bill-maher-1236935914/",
+      "datePublished": "2026-10-31T03:13:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Bill Maher opened his new episode of “Real Time” Friday night by addressing Trump’s 1,300-word social media tirade against him following their White House dinner earlier this month, with the comic comparing the president to Taylor Swift. Following a sit-down interview with Republican Senator Ted Cruz, who was busy hawking his new book on Supreme […]",
+      "author": "Marlow Stern",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "9f2963a419212707",
+      "title": "2026 Daytime Emmy Awards: ‘General Hospital’ Wins Best Daytime Drama",
+      "url": "https://www.hollywoodreporter.com/news/general-news/2026-daytime-emmys-winners-list-1236744039/",
+      "datePublished": "2026-10-31T03:11:55.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "'The Kelly Clarkson Show' won a leading five awards, as 'Beyond the Gates' also took home four trophies.",
+      "author": "Hilary Lewis",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "fafb3234ff0beb2e",
+      "title": "Live Nation Defends My Chemical Romance’s Dallas Cowboys Cheerleaders Lookalikes: It Was ‘Parody’",
+      "url": "https://www.rollingstone.com/music/music-news/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders-1235650825/",
+      "datePublished": "2026-10-31T02:55:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The cheer squad sued the band and the concert promoter last week, asking for damages and a trial",
+      "author": "Nancy Dillon",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "c80cb208774f3699",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "datePublished": "2026-10-31T02:46:36.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affect",
+      "author": "x______________",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "81b242b0e176a157",
+      "title": "Harryween Is Back From Dead: Harry Styles Dons ‘X Factor’ Outfit for Stevie Wonder Cover",
+      "url": "https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/",
+      "datePublished": "2026-10-31T02:38:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Singer performs \"Isn't She Lovely,\" his X Factor audition song at age 16, for penultimate MSG concert of 30-night residency",
+      "author": "Larisha Paul",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "dee8888f95bd124d",
+      "title": "Bill Maher Responds to Trump’s 1,318-Word Social Rant: “He Went Off on Me Like Kelly Clarkson in a Toy Store”",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-responds-trump-social-rant-kelly-clarkson-toy-store-1236743958/",
+      "datePublished": "2026-10-31T02:38:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The president slammed the TV host in a Sunday post, writing that he is a \"COMPLETE AND TOTAL LOSER.\"",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "67460fa34e711e8a",
+      "title": "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift",
+      "url": "https://variety.com/2026/tv/news/bill-maher-fires-back-trump-taylor-swift-real-time-hbo-1236935799/",
+      "datePublished": "2026-10-31T02:21:47.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Bill Maher learned that when it comes to Donald Trump, no good deed goes unpunished. On last week’s episode of “Real Time with Bill Maher,” the political pundit defended his recent White House dinner with the president, exclaiming, “You know what? Fuck you. I like these dinners,” before conducting an embarrassingly chummy interview with Trump’s […]",
+      "author": "Marlow Stern",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "c54733fbbcf84d61",
+      "title": "Transparent Single Earphones - Aful Pairs a 6mm Driver with See-Through Shells in Its MiracleOne (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/transparent-single-earphones",
+      "datePublished": "2026-10-31T02:21:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Aful's 'MiracleOne' pairs a single 6mm driver with transparent resin shells, giving the earphones a see-through look while keeping the housing compact and visually clean. The smaller driver lets...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649161/649161_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "d55651ee48ee7164",
+      "title": "NYT Connections hints today: Meanings for each word for Oct. 31, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-31-2026",
+      "datePublished": "2026-10-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1238.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06Lait55s2WruVWLFQWVWoz/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "3fff2d7ada80c236",
+      "title": "NYT Connections hints today: Clues, answers for October 31, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-31-2026",
+      "datePublished": "2026-10-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/016JLbBIiAj73kJIP8tpnpD/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7f8764b4738a4fd6",
+      "title": "NYT Strands hints, answers for October 31, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-31-2026",
+      "datePublished": "2026-10-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05z1HD7XzUiIPozViqXkTcH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6cca72b4f58e72b5",
+      "title": "Wordle today: Answer, hints for October 31, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-october-31-2026",
+      "datePublished": "2026-10-31T02:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1960 on October 31 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/0435pmUSB1ghPC8IHUzFP0c/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "d09ba7c9d00f4ac0",
+      "title": "The Washington Roundtable Live: The Final Stretch with David Plouffe",
+      "url": "https://www.newyorker.com/podcast/political-scene/the-washington-roundtable-live-the-final-stretch-with-david-plouffe",
+      "datePublished": "2026-10-31T02:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "With the midterms nearly upon us, the political strategist assesses where things stand, and how the chips may fall.",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "e6ea1648a7e62926",
+      "title": "If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One",
+      "url": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739",
+      "datePublished": "2026-10-31T01:54:53.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "The retailer started canceling pre-orders a day before they were supposed to arrive",
+      "author": "Kenneth Shepard",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/09/NS2_TheLegendofZeldaOcarina12-1280x720.jpg",
+      "source": "Kotaku"
+    },
+    {
+      "id": "35c9f299f02989d3",
+      "title": "British Retail Skincare Debuts - acetheory Brings Its Skincare to 224 Boots Stores (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/british-retail-skincare-debuts",
+      "datePublished": "2026-10-31T01:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Facetheory is bringing its digital-first skincare to UK retail with a 224-store Boots rollout, giving skincare shoppers their first chance to find the 12-year-old brand on shelves nationwide. The...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649155/649155_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "3a244d9f60f291fd",
+      "title": "Margaret Qualley and Jack Antonoff File for Divorce After Three Years of Marriage",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/margaret-qualley-jack-antonoff-file-divorce-1236744038/",
+      "datePublished": "2026-10-31T01:37:48.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actress and Bleachers frontman began dating in 2021 and reportedly broke up in July.",
+      "author": "Lexi Carson",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "290d57797b0b3a2d",
+      "title": "Timbaland Files $15 Million Fraud Lawsuit Against Former Managers",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/timbaland-files-15-million-lawsuit-against-former-managers-1236743974/",
+      "datePublished": "2026-10-31T01:23:51.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The super-producer alleges that former manager Gary Marella and business manager Bruce Seckendorf \"used their entrusted authority to enrich themselves and others, conceal financial misconduct, and deplete Timbaland’s valuable assets.\"",
+      "author": "Ethan Millman",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "f73276b47a8ec250",
+      "title": "Modular Refugee Districts - BIG Builds Refugee Cities with a Single-Family Base Unit (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/modular-refugee-districts",
+      "datePublished": "2026-10-31T01:21:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) BIG is developing Refugee Cities as a decade-long plan for refugees that pairs legal permits with a self-sustaining modular urban layout financed by institutional investors rather than short-term...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649153/649153_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "6336aff37e57b820",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "datePublished": "2026-10-31T01:20:05.000Z",
+      "category": [
+        "tech"
+      ],
+      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "author": "Aditya Mehta",
+      "imageUrl": "",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "31494e559526e4e2",
+      "title": "Selma Blair Makes Video Apology After Arrest",
+      "url": "http://www.vulture.com/article/selma-blair-apology-video.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-31T01:03:42.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“To the people that I disappointed, that I hurt, I frightened, alarmed: I am so sorry.”",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/508/b57/a88fc75765f4d001fe822fe88a888b2ded-selma-blair.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "9ed021d9732a8927",
+      "title": "Modular Laser Engraving Systems - xTool X1 Combines Swappable Lasers with Automated Cutting (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/modular-laser-engraving-systems",
+      "datePublished": "2026-10-31T00:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) xTool is expanding modular laser engraving systems with the X1, a desktop platform designed to combine multiple laser technologies in one upgradeable machine. Its LaserSwap system allows users to...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649145/649145_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "55f5b3a1a78a189a",
+      "title": "Selma Blair Addresses Alleged Plane Assault for First Time in New Video: ‘I Am So Sorry’",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/selma-blair-addresses-alleged-plane-assault-apologizes-1235650805/",
+      "datePublished": "2026-10-31T00:48:31.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The actress Blair pleaded not guilty to two counts of second-degree assault stemming from the incident and was released on bail",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6a49e760dd385dca",
+      "title": "LAPD Arrests Two for Murder of Christina Downer, Sister to ‘SNL’ Writer Jimmy Fowlie",
+      "url": "https://www.hollywoodreporter.com/news/general-news/arrest-murder-christina-downer-snl-writer-jimmy-fowlie-1236744032/",
+      "datePublished": "2026-10-31T00:48:27.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Police arrested Downer's boyfriend, Delorean Bijon Brandon, and Kaylee Nicole Markowski on Thursday.",
+      "author": "McKinley Franklin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "60a9c1f2ad2828fc",
+      "title": "The Hollywood Reporter Wins 2026 Daytime Emmy Award",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hollywood-reporter-wins-2026-daytime-emmy-award-1236744015/",
+      "datePublished": "2026-10-31T00:46:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "This was the third consecutive nomination for the 'Off Script' roundtable series, which has received a total of six nods over the past nine years.",
+      "author": "Hilary Lewis",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "4ae66c815e2d51fe",
+      "title": "‘Fuxi: Four Tales of Feasting’ Review: Whimsical Chinese Film Explores Myth and History Through a Series of Tasty Treats",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/fuxi-four-tales-of-feasting-qiu-jiongjiong-1236743718/",
+      "datePublished": "2026-10-31T00:36:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "In Qiu Jiongjiong's latest, highly stylized sets and costumes contribute to a strange banquet of storytelling where food plays a key role.",
+      "author": "Leslie Felperin",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
     {
       "id": "ab111fc5ad9cddd8",
       "title": "72 Hours In Beijing: Charting The City’s Hutongs, Home Cooking And Jazz Cafes",
@@ -225,6 +725,19 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "97b4c7b6a58b7eb9",
+      "title": "Portable Wireless Entertainment Systems - TAAG Angola Airlines Adds AirFi Streaming Across Its Fleet (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/portable-wireless-entertainment-systems",
+      "datePublished": "2026-10-31T00:21:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) TAAG Angola Airlines is adding portable wireless in-flight entertainment across its regional and long-haul fleet, allowing passengers to stream on their own Wi-Fi-enabled devices instead of relying...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649142/649142_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "b19637c7fff28dac",
       "title": "Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
       "url": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
@@ -249,6 +762,19 @@
       "author": "Lexi Carson",
       "imageUrl": "",
       "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "94ed1b26f2d2c756",
+      "title": "Niche Pop Culture Costumes to Make You Hate Gay Halloween",
+      "url": "http://www.vulture.com/article/best-pop-culture-costumes-of-halloween-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-10-31T00:02:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Post-Sephora Ike Broflofski, Trisha Paytas’s kids, and a fish who is a QUEEN.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/103/186/25640d7c1234ddf71feaa00394865fadc6-halloween-2026.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "7f4c26060d18124f",
@@ -276,6 +802,19 @@
       "author": "francisofascii",
       "imageUrl": "",
       "source": "Hacker News"
+    },
+    {
+      "id": "5502aeb1395ae6d3",
+      "title": "Long-life smartphones - Huawei’s Enjoy 100 Pro Max Packs An 8,800mAh Battery And 40W Charging (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/long-life-smartphones",
+      "datePublished": "2026-10-30T23:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Huawei is expanding its mid-range phone line in China with the Enjoy 100 Pro Max, a version of the series built around longer battery life. It serves as a more endurance-focused alternative to the...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649140/649140_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "dcad7070323bd89a",
@@ -331,6 +870,19 @@
       "source": "Variety"
     },
     {
+      "id": "c959082fd266e877",
+      "title": "Public Health AI Hubs - Google Opens a Singapore Research Hub to Bring Health AI Into Everyday Care (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/public-health-ai-hubs",
+      "datePublished": "2026-10-30T23:31:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Google is expanding its health AI in Singapore with a new Google Research hub that will support clinicians, researchers and public agencies across the country. The hub is designed to advance the...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649138/649138_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "337ff640f0150fb2",
       "title": "Tokyo: Milcho Manchevski on his Competition Film, Blacklisting and the Ills of Neo-Social Realism",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/milcho-manchevski-sister-brother-manhole-cover-interview-1236742443/",
@@ -381,6 +933,19 @@
       "author": "Leo Barraclough",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "979db1c2afff5c5a",
+      "title": "Protective VR Headset Cases - WaterField Designs Adds a Foam-Lined Case for the Valve Steam Frame (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/protective-vr-headset-cases",
+      "datePublished": "2026-10-30T23:11:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) WaterField Designs is adding a foam-lined VR case for Valve 'Steam Frame' owners who want a dedicated way to carry the headset and accessories. The 'Shield Case' features a structured, fleece-lined...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649136/649136_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "d2ffdf77624d0c29",
@@ -448,6 +1013,19 @@
       "source": "Variety"
     },
     {
+      "id": "7d35baeacbb9239f",
+      "title": "Italian-Built Electric Motorcycles - Positive Motorcycles Moves Its Egera Closer to Production (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/italian-built-electric-motorcycles",
+      "datePublished": "2026-10-30T22:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Positive Motorcycles is moving the 'Egera' closer to production after securing pre-seed funding and pushing the bike to 108 mph in recent road tests. The Italian startup's first model is a...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649134/649134_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "b2998d987ecf8811",
       "title": "Scammers are using the election to steal your money. Heres how to fight back.",
       "url": "https://mashable.com/life/how-to-spot-election-scams",
@@ -474,6 +1052,19 @@
       "author": "Patricia Hernandez",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/eevee-grove-key-art.png",
       "source": "Polygon"
+    },
+    {
+      "id": "23332499180dcc92",
+      "title": "Jewel-Bezel Square Watches - Timex Adds Crystal Bezels And Steel Bracelets To Its Compact Addison Wa (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/jewel-bezel-square-watches",
+      "datePublished": "2026-10-30T22:31:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Timex is expanding its Addison line with three bracelet watches that add crystal-set bezels and stainless-steel links to the compact square design. The trio moves beyond the recent leather-strap...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649128/649128_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "f4d4e94db125868d",
@@ -540,6 +1131,19 @@
       "author": "Olivia Paschal",
       "imageUrl": "https://www.nplusonemag.com/wp-content/uploads/2026/10/IMG_7228-scaled-e1793386482798-180x111.jpeg",
       "source": "n+1"
+    },
+    {
+      "id": "2e9785bd0093c11a",
+      "title": "Dessert-Inspired Protein Powders - ProDough Brings 20 Dessert-Inspired Flavours To Its New Whey Prot (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/dessert-inspired-protein-powders",
+      "datePublished": "2026-10-30T22:11:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Protein powder doesn’t have to taste like a plain vanilla shake. ProDough Protein Bakeshop is bringing its baking-inspired approach to supplements with Gourmet Whey Protein, a microfiltered whey...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649124/649124_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "6ad3b976dc93d226",
@@ -665,6 +1269,19 @@
       "source": "TechCrunch"
     },
     {
+      "id": "f4cd4292f8566ba4",
+      "title": "Military Appreciation Meals - Bob Evans Offers Veterans And Active-Duty Military A Free Meal On Nove (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/military-appreciation-meals",
+      "datePublished": "2026-10-30T21:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Veterans Day is a chance to recognise those who have served, and Bob Evans Farmhouse Kitchen is marking the occasion with a free meal for active-duty military personnel and veterans. The offer runs...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649122/649122_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "77a363b1b553b16a",
       "title": "Netflix’s ‘Cliff Booth’ Won’t Play in Regal and Cinemark Imax Theaters",
       "url": "https://variety.com/2026/film/news/regal-cinemark-netflix-cliff-booth-1236935538/",
@@ -743,6 +1360,19 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/07AMtyomP2SnKgmKpoFlYtZ/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "ca67066e158848e0",
+      "title": "Mid-Sized Autonomous Buses - Driverless Electric Bus To Be Tested On Australian And New Zealand Road (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/mid-sized-autonomous-buses",
+      "datePublished": "2026-10-30T21:31:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) A new electric bus that can drive itself is heading to Australia and New Zealand, where transport authorities and bus operators will get the chance to see how the technology works in real-world...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649115/649115_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "d833acf4af6e0bf9",
@@ -916,6 +1546,19 @@
       "source": "Consequence"
     },
     {
+      "id": "c5512346dc84da84",
+      "title": "All-Day Mechanical Watches - Casio Built the CMK-100 Around a Titanium Case and an Easy-to-Read Dial (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/all-day-mechanical-watches",
+      "datePublished": "2026-10-30T21:11:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Casio built the 'CMK-100' around all-day comfort and easy readability, pairing a lightweight titanium case with an automatic mechanical movement. The watch is designed for everyday wear and...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649114/649114_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "21d3c71af1653188",
       "title": "Dr. Martens Just Dropped ‘Exorcist’ Boots Ahead of the New Movie, and We’re Possessed",
       "url": "https://www.rollingstone.com/product-recommendations/style/shop-dr-martens-exorcist-boots-october-2026-1235650614/",
@@ -1046,6 +1689,19 @@
       "source": "Rolling Stone"
     },
     {
+      "id": "fd3a67a27e822aa1",
+      "title": "Archive Winter Boot Reissues - Kith and Timberland Revive the 2013 Wheat Shearling Boot (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/archive-winter-boot-reissues",
+      "datePublished": "2026-10-30T20:51:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Ronnie Fieg's Kith and Timberland are bringing back their 'Wheat' shearling boot from 2013 for Kith's 15th anniversary. In the Winter line, it again blends Timberland's 6-Inch Boot with the 40...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649111/649111_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "8b355943c1dc782f",
       "title": "Even more ads are coming to Google search, Google says",
       "url": "https://mashable.com/tech/more-ads-are-coming-to-google-search-ai-mode",
@@ -1098,6 +1754,19 @@
       "author": "",
       "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/696/libbibcover.jpg",
       "source": "Know Your Meme"
+    },
+    {
+      "id": "c1078e16e87a93d8",
+      "title": "Work-Ready Designer Bags - Saint Laurent Gives Its Simone Bag a Flatter &amp; Roomier Design (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/work-ready-designer-bags",
+      "datePublished": "2026-10-30T20:31:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Saint Laurent's 'Simone' bag updates the brand's 'Cassandre' style with a longer shoulder carry, a flatter profile and added interior organization. The design keeps the envelope look but reworks it...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/649/649110/649110_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "cf62c04aea744f02",
@@ -3977,6 +4646,20 @@
       "source": "Hacker News"
     },
     {
+      "id": "5d1e722469ff2de9",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "datePublished": "2026-10-30T14:08:20.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 151 # Comments: 189",
+      "author": "taubek",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "09f9a846597c1f7f",
       "title": "Glen Hansard’s Posthumous Shane MacGowan Cover “Bottle of Smoke” Released: Stream",
       "url": "https://consequence.net/2026/10/glen-hansard-shane-macgowan-bottle-of-smoke-cover/",
@@ -4717,6 +5400,21 @@
       "author": "staff@engadget.com (Sam Rutherford)",
       "imageUrl": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg",
       "source": "Engadget"
+    },
+    {
+      "id": "1262ca358408fedc",
+      "title": "Binance hacked, billions in crypto stolen",
+      "url": "https://mashable.com/tech/binance-hack-cryptocurrency-billions",
+      "datePublished": "2026-10-30T11:45:51.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Binance may have been hacked, freezing withdrawals after an apparent hacker stole over $5.7 billion in cryptocurrency.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02riB0560yNY9q9KlRJM9F2/hero-image.png",
+      "source": "Mashable"
     },
     {
       "id": "352bc1c216ac4c9e",
@@ -5538,6 +6236,21 @@
       "source": "Mashable"
     },
     {
+      "id": "c74b5f4a7e6dd0e1",
+      "title": "Halloween 2026 deals: Score free food from Chipotle, Dunkin, Krispy Kreme, Burger King, and more",
+      "url": "https://mashable.com/life/halloween-2026-free-food-deals",
+      "datePublished": "2026-10-30T09:12:26.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The best Halloween 2026 deals. Get free food from Chipotle, Dunkin', Krispy Kreme, Wendy’s, and more",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00xw6wMyrEEdVHdrPquFIdz/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
       "id": "4c2be15b88773d3d",
       "title": "Adaptive Solar Installation Systems - DEI Redesigns New York Solar Project Around Bedrock (TrendHunter.com)",
       "url": "https://www.trendhunter.com/innovation/adaptive-solar-installation-systems",
@@ -5970,716 +6683,6 @@
       "author": "",
       "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648921/648921_1_468.jpeg",
       "source": "Trend Hunter"
-    },
-    {
-      "id": "98aea5354795baf1",
-      "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Walmart to Sephora",
-      "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-walmart-to-sephora/",
-      "datePublished": "2026-10-30T06:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Walmart, Sephora, Tinder, PlayStation, and more are behind the week’s most notable ads.",
-      "author": "Matt Barker",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "27a2876381857b72",
-      "title": "Efficiency-Focused EV Tires - Kenda Develops Custom Tires for Slate's Electric Pickup (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/efficiency-focused-ev-tires",
-      "datePublished": "2026-10-30T05:51:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Kenda is developing efficiency-focused EV tires specifically for Slate Auto's upcoming electric pickup, The Blank Slate. The KLEVER S/T EV tire features a low rolling resistance design intended to...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648920/648920_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "7a44e17578cc5dc1",
-      "title": "Open-Weight Transcription Models - Nvidia Releases Nemotron 3.5 Transcribe for Multilingual Audio (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/open-weight-transcription-models",
-      "datePublished": "2026-10-30T05:31:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Nvidia has introduced 'Nemotron 3.5 Transcribe,' a free, open-weight speech-to-text model for developers building business meeting and medical transcription apps. It works with recorded files...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648913/648913_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "3beaca0cb3df400d",
-      "title": "At-Home Gastrointestinal Testing - Getlabs and Genova Expand In-Home Diagnostic Collections (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/at-home-gastrointestinal-testing",
-      "datePublished": "2026-10-30T05:11:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Getlabs and Genova Diagnostics are expanding at-home gastrointestinal testing by allowing patients to complete specialized sample collection without traveling to a laboratory. Their extended...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648912/648912_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "c4a670265df5ec24",
-      "title": "On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity",
-      "url": "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
-      "datePublished": "2026-10-30T05:00:48.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "As Jean-Luc Picard in seven seasons, four films and a sequel, Stewart made us believe the most interesting person in the room might also be the most humane Patrick Stewart dies age 86 His life in pictures Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men ‘He stood for the best of us’: William Shatner and more pay tribute What might humanity look like in 400 yea",
-      "author": "Ben Child",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "7d965215f5f58082",
-      "title": "‘Ignorance towards immigration is horrible. It’s not British’: Skepta on his long-awaited return – and his anger at the racist right",
-      "url": "https://www.theguardian.com/music/2026/oct/30/skepta-interview-the-fork-and-knife-album",
-      "datePublished": "2026-10-30T05:00:47.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Thirty-three months after it was announced, the grime legend’s new album is coming out. He explains how skinheads, fatherhood and rap history came to bear on its socially conscious contents ‘I can’t be perfect,” Skepta says, pulling a black Arc’tyrex beanie down over a furrowed brow with both hands. “But I can be conscious.” The self-proclaimed king of grime has always been a serious person, wary ",
-      "author": "Dan Hancox",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "a4cfd1b14729b28b",
-      "title": "Experience: I live in the house from the 80s horror movie Poltergeist",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist",
-      "datePublished": "2026-10-30T05:00:46.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "I was a fan of the film, so when it came on the market, I snapped it up. Now I allow other fans to come and stay in this piece of Hollywood history I first saw Poltergeist at the movie theatre with my mom and sisters, back when it came out in 1982. I remember being scared, especially during the part when the toy clown drags little Robbie Freeling under the bed. At that age, the idea of a family ex",
-      "author": "Rachel Powers",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "3d208be3892d8634",
-      "title": "How to watch Chelsea vs. Man United online for free",
-      "url": "https://mashable.com/entertainment/chelsea-manchester-united-premier-league-2026-live-stream-for-free",
-      "datePublished": "2026-10-30T05:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch the Premier League for free. Live stream Chelsea vs. Manchester United in the Premier League for free from anywhere in the world.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02RXFAmaBCLpWgtA4bpeFgN/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "ac5efa4da5610123",
-      "title": "Beverage Industry AI Platforms - Eunice Chiweshe Goldstein Develops CHIWESHE OS for Drink Brands (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/beverage-industry-ai-platforms",
-      "datePublished": "2026-10-30T04:51:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) 'CHIWESHE OS' is being developed as an AI-driven operating system for the global beverage industry, giving wineries and health and wellness drink brands a single place to organize work across...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648904/648904_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "303c1a6946350087",
-      "title": "Refrigerated Dip Pots - Dr. Will’s Launches 30g Single-Serve Mayo Pots In Tesco’s Fresh Aisle (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/refrigerated-dip-pots",
-      "datePublished": "2026-10-30T04:31:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Dr. Will's is bringing refrigerated dips to Tesco with 30g pots that give shoppers a small add-on for breaded chicken, fries, and other shareable foods. It is the brand's first move into the...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648899/648899_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "9b9365be00252525",
-      "title": "80-Hour Automatic Watches - KUOE Upgrades The Royal Smith With An 80-Hour Mechanical Movement (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/80-hour-automatic-watches",
-      "datePublished": "2026-10-30T04:11:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) KUOE is updating its Royal Smith with Citizen Miyota's Calibre 9085, a mechanical movement that runs for about 80 hours before stopping. Against Miyota's Calibre 9015, rated at around 42 hours, the...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648888/648888_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "2d7d9913ee4c798b",
-      "title": "Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers",
-      "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-short-film-billie-eilish-phoebe-bridgers-1235650256/",
-      "datePublished": "2026-10-30T04:05:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The video soundtracks \"The End,\" the first song from The Black Parade",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "97a186b7705f118d",
-      "title": "Hurdle hints and answers for October 30, 2026",
-      "url": "https://mashable.com/entertainment/hurdle-hints-answers-october-30-2026",
-      "datePublished": "2026-10-30T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Hints and answers to today's Hurdle all in one place.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05v0FPSTj5oXedqm5L5PTfD/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "8d63d26eb72cba2f",
-      "title": "Moon phase today: What the Moon will look like on October 30, 2026",
-      "url": "https://mashable.com/science/moon-phase-today-oct-30-2026",
-      "datePublished": "2026-10-30T04:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "See the Moon phase expected for October 30, 2026 as well as when the next Full Moon is expected.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05BmqtNy5uY8qzBjPftZbpX/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "fdb78b99934e390c",
-      "title": "Rogue AI Agent Assessments - Evoke Security Detects Risky Autonomous Agent Behavior (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/rogue-ai-agent-assessments",
-      "datePublished": "2026-10-30T03:51:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Evoke Security is introducing rogue AI agent assessments that examine how autonomous systems behave while completing workplace tasks. Unlike security checks focused on configurations, the Rogue...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648879/648879_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "a6001efe528368a2",
-      "title": "Connected Winter Ski Resorts - YUZAWA SNOW LINK Connects Three Japanese Ski Destinations (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/connected-winter-ski-resorts",
-      "datePublished": "2026-10-30T03:31:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) YUZAWA SNOW LINK is bringing connected winter ski resorts to travelers in Japan through a destination linking three mountain areas in Niigata Prefecture. Opening for the 2026–2027 season on...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648877/648877_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "7e9118fa0db0e4e8",
-      "title": "Adjustable Cordless Air Dusters - Wolfbox MegaFlow 200 Pro Offers 100 Speed Settings (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/adjustable-cordless-air-dusters",
-      "datePublished": "2026-10-30T03:11:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Wolfbox is expanding adjustable cordless air dusters with the MegaFlow 200 Pro, a rechargeable cleaning device designed for delicate electronics and demanding maintenance tasks. Unlike disposable...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648876/648876_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "bfafd3e8e742e8cf",
-      "title": "Cupertino Recap: The Split",
-      "url": "http://www.vulture.com/article/cupertino-recap-season-1-episode-4-cbs.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T03:00:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "This episode places a gigantic bet on Michael and Olivia’s clashing styles amounting to something greater than the sum of their parts.",
-      "author": "Noel Murray",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/4a1/444/092de199bbb4c8b90b4b5aa8dae4b20e06-cupertino4.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "7224f2d3d79da0fd",
-      "title": "A Few Good Men Invokes an Honor Code That No Longer Exists",
-      "url": "http://www.vulture.com/article/review-few-good-men-broadway-revival-sorkin-whitford.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T03:00:47.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Instead of making Aaron Sorkin’s 1989 play freshly relevant, real life has leached away its power.",
-      "author": "Sara Holdren",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/9b1/b3f/f428bc582ff8eab1be20f97b0e74239e64-fewgoodmen.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "85176b365cb3639b",
-      "title": "A Few Good Men review – Aaron Sorkin’s legal drama makes unwelcome return to stage",
-      "url": "https://www.theguardian.com/stage/2026/oct/30/few-good-men-aaron-sorkin-review",
-      "datePublished": "2026-10-30T03:00:42.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Vivian Beaumont theater, New York City Unconvincing performances and an ill-fitting big stage make a retooled version of the classic courtroom drama feel like a missed opportunity Given the current state of the US military brass, it makes some sense that audiences would want to drift back to an older, nobler idea of the armed services, in which bad actors exist but are rooted out by the good guys ",
-      "author": "Richard Lawson",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "a90f8282e62436fc",
-      "title": "Cupertino hits a hot streak with an incisive gambling app takedown",
-      "url": "https://www.avclub.com/cupertino-season-1-episode-4-recap",
-      "datePublished": "2026-10-30T03:00:12.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The resonant \"A.J. & Buddy\" increases Cupertino’s odds of being the fall’s sharpest new drama.",
-      "author": "Saloni Gajjar",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/29181918/cupertino-.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "6205532be68965f1",
-      "title": "Country Pickleball Tournaments - Major League Pickleball Adds an Eight-Team Nations Cup in Dallas (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/country-pickleball-tournaments",
-      "datePublished": "2026-10-30T02:51:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Major League Pickleball is adding the inaugural 'Nations Cup' to its Worlds week in Dallas, giving top pro players an Olympic-style team event before the main championship bracket. The format...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648875/648875_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "3cacd6b40d214806",
-      "title": "Ian McKellen Says Patrick Stewart ‘Wore His Heart on His Sleeve’",
-      "url": "http://www.vulture.com/article/patrick-stewart-ian-mckellan-tribute.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T02:36:43.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Stewart’s life long friend worried he was going to get “lost in Hollywood.”",
-      "author": "Alejandra Gularte",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/fdb/c48/35dcd7ec82af631ebe2f24ee5cac9f3a2f-ian-mckellen-patrick-stewart.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "192dc1bd9cfc8e2a",
-      "title": "AI Travel Servicing Assistants - Oversee Brings AgentSee to Travel Agencies to Cut Servicing Time (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/ai-travel-servicing-assistants",
-      "datePublished": "2026-10-30T02:31:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Oversee is bringing 'AgentSee,' an AI assistant that reads traveler requests and handles air changes, cancellations and hotel bookings, from corporate travel to leisure agencies and online travel...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648874/648874_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "5fc5553e9aa704c8",
-      "title": "Ian McKellen, Hugh Jackman, and more pay tribute to their friend Patrick Stewart",
-      "url": "https://www.avclub.com/patrick-stewart-tributes-ian-mckellen-hugh-jackman-levar-burton",
-      "datePublished": "2026-10-30T02:12:04.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ian McKellen, Hugh Jackman, and more pay tribute to their friend Patrick Stewart",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/29220823/stewart-mckellen-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "2a62c0fdb1b89bd2",
-      "title": "Flavored Oat Flour Lines - Skytrition Turns Oat Flour Into a 13-Flavor Base for Porridge and Baking (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/flavored-oat-flour-lines",
-      "datePublished": "2026-10-30T02:11:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Skytrition is expanding its dessert-led nutrition range with 'OatUP,' a finely milled, gluten-free oat flour line that turns a pantry staple into a flavored base for porridge, shakes, pancakes and...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/648/648870/648870_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "1aa2182a75dbdc59",
-      "title": "The Traitors: New Blood finally plays the game the way it’s meant to be played",
-      "url": "https://www.avclub.com/the-traitors-new-blood-recap-episode-8",
-      "datePublished": "2026-10-30T02:00:40.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "This week's episode of The Traitors: New Blood is easily the most satisfying hour of the season and proof that this castle is capable of learning, even if it takes a last-ditch pardon and an aggressively patient man to get there.",
-      "author": "Shannon Miller",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/29191306/NUP_210713_00341-e1793315425908-1.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "a1d596e057d96a16",
-      "title": "NYT Connections hints today: Meanings for each word for Oct. 30, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-30-2026",
-      "datePublished": "2026-10-30T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1237.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02pg8dm7p8lMWkYCn81ssMh/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "52e4c65692f25824",
-      "title": "NYT Connections hints today: Clues, answers for October 30, 2026",
-      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-30-2026",
-      "datePublished": "2026-10-30T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/071i7jau2KYEBDToxAf0G6c/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "bd2ee8cc46e24f9e",
-      "title": "NYT Strands hints, answers for October 30, 2026",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-30-2026",
-      "datePublished": "2026-10-30T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06VPbDkAxYanM0gP0XLJTQJ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "ad8b0d70a4c9f746",
-      "title": "Wordle today: Answer, hints for October 30, 2026",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-october-30-2026",
-      "datePublished": "2026-10-30T02:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Here's the answer for \"Wordle\" #1959 on October 30 as well as a few hints, tips, and clues to help you solve it yourself.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03GffssOZhV0HvATKEbJVas/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "443fecfb460b654c",
-      "title": "War Recap: Stars — They’re Just Like Us",
-      "url": "http://www.vulture.com/article/war-recap-season-1-episode-5-hbo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T01:50:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "For two former power players, Carla and Morgan spend an awful lot of time getting bossed around by their own lawyers and staff.",
-      "author": "Rafaela Bassili",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/501/306/9e57bbddbc716a5f9d59ed2fb90c533ce6-war-ep5.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "64b61a8dc48945b4",
-      "title": "Mad Men's Matthew Weiner has already bailed on his Eddie Murphy Peacock drama",
-      "url": "https://www.avclub.com/matthew-weiner-leaves-eddie-murphy-peacock-drama-chairman-creative-differences",
-      "datePublished": "2026-10-30T01:41:01.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "",
-      "author": "William Hughes",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/29212531/matthew-weiner-lead.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "833c9c52a549e310",
-      "title": "We’re All Going to Be Someone’s Ancestor One Day",
-      "url": "https://www.service95.com/nour-batyne-tamika-abaka-wood-on-ancestry",
-      "datePublished": "2026-10-30T01:38:43.025Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "074b3cdda8e87b80",
-      "title": "What To Buy The Discerning Scorpio In Your Life",
-      "url": "https://www.service95.com/best-gifts-for-scorpios",
-      "datePublished": "2026-10-30T01:38:43.025Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "36da3bd26a436ab4",
-      "title": "In Vietnamese Nail Salons, Culture Is Passed Down Hand To Hand",
-      "url": "https://www.service95.com/vietnamese-american-nail-salon-culture",
-      "datePublished": "2026-10-30T01:38:43.025Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "02f883508fdd55f3",
-      "title": "Five Spooky Translated Reads By Women To Get You In The Halloween Spirit",
-      "url": "https://www.service95.com/halloween-book-list",
-      "datePublished": "2026-10-30T01:38:43.025Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "d062b60767a1b0d2",
-      "title": "Meet The Visionaries Translating ‘Lincoln In The Bardo’ To The Stage At The Met Opera",
-      "url": "https://www.service95.com/lincoln-in-the-bardo-opera-documentary",
-      "datePublished": "2026-10-30T01:38:43.025Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "a315264105ff6ebe",
-      "title": "Ian McKellen Honors His Friend Patrick Stewart: ‘The Most Respected and Beloved Actor of His Generation’",
-      "url": "https://www.indiewire.com/news/general-news/ian-mckellen-tribute-patrick-stewart-1235224695/",
-      "datePublished": "2026-10-30T01:38:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The two English actors first met with the Royal Shakespeare Company and starred together in the \"X-Men\" series.",
-      "author": "J. Kim Murphy",
-      "imageUrl": "",
-      "source": "IndieWire"
-    },
-    {
-      "id": "2a6055ac44f137fc",
-      "title": "Real Housewives of Orange County Season-Finale Recap: The Sky Top’s the Limit",
-      "url": "http://www.vulture.com/article/real-housewives-of-orange-county-recap-rhoc-season-20-episode-17-finale-bravo.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T01:30:08.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The end-of-season party feels less like a celebration and more like a funeral.",
-      "author": "Brian Moylan",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/73a/bd0/9f545fa0933129451db0977c7a491af908-rhoc-17-ep.1x.rsocial.w1200.png",
-      "source": "Vulture"
-    },
-    {
-      "id": "9fc0e11eb8117e22",
-      "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
-      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
-      "datePublished": "2026-10-30T01:25:43.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial po",
-      "author": "Peter Bradshaw",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "3e1cebb1f9f3c615",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "datePublished": "2026-10-30T01:20:48.000Z",
-      "category": [
-        "tech"
-      ],
-      "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "author": "Amanda Silberling",
-      "imageUrl": "",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "8fc7864e1bf40530",
-      "title": "‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut",
-      "url": "https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/",
-      "datePublished": "2026-10-30T01:06:54.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Hong Sangsoo’s “Nowhere to Lay My Eyes,” a triple prizewinner at the 79th Locarno Film Festival, and Kim Jin-yu’s “Journey There,” the first Korean production to star “Beef” actor Justin H. Min, have picked up a new batch of territory deals through Seoul-based sales outfit Finecut. For “Nowhere to Lay My Eyes,” Carlotta Films has […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "84f75de9b6e85bd1",
-      "title": "Curry Barker Returns to His YouTube Horror Roots With ‘Mama Bear’ Amid ‘Obsession’ Success",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/curry-barker-youtube-horror-roots-mama-bear-obsession-1236742675/",
-      "datePublished": "2026-10-30T01:01:13.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The filmmaker's five-minute short reunited him with 'Obsession' costume designer Blair James, who tells The Hollywood Reporter the project was filmed just three and a half weeks before its release.",
-      "author": "Lexi Carson",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "3eda71c2c76330e8",
-      "title": "The Traitors: New Blood Recap: The Game Finally Moves Forward",
-      "url": "http://www.vulture.com/article/the-traitors-new-blood-recap-season-1-episode-8-peacock.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-10-30T01:00:26.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Victor slowly wins over the castle, and the Traitors’ alliance has never been weaker.",
-      "author": "Alice Burton",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/c02/02a/a05f0ff7a8271e3df40f6c2dde87da31a6-traitors-ep8.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "f41c967e59918024",
-      "title": "Ian McKellen Pays Tribute to Patrick Stewart: “A Man to Rely on, Admire and in My Case, Love”",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-ian-mckellen-tribute-1236743258/",
-      "datePublished": "2026-10-30T00:54:30.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "McKellen and Stewart led the original 'X-Men' franchise for 20th Century Fox, portraying Magneto/Erik Lehnsherr and Professor Charles Xavier, respectively.",
-      "author": "McKinley Franklin",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "c19ed5db7cff8c2f",
-      "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
-      "url": "https://consequence.net/2026/10/patrick-stewart-tributes/",
-      "datePublished": "2026-10-30T00:49:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Kevin Feige, Hugh Jackman, and Marvel Studios are also paying tribute to the late Star Trek/X-Men actor. Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More Alex Krinsky and Alex Young",
-      "author": "Alex Krinsky and Alex Young",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "d20004732056017a",
-      "title": "Herdr has released native app",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "datePublished": "2026-10-30T00:42:41.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 298 # Comments: 194",
-      "author": "cherioo",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "c345fce11d5cdbec",
-      "title": "My Chemical Romance Release Short Film Prelude to The End Featuring Billie Eilish, Phoebe Bridgers, and More: Watch",
-      "url": "https://consequence.net/2026/10/my-chemical-romance-prelude-to-the-end/",
-      "datePublished": "2026-10-30T00:39:35.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The short film will screen at the band's upcoming shows at the Hollywood Bowl, which will conclude the US leg of their ongoing tour. My Chemical Romance Release Short Film Prelude to The End Featuring Billie Eilish, Phoebe Bridgers, and More: Watch Karan Singh",
-      "author": "Karan Singh",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "5fe846f065d05b25",
-      "title": "Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’",
-      "url": "https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/",
-      "datePublished": "2026-10-30T00:35:36.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Ian McKellen wrote a moving tribute to Patrick Stewart, his close friend of many years, following his death Thursday at age 86 after suffering from Alzheimer’s and Lewy Body Dementia. “Before everything else, Patrick was defined by being born and bred in Yorkshire, the proud county in the north of England which he loved to […]",
-      "author": "Selome Hailu",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "81a353740ffae9c6",
-      "title": "Cormac McCarthy's Library",
-      "url": "https://cormacmccarthy.lib.utk.edu/",
-      "datePublished": "2026-10-30T00:31:00.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 6 # Comments: 1",
-      "author": "maitland",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "2ca56637a34cfa45",
-      "title": "Phoebe Bridgers and Billie Eilish Are in My Chemical Romance’s New Short Film",
-      "url": "https://pitchfork.com/story/phoebe-bridgers-and-billie-eilish-are-in-my-chemical-romances-new-short-film/",
-      "datePublished": "2026-10-30T00:28:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The band made the animated “Prelude to the End” with visual artist Lauren Tsai",
-      "author": "Hattie Lindert",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "f5f7a1ff0f50da46",
-      "title": "Patrick Stewart Rose From Obscurity to Boldly (and Baldly) Go Where No Yorkshireman Had Gone Before",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/patrick-stewart-shakespeare-star-trek-make-it-so-memoir-1236743227/",
-      "datePublished": "2026-10-30T00:22:36.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Sir Pat Stew's collaborator on his 2023 memoir, 'Making It So,' retraces the late actor's unlikely second act, plucked from the Shakespearean stage and placed at the helm 'USS Enterprise' — and a nonpareil Hollywood career.",
-      "author": "Julian Sancton",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
     }
   ]
 }
