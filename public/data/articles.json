@@ -1,6 +1,718 @@
 {
-  "generatedAt": "2026-11-14T00:44:35.166Z",
+  "generatedAt": "2026-11-14T07:26:21.199Z",
   "articles": [
+    {
+      "id": "84f311eb7a5a4fba",
+      "title": "Dua & Zadie Smith On ‘White Teeth’, London Life & Growing Up Between Cultures",
+      "url": "https://www.service95.com/dua-lipa-zadie-smith-book-club-interview",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "086ef70049408693",
+      "title": "Service95 Partnerships",
+      "url": "https://www.service95.com/tag/service95-partnerships",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "97ebc7e59f014c2f",
+      "title": "Dua’s List: The Best Of Mexico City’s Food, Drink & Art Scene",
+      "url": "https://www.service95.com/duas-list-mexico-city-guide",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "833c9c52a549e310",
+      "title": "We’re All Going to Be Someone’s Ancestor One Day",
+      "url": "https://www.service95.com/nour-batyne-tamika-abaka-wood-on-ancestry",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "074b3cdda8e87b80",
+      "title": "What To Buy The Discerning Scorpio In Your Life",
+      "url": "https://www.service95.com/best-gifts-for-scorpios",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "bfcfc84534869954",
+      "title": "The Soundtrack To ‘White Teeth’: Zadie Smith’s 1990s Playlist",
+      "url": "https://www.service95.com/zadie-smith-white-teeth-1990s-playlist",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "b5728873415eed28",
+      "title": "A Neighbourhood Guide To Chacarita, Buenos Aires",
+      "url": "https://www.service95.com/chacarita-buenos-aires-neighbourhood-guide",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "36da3bd26a436ab4",
+      "title": "In Vietnamese Nail Salons, Culture Is Passed Down Hand To Hand",
+      "url": "https://www.service95.com/vietnamese-american-nail-salon-culture",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "cd02b3bc9ee5b103",
+      "title": "Culture, Legacy & Magritte: Curator Bernard Lagrange On The Enduring Impact Of An Artist",
+      "url": "https://www.service95.com/magritte-london-exhibition",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "ba145fbfb5f943c1",
+      "title": "Checking In: Stamba, Tbilisi – A Soviet Printing Press Turned Design Hotel And Creative Multiverse",
+      "url": "https://www.service95.com/tbilisi-travel-guide-georgia",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "d062b60767a1b0d2",
+      "title": "Meet The Visionaries Translating ‘Lincoln In The Bardo’ To The Stage At The Met Opera",
+      "url": "https://www.service95.com/lincoln-in-the-bardo-opera-documentary",
+      "datePublished": "2026-11-14T07:26:18.149Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "88550c4b6d07982b",
+      "title": "72 Hours In Muskoka: The Canadian Lakeside Region Taking Over Our Screens",
+      "url": "https://www.service95.com/72-hours-in-muskoka-heated-rivalry",
+      "datePublished": "2026-11-14T07:26:18.148Z",
+      "category": [
+        "lifestyle",
+        "culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "",
+      "source": "Service95"
+    },
+    {
+      "id": "1b8f2f598ff0d18d",
+      "title": "FAA allows flights to resume after hours-long ground stop across the US",
+      "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+      "datePublished": "2026-11-14T06:35:40.000Z",
+      "category": [
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+      "author": "staff@engadget.com (Mariella Moon)",
+      "imageUrl": "https://www.engadget.com/img/gallery/faa-allows-flights-to-resume-after-hours-long-us-wide-ground-stop/l-intro-1794637444.jpg",
+      "source": "Engadget"
+    },
+    {
+      "id": "1a41332d366e135f",
+      "title": "Modern Fairy Tale ‘Mo Amor’ Explores Identity, Transformation and Love in All Its Forms",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/trans-fairy-tale-mo-amor-explores-love-tallinn-2026-estonia-1236753723/",
+      "datePublished": "2026-11-14T06:00:00.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Estonian director Eeva Mägi is back at the Tallinn Black Nights Film Fest with her tender new film about a photographer, Princess Niina and her three suitors: The Mentor, The Writer and The Stonemason.",
+      "author": "Georg Szalai",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "9915e9be06998654",
+      "title": "‘Cookie Queens’ Director Says Girl Scout Cookies Were “A Delicious Way In” to a Larger Conversation (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/cookie-queens-alysa-nahmias-scad-savannah-film-festival-1236751877/",
+      "datePublished": "2026-11-14T05:36:12.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Alysa Nahmias recently spoke with The Hollywood Reporter about her life-affirming documentary, which premiered at Sundance, won the audience award at SXSW and is now the year's highest-grossing non-celebrity doc.",
+      "author": "Scott Feinberg",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "881debcf1a1d3952",
+      "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+      "url": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+      "datePublished": "2026-11-14T05:15:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Here's everything you need to know about Pokémon Go's Wild Area 2026 event, including the habitats, spawns, and bonuses.",
+      "author": "Julia Lee",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildhub.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "6abd2f5eef76c8b8",
+      "title": "How to get mighty Pokémon in Pokémon Go",
+      "url": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+      "datePublished": "2026-11-14T05:15:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Special \"mighty\" Pokémon appear during the Wild Area event. We explain what they are, their special moves, and a mighty Pokémon list to target.",
+      "author": "Julia Lee",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_wildmighty-1.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "799baede4d49ee43",
+      "title": "How to get Go Safari Balls in Pokémon Go",
+      "url": "https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/",
+      "datePublished": "2026-11-14T05:15:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As part of the “Wild Area: Global” Pokémon Go event, you can get Go Safari Balls, which have a high catch rate. We explain how to get more in our guide.",
+      "author": "Julia Lee",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261112_1001_pogo_safariballs.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "dd389dd16d8ef8c4",
+      "title": "25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+      "url": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+      "datePublished": "2026-11-14T05:00:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Lord of the Rings is full of profound quotes, but Frodo's best one shows why he’s fantasy's greatest hero.",
+      "author": "Aimee Hart",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "10bd0abea63b6a2c",
+      "title": "Hurdle hints and answers for November 14, 2026",
+      "url": "https://mashable.com/entertainment/hurdle-hints-answers-november-14-2026",
+      "datePublished": "2026-11-14T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Hints and answers to today's Hurdle all in one place.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02TvuIN1tKDC98NXL8EUsZH/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "5b7ecf4db8885ef5",
+      "title": "Moon phase today: What the Moon will look like on November 14, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-nov-14-2026",
+      "datePublished": "2026-11-14T05:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "See the Moon phase expected for November 14, 2026 as well as when the next Full Moon is expected.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06YozTVMSJb68MffLPG1kUF/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "be497bf8dfc30ae5",
+      "title": "Road Trip at the Borderland",
+      "url": "https://longreads.com/2026/10/29/family-road-trip-china-north-korea/",
+      "datePublished": "2026-11-14T04:59:21.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://longreads.com/2026/10/29/family-road-trip-china-north-korea/ Comments URL: https://news.ycombinator.com/item?id=50494109 Points: 3 # Comments: 0",
+      "author": "mooreds",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "884bb058a1e5b28d",
+      "title": "Noel Fielding Says He Regrets ‘Horrible’ Jokes He Made With Russell Brand After Old Clip Resurfaces",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/noel-fielding-russell-brand-regrets-jokes-1235658277/",
+      "datePublished": "2026-11-14T04:32:18.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Great British Bake Off presenter commented on the actor for the first time after Brand was jailed for rape and sexual assault",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "229dcf73d6c0553d",
+      "title": "Advice for the Lovelorn: Tristan & Yseult and The Executrix",
+      "url": "http://www.vulture.com/article/theater-reviews-tristan-yseult-executrix-emma-rice-emma-horwitz.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-11-14T04:00:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "One is an irony-laced visual feast that’s hollow underneath, the other a chance to revel in the Sapphic and the strange.",
+      "author": "Sara Holdren",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/54e/9f8/e596331bb041814867548197b0d4926cb4-tristanreview.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "03750ffb63d64289",
+      "title": "Amid Flight Stop, Ari Emanuel Slams Pete Buttigieg for Making ‘Zero Progress’ Modernizing FAA: ‘You Left a Failing System in Place’",
+      "url": "https://variety.com/2026/politics/news/ari-emanuel-slams-pete-buttigieg-zero-progress-faa-1236947542/",
+      "datePublished": "2026-11-14T03:02:51.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "As the nation’s air traffic ground to a halt Friday afternoon amid an FAA ground stop, Ari Emanuel had strong words for former transportation secretary Pete Buttigieg. The WME executive chairman posted on X, “No one’s hands are clean here. However, Mr. Secretary Buttigieg, you had four years in the job and infrastructure money, yet […]",
+      "author": "Pat Saperstein",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "9450b348cee59418",
+      "title": "How to watch Japan vs. Brazil online for free",
+      "url": "https://mashable.com/entertainment/japan-brazil-international-friendly-2026-live-stream-for-free",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "How to watch International Friendly for free. Live stream Japan vs. Brazil in an International Friendly for free from anywhere in the world.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/07A4wPrde6c5bhuQfwWDkaR/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "6b938c9b050a029a",
+      "title": "NYT Connections hints today: Meanings for each word for Nov. 14, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-14-2026",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1252.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/03wBvylyogrppKVK2GMVLRh/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "e9d56debe6951cd8",
+      "title": "NYT Connections hints today: Clues, answers for November 14, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-14-2026",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/051P87KPPtnIaF3WFFXX0pB/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "b9e628a6cf6dd020",
+      "title": "NYT Strands hints, answers for November 14, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00APqaCmfLEeEhhXAhAc9lO/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "7e56172ce6bae656",
+      "title": "Wordle today: Answer, hints for November 14, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-november-14-2026",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Here's the answer for \"Wordle\" #1974 on November 14 as well as a few hints, tips, and clues to help you solve it yourself.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00bsJOxgo9VMIPHh9FUcJpf/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "50eb2860d3e3f282",
+      "title": "With Stephen Miller and Jim Jordan, the G.O.P. Doubles Down on Ideology",
+      "url": "https://www.newyorker.com/podcast/political-scene/with-stephen-miller-and-jim-jordan-the-gop-doubles-down-on-ideology",
+      "datePublished": "2026-11-14T03:00:00.000Z",
+      "category": [
+        "culture"
+      ],
+      "description": "In the aftermath of the Republicans’ defeat in the midterms, right-wing hard-liners have been elevated to the apex of Washington politics. What does their rise spell for the future of the G.O.P.?",
+      "author": "",
+      "imageUrl": "",
+      "source": "The New Yorker"
+    },
+    {
+      "id": "c6caa4d4f0b0e545",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "datePublished": "2026-11-14T02:52:59.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 367 # Comments: 192",
+      "author": "speckx",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "a906d7b9b8d9fb45",
+      "title": "Michael Mann Seeks to Reclaim Rights to Original ‘Heat’ Screenplay",
+      "url": "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
+      "datePublished": "2026-11-14T02:51:07.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Michael Mann, who is set to begin shooting the long-awaited “Heat 2” in January, is in a legal dispute with New Regency as he seeks to reclaim the copyright to his screenplay for the original film. New Regency produced “Heat,” released in 1995. The company filed a lawsuit on Friday arguing that it still owns […]",
+      "author": "Gmaddaus",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "6ab7bec76f95c3a3",
+      "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
+      "url": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269/",
+      "datePublished": "2026-11-14T02:49:03.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "There will be no changes to the artists set to appear and perform",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6c41dcbf34a2266d",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "datePublished": "2026-11-14T02:28:29.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 174 # Comments: 29",
+      "author": "cobychapple",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "c7368023d59a02b6",
+      "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
+      "url": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
+      "datePublished": "2026-11-14T02:25:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Level-5 is remaking the classic Nintendo DS puzzle game Professor Layton and the Curious Village and it's due out in 2027",
+      "author": "Willa Rowe",
+      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-and-the-new-world-of-steam.jpg",
+      "source": "Polygon"
+    },
+    {
+      "id": "7039aca8dbba1823",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "datePublished": "2026-11-14T02:21:36.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 184 # Comments: 38",
+      "author": "LopRabbit",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "8d523282f32ac445",
+      "title": "5 Takeaways From China’s Golden Rooster and Hundred Flowers Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/takeaways-china-golden-rooster-hundred-flowers-film-festival-1236755329/",
+      "datePublished": "2026-11-14T02:19:05.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Beyond Tony Leung Ka Fai’s win and a big night for local hits, a week of seminars and workshops showed how China’s industry is thinking about AI, global audiences and young talent.",
+      "author": "Mathew Scott",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "bdfdbc6e6748a72e",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "datePublished": "2026-11-14T02:15:41.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 64 # Comments: 3",
+      "author": "billybuckwheat",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "f98d19f282ecca8b",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "datePublished": "2026-11-14T02:02:42.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 116 # Comments: 20",
+      "author": "gmays",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
+      "id": "114d970750f16b1a",
+      "title": "FAA nationwide ground stop: Why it happened, according to officials",
+      "url": "https://mashable.com/tech/faa-nationwide-ground-stop-why",
+      "datePublished": "2026-11-14T02:01:42.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Communication outage cause by outdated systems and network updates, not the FAA's new SMART AI tool.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01dpUSn1m2TKtr0gN074erz/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
+      "id": "802a73081485201c",
+      "title": "Personalized Holiday Craft Kits - Michaels Introduces DIY Projects for Handmade Holiday Gifting (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/personalized-holiday-craft-kits",
+      "datePublished": "2026-11-14T01:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Personalized holiday craft kits are making handmade gifting more accessible as Michaels expands its seasonal collection with creative projects for different skill levels. The new offerings...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653389/653389_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "587e9065faee9b22",
+      "title": "Shane Gillis Grades His Own Mediocre ‘SNL’ Monologue a C Minus",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/shane-gillis-addresses-snl-monologue-1235658237/",
+      "datePublished": "2026-11-14T01:52:29.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The comedian called women who wear workout clothes at the gym \"whores\" on Saturday Night Live",
+      "author": "Charisma Madarang",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "865b1b5641465ea9",
+      "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
+      "url": "https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477/",
+      "datePublished": "2026-11-14T01:38:17.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn’t lift the order until approximately four hours later. With the American Film Market, the Governors Awards and numerous FYC panels scheduled over the next several days, the stoppage left many Hollywood insiders grounded on one […]",
+      "author": "Jack Dunn",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "4b70f71c6b6c0b91",
+      "title": "Coachella Tickets Are Already Sold Out — Here’s What They’re Going for on Resale",
+      "url": "https://www.rollingstone.com/product-recommendations/tickets/coachella-tickets-where-to-buy-online-2027-1235658206/",
+      "datePublished": "2026-11-14T01:36:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Missed the general sale for Coachella 2027? Here's what to know about resale, the waitlist, and more",
+      "author": "Jonathan Zavaleta",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "451a39804d7010f3",
+      "title": "New Regency Sues Michael Mann to Retain Rights to ‘Heat’",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/",
+      "datePublished": "2026-11-14T01:35:37.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The production company is challenging the director's attempts to reclaim rights to the screenplay.",
+      "author": "Winston Cho",
+      "imageUrl": "",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "id": "8110ac91df26a16e",
+      "title": "Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios",
+      "url": "https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219/",
+      "datePublished": "2026-11-14T01:24:58.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "Canadian Prime Minister Mark Carney has appointed a new Consul General in Los Angeles, who says she hopes to inspire a renewed sense of unity between Canada and the U.S. The Honourable Kamal Khera was introduced as Canada’s Consul General in Los Angeles on Thursday night at a reception at Canada House, the Consul General’s […]",
+      "author": "Tim Chan",
+      "imageUrl": "",
+      "source": "Variety"
+    },
+    {
+      "id": "0aae2adc4e6cdf9f",
+      "title": "Personalized Airport Assistance - CLEAR Simplifies Travel with Real-Time Airport Guidance (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/personalized-airport-assistance",
+      "datePublished": "2026-11-14T01:23:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Personalized airport assistance is becoming more accessible as CLEAR introduces an upgraded travel app that guides passengers from home to their departure gates. The platform combines trip...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653388/653388_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "1032e95eb9467d9b",
+      "title": "Shane Gillis Gave His SNL Monologue a C Minus",
+      "url": "http://www.vulture.com/article/shane-gillis-addresses-snl-monologue-controversy.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-11-14T01:10:24.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "“I was like, ‘Fellas, I’m giving you a solid C minus of a monologue but I promise there’s no controversy.’”",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/e55/061/766c190dea7c8389a9182219f260637628-shane-gillis.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "0e05a882a6beee28",
+      "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+      "url": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191/",
+      "datePublished": "2026-11-14T00:59:53.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks",
+      "author": "Nancy Dillon",
+      "imageUrl": "",
+      "source": "Rolling Stone"
+    },
+    {
+      "id": "6998c9c0db4600cd",
+      "title": "Predictive Customer Service AI - Cresta Anticipates Customer Needs Using Interaction Histories (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/predictive-customer-service-ai",
+      "datePublished": "2026-11-14T00:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Predictive customer service AI is helping businesses anticipate support needs through Cresta's newly launched Journey Intelligence platform. The system connects previous calls, chats, and customer...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653385/653385_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
+      "id": "18713f91f2958739",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "datePublished": "2026-11-14T00:52:29.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 157 # Comments: 47",
+      "author": "snow_mac",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
     {
       "id": "9d76530891973c47",
       "title": "Rock & Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Grounding Flights Nationwide",
@@ -28,6 +740,19 @@
       "source": "Consequence"
     },
     {
+      "id": "af99f7dd385ce511",
+      "title": "At-Home Iron Infusions - Drip Gym Expands Nurse-Administered Iron Therapy Nationwide (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/at-home-iron-infusions",
+      "datePublished": "2026-11-14T00:23:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) At-home iron infusions are expanding access to specialized medical care as Drip Gym introduces its nationwide service across all 50 U.S. states. The program allows eligible patients to receive...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653377/653377_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "7888ac3ef1c09979",
       "title": "Joe Biden’s Memoir “Promise Me, America” Shows a Man in Denial",
       "url": "https://www.newyorker.com/books/page-turner/joe-biden-is-still-in-denial",
@@ -39,6 +764,20 @@
       "author": "Amy Davidson Sorkin",
       "imageUrl": "",
       "source": "The New Yorker"
+    },
+    {
+      "id": "a0f5a54698a4379a",
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "datePublished": "2026-11-14T00:21:26.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick Comments URL: https://news.ycombinator.com/item?id=50492098 Points: 14 # Comments: 0",
+      "author": "Caiero",
+      "imageUrl": "",
+      "source": "Hacker News"
     },
     {
       "id": "ee38bc3887a6ea58",
@@ -106,6 +845,20 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "10c60fc60c0f0765",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "datePublished": "2026-11-14T00:06:04.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 97 # Comments: 16",
+      "author": "Retro_Dev",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "aa15e1266aad75cf",
       "title": "FAA ground stop updates: What we know so far",
       "url": "https://mashable.com/tech/faa-ground-stop-updates-what-we-know",
@@ -148,6 +901,19 @@
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/07wVWOtpcqRU7a8zPAdVel8/hero-image.jpg",
       "source": "Mashable"
+    },
+    {
+      "id": "23031c9333a58992",
+      "title": "Small Business AI Platforms - Worker.AI Launches a Free Workspace With Built-In Sales Coaching (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/small-business-ai-platforms",
+      "datePublished": "2026-11-13T23:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Worker.AI introduced ‘Worker’ for small businesses, folding DeltaGen’s real-time AI sales-call coaching into the product through an acquisition. The Raleigh software captures meeting notes...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653374/653374_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "dcab381c8b78ddb1",
@@ -204,6 +970,19 @@
       "source": "Hacker News"
     },
     {
+      "id": "1518f6d89974c5d3",
+      "title": "Factory Supercar Exhausts - Lamborghini Offers a Titanium Akrapovič Exhaust for the Temerario (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/factory-supercar-exhausts",
+      "datePublished": "2026-11-13T23:33:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Lamborghini is giving Temerario owners a factory-backed way to sharpen the hybrid supercar’s soundtrack with an optional titanium exhaust developed with Akrapovič. The add-on fits the twin-turbo...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653373/653373_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "bf74a38f22d0d7bf",
       "title": "Producer Kevin J. Walsh Had Seen It All. Then ‘Being Heumann’ Came Along",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923/",
@@ -256,6 +1035,20 @@
       "source": "The Hollywood Reporter"
     },
     {
+      "id": "7ab113adec142f4d",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "datePublished": "2026-11-13T23:17:39.000Z",
+      "category": [
+        "forums",
+        "tech"
+      ],
+      "description": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 115 # Comments: 13",
+      "author": "gvsi",
+      "imageUrl": "",
+      "source": "Hacker News"
+    },
+    {
       "id": "b8ccbb006b24f9cb",
       "title": "Seth Rogen on ‘The Invite,’ ‘Tangles,’ ‘The Studio’ Season 2, Reviving ‘Darkwing Duck’ and Why ‘Any A–hole Can Write That Joke’ Was the Best Advice He Ever Got",
       "url": "https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538/",
@@ -267,6 +1060,19 @@
       "author": "Clayton Davis",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "6960cf4b603dc05b",
+      "title": "White-Painted Travel Cases - Maison Margiela And Rimowa Release A Luggage Set With A Distressed Whit (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/white-painted-travel-cases",
+      "datePublished": "2026-11-13T23:13:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Maison Margiela and Rimowa will offer a luggage pair that covers the Classic Cabin suitcase and the 5AC XL bag in Margiela's bianchetto finish, a white paint made to wear away with use. Travelers...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653366/653366_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "c348ffd10d94ee6b",
@@ -364,6 +1170,19 @@
       "source": "Highsnobiety"
     },
     {
+      "id": "92cf8983c7f0e6a3",
+      "title": "Emily Ratajkowski Joins Mary Beth Barone and Joe Alwyn’s Romcom",
+      "url": "http://www.vulture.com/article/emily-ratajkowski-joins-mary-beth-barone-joe-alwyn-romcom.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-11-13T23:00:06.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "But will she join them on their pap walks?",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/323/4a0/2750f1a49f5a3f4d53e9ff018810f67b69-emrata-mary-beth.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
       "id": "57ae9f9b1f7656d9",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
@@ -458,6 +1277,19 @@
       "source": "Polygon"
     },
     {
+      "id": "1c1a5916e1d6c22f",
+      "title": "Dual-Phone Car Adapters - A Wireless Android Auto Adapter Lets Drivers Switch Between Two Paired Pho (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/dual-phone-car-adapters",
+      "datePublished": "2026-11-13T22:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Motorola’s MA2 wireless Android Auto adapter adds physical buttons that let drivers switch between two paired phones or disconnect without unplugging the device. Designed for cars that already...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653359/653359_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "cd5b30cdae397744",
       "title": "The FAA nationwide ground stop sparks travel panic and viral memes",
       "url": "https://mashable.com/life/faa-ground-stop-social-media-reactions",
@@ -497,6 +1329,19 @@
       "author": "Clayton Davis",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "1f1b1102e11cbfe5",
+      "title": "Who Will Join Julianne Moore in Best Actress at the Oscars?",
+      "url": "http://www.vulture.com/article/who-will-join-julianne-moore-in-best-actress-at-the-2027-oscars.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-11-13T22:50:34.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "While Best Actor is already populated with heavyweight performances that feel destined for Oscar attention, the race for Best Actress is wide open.",
+      "author": "Nate Jones",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/fb3/83c/251aee684724f1cb923ac84c15fa310b65-thedebut.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
     },
     {
       "id": "eb083ebaabcf7c88",
@@ -592,6 +1437,32 @@
       "source": "Kotaku"
     },
     {
+      "id": "b6068fbcb6d38a97",
+      "title": "Avril Lavigne’s Baby Girl Will Do Ballet, What More Can I Say",
+      "url": "http://www.vulture.com/article/avril-lavigne-baby-girl.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "datePublished": "2026-11-13T22:33:33.000Z",
+      "category": [
+        "entertainment"
+      ],
+      "description": "The singer announced the birth with an Instagram pic of Mommy, Daddy, and baby pairs of checkerboard Vans.",
+      "author": "Bethy Squires",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/04d/dbd/4560d8a4de56edf2b4999fd1fa93209ac7-avril-lavigne.1x.rsocial.w1200.jpg",
+      "source": "Vulture"
+    },
+    {
+      "id": "fc72308675304a0c",
+      "title": "Dessert-Flavored Carb Powders - Reckful Reformulates Cream Of Rice With Cupcake and Donut Flavors (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/dessert-flavored-carb-powders",
+      "datePublished": "2026-11-13T22:33:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Reckful reworked ‘Cream Of Rice’ into a second version aimed at better taste than the original, giving returning buyers sweeter options. Rice flour remains the base, so the change stays...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653358/653358_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "37a3eceb589a7b41",
       "title": "Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo and Dawn Porter to Be Honored at Sundance Fundraiser Event",
       "url": "https://variety.com/2026/film/news/jesse-eisenberg-gina-prince-bythewood-sundance-fundraiser-1236947327/",
@@ -616,6 +1487,19 @@
       "author": "Michael Schneider",
       "imageUrl": "",
       "source": "Variety"
+    },
+    {
+      "id": "d71a05dd2b059653",
+      "title": "Noise-Proof Clip-On Microphones - NTT Sonority Brings the SonoVo Stick to Loud Japanese Worksites (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/noise-proof-clip-on-microphones",
+      "datePublished": "2026-11-13T22:13:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) NTT Sonority brought the ‘SonoVo Stick’ to Japan as a clip-on microphone built to keep speech understandable in noise above 100dB. Designed for construction crews and event staff who need both...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653356/653356_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "01af97118a712e19",
@@ -783,6 +1667,19 @@
       "source": "Highsnobiety"
     },
     {
+      "id": "f800dbfcee89905b",
+      "title": "Personalized Brain Health Platforms - Eisai and Linus Health Introduce Tailored Cognitive Resources (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/personalized-brain-health-platforms",
+      "datePublished": "2026-11-13T21:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Personalized brain health platforms are making cognitive wellness education more accessible as Eisai and Linus Health launch ExploreYourBrainHealth.com. The free interactive resource combines...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653354/653354_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "dfede0df33f93d05",
       "title": "Microsoft outage was largest of 2026, report says",
       "url": "https://mashable.com/tech/microsoft-outage-largest-of-2026-report",
@@ -850,6 +1747,19 @@
       "author": "Daniel Kreps",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "35b6f3861a19491c",
+      "title": "Women’s Health Questionnaires - Flo Health and Mayo Clinic Build a 16-Item Perimenopause Scale (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/womens-health-questionnaires",
+      "datePublished": "2026-11-13T21:33:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Flo Health and Mayo Clinic clinicians created ‘Peri-SS,’ a validated perimenopause questionnaire that gives women a more precise way to log changing symptoms than older menopause scales built...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653351/653351_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "0398a6bed965c534",
@@ -930,6 +1840,19 @@
       "author": "Paolo Ragusa",
       "imageUrl": "",
       "source": "Consequence"
+    },
+    {
+      "id": "0d0b51b030f64b79",
+      "title": "Grid-Responsive AI Computing - DriveNets and Bentaus Reduce GPU Power While Maintaining Performance (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/grid-responsive-ai-computing",
+      "datePublished": "2026-11-13T21:13:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Grid-responsive AI computing is helping data centers manage electricity demand as DriveNets and Bentaus introduce a system that adjusts computing power without interrupting workloads. The joint...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653350/653350_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "17675ef05aa6132d",
@@ -1131,6 +2054,19 @@
       "source": "Vulture"
     },
     {
+      "id": "acc0983e4df31610",
+      "title": "Nightlife Fast Food - Bojangles Opens Its First Full-Service Bar Restaurant on the Las Vegas Strip (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/nightlife-fast-food",
+      "datePublished": "2026-11-13T20:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Bojangles brought its first restaurant with a full-service bar to the Las Vegas Strip, letting guests order the chain’s chicken-and-biscuits menu alongside drinks in one venue. Developed with...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653349/653349_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "70a3a6e5fc35a1a1",
       "title": "Amazons early Black Friday deal on this Osprey travel backpack drops it to a new record-low price — save 35%",
       "url": "https://mashable.com/travel/nov-13-osprey-daylite-expandable-travel-backpack-early-black-friday-deal",
@@ -1173,6 +2109,19 @@
       "source": "Jacobin"
     },
     {
+      "id": "040ccaa030c15c42",
+      "title": "The Internet Owes 'Leave Britney Alone' An Apology",
+      "url": "https://knowyourmeme.com/videos/441175-leave-britney-alone",
+      "datePublished": "2026-11-13T20:38:55.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/news_feeds/icons/mobile/000/096/411/210.jpg",
+      "source": "Know Your Meme"
+    },
+    {
       "id": "464ed34da97981aa",
       "title": "Blood of Dawnwalker Finally Gets Its Most Requested Feature Next Week",
       "url": "https://www.polygon.com/blood-of-dawnwalker-update-new-game-plus-announced/",
@@ -1197,6 +2146,19 @@
       "author": "Patricia Hernandez",
       "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-025-thumbnail.jpg",
       "source": "Polygon"
+    },
+    {
+      "id": "cc1eea2eea2c023a",
+      "title": "Predictive Body Composition Scales - Withings Adds Advanced Muscle Tracking and Health Predictions (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/predictive-body-composition-scales",
+      "datePublished": "2026-11-13T20:33:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Predictive body composition scales are advancing at-home health monitoring as Withings Health Solutions introduces Body Pro 3, a connected device designed for clinical weight management programs....",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653346/653346_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "2da0bdf626ce9913",
@@ -1252,6 +2214,19 @@
       "source": "Vulture"
     },
     {
+      "id": "8b6615d42efa4caf",
+      "title": "The 'I Got So Mad' Meme Trend Has Users Expressing Their Anger In The Most Absurd Ways Possible",
+      "url": "https://knowyourmeme.com/memes/i-got-so-mad-trend-meme",
+      "datePublished": "2026-11-13T20:22:07.000Z",
+      "category": [
+        "internet-culture"
+      ],
+      "description": "I Got So Mad Trend or I Got So Mad Meme, also known as I Once Got So Mad or Once I Got So Mad I X, refers to a series of memes and a viral TikTok trend in which users humorously exaggerate their anger by describing absurd, mundane or mildly inconvenient actions they supposedly took in response to becoming upset about something. The humor of the trend stems from presenting relatively harmless or un",
+      "author": "",
+      "imageUrl": "https://i.kym-cdn.com/entries/icons/mobile/000/057/764/I_Got_So_Mad_meme_and_trend_entry_banner_image.jpg",
+      "source": "Know Your Meme"
+    },
+    {
       "id": "1fd61f8cbd12bb37",
       "title": "Democrats Did Their Best Bernie Impression in the Midterms",
       "url": "https://jacobin.com/2026/11/bernie-democrats-populist-rhetoric-class-affordability",
@@ -1276,6 +2251,19 @@
       "author": "Hafiz Rashid",
       "imageUrl": "https://images.newrepublic.com/b4c00d727b423f4d1494a0f0935f09ca6bbe3d8c.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
       "source": "The New Republic"
+    },
+    {
+      "id": "57bc160fbe1099ff",
+      "title": "Compact Japanese Inspired Knives - Böker Shrinks Guy Poggetti’s Sanjo Into a Pocket-Friendly Folder (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/compact-japanese-inspired-knives",
+      "datePublished": "2026-11-13T20:13:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Böker has reduced its ‘Sanjo’ design for everyday-carry enthusiasts with the ‘Böker Plus Mini Sanjo,’ a folding knife that trims the blade to 3.07 inches while preserving the model’s...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653340/653340_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "c407c87afb3e1969",
@@ -1385,6 +2373,19 @@
       "source": "Mashable"
     },
     {
+      "id": "03b6d527be9071a1",
+      "title": "Customizable Reusable Bottles - Chilly’s Opens a London Pop-Up Where Visitors Build Their Own Bottle (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/customizable-reusable-bottles",
+      "datePublished": "2026-11-13T19:53:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Chilly’s is bringing holiday gift buyers an interactive Soho pop-up, ‘Every Part Matters,’ where visitors can build a ‘Series 3 Bottle’ or ‘Flip’ with interchangeable parts and laser...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653327/653327_1_468.jpeg",
+      "source": "Trend Hunter"
+    },
+    {
       "id": "097f81697f4225b8",
       "title": "Margot Robbie Teaming with ‘The Drama’ Director Kristoffer Borgli for ‘The Week of Pain’ at A24",
       "url": "https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/",
@@ -1422,6 +2423,19 @@
       "author": "Malcolm Ferguson",
       "imageUrl": "https://images.newrepublic.com/e3aeee197173118d82eb6f7e298f7b79592214e4.jpeg?w=1600&q=75&dpi=1&fm=pjpg&fit=crop&crop=faces&ar=3:2",
       "source": "The New Republic"
+    },
+    {
+      "id": "dfcdf4e2fc5a957f",
+      "title": "Wine Education Sites - Digital Information Resources Launches WineWalrus.com for Wine Beginners (TrendHunter.com)",
+      "url": "https://www.trendhunter.com/trends/wine-education-sites",
+      "datePublished": "2026-11-13T19:33:00.000Z",
+      "category": [
+        "trends"
+      ],
+      "description": "(TrendHunter.com) Digital Information Resources expanded into wine media with WineWalrus.com, a site built to make wine learning, exploration and culture easier to approach. It is aimed at wine enthusiasts across...",
+      "author": "",
+      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653320/653320_1_468.jpeg",
+      "source": "Trend Hunter"
     },
     {
       "id": "71cc027bbdce4cb5",
@@ -1476,6 +2490,21 @@
       "author": "Maya Georgi",
       "imageUrl": "",
       "source": "Rolling Stone"
+    },
+    {
+      "id": "c8665ad5843d5e37",
+      "title": "Microsoft Outlook outage cause seemingly revealed",
+      "url": "https://mashable.com/tech/microsoft-outlook-outage-cause-revealed-nov-12-2026",
+      "datePublished": "2026-11-13T19:18:30.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "Microsoft is investigating failed server checks as a possible cause of the Nov. 12 Outlook outage and gradually restoring service.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/055s0HqbrABvEhIUshwf2Fg/hero-image.jpg",
+      "source": "Mashable"
     },
     {
       "id": "f0fd5db71d9ed39b",
@@ -2621,6 +3650,21 @@
       "source": "Consequence"
     },
     {
+      "id": "c4721f3a4c33020f",
+      "title": "Microsoft global outage: What the company has said so far",
+      "url": "https://mashable.com/tech/microsoft-outage-what-company-has-said",
+      "datePublished": "2026-11-13T17:06:10.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "As everyone deals with a big Microsoft 365 outage, let's review what the company has said so far.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00PbOxlXWjLjnMl1npPXQ1Z/hero-image.jpg",
+      "source": "Mashable"
+    },
+    {
       "id": "91c5da083e6492e1",
       "title": "Full List of Senators Who Back Chris Van Hollen Over Chuck Schumer",
       "url": "https://newrepublic.com/post/217991/full-list-senators-back-chris-van-hollen-leader",
@@ -3191,6 +4235,21 @@
       "description": "The Garmin Venu 4 is on sale for just $449.99 at Amazon and Best Buy. That's a $100 savings and a new record-low price.",
       "author": "",
       "imageUrl": "https://helios-i.mashable.com/imagery/articles/01dZ1sdcaVJKv1rBn0yTmwK/hero-image.png",
+      "source": "Mashable"
+    },
+    {
+      "id": "44c764dd8fc8eada",
+      "title": "When will the Microsoft Outlook outage be fixed? What we know Friday.",
+      "url": "https://mashable.com/tech/microsoft-oulook-global-outage-when-will-it-be-fixed-nov-12-2026",
+      "datePublished": "2026-11-13T16:00:55.000Z",
+      "category": [
+        "culture",
+        "tech",
+        "lifestyle"
+      ],
+      "description": "A global Microsoft outage on Thursday, Nov. 13 caused problems with Outlook, Teams, and Microsoft 365, which continued Friday morning.",
+      "author": "",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/01tSonMFMfXs7C6jWq2qfNw/hero-image.jpg",
       "source": "Mashable"
     },
     {
@@ -5667,1043 +6726,6 @@
       "author": "Guardian Staff",
       "imageUrl": "",
       "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "8e6e4f600b2b4db3",
-      "title": "Pamela Anderson on How Skincare Brand Sonsie’s First Holiday Ad Reflects Her World",
-      "url": "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/",
-      "datePublished": "2026-11-13T09:20:19.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Anderson and chief brand officer Dylan Jagger Lee discuss the brand’s garden-inspired debut holiday film, crafted over eight months by 23 creators.",
-      "author": "Rebecca Stewart",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "329211ef646751a9",
-      "title": "How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds",
-      "url": "https://variety.com/2026/film/global/woman-unknown-star-city-baltics-foreign-shoots-boom-1236946177/",
-      "datePublished": "2026-11-13T09:15:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Mid-October, Estonia’s long-awaited next-gen film studio complex Ida Hub, in the country’s eastern region, finally opened for business, and industry guests at Tallinn’s Black Nights Film Festival are invited to tour the facilities Nov. 21-22. As stressed by Edith Sepp, head of the Estonian Film Institute, the country’s brand-new studio powerhouse, twinned with the Tallinnfilm […]",
-      "author": "Callum McLennan",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "97f17a4c1769f247",
-      "title": "Peanut Butter Granolas - Bio&amp;Me And Pip &amp; Nut Team Up On A High-Protein Peanut Butter Granola (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/peanut-butter-granolas",
-      "datePublished": "2026-11-13T09:13:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Peanut butter is getting a breakfast upgrade as Bio&Me teams up with Pip & Nut on a new granola designed to pack more into the morning bowl. The latest addition to Bio&Me's Fibre+Protein range is...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653013/653013_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "3e34be39425b02b3",
-      "title": "The Dawn of the Data Intelligence Engineer",
-      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-      "datePublished": "2026-11-13T09:08:18.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 42 # Comments: 38",
-      "author": "jonbaer",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "15e0031fc0d4f1fd",
-      "title": "The Great British Baking Show Recap: Do You Caramel",
-      "url": "http://www.vulture.com/article/great-british-baking-show-week-8-recap-caramel-week.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-11-13T09:00:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "A few bakers struggle through Caramel Week, but one baker spirals out of control.",
-      "author": "Brian Moylan",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/194/80f/c93c47a2f0d6073dc7176ecce50ef6dbbb-gbb-ep8.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "957baa226851a75c",
-      "title": "5 Sci-Fi Book Trilogies Where Every Entry Is Perfect",
-      "url": "https://www.polygon.com/sci-fi-trilogy-perfect-entries/",
-      "datePublished": "2026-11-13T09:00:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Not all sci-fi trilogies are made equal, as some are impeccable from start to finish.",
-      "author": "Debopriyaa Dutta",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/aaaaqsvwbmutuyygxfebvcswpskx9vscutyezcvln4bmjy5p2d4pwu51_oflom3na20dbxxonxrs7ee9kr-qdczlqzr0ize-yjcjafijzt4_yyl15aopiprohh05jfdl7plobqbnyjhxiyqv8fy8qlhtl9dn.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "061e8514d62641d2",
-      "title": "Smart PC owners don’t pay $199 for Windows 11 Pro when it’s $11.99",
-      "url": "https://mashable.com/tech/nov-13-microsoft-windows-11-pro",
-      "datePublished": "2026-11-13T09:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Get a Microsoft Windows 11 Pro lifetime license for $11.99 (reg. $199) with code DEAL20 and add BitLocker, Hyper-V, and Copilot to one PC.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05ppUTRNkLIPpnI4RActPHZ/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "95f723847eca71e2",
-      "title": "‘Women and War’ Follows Four Ukrainians’ Journeys Towards Healing From Trauma (Exclusive IDFA Trailer)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/women-and-war-doc-film-ukraine-trauma-healing-idfa-trailer-1236753178/",
-      "datePublished": "2026-11-13T09:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "\"War does not end for these women when the weapons fall silent,\" highlights director Elwira Niewiera, whose doc about women going through long-term therapy premieres at IDFA in Amsterdam.",
-      "author": "Georg Szalai",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "1cd6e04f69048ade",
-      "title": "Rosalía Joins Elite Company with Third Album of the Year Latin Grammy, Dazzles with LUX Medley: Watch",
-      "url": "https://consequence.net/2026/11/rosalia-third-album-of-the-year-latin-grammy-lux/",
-      "datePublished": "2026-11-13T08:58:21.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Spanish superstar became the first woman to win Album of the Year three times as a lead artist, sharing an emotional moment with longtime supporter Juanes. Rosalía Joins Elite Company with Third Album of the Year Latin Grammy, Dazzles with LUX Medley: Watch Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "4dbd75cb81c6d45e",
-      "title": "Heirloom Floral Jewelry - Chanel Revisits Its Iconic Camellia Motif In A Fine Jewellery Collection (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/heirloom-floral-jewelry",
-      "datePublished": "2026-11-13T08:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Some gifts are chosen to last well beyond the occasion, and Chanel is making that idea central to its Camélia Collection. The fine jewellery line takes inspiration from the camellia flower, one of...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/652/652832/652832_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "93bb42de8161d17b",
-      "title": "Shygirl, Moby Drop New Songs for ‘Club Kid’ Soundtrack",
-      "url": "https://www.rollingstone.com/music/music-news/shygirl-moby-club-kid-soundtrack-a24-1235657425/",
-      "datePublished": "2026-11-13T08:44:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The EP also features two covers of Arthur Russell's \"The Boy With a Smile\" by Nirosta Steel and Christine and the Queens",
-      "author": "Emily Zemler",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "ed887bb80aa34565",
-      "title": "Milo J Wins Big at Latin Grammys, Bridges Generations in Performance with Santaolalla and Agarrate Catalina: Watch",
-      "url": "https://consequence.net/2026/11/milo-j-gustavo-santaolalla-latin-grammy/",
-      "datePublished": "2026-11-13T08:41:07.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Argentine artist took home four awards while bringing together rap, Uruguayan murga, and Argentine folk traditions in a memorable performance. Milo J Wins Big at Latin Grammys, Bridges Generations in Performance with Santaolalla and Agarrate Catalina: Watch Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "a8d26695faf41ffe",
-      "title": "Sheherazaad: Khudgarzi review | Ammar Kalia's global album of the month",
-      "url": "https://www.theguardian.com/music/2026/nov/13/sheherazaad-khudgarzi-review",
-      "datePublished": "2026-11-13T08:30:13.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "(Erased Tapes) Dreamy, reverb-laden arrangements, virtuosic vocals and echoes of PJ Harvey and Massive Attack make this disarming debut a one-of-a-kind creation Since the release of her debut EP, Qasr, in 2024, south Asian-American vocalist and composer Sheherazaad has developed a distinctive take on the classical singing of her heritage. While her contemporaries such as the singers Ganavya and Ma",
-      "author": "Ammar Kalia",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "4248973a644fac34",
-      "title": "Daddy Yankee Lights Up the Latin Grammy Stage with LL Cool J, Receives Tribute from Janet Jackson: Watch",
-      "url": "https://consequence.net/2026/11/daddy-yankee-ll-cool-j-latin-grammy/",
-      "datePublished": "2026-11-13T08:25:03.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Puerto Rican superstar celebrated his legacy alongside LL Cool J before Janet Jackson honored him as the Latin Recording Academy's Person of the Year. Daddy Yankee Lights Up the Latin Grammy Stage with LL Cool J, Receives Tribute from Janet Jackson: Watch Pedro Camacho",
-      "author": "Pedro Camacho",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "e05713ee89dc7314",
-      "title": "Region-Locked Retro Sneakers - Jordan Gives Europe An Exclusive Air Jordan 4 Release In Muted Grey A (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/region-locked-retro-sneakers",
-      "datePublished": "2026-11-13T08:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Jordan is giving European sneaker fans an exclusive take on the Air Jordan 4, with the Cave Stone/Phantom colourway set to arrive in February 2027. The release won't be available to U.S. shoppers...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/652/652824/652824_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "a603e4039556ed3a",
-      "title": "Hear Ella Langley’s Reflective ‘Hunger Games’ Single ‘Here Then We’re Gone’",
-      "url": "https://www.rollingstone.com/music/music-news/ella-langley-here-then-were-gone-hunger-games-single-1235657421/",
-      "datePublished": "2026-11-13T08:15:52.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The soundtrack to upcoming film The Hunger Games: Sunrise on the Reaping is out today",
-      "author": "Emily Zemler",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "266cf2e31998ba2d",
-      "title": "Tim Burton's Forgotten Dark Fantasy Magnum Opus Is Officially Free on Youtube",
-      "url": "https://www.polygon.com/corpse-bride-streaming-free-youtube-november-2026/",
-      "datePublished": "2026-11-13T08:15:18.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Corpse Bride and Wildwood make for a perfect stop-motion double feature",
-      "author": "Aimee Hart",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/tim-burton.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "1832af21696aa9bf",
-      "title": "BYD admits wheel assembly error on its flagship electric SUV",
-      "url": "https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/",
-      "datePublished": "2026-11-13T08:12:48.000Z",
-      "category": [
-        "tech",
-        "lifestyle"
-      ],
-      "description": "The electric automaker has apologized and said it will fix the issue for affected vehicles.",
-      "author": "staff@engadget.com (Mariella Moon)",
-      "imageUrl": "https://www.engadget.com/img/gallery/byd-admits-wheel-assembly-error-on-its-flagship-electric-suv/l-intro-1794557448.jpg",
-      "source": "Engadget"
-    },
-    {
-      "id": "9bcf056e78644ef9",
-      "title": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
-      "url": "https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/",
-      "datePublished": "2026-11-13T08:02:27.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Six more women have accused Russell Brand of sexual misconduct in a new investigation by The Times and The Sunday Times, the newspapers whose earlier reporting on the comedian features in Netflix’s just-unveiled documentary “Russell Brand: Open Secret.” The accounts were published days after Brand was jailed for rape and sexual assault. The papers could […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "94038e07835590ed",
-      "title": "Jessica Chastain breezes through a pulpy, country-fried Taken in Heartland",
-      "url": "https://www.avclub.com/heartland-review-netflix-jessica-chastain-country-music-taken",
-      "datePublished": "2026-11-13T08:01:20.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Skip the singing in Heartland, but enjoy Jessica Chastain's bratty performance as the avenging aunt of a missing country star.",
-      "author": "Monica Castillo",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/11/12173305/heartland-squared-1.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "64aa13ffaef6c8a3",
-      "title": "Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit",
-      "url": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix",
-      "datePublished": "2026-11-13T08:01:12.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The Oscar winner plays a singer turned detective searching for her niece in an overly generic Nashville-based mystery that fails to find its footing Given the popularity of its music and the streaming services’ interest in faith-based programming, I’m always a little surprised that there aren’t more movies and TV shows about Nashville. Well, at least the idea of Nashville, the country music mecca ",
-      "author": "Adrian Horton",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "41761bb558b9ec97",
-      "title": "‘Heartland’ Review: Jessica Chastain Rocks a Stetson and a Swagger for a Soapy Nashville Noir",
-      "url": "https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
-      "datePublished": "2026-11-13T08:01:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Misty Jones keeps her Grammy in the fridge, alongside a near-empty Tupperware of chicken broth and, well, not a whole lot else: A former country superstar turned burnt-out rural hermit, she more or less lives off what once was, but her memories don’t exactly nourish her. Peculiar details like these enliven “Heartland,” a missing-person mystery […]",
-      "author": "Guy Lodge",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "51bd1a2b1a2c132f",
-      "title": "‘Heartland’ Review: Jessica Chastain Does Sturdy Work as a Hard-Edged Former Country Music Star Saddled With a Thriller in Name Only",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/heartland-review-jessica-chastain-netflix-garrett-hedlund-1236751237/",
-      "datePublished": "2026-11-13T08:01:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Writer-director Shana Feste ('Country Strong') dives into Nashville’s sleazy underbelly in a mystery built on dark secrets, also starring Garrett Hedlund and country singer Carter Faith.",
-      "author": "David Rooney",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "00183e9e6c66409c",
-      "title": "Netflix's Disappointing New Western Thriller Wastes Its Brilliant Concept",
-      "url": "https://www.polygon.com/heartland-netflix-review/",
-      "datePublished": "2026-11-13T08:00:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Netflix’s Heartland is a western, a noir, and a musical starring Jessica Chastain. It’s also surprisingly predictable.",
-      "author": "Maria Loreto",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/_dsc4031_r-1.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "4be4bd8e66d50987",
-      "title": "Snoh Aalegra: Legendary Love review – raw R&B talent restrained by reverence for the greats",
-      "url": "https://www.theguardian.com/music/2026/nov/13/snoh-aalegra-legendary-love-review",
-      "datePublished": "2026-11-13T08:00:13.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "(Stem) Her truly remarkable, Sade-ish voice is hypnotic against some dizzyingly plush production, but a modern spin on 80s pastiche sometimes veers too close to tribute Swedish-Iranian singer Snoh Aalegra has previously described her music – a lush, pastiche-y mix of R&B, hip-hop, soul and pop – as “cinematic soul”. But although she’s a dab hand at graceful, timeless presentation (and has a truly ",
-      "author": "Shaad D'Souza",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "a44f0ee68bfe6bf8",
-      "title": "‘Would you breastfeed your own father?’ The goofy, spiky world of art-pop duo Charlotte Adigéry and Bolis Pupul",
-      "url": "https://www.theguardian.com/music/2026/nov/13/interview-art-pop-duo-charlotte-adigery-and-bolis-pupul",
-      "datePublished": "2026-11-13T08:00:13.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "After wittily blending pop and politics on their debut, the Belgians are now processing their personal lives. We join them for a mindbending tour of their home city of Ghent Boris Kor Tom Zeebroek is staring up at a grey gothic building in the centre of Ghent, squinting through the late September sun that is covering his home town in a cloak of unseasonal warmth. Zeebroek is encouraging his bandma",
-      "author": "Lanre Bakare",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "b152160e745b2ab0",
-      "title": "PS5 Pro restock tracker: Where to buy the best console for GTA 6",
-      "url": "https://mashable.com/tech/ps5-pro-retailers-restock-where-to-buy",
-      "datePublished": "2026-11-13T08:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Trying to score a PS5 Pro before GTA 6 drops? Every major store is out of $899.99 stock right now, so bookmark these retailer links and avoid inflated third-party markups.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/06f3ad38HPaiN8YRG3nDrG3/hero-image.png",
-      "source": "Mashable"
-    },
-    {
-      "id": "6025fbe53567aa65",
-      "title": "Tony Award Winner Lois Smith Joins Colin West’s ‘Outside of Cleveland’: ‘She’s an Icon’ (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/actors/lois-smith-colin-west-outside-of-cleveland-alex-wolff-1236945021/",
-      "datePublished": "2026-11-13T08:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Tony award winner Lois Smith has joined the cast of Colin West’s upcoming feature “Outside of Cleveland.” Smith’s first on-screen role was in 1955 opposite James Dean in “East of Eden.” She has appeared in such films as “Five Easy Pieces,” “Twister,” “Minority Report,” “Dead Man Walking,” “Ladybird” and “The French Dispatch.” In 2017, Smith […]",
-      "author": "Marta Balaga",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "36b89dbdb3c97ef6",
-      "title": "City-Themed Baseball Sneakers - Nike Brings Back The Air Griffey Max 1 In A Seattle-Inspired Colourw (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/city-themed-baseball-sneakers",
-      "datePublished": "2026-11-13T07:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Nike is giving Ken Griffey Jr.'s signature sneaker another run with the return of the Air Griffey Max 1 in its Seattle's Finest colourway. Following the shoe's 30th anniversary releases in 2026,...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/652/652788/652788_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "4399e09b39daadb1",
-      "title": "TSMC Hacked",
-      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
-      "datePublished": "2026-11-13T07:39:55.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator.com/item?id=50479721 Points: 90 # Comments: 15",
-      "author": "gmays",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "f7ae7ba58e720f3c",
-      "title": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
-      "url": "https://www.polygon.com/peanuts-final-comic-strip-charlie-brown/",
-      "datePublished": "2026-11-13T07:23:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
-      "author": "Brian VanHooker",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "7e2b3bdfb36d703b",
-      "title": "Pantry Dinner Kits - Riff Turns the Meal Kit Into a One-Pot Dinner That Sits on the Shelf (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/pantry-dinner-kits",
-      "datePublished": "2026-11-13T07:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Riff turned meal kits into a pantry dinner that home cooks can make in one pot in 20 minutes, without delivery scheduling or fresh produce. Created by chef Daniel Humm and CPG veteran Mark Ramadan,...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653257/653257_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "17587d2debd746e8",
-      "title": "Google unveils Gemini 4 Hydrogen, its new AI model built for speed",
-      "url": "https://mashable.com/tech/google-gemini-4-hydrogen-ai-model-launch",
-      "datePublished": "2026-11-13T07:14:21.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "Google has announced Gemini 4 Hydrogen, its latest AI model that will replace 3.8 Flash in powering Google Search.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05Ye8xOWWbAf7R4eyMThg7m/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "eb7f0b8965a54ecc",
-      "title": "Shilpa Shetty to Host Relationship Reality Show ‘Pyaar Ka Pressure Cooker’ for India’s JioHotstar and Colors",
-      "url": "https://variety.com/2026/tv/news/shilpa-shetty-host-reality-show-pyaar-ka-pressure-cooker-1236946816/",
-      "datePublished": "2026-11-13T07:01:16.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Bollywood star Shilpa Shetty will host “Pyaar Ka Pressure Cooker,” a reality series that pushes couples in stalled or undefined relationships to decide their future, for streamer JioHotstar and Hindi-language channel Colors. The show is being billed by the two JioStar-owned outlets as India’s first “relationship clarity show.” Participants will range from couples in early, […]",
-      "author": "Naman Ramachandran",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "8c542ed3b72e759a",
-      "title": "Dolly Parton Heals the Soul on Final Recording, ‘Torn,’ a Duet With Bono on U2’s New Album",
-      "url": "https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-u2-torn-song-1235657413/",
-      "datePublished": "2026-11-13T07:00:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The posthumous song appears on the band’s 16th album, Carnaval de Luz, out now",
-      "author": "Charisma Madarang",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "5ac14f64c9dbdca6",
-      "title": "This Cursed Beautiful Land by Evan Gershkovich review – jailed in Putin’s Russia",
-      "url": "https://www.theguardian.com/books/2026/nov/13/this-cursed-beautiful-land-by-evan-gershkovich-review-jailed-in-putins-russia",
-      "datePublished": "2026-11-13T07:00:13.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The US reporter wrongly imprisoned for espionage writes compellingly about his ordeal Evan Gershkovich is the Wall Street Journal reporter who, in the early phase of Putin’s war in Ukraine, was snatched up by the Russian authorities on bogus espionage charges and spent a year and a half in Russian jails (first Lefortovo and then Yekaterinburg) before being released in a prisoner exchange in 2024. ",
-      "author": "Sam Leith",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "112a03a1652420f6",
-      "title": "How to watch France vs. South Africa online for free",
-      "url": "https://mashable.com/entertainment/france-south-africa-nations-championship-2026-live-stream-for-free",
-      "datePublished": "2026-11-13T07:00:00.000Z",
-      "category": [
-        "culture",
-        "tech",
-        "lifestyle"
-      ],
-      "description": "How to watch Nations Championship for free. Live stream France vs. South Africa in the 2026 Nations Championship for free.",
-      "author": "",
-      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02kApshJMjgergBGK3IhZa9/hero-image.jpg",
-      "source": "Mashable"
-    },
-    {
-      "id": "9f2ac73afb5c5a88",
-      "title": "Adaptive Running Vests - Lululemon Adds a Venting PrimaLoft Run Vest for Changing Effort (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/adaptive-running-vests",
-      "datePublished": "2026-11-13T06:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Lululemon built the ‘Ventscape PrimaLoft ThermoPlume+ Run Vest’ for runners who need one layer to handle changing effort, pairing lofted synthetic insulation with venting that releases heat as...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653244/653244_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "ddee2b763addbc7f",
-      "title": "Heritage Vehicle Paint Colors - Land Rover Revives Four Archive Colors for the 2027 Defender (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/heritage-vehicle-paint-colors",
-      "datePublished": "2026-11-13T06:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Land Rover expanded the 2027 Defender with the ‘Atlas’ color range, reviving four archive paints and adding two first-time shades for selected Defender buyers. The place-based naming keeps the...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653240/653240_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "35eb1824f5c6cbfa",
-      "title": "Global Microsoft Outage",
-      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-      "datePublished": "2026-11-13T06:18:23.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk Comments URL: https://news.ycombinator.com/item?id=50479098 Points: 150 # Comments: 77",
-      "author": "TechTechTech",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "aea3890ac3d033e9",
-      "title": "TV tonight: an absorbing investigation about the Albanian mafia",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/tv-tonight-an-absorbing-investigation-about-the-albanian-mafia",
-      "datePublished": "2026-11-13T06:15:10.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "John Sparks looks at the shocking links with the cocaine market. Plus, Sarah Cox, Mel Giedroyc and more host this year’s Children in Need. Here’s what to watch this evening 9pm, Sky Documentaries Continue reading...",
-      "author": "Phil Harrison, Jack Seale, Graeme Virtue and Simon Wardell",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "487374bb1967ede8",
-      "title": "Hamlet Hail to the Thief could have been rotten but redeems Radiohead’s ‘record that got away’ | Alexis Petridis",
-      "url": "https://www.theguardian.com/stage/2026/nov/13/hamlet-hail-to-the-thief-radiohead-record-shakespeare-tragedy",
-      "datePublished": "2026-11-13T06:00:10.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The band’s uneven 2003 album has been judiciously reworked to accompany a staging of Shakespeare’s tragedy with quite extraordinary results According to the programme notes, Thom Yorke had serious reservations about director Christine Jones’ idea to stage a production of Hamlet featuring music from Radiohead’s 2003 album Hail to the Thief. Who can blame him? Many criticisms have been laid at Radio",
-      "author": "Alexis Petridis",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "4109a5d8484a2d4f",
-      "title": "‘Pop Pop’ Dives Into Radicalization and Male Fragility in the Digital Age. Its Creator Says It’s “More Topical Every Day” – and Urges Us to Join Hands.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/pop-pop-film-manosphere-trump-age-tallinn-2026-interview-1236752826/",
-      "datePublished": "2026-11-13T06:00:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Writer-director Dylan Stephen Levers' debut feature is a cinematic parable, premiering at Tallinn, that was partly shot at alt-right marches and is full of memes and indie spirit.",
-      "author": "Georg Szalai",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "1d27c445ca5c1fe5",
-      "title": "Target’s New CMO Wants the Brand To Get Its Edge Back",
-      "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
-      "datePublished": "2026-11-13T06:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Only about two months into the job, Target's new CMO has an idea of how the retailer will return to the forefront of culture.",
-      "author": "Mitchell Parton",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "29a2f1c5ede94848",
-      "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Disney to Maybelline",
-      "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-disney-to-maybelline/",
-      "datePublished": "2026-11-13T06:00:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "Netflix, Maybelline, Johnnie Walker, Disney, and more are behind the week’s most notable ads.",
-      "author": "Matt Barker",
-      "imageUrl": "",
-      "source": "AdWeek"
-    },
-    {
-      "id": "e6607543776eaee6",
-      "title": "Y2K Football Cleat Crossovers - Nike Turns the Zoom Vomero 5 Into a Metallic Vapor Pro Cleat (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/y2k-football-cleat-crossovers",
-      "datePublished": "2026-11-13T05:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Nike is bringing the ‘Zoom Vomero 5’ into football with a ‘Vapor Pro’ cleat version, giving football players a field-ready take on the runner’s shape. Applied panels along the sidewalls...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653232/653232_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "3a4e073cbedf3268",
-      "title": "How London-Based Facialist Keren Bartov Prepped Hollywood for This Fall’s Starriest Soirees",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/keren-bartov-celebrity-facialist-interview-skincare-products-1236754525/",
-      "datePublished": "2026-11-13T05:32:29.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Cate Blanchett, Mikey Madison and Elizabeth Debicki made a pit stop at the aesthetician’s Notting Hill clinic ahead of the Harper’s Bazaar Women of the Year Awards.",
-      "author": "Erin Lassner",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "85c7039d0bb2cefd",
-      "title": "Decorative Garden Accessories - Plow &amp; Hearth Sells a Stone Cottage Birdhouse for Small Yards (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/decorative-garden-accessories",
-      "datePublished": "2026-11-13T05:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Plow & Hearth offers the handmade ‘Stone Cottage Birdhouse’ as a nesting spot for small birds, turning a standard yard accessory into a miniature house with cobblestone-style walls and...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653227/653227_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "a30e0ab0254296eb",
-      "title": "Microsoft Outlook/365 still down after 12 hours",
-      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-      "datePublished": "2026-11-13T05:08:23.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 344 # Comments: 237",
-      "author": "player85",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "af6966137cce9ebc",
-      "title": "Hear U2’s Posthumous Dolly Parton Duet",
-      "url": "https://pitchfork.com/story/hear-u2s-posthumous-dolly-parton-duet/",
-      "datePublished": "2026-11-13T05:01:36.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "“Torn” is the closing track off the band’s new album, Carnaval de Luz",
-      "author": "Walden Green",
-      "imageUrl": "",
-      "source": "Pitchfork"
-    },
-    {
-      "id": "fdd7ff35290fb2f8",
-      "title": "Shane MacGowan Tribute Album Featuring Springsteen, U2, Tom Waits & More Released",
-      "url": "https://consequence.net/2026/11/twentieth-century-paddy-shane-macgowan-tribute-released/",
-      "datePublished": "2026-11-13T05:00:45.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The tribute to the late frontman of The Pogues also boasts contributions from Dropkick Murphys, Primal Scream, The Libertines, Johnny Depp, and more. Shane MacGowan Tribute Album Featuring Springsteen, U2, Tom Waits & More Released Travis Bland",
-      "author": "Travis Bland",
-      "imageUrl": "",
-      "source": "Consequence"
-    },
-    {
-      "id": "259debf1bcf65609",
-      "title": "Dolly Parton’s Last Recorded Song Released: Listen to Her Passionate Performance on U2’s ‘Torn’",
-      "url": "https://variety.com/2026/music/news/dolly-parton-last-song-u2-torn-final-vocals-1236946788/",
-      "datePublished": "2026-11-13T05:00:41.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Dolly Parton’s last words have arrived. The iconic singer’s last recorded vocals have been released on “Torn,” the final track on U2’s just-released album “Carnaval de Luz.” On the song, Parton and Bono sing about what seems to be a metaphor for our country’s politically divided landscape, with Parton at one point delivering, “Nothing hurts […]",
-      "author": "William Earl",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "46543acef25d9106",
-      "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
-      "url": "https://www.polygon.com/peanuts-best-comics-food/",
-      "datePublished": "2026-11-13T05:00:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Here's the World Famous Gastronomer reading 50 years of food gags",
-      "author": "Thomas Hindmarch",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "69363aa68d117160",
-      "title": "12 12 12 review – Anthony Mackie and Jamie Dornan’s super fun heist hunt",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/13/12-12-12-review-anthony-mackie-jamie-dornan-heist",
-      "datePublished": "2026-11-13T05:00:12.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "From the moment a contortionist crawls out of a bank vault, the 12-day hunt for the culprits is a thrilling ride. Just suspend your disbelief a bit and strap in for a fantastic time A contortionist crawls out of a safety deposit box in the wall of an underground Swiss bank vault, legs wrapped around his waist, feet resting on his lumbar spine, landing on hands and displaced knees on the tiled floo",
-      "author": "Lucy Mangan",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "ae5f72a807830aad",
-      "title": "‘Women are pitted against each other. It’s a bloodsport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
-      "url": "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz",
-      "datePublished": "2026-11-13T05:00:09.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To whi",
-      "author": "Ryan Gilbey",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "726f9b131488483c",
-      "title": "IceWM",
-      "url": "https://ice-wm.org/",
-      "datePublished": "2026-11-13T04:54:53.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 209 # Comments: 102",
-      "author": "inatreecrown2",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "bf965dac429f428f",
-      "title": "Feid Previews New Song With Snoop Dogg at Latin Grammys",
-      "url": "https://www.rollingstone.com/music/music-latin/feid-latin-grammys-snoop-dogg-song-1235655738/",
-      "datePublished": "2026-11-13T04:53:31.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Colombian reggaeton star performed alongside Divino, Lil Supa, Baby Ranks, and DJ Premier",
-      "author": "Julyssa Lopez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "52a079101c6d7c7b",
-      "title": "Terminal Appointment MODULES - CargoSprint Adds Yard-Aware Gate Appointments to eModal Pre-Gate (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/terminal-appointment-modules",
-      "datePublished": "2026-11-13T04:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) CargoSprint expanded ‘eModal Pre-Gate’ with ‘Dynamic Stack Management’ (DSM), an add-on that aligns import gate appointments with yard conditions for marine terminal operators and truckers....",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653200/653200_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "72778fa487228d54",
-      "title": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
-      "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction",
-      "datePublished": "2026-11-13T04:41:51.000Z",
-      "category": [
-        "culture"
-      ],
-      "description": "Used in the famous ‘I am your father’ scene, the on-screen prop was originally expected to sell for a fraction of the price Auctioneers estimated it would sell for over $1m, but on Thursday a Star Wars lightsaber used by Darth Vader in the famous “I am your father” scene from The Empire Strikes Back ended up selling for nearly $5m. Darth Vader’s saber was one of 27 lightsaber props up for sale by ",
-      "author": "Emma Joyce and agencies",
-      "imageUrl": "",
-      "source": "The Guardian (Culture)"
-    },
-    {
-      "id": "65c40dc3bf3b27e4",
-      "title": "Latin Grammys 2026: Rosalía Wins Album of the Year",
-      "url": "https://www.hollywoodreporter.com/music/music-news/latin-grammys-2026-winners-rosalia-album-of-the-year-1236754523/",
-      "datePublished": "2026-11-13T04:25:05.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Janet Jackson also presented Daddy Yankee with the person of the year honor.",
-      "author": "McKinley Franklin",
-      "imageUrl": "",
-      "source": "The Hollywood Reporter"
-    },
-    {
-      "id": "6b7e5a059afbdf17",
-      "title": "Automaker Sustainability Plans - Mercedes-Benz Builds Climate Goals Into Planning and Pay (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/innovation/climate-goals",
-      "datePublished": "2026-11-13T04:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Mercedes-Benz detailed its Sustainable Business Strategy, which covers Cars, Vans and Financial Services and builds sustainability into corporate governance and steering processes. The strategy...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653205/653205_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "08852cc6562d13ea",
-      "title": "Rosalia Makes History With Third Album of the Year Win at the Latin Grammys",
-      "url": "https://www.rollingstone.com/music/music-latin/rosalia-wins-album-of-the-year-latin-grammys-1235655872/",
-      "datePublished": "2026-11-13T04:18:34.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The Spanish singer took home the night's biggest award for her masterful LP Lux",
-      "author": "Maya Georgi",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "d190f33963777d14",
-      "title": "Latin Grammys Full Winners List: Rosalía Wins Big With Album and Song of the Year Honors",
-      "url": "https://variety.com/2026/music/news/latin-grammys-winners-list-rosalia-1236946768/",
-      "datePublished": "2026-11-13T04:06:00.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "The 2026 Latin Grammys took place on Nov. 12 at the MGM Grand Garden Arena in Las Vegas. Going into the evening, Edgar Barrera led the nominees with ten nods, followed by Jorge Drexler, Rosalía, Karol G and Ca7riel & Paco Amoroso with seven each. See the full winners list below. Album of the Year: […]",
-      "author": "William Earl",
-      "imageUrl": "",
-      "source": "Variety"
-    },
-    {
-      "id": "476fe3692fe235b8",
-      "title": "In the battle of art versus AI, Cupertino takes a stand to fight the slop",
-      "url": "https://www.avclub.com/cupertino-recap-season-1-episode-7-yungwood",
-      "datePublished": "2026-11-13T04:00:42.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Cupertino's latest episode highlights a scourge on the modern recording industry: AI-generated songs.",
-      "author": "Saloni Gajjar",
-      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/11/12133251/method-man.jpg",
-      "source": "The A.V. Club"
-    },
-    {
-      "id": "8bc34695fe1b482c",
-      "title": "Cupertino Recap: Fair Use and Foul Play",
-      "url": "http://www.vulture.com/article/cupertino-recap-season-1-episode-7-cbs.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "datePublished": "2026-11-13T04:00:22.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Buckle in — we’re litigating musicians making AI slop this week.",
-      "author": "Noel Murray",
-      "imageUrl": "https://pyxis.nymag.com/v1/imgs/158/a23/42ee592486fe41288cb936d761e34c853a-cupertino-ep6.1x.rsocial.w1200.jpg",
-      "source": "Vulture"
-    },
-    {
-      "id": "c745d57d83287a7a",
-      "title": "8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces",
-      "url": "https://www.polygon.com/xbox-360-forgotten-masterpieces/",
-      "datePublished": "2026-11-13T04:00:17.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "From Viva Piñata to The Saboteur, these forgotten Xbox 360 masterpieces deserve another shot today.",
-      "author": "Randy Rhodes",
-      "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg",
-      "source": "Polygon"
-    },
-    {
-      "id": "208ab8eff788a757",
-      "title": "Hybrid Slim-Display Watches - Casio And A.P.C. Release Two Vintage Watches With Dual-Time Displays (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/trends/hybrid-slim-display-watches",
-      "datePublished": "2026-11-13T03:53:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) Casio and French fashion label A.P.C. are bringing a new look to the Vintage range with two collaborative watches that combine traditional analog hands with a digital display. The AQ240EAC-3A...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653198/653198_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "d2cd581cc697617e",
-      "title": "Latin Grammys Celebrate 100 Years of José Alfredo Jiménez With Edgar Barrera, The Warning, More",
-      "url": "https://www.rollingstone.com/music/music-latin/latin-grammys-jose-alfredo-jimenez-edgar-barrera-tribute-1235655750/",
-      "datePublished": "2026-11-13T03:49:56.000Z",
-      "category": [
-        "entertainment"
-      ],
-      "description": "Barrera was the musical producer for star-studded tribute featuring The Warning, Reik, Sofia Reyes, Yami Safdie, and Camila Fernández",
-      "author": "Julyssa Lopez",
-      "imageUrl": "",
-      "source": "Rolling Stone"
-    },
-    {
-      "id": "676f37eebcc248d8",
-      "title": "Wind Power Financing - RWE and KKR Secure £12 Billion for Two Norfolk Offshore Wind Farms (TrendHunter.com)",
-      "url": "https://www.trendhunter.com/innovation/norfolk-offshore",
-      "datePublished": "2026-11-13T03:23:00.000Z",
-      "category": [
-        "trends"
-      ],
-      "description": "(TrendHunter.com) RWE and KKR announced £12 billion in funding to build the Vanguard West and Vanguard East offshore wind farms off the Norfolk coast of England, with £1 billion coming from the state-owned...",
-      "author": "",
-      "imageUrl": "https://cdn.trendhunterstatic.com/phpthumbnails/653/653204/653204_1_468.jpeg",
-      "source": "Trend Hunter"
-    },
-    {
-      "id": "9b71624b22169b05",
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
-      "datePublished": "2026-11-13T03:14:59.000Z",
-      "category": [
-        "forums",
-        "tech"
-      ],
-      "description": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 102 # Comments: 31",
-      "author": "sammatilda",
-      "imageUrl": "",
-      "source": "Hacker News"
-    },
-    {
-      "id": "450088a59870dcf0",
-      "title": "Bars Where You Can Still Party Like It’s The 1990s, With Mert Alas",
-      "url": "https://www.service95.com/mert-alas-bar-guide",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "38065a3f75d73826",
-      "title": "The Latest From Book Club",
-      "url": "https://www.service95.com/book-club",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "3772feabc1b9e319",
-      "title": "Find your next read",
-      "url": "https://www.service95.com/tag/the-reading-list",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "7a0e32eb6f4656b0",
-      "title": "Sex & Relationships",
-      "url": "https://www.service95.com/tag/sex",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "2b3d26cfda1bfa01",
-      "title": "The Culture List",
-      "url": "https://www.service95.com/tag/the-culture-list",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "893a15a6cc158f43",
-      "title": "The Travel List",
-      "url": "https://www.service95.com/tag/the-travel-list",
-      "datePublished": "2026-11-13T03:13:05.014Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "76ab1330aae6876f",
-      "title": "A Brief History Of Protest: Ten Times Collective Action Changed The Course Of History",
-      "url": "https://www.service95.com/history-of-protest-essay",
-      "datePublished": "2026-11-13T03:13:05.013Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
-    },
-    {
-      "id": "d3e1e51a32f98248",
-      "title": "See All Stories",
-      "url": "https://www.service95.com/stories",
-      "datePublished": "2026-11-13T03:13:05.013Z",
-      "category": [
-        "lifestyle",
-        "culture"
-      ],
-      "description": "",
-      "author": "",
-      "imageUrl": "",
-      "source": "Service95"
     }
   ]
 }
